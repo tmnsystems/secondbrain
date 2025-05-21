@@ -1,0 +1,22 @@
+{
+  "title": "Refactor Deprecated API Handler",
+  "file": "tasks/legacy_refactor/deprecated_handler.py",
+  "target_file": "tasks/legacy_refactor/refactored_handler.py",
+  "description": "Refactor the DeprecatedAPIHandler class to use httpx instead of requests and implement proper async/await patterns. All existing functionality must be maintained, and the API handler must pass all tests in test_deprecated_handler.py.",
+  "criteria": [
+    "Compiles cleanly with no syntax errors",
+    "Passes all existing tests",
+    "Uses httpx async client instead of requests",
+    "Implements proper async/await patterns",
+    "Maintains all existing functionality",
+    "Handles errors and retries correctly",
+    "Preserves API signatures where possible",
+    "Includes appropriate type hints"
+  ],
+  "reference_material": {
+    "httpx_docs": "https://www.python-httpx.org/",
+    "async_await_docs": "https://docs.python.org/3/library/asyncio-task.html"
+  },
+  "time_limit": 3600,
+  "difficulty": "medium"
+}
