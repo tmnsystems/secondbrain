@@ -1,0 +1,19 @@
+{
+  "title": "Fix Notion Integration for SecondBrain",
+  "file": "MCP/notion-mcp-server.js",
+  "description": "Fix the Notion integration in the SecondBrain architecture to correctly connect to Notion databases. The current integration fails due to incorrect environment variable handling and relay mechanism issues.",
+  "criteria": [
+    "Create a working Notion MCP server that connects to Notion API",
+    "Fix the environment variable handling to support both legacy and new variable names",
+    "Create a reliable relay mechanism with proper fallbacks",
+    "Implement proper error handling and logging",
+    "Add a test script that verifies the integration works correctly",
+    "Document the setup process and required configuration"
+  ],
+  "reference_material": {
+    "notion_api_docs": "https://developers.notion.com/reference/intro",
+    "mcp_framework": "https://github.com/anthropics/mcp-framework"
+  },
+  "time_limit": 7200,
+  "difficulty": "hard"
+}
