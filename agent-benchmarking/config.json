@@ -1,7 +1,7 @@
 {
   "use_notion": true,
   "notion_database_id": "",
-  "github_repo": "tinamarie-ai/SecondBrain",
+  "github_repo": "tmnsystems/secondbrain",
   "agents": [
     {
       "name": "Jules",
