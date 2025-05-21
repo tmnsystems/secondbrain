@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  app:
+    image: ${IMAGE_TAG}
+    environment:
+      - NODE_ENV=production
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - INSTANCE_COLOR=blue
+    ports:
+      - "127.0.0.1:8081:3000"
+    healthcheck:
+      test: ["CMD", "wget", "-O-", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.app-blue.rule=Host(`${DOMAIN:-api.secondbrain.ai}`)"
+      - "traefik.http.routers.app-blue.entrypoints=web,websecure"
+      - "traefik.http.routers.app-blue.tls=true"
+      - "traefik.http.services.app-blue.loadbalancer.server.port=3000"
+    env_file:
+      - .env.blue
+    networks:
+      - app_network
+      - traefik_network

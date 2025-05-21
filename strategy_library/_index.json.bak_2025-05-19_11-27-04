@@ -1,0 +1,218 @@
+{
+  "last_updated": "2025-05-19T18:06:18.126Z",
+  "insights": [
+    {
+      "id": "2025-05-13_craft_framework_for_prompt_architecture",
+      "file_path": "insights/2025-05-13_craft_framework_for_prompt_architecture.md",
+      "title": "CRAFT Framework for Prompt Architecture",
+      "tags": [
+        "prompt-engineering",
+        "meta-prompt",
+        "CRAFT",
+        "training-data"
+      ],
+      "pillars": [
+        "Business + Project Management",
+        "Optimize, Optimize, Optimize"
+      ],
+      "alignment_score": 95,
+      "master_plan_impact": "high",
+      "implementation_priority": "high",
+      "summary": "The CRAFT framework provides a structured approach to prompt engineering using Context, Role, Action, Format, and Target audience components, enabling consistent high-quality prompts across agents."
+    },
+    {
+      "id": "2025-05-14_building_ai_agents_with_langgraph",
+      "file_path": "insights/2025-05-14_building_ai_agents_with_langgraph.md",
+      "title": "Building AI Agents with LangGraph",
+      "tags": [
+        "langGraph",
+        "AI agents",
+        "multi-agent systems",
+        "directed graphs",
+        "agent orchestration"
+      ],
+      "pillars": [
+        "AI Strategy",
+        "Integration Strategy"
+      ],
+      "alignment_score": 90,
+      "master_plan_impact": "high",
+      "implementation_priority": "high",
+      "summary": "LangGraph offers a structured framework for implementing the multi-agent system already outlined in our Master Plan, providing technical validation and implementation specifics for our Incredagents and agent workflow architecture.\n"
+    },
+    {
+      "id": "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc",
+      "file_path": "insights/2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc.md",
+      "title": "DeepMind’s AlphaEvolve AI: History In The Making!",
+      "tags": [],
+      "pillars": [],
+      "alignment_score": 50,
+      "master_plan_impact": "medium",
+      "implementation_priority": "medium",
+      "summary": "---\ntitle: \"DeepMind's AlphaEvolve AI: History In The Making!\"\nsource_url: \"https://youtube.com/watch?v=T0eWBlFhFzc\"\nchannel: \"Two Minute Papers\"\ndate_processed: \"2025-05-19\"\ndate_published: \"2025-05-..."
+    },
+    {
+      "id": "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A",
+      "file_path": "insights/2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A.md",
+      "title": "New AI: Impossible Creatures Come Alive!",
+      "tags": [
+        "AI research",
+        "creative tools",
+        "3D animation",
+        "generative AI",
+        "character design"
+      ],
+      "pillars": [
+        "AI Strategy",
+        "Tool Optimization",
+        "Incredagents"
+      ],
+      "alignment_score": 78,
+      "master_plan_impact": "medium",
+      "implementation_priority": "medium",
+      "summary": "New AI technologies (Anytop and Sketch2Anim) allow users to create and animate fictional creatures from simple inputs, representing advancements in creative AI tools that could enhance our own AI-powered creative capabilities.\n"
+    },
+    {
+      "id": "2025-05-19_nvidias_new_ai_impossible_video_game_animations_7EA5JM1DI9Y",
+      "file_path": "insights/2025-05-19_nvidias_new_ai_impossible_video_game_animations_7EA5JM1DI9Y.md",
+      "title": "NVIDIA’s New AI: Impossible Video Game Animations!",
+      "tags": [],
+      "pillars": [],
+      "alignment_score": 50,
+      "master_plan_impact": "medium",
+      "implementation_priority": "medium",
+      "summary": "I notice that there appears to be a misunderstanding. You've provided the Master Plan and guidelines for analyzing a YouTube video summary, but the actual summary content for \"NVIDIA's New AI: Impossi..."
+    }
+  ],
+  "tags": {
+    "prompt-engineering": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "meta-prompt": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "CRAFT": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "training-data": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "langGraph": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "AI agents": [
+      "2025-05-14_building_ai_agents_with_langgraph",
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "multi-agent systems": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "directed graphs": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "agent orchestration": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "AI": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "evolutionary algorithms": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "autonomous development": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "meta-learning": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "automation": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "AI animation": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "creature generation": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "creative AI": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "content creation": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "3D modeling": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "AI development": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "automated programming": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "generative AI": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc",
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "character generation": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "game development": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "creative tools": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "AI research": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "3D animation": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "character design": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ]
+  },
+  "pillars": {
+    "Business + Project Management": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "Optimize, Optimize, Optimize": [
+      "2025-05-13_craft_framework_for_prompt_architecture",
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "AI Strategy": [
+      "2025-05-14_building_ai_agents_with_langgraph",
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc",
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Integration Strategy": [
+      "2025-05-14_building_ai_agents_with_langgraph",
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc",
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Core Teaching Framework": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "Operating Philosophy": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "Simple Time Mastery": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Dream Team": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Product Stack": [
+      "2025-05-19_deepminds_alphaevolve_ai_history_in_the_making_T0eWBlFhFzc"
+    ],
+    "Building Apps & Processing Files": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Tool Optimization": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ],
+    "Incredagents": [
+      "2025-05-19_new_ai_impossible_creatures_come_alive_g32Candon3A"
+    ]
+  }
+}

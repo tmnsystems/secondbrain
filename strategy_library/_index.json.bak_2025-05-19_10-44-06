@@ -1,0 +1,128 @@
+{
+  "last_updated": "2025-05-14T22:54:18.448Z",
+  "insights": [
+    {
+      "id": "2025-05-13_craft_framework_for_prompt_architecture",
+      "file_path": "insights/2025-05-13_craft_framework_for_prompt_architecture.md",
+      "title": "CRAFT Framework for Prompt Architecture",
+      "tags": [
+        "prompt-engineering",
+        "meta-prompt",
+        "CRAFT",
+        "training-data"
+      ],
+      "pillars": [
+        "Business + Project Management",
+        "Optimize, Optimize, Optimize"
+      ],
+      "alignment_score": 95,
+      "master_plan_impact": "high",
+      "implementation_priority": "high",
+      "summary": "The CRAFT framework provides a structured approach to prompt engineering using Context, Role, Action, Format, and Target audience components, enabling consistent high-quality prompts across agents."
+    },
+    {
+      "id": "2025-05-14_building_ai_agents_with_langgraph",
+      "file_path": "insights/2025-05-14_building_ai_agents_with_langgraph.md",
+      "title": "Building AI Agents with LangGraph",
+      "tags": [
+        "langGraph",
+        "AI agents",
+        "multi-agent systems",
+        "directed graphs",
+        "agent orchestration"
+      ],
+      "pillars": [
+        "AI Strategy",
+        "Integration Strategy"
+      ],
+      "alignment_score": 90,
+      "master_plan_impact": "high",
+      "implementation_priority": "high",
+      "summary": "LangGraph offers a structured framework for implementing the multi-agent system already outlined in our Master Plan, providing technical validation and implementation specifics for our Incredagents and agent workflow architecture.\n"
+    },
+    {
+      "id": "2025-05-14_rick_astley_never_gonna_give_you_up_official_music",
+      "file_path": "insights/2025-05-14_rick_astley_never_gonna_give_you_up_official_music.md",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+      "tags": [
+        "cultural phenomenon",
+        "content longevity",
+        "audience engagement",
+        "brand evolution",
+        "digital strategy"
+      ],
+      "pillars": [
+        "Business & Project Management",
+        "Scale Without Imploding"
+      ],
+      "alignment_score": 68,
+      "master_plan_impact": "medium",
+      "implementation_priority": "medium",
+      "summary": "Rick Astley's iconic video demonstrates exceptional cultural longevity and audience engagement, offering valuable insights on brand evolution, content adaptation, and cross-generational appeal that can inform SecondBrain's approach to content strategy.\n"
+    }
+  ],
+  "tags": {
+    "prompt-engineering": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "meta-prompt": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "CRAFT": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "training-data": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "langGraph": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "AI agents": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "multi-agent systems": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "directed graphs": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "agent orchestration": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "cultural phenomenon": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ],
+    "content longevity": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ],
+    "audience engagement": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ],
+    "brand evolution": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ],
+    "digital strategy": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ]
+  },
+  "pillars": {
+    "Business + Project Management": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "Optimize, Optimize, Optimize": [
+      "2025-05-13_craft_framework_for_prompt_architecture"
+    ],
+    "AI Strategy": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "Integration Strategy": [
+      "2025-05-14_building_ai_agents_with_langgraph"
+    ],
+    "Business & Project Management": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ],
+    "Scale Without Imploding": [
+      "2025-05-14_rick_astley_never_gonna_give_you_up_official_music"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "key": "NOTION_SECONDBRAIN_PROJECTS_DB_ID",
+    "id": "1f3f9e16-9eff-8164-89d2-c8d91b74d74c"
+  },
+  {
+    "key": "NOTION_SECONDBRAIN_TASKS_DB_ID",
+    "id": "1f3f9e16-9eff-810d-8f1e-eee9bcda22aa"
+  },
+  {
+    "key": "NOTION_TUBETOTASK_PROJECTS_DB_ID",
+    "id": "1f3f9e16-9eff-81c8-8067-c1af3002f35b"
+  },
+  {
+    "key": "NOTION_TUBETOTASK_TASKS_DB_ID",
+    "id": "1f3f9e16-9eff-8188-9801-d75d5c89c2ec"
+  },
+  {
+    "key": "NOTION_NYMIRAI_PROJECTS_DB_ID",
+    "id": "1f3f9e16-9eff-81a5-871d-c85312e1886a"
+  },
+  {
+    "key": "NOTION_NYMIRAI_TASKS_DB_ID",
+    "id": "1f3f9e16-9eff-8138-8bfb-e7933add173b"
+  },
+  {
+    "key": "NOTION_CLIENTMANAGER_PROJECTS_DB_ID",
+    "id": "1f3f9e16-9eff-81db-a6ad-fba79ba6d274"
+  },
+  {
+    "key": "NOTION_CLIENTMANAGER_TASKS_DB_ID",
+    "id": "1f3f9e16-9eff-8162-870f-c4eab3caaeb0"
+  },
+  {
+    "key": "NOTION_COACHTINAMARIEAI_PROJECTS_DB_ID",
+    "id": "1f3f9e16-9eff-81f2-a0fe-e8a19aa8abe1"
+  },
+  {
+    "key": "NOTION_COACHTINAMARIEAI_TASKS_DB_ID",
+    "id": "1f3f9e16-9eff-812b-b4b8-e1a63ac9ab19"
+  },
+  {
+    "key": "NOTION_CATALOG_DB_ID",
+    "id": "1f3f9e16-9eff-81ab-991a-ccfc65591392"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "secondbrain-notion-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for SecondBrain Notion integration",
+  "type": "module",
+  "main": "notion-mcp-server.js",
+  "scripts": {
+    "start": "node notion-mcp-server.js",
+    "setup": "node setup-notion-mcp.js",
+    "test": "node claude-notion-tool.js notion-mcp getDatabaseIds"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mcp-framework": "^0.2.11",
+    "@notionhq/client": "^2.2.13",
+    "dotenv": "^16.4.5"
+  }
+}

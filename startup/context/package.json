@@ -1,0 +1,11 @@
+{
+    "name": "secondbrain-relay",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "server.js",
+    "dependencies": {
+      "@notionhq/client": "^2.2.10",
+      "express": "^4.19.0",
+      "uuid": "^9.0.0"
+    }
+  }

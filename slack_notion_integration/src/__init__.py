@@ -1,0 +1,1 @@
+"""SecondBrain Slack-Notion integration package."""

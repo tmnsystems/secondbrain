@@ -1,0 +1,379 @@
+{
+  "channels": [
+    {
+      "id": "UCrVRL8Y8LQsTMmHJxQU1UJg",
+      "name": "PromptEngineering",
+      "url": "https://www.youtube.com/channel/UCrVRL8Y8LQsTMmHJxQU1UJg",
+      "tags": [
+        "prompt-engineering",
+        "llm",
+        "ai"
+      ],
+      "master_plan_relevance": "high",
+      "last_checked": "2025-05-14T07:32:44.416Z"
+    },
+    {
+      "id": "UCZUyPT9DkJWmBU9QiSd3csg",
+      "name": "AI Explained",
+      "url": "https://www.youtube.com/channel/UCZUyPT9DkJWmBU9QiSd3csg",
+      "tags": [
+        "ai",
+        "technology",
+        "explanation"
+      ],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:44.766Z"
+    },
+    {
+      "id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "name": "Two Minute Papers",
+      "url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+      "tags": [
+        "ai-research",
+        "papers",
+        "technical"
+      ],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:45.821Z"
+    },
+    {
+      "id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "name": "IBM Technology",
+      "url": "https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ",
+      "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:46.878Z"
+    },
+    {
+      "id": "UCaC9B0wDQKkQpUGVjaNNkIQ",
+      "name": "Ethan Nelson",
+      "url": "https://www.youtube.com/channel/UCaC9B0wDQKkQpUGVjaNNkIQ",
+      "description": "I build AI Agents for my clients and show you how to do the same. I also discuss AI Ethics and the future of work.",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:48.109Z"
+    },
+    {
+      "id": "UCBDb0MjrgkU2XKQ_xX6YJQA",
+      "name": "Lawton Solutions",
+      "url": "https://www.youtube.com/channel/UCBDb0MjrgkU2XKQ_xX6YJQA",
+      "description": "Building AI & Automation into your Marketing. Lawton supports B2B and B2C companies through cutting-edge AI marketing and workflow automation services. Boasting nearly two decades of marketing industry expertise, we offer tailored solutions to help you unlock the potential of AI and streamline workflows, driving efficiency and elevating your marketing success.",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:49.035Z"
+    },
+    {
+      "id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "name": "Nick Saraev",
+      "url": "https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "description": "Hi 👋 I'm Nick. I make money with automation & teach others how they can too.\n\nI'm not the best in the world, nor are my accomplishments the most impressive—but some people think I have interesting things to say. To that end, this is a way to organize my thoughts and provide a guidepost for people that want to grow or build an online business. You'll find marketing guides, Make.com guides, Integromat guides, Zapier guides, sales guides, and really anything I find interesting on a day-to-day basis. I'm Make.com certified and use it often as part of my businesses, so you'll see a lot of that!\n\nIf you have any questions, feel free to ask and I'll happily respond in the comments. Thanks for reading!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:49.847Z"
+    },
+    {
+      "id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "name": "OpenAI",
+      "url": "https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:50.706Z"
+    },
+    {
+      "id": "UCJL_hSRHW8414diAIleErnw",
+      "name": "Yifan - Beyond the Hype",
+      "url": "https://www.youtube.com/channel/UCJL_hSRHW8414diAIleErnw",
+      "description": "Insights and rants from a computer scientist turned tech founder.",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:51.756Z"
+    },
+    {
+      "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "name": "Wes Roth",
+      "url": "https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "description": "AI News by Wes Roth.\n\nBringing you the latest AI news, emerging tech and artificial intelligence breakthroughs.\n\nWe cover:\nAI\nRobots\nVirtual reality\nSpace\nSelf-driving cars\nBrain computer interfaces\nVideo Games\nElon Musk\nSam Altman\nOpenAI\nDeepMind\n\n...and anything related.\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:52.617Z"
+    },
+    {
+      "id": "UCxVxcTULO9cFU6SB9qVaisQ",
+      "name": "Jack Roberts",
+      "url": "https://www.youtube.com/channel/UCxVxcTULO9cFU6SB9qVaisQ",
+      "description": "Howdy 🤠\n\nThis channel is about:\n\n🤖 Latest AI\n💎 Incredible automations\n🚀 Stuff that actually works\n☕️ Great Coffee\n\nThank you for visiting\n- Jack\n\nYour unfair advantage 👇\nhttps://www.skool.com/ai-automations-by-jack-4235\n\nContact 📧 \njack@aiautomationswithjack.com\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:53.450Z"
+    },
+    {
+      "id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "name": "The AI Advantage",
+      "url": "https://www.youtube.com/channel/UCHhYXsLBEVVnbvsq57n1MTQ",
+      "description": "Let's unlock your AI superpowers by exploring the newest use cases!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:54.234Z"
+    },
+    {
+      "id": "UCGpsgNbzdF7BECCVbB1COHw",
+      "name": "Julian Goldie SEO",
+      "url": "https://www.youtube.com/channel/UCGpsgNbzdF7BECCVbB1COHw",
+      "description": "My channel teaches you how to build backlinks, boost your website's traffic with SEO and most importantly, rank #1 on Google.\n\nIf you want actionable, easy-to-understand videos about Search Engine Optimization that teach you exactly how to grow your website, this is the channel for you!\n\nI publish videos on Monday, Thursday and Friday each week - and these videos are here to help you achieve more results with SEO. Make sure you subscribe so that you don't miss out!\n\nMost of these videos are real-life SEO case studies, with proven results and battle-tested techniques.\n\nSo if you want to grow your website with SEO, please subscribe!",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:55.051Z"
+    },
+    {
+      "id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "name": "Sequoia Capital",
+      "url": "https://www.youtube.com/channel/UCWrF0oN6unbXrWsTN7RctTw",
+      "description": "We help the daring build legendary companies – from idea to IPO and beyond.",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:55.664Z"
+    },
+    {
+      "id": "UCCrl9a26fDCZvofnCnA5A8g",
+      "name": "Johnathan Bi",
+      "url": "https://www.youtube.com/channel/UCCrl9a26fDCZvofnCnA5A8g",
+      "description": "Great Books & Technology",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:56.318Z"
+    },
+    {
+      "id": "UClWTCPVi-AU9TeCN6FkGARg",
+      "name": "EO",
+      "url": "https://www.youtube.com/channel/UClWTCPVi-AU9TeCN6FkGARg",
+      "description": "",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:57.136Z"
+    },
+    {
+      "id": "UCmvYCRYPDlzSHVNCI_ViJDQ",
+      "name": "Tiago Forte",
+      "url": "https://www.youtube.com/channel/UCmvYCRYPDlzSHVNCI_ViJDQ",
+      "description": "Building a Second Brain is the proven method to organize your digital life and unlock your creative potential. We're on a mission to help you increase your productivity, and ​​lead a more fulfilling life with more ease and less stress. \n\n🧠  HOW YOU CAN BUILD YOUR SECOND BRAIN\nOrder the book: https://www.buildingasecondbrain.com/book\nTake the course: https://www.buildingasecondbrain.com/foundation\n\n🤓  TEST YOUR PRODUCTIVITY POTENTIAL\nIf you had a Second Brain, how much more organized, effective, calm, and creative could you be? \nTake our quiz & find out: https://fortelabs.com/productivity-potential\n\n📬  JOIN THE FORTE LABS NEWSLETTER\nLevel up your productivity and life with new essays, videos, event invites, and other resources every Tuesday. Join 100k subscribers exploring the frontier of modern work, experimenting with new ways of doing more with less, and discovering what it means to fulfill our human potential.\nSubscribe here: https://fortelabs.com/subscribe\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:57.922Z"
+    },
+    {
+      "id": "UC0yHbz4OxdQFwmVX2BBQqLg",
+      "name": "AI Master",
+      "url": "https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg",
+      "description": "👇 Join Geekademy to become an AI Master! Exclusive AI tools, courses, guides, community and discounts to level up your AI skills ",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:58.569Z"
+    },
+    {
+      "id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "name": "Cole Medin",
+      "url": "https://www.youtube.com/channel/UCMwVTLZIRRUyyVrkjDpn4pA",
+      "description": "Artificial Intelligence is no doubt the future of not just software development but the whole world. And I'm on a mission to master it - focusing first on mastering AI Agents.\n\nJoin me as I push the limits of what is possible with AI. \n\nI'll be uploading videos at least two times a week - Sundays and Wednesdays at 7:00 PM CDT!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:32:59.320Z"
+    },
+    {
+      "id": "UCctL30i8tVgSS9A37Q532eg",
+      "name": "Income stream surfers",
+      "url": "https://www.youtube.com/channel/UCctL30i8tVgSS9A37Q532eg",
+      "description": "The No B.S, No Secrets YouTube Channel For Organic Marketing Strategies.\n\nJoin as we uncover new strategies every day for marketing your business online with an organic-first approach. There are too many YouTube gurus out there making outlandish claims about what's possible and our mission is to make sure you get honest, no secrets, no \"buy more course to find out the last 10% to succeed\". \n\nThanks for being here and supporting us to 100K subscribers. We're excited to continue to grow, explore together and help you gain the leading edge in your organic marketing. \n\nPEACE!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:00.012Z"
+    },
+    {
+      "id": "UCnzxPyNnn8jk4bHFk3JUBhA",
+      "name": "Jono Catliff",
+      "url": "https://www.youtube.com/channel/UCnzxPyNnn8jk4bHFk3JUBhA",
+      "description": "Hello there! 👋 I'm Jono. I'm a business owner that has nearly removed myself from work - through automation, and I'm passionate about sharing my knowledge with others interested in doing the same.\n\nMy goal here is to share my expertise in a structured way and to offer guidance to those looking to grow or start their own business. Here, you'll discover a variety of resources including sales, marketing, Make.com/Integromat, and Zapier guides—essentially, anything that catches my interest on any given day. \n\nDon't hesitate to drop any questions in the comments. I'm always happy to provide answers. Thank you for stopping by!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:00.669Z"
+    },
+    {
+      "id": "UCelfWQr9sXVMTvBzviPGlFw",
+      "name": "AI LABS",
+      "url": "https://www.youtube.com/channel/UCelfWQr9sXVMTvBzviPGlFw",
+      "description": "Welcome to AI Labs, your go-to source for the latest AI tools and models for coding. We explore how AI can save you time in building full-stack applications, making your development process faster and more efficient. Stay up-to-date with our in-depth reviews of the newest AI models, where we evaluate whether they’re worth your time. Whether you're a beginner or an experienced developer, we help you discover the best AI tools and models tailored to your needs. Subscribe now and join us as we delve into the future of coding with AI!\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:01.334Z"
+    },
+    {
+      "id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "name": "Greg Isenberg",
+      "url": "https://www.youtube.com/channel/UCPjNBjflYl0-HQtUvOx0Ibw",
+      "description": "This is the startup ideas YouTube channel. You'll get startup ideas and practical tutorials with how to use AI and software to build and grow your startup.\n\nIt's hosted by Greg Isenberg (CEO Late Checkout, ex-advisor of Reddit, TikTok etc).\n\nSubscribe for free startup ideas that'll get you thinking.\n\nYou can also listen to The Startup Ideas Podcast on Apple Podcasts and Spotify. \n\nHappy building.\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:02.046Z"
+    },
+    {
+      "id": "UCuK2Mf5As9OKfWU7XV6yzCg",
+      "name": "The Next Wave - AI and the Future of Technology",
+      "url": "https://www.youtube.com/channel/UCuK2Mf5As9OKfWU7XV6yzCg",
+      "description": "The Next Wave, hosted by Al experts Matt Wolfe and Nathan Lands, is the essential guide for business owners navigating the complexities of artificial intelligence.\n\nThis podcast demystifies Al, making it accessible and actionable for entrepreneurs and businesses looking to harness its potential.\n\nJoin us weekly as we explore real-world applications of Al across various industries, tackle common challenges faced by businesses in implementing Al solutions, and share practical strategies for integrating Al into your operations to drive growth and innovation.\n\nWhether you're just starting to explore the possibilities of Al or seeking to optimize its use in your business, \"The Next Wave\" provides the insights and guidance you need to confidently navigate the Al landscape and unlock new opportunities for your business.\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:02.772Z"
+    },
+    {
+      "id": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "name": "Rob The AI Guy",
+      "url": "https://www.youtube.com/channel/UC0FBv8ckxw1hrZxbUm3G7hA",
+      "description": "On this channel I'll be teaching you how to use AI to increase your productivity, to make more money online and overall to improve your life. If you want to stay up to date on the latest AI news, trends or learn how to use ChatGPT better this channel is for you!",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:03.001Z"
+    },
+    {
+      "id": "UCCM_PkxUkhTVxH3IE1SYzlg",
+      "name": "Nick Saraev Daily Updates",
+      "url": "https://www.youtube.com/channel/UCCM_PkxUkhTVxH3IE1SYzlg",
+      "description": "Hi 👋 I'm Nick. On this channel I deliver a day-by-day look into the strategies I'm implementing *right now* to grow my $100K/mo+ business. \n\nIf you're new here, the TLDR is: I run another channel (just \"Nick Saraev\") that revolves primarily around automation, no-code tools, and AI. It's going swimmingly, but I've recently found that a sizeable chunk of my audience is interested more in what I'm doing to grow my business than necessarily how to build things in no-code.\n\nSo I figured I'd create a new, standalone channel that centers around my daily thoughts and strategy. Given the authenticity (I just brainstorm out loud) it'll also be a good way to pattern match my thoughts, look into how I approach problem solving, etc.\n\nIf you have any q's, feel free to ask and I'll happily respond in the comments. Thanks for reading!\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:03.302Z"
+    },
+    {
+      "id": "UCQd9wpBDkfQxqxGIBko2fKg",
+      "name": "GosuCoder",
+      "url": "https://www.youtube.com/channel/UCQd9wpBDkfQxqxGIBko2fKg",
+      "description": "Learn about AI, Agents, or AI Benchmarking! I've been an engineer for more than 20 years and absolutely love technology, and have become absolutely consumed with learning everything I can about AI.",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:03.950Z"
+    },
+    {
+      "id": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+      "name": "Arseny Shatokhin",
+      "url": "https://www.youtube.com/channel/UCSv4qL8vmoSH7GaPjuqRiCQ",
+      "description": "AI Agent Developer 🤖\n\nHello! My name is Arseny. \n\nI aim to bridge the gap between complex AI concepts and practical applications. My tutorials focus mainly on the latest developments in AI with project-based coding sessions, building useful and reliable AI Agents.\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:04.162Z"
+    },
+    {
+      "id": "UChRuw5GXX_lfdY_Kdl2bC4Q",
+      "name": "Rued Riis",
+      "url": "https://www.youtube.com/channel/UChRuw5GXX_lfdY_Kdl2bC4Q",
+      "description": "I help experts turn knowledge into video.\n\nI've created 100+ videos to help you create educational video content in a simple way. You'll learn how to convert any topic into fun learning, and how to use modern tools to turn your knowledge into engaging video.\n\nIf you want to learn from or work with me, you can use the links on this page to get in touch 👇🏻",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:04.672Z"
+    },
+    {
+      "id": "UC3fg6pL63upkXCc0T203wVg",
+      "name": "Sara Dietschy",
+      "url": "https://www.youtube.com/channel/UC3fg6pL63upkXCc0T203wVg",
+      "description": "Dietschy rhymes with peachy🍑 YouTuber exploring Tech, Creativity and the Art of Living. Subscribe & welcome to the #PEACHYFAM! I hope to entertain, inform & inspire. \n\nTwitter & Insta: @SaraDietschy\n\nFAQ:\n\nWhere do you live?\nI tend to bounce between NYC, LA and Dallas. Not sure where I am at the time of you reading this. \n\nWhat camera(s) do you use?\nSony a7s iii, fx6, fx3 - favorite lenses are the Sony 24-70 f2.8 II gmaster and the Sony 16-25mm f/2.8. Check out video descriptions for affiliate links. \n\nVideo Editing Software?\nDavinci Resolve\n\nRelationship status? \nShipped\n\n\n💼 Business Inquires  \nManagement: adam@twowestentertainment.com\nyou can cc me: sarad@saradietschy.com\n\n\nstay peachy xx",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:05.225Z"
+    },
+    {
+      "id": "UCkpzw41zi6hPb3KUAgzvSxQ",
+      "name": "King Charles Tv",
+      "url": "https://www.youtube.com/channel/UCkpzw41zi6hPb3KUAgzvSxQ",
+      "description": "SUBSCRIBE FOR A FREE GIFT! Join My Telegram to Claim it.\n\nHi... I'm Charles and I am passionate about helping people and businesses grow. \n\nI post videos about Online Marketing, Business, Entrepreneurship, Make Money Online and Life. I give you clear concepts, hacks, secrets, discoveries and actionable steps that can help you and your business grow.\n\nGet my latest videos by subscribing to my channel. \n\n💻 Join My Telegram Channel For Hot Updates ⇨ ONLINE BUSINESS TITANS\n➜ ➜ ➜ https://t.me/onlinebusinesstitans\n\n🏦 Join My Private Community - Branions:\n➜ ➜ ➜ https://branions.com\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:05.465Z"
+    },
+    {
+      "id": "UCDINq2w6cJOZj7Xmwj4SERw",
+      "name": "Product Creation Formula",
+      "url": "https://www.youtube.com/channel/UCDINq2w6cJOZj7Xmwj4SERw",
+      "description": "Here Product Creation Formula, we like to give you tips and tricks so you can create your products quickly and easily, we also product reviews, and give tips on how to make money online. Please let us know the type of content you would like us to show to suit your product creation needs. if you need to contact me for collaborations, sponsorship deals, or to look at a product to potentially promote then you can email me at productcreationformula@gmail.com",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:05.645Z"
+    },
+    {
+      "id": "UC0cSYhzZuZOH1rtKv0V0fQg",
+      "name": "Dynamic AI Tech",
+      "url": "https://www.youtube.com/channel/UC0cSYhzZuZOH1rtKv0V0fQg",
+      "description": "Subscribe to the ultimate destination for unlocking the full potential of artificial intelligence in image creation! Whether you're an aspiring digital artist, a photographer looking to enhance your skills, or simply a curious soul eager to explore the world of AI-powered graphics, you've come to the right place.  There is no limit to your imagination. \n\nOur mission is to demystify the world of AI software and empower you to turn your creative visions into stunning visual masterpieces. Join us on this exciting journey as we dive deep into the fascinating realm of AI-driven image manipulation, enhancement, and image to video generation.\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:05.911Z"
+    },
+    {
+      "id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "name": "Matthew Berman",
+      "url": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
+      "description": "Artificial Intelligence (AI), Open Source, Generative Art, AI Art, Futurism, ChatGPT, Large Language Models (LLM), Machine Learning, Technology, Coding, Tutorials, AI News, and more\n\n\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:06.139Z"
+    },
+    {
+      "id": "UC3KK7ENB_ierAXvrxVNnbZQ",
+      "name": "Ben AI",
+      "url": "https://www.youtube.com/channel/UC3KK7ENB_ierAXvrxVNnbZQ",
+      "description": "I'm Ben, I build and implement AI agents & AI Automations for Businesses\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:06.323Z"
+    },
+    {
+      "id": "UClNDjGWDRbZES-CqhcQc5sQ",
+      "name": "Nick Ponte",
+      "url": "https://www.youtube.com/channel/UClNDjGWDRbZES-CqhcQc5sQ",
+      "description": "From Maui to Millions—Real Strategies That Work.\n\nI’m Nick Ponte, entrepreneur, marketer, and agency founder. I built multiple 7-figure businesses from the ground up—starting as a broke mechanic, now running one of Hawaii’s fastest-growing marketing companies.\n\nOn this channel, I share the exact tools, strategies, and behind-the-scenes moves that are working right now—so you can follow suit.\n\nHere’s what you’ll get:\n\n-Making money online (without guessing)\n-Tools & Tactics that save you time & make you money\n-Building a business that runs without you\n-Customer wins & behind-the-scenes breakdowns\n-Weekly uploads with zero guru B.S.\n\nNo fluff. No rented Lambos. Just real moves from someone who’s actually doing it.\n\nHit subscribe—and let’s build something real.\n",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:06.530Z"
+    },
+    {
+      "id": "UCnBTvMFhuvbE_dhw2mo0NaQ",
+      "name": "Sunny Lenarduzzi",
+      "url": "https://www.youtube.com/channel/UCnBTvMFhuvbE_dhw2mo0NaQ",
+      "description": "Helping you scale your income, impact and authority through online course creation & YouTube.\n\n\"Lenarduzzi’s channel, a mix of video and marketing tips, is subscribed to by more than 49,000 YouTube users — a clear indication that Lenarduzzi is creating video content that connects with people.\" -- Forbes.com",
+      "tags": [],
+      "master_plan_relevance": "medium",
+      "last_checked": "2025-05-14T07:33:06.712Z"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PL4HJwLVdKLyt-lVRT4v7Fz6fAZTXWjfud",
+      "name": "Prompt Engineering Techniques",
+      "url": "https://www.youtube.com/playlist?list=PL4HJwLVdKLyt-lVRT4v7Fz6fAZTXWjfud",
+      "tags": [
+        "prompt-engineering",
+        "techniques"
+      ],
+      "master_plan_relevance": "high",
+      "last_checked": "2025-05-13T00:00:00Z"
+    },
+    {
+      "id": "PL8F2222942571DAF1",
+      "name": "AI Workflow Optimization",
+      "url": "https://www.youtube.com/playlist?list=PL8F2222942571DAF1",
+      "tags": [
+        "workflow",
+        "optimization",
+        "productivity"
+      ],
+      "master_plan_relevance": "high",
+      "last_checked": "2025-05-13T00:00:00Z"
+    },
+    {
+      "id": "PLtZrrHM9mb0qkczQc9tr752sl6WhXfoUP",
+      "name": "Ai",
+      "url": "https://www.youtube.com/playlist?list=PLtZrrHM9mb0qkczQc9tr752sl6WhXfoUP",
+      "tags": [],
+      "master_plan_relevance": "high",
+      "last_checked": "2025-05-14T07:18:19.834Z"
+    }
+  ]
+}

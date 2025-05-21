@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-05-15T02:14:36.426Z",
+  "dir": "/Volumes/Envoy/SecondBrain/.claude",
+  "processedCount": 2,
+  "processedFiles": [
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.DS_Store",
+      "entryId": "1f3f9e16-9eff-8184-9a74-ea2e01d1b6fa",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.DS_Store",
+        "size": 20484,
+        "lastModified": "2025-05-14T22:52:49.355Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.claude/settings.local.json",
+      "entryId": "1f3f9e16-9eff-810b-8c07-e1985089b05b",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.claude/settings.local.json",
+        "size": 3227,
+        "lastModified": "2025-05-14T08:17:19.532Z",
+        "type": "JSON",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    }
+  ],
+  "pendingPaths": []
+}

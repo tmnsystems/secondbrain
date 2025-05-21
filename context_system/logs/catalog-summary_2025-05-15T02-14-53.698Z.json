@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-05-15T02:14:53.697Z",
+  "totalFiles": 4024,
+  "byProject": {
+    "SecondBrain": 3588,
+    "CoachTinaMarieAI": 141,
+    "Unknown": 2,
+    "NymirAI": 124,
+    "TubeToTask": 113,
+    "IncredAgents": 56
+  },
+  "byType": {
+    "Other": 303,
+    "Markdown": 266,
+    "Script": 109,
+    "TypeScript/JavaScript": 967,
+    "Python": 280,
+    "HTML/CSS": 124,
+    "Documentation": 527,
+    "JSON": 1379,
+    "Configuration": 12,
+    "undefined": 2,
+    "Data": 55
+  },
+  "byStrategicRelevance": {
+    "Unknown": 1677,
+    "Configuration": 69,
+    "Context System": 906,
+    "Documentation": 248,
+    "Agent Logic": 192,
+    "Test": 76,
+    "UI Component": 471,
+    "API": 138,
+    "Embedding Config": 9,
+    "Data": 238
+  },
+  "byBusinessAlignment": {
+    "Support": 2539,
+    "Core Infrastructure": 1049,
+    "Core Business": 197,
+    "undefined": 2,
+    "SaaS Product": 237
+  },
+  "actionsNeeded": {
+    "Needs Classification": 1675,
+    "Implementation Required": 1,
+    "undefined": 2
+  }
+}

@@ -1,0 +1,109 @@
+---
+# SecondBrain Architecture Blueprints Index
+version: "1.0.0"
+last_updated: "2025-05-19"
+description: "Comprehensive architectural blueprints for the SecondBrain system (built, testing pending)"
+
+blueprints:
+  - id: "BP-01"
+    filename: "BP-01_Git_Monorepo.md"
+    title: "Git Monorepo at Scale"
+    summary: "Canonical storage system using Git monorepo architecture optimized for scale, security, and durability"
+    sha: "ab12def3"
+
+  - id: "BP-02"
+    filename: "BP-02_Sourcegraph_Cluster.md"
+    title: "Sourcegraph Code Intelligence Cluster"
+    summary: "Code intelligence fabric providing semantic code navigation, search, and analysis capabilities"
+    sha: "cd34ghi5"
+
+  - id: "BP-03"
+    filename: "BP-03_Lightning_Ingest.md"
+    title: "Lightning Ingest System"
+    summary: "Parallel file scanning system that rapidly ingests, analyzes, and catalogues all repository content"
+    sha: "ef67jkl8"
+
+  - id: "BP-04"
+    filename: "BP-04_Static_Analysis.md"
+    title: "Static Analysis & Tech-Debt Radar"
+    summary: "Comprehensive static analysis system for monitoring code quality, security vulnerabilities, and technical debt"
+    sha: "mn90pqr1"
+
+  - id: "BP-05"
+    filename: "BP-05_Context_Catalog.md"
+    title: "Context Catalog System"
+    summary: "Enhanced system for indexing, relating, and providing access to all context elements within the repository"
+    sha: "st23uvw4"
+
+  - id: "BP-06"
+    filename: "BP-06_Notion_Integration.md"
+    title: "Notion as Single Source of Truth"
+    summary: "Notion as the definitive system of record for all SecondBrain metadata with human-readable interface"
+    sha: "xy56zde7"
+
+  - id: "BP-07"
+    filename: "BP-07_Agent_Integration.md"
+    title: "Agent Integration System"
+    summary: "Intelligent context loading system providing LLM agents with precisely the code and context they need"
+    sha: "fg89hij0"
+
+  - id: "BP-08"
+    filename: "BP-08_CI_CD.md"
+    title: "CI/CD & Observability"
+    summary: "Comprehensive Continuous Integration, Delivery, and Observability stack ensuring reliable deployment"
+    sha: "kl12mno3"
+
+  - id: "BP-09"
+    filename: "BP-09_Future_Proof.md"
+    title: "Future-Proof Escape Hatches"
+    summary: "Strategic escape hatches for major system dependencies to enable easy migration between technologies"
+    sha: "pq45rst6"
+
+  - id: "BP-10"
+    filename: "BP-10_Rollout_Timeline.md"
+    title: "Rollout Timeline"
+    summary: "Comprehensive 14-day implementation plan with clear milestones, dependencies, and verification steps"
+    sha: "uv78wxy9"
+
+dependencies:
+  - from: "BP-01"
+    to: "BP-02"
+    type: "required"
+    description: "Git monorepo must be established before Sourcegraph can be configured"
+
+  - from: "BP-01"
+    to: "BP-03"
+    type: "required"
+    description: "Repository structure needed for Lightning Ingest implementation"
+
+  - from: "BP-03"
+    to: "BP-05"
+    type: "required"
+    description: "Lightning Ingest provides core data for Context Catalog System"
+
+  - from: "BP-05"
+    to: "BP-06"
+    type: "required"
+    description: "Context Catalog data synced to Notion integration"
+
+  - from: "BP-02"
+    to: "BP-07"
+    type: "required"
+    description: "Sourcegraph provides code intelligence for Agent Integration"
+
+  - from: "BP-01"
+    to: "BP-08"
+    type: "required"
+    description: "Git monorepo required for CI/CD pipeline integration"
+
+implementation_order:
+  - "BP-01"
+  - "BP-02"
+  - "BP-03"
+  - "BP-04"
+  - "BP-05"
+  - "BP-06"
+  - "BP-07"
+  - "BP-08"
+  - "BP-09"
+  - "BP-10"

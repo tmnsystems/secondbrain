@@ -1,0 +1,117 @@
+name: Dependency Updates
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Run every Monday at midnight
+  workflow_dispatch:     # Allow manual triggering
+
+jobs:
+  update-dependencies:
+    name: Update Dependencies
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Check for outdated dependencies
+      - name: Check outdated dependencies
+        id: outdated
+        run: |
+          npm outdated --json > outdated.json
+          echo "HAS_OUTDATED=$([ -s outdated.json ] && echo 'true' || echo 'false')" >> $GITHUB_OUTPUT
+
+      # Update minor and patch versions
+      - name: Update minor and patch dependencies
+        if: steps.outdated.outputs.HAS_OUTDATED == 'true'
+        run: npx npm-check-updates -u --target minor
+
+      # Install updated dependencies
+      - name: Install updated dependencies
+        if: steps.outdated.outputs.HAS_OUTDATED == 'true'
+        run: npm install
+
+      # Run tests to verify updates don't break anything
+      - name: Run tests
+        if: steps.outdated.outputs.HAS_OUTDATED == 'true'
+        run: npm test
+
+      # Create PR with dependency updates
+      - name: Create Pull Request
+        if: steps.outdated.outputs.HAS_OUTDATED == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update dependencies"
+          title: "chore: update dependencies"
+          body: |
+            This PR updates dependencies to their latest minor and patch versions.
+            
+            - Automatic PR created by the Dependency Updates workflow
+            - Packages have been updated to their latest compatible versions
+            - All tests are passing with the updated dependencies
+            
+            Please review and merge if appropriate.
+          branch: dependency-updates
+          base: main
+          labels: dependencies
+
+  security-updates:
+    name: Security Updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Run npm audit and fix security issues
+      - name: Fix security issues
+        id: security
+        run: |
+          if npm audit --json | grep -q '"severity":"high"'; then
+            npm audit fix --force
+            echo "SECURITY_FIXES=true" >> $GITHUB_OUTPUT
+          else
+            echo "SECURITY_FIXES=false" >> $GITHUB_OUTPUT
+          fi
+
+      # Run tests to verify fixes don't break anything
+      - name: Run tests
+        if: steps.security.outputs.SECURITY_FIXES == 'true'
+        run: npm test
+
+      # Create PR with security fixes
+      - name: Create Pull Request
+        if: steps.security.outputs.SECURITY_FIXES == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "fix: security vulnerabilities in dependencies"
+          title: "fix: security vulnerabilities in dependencies"
+          body: |
+            This PR fixes security vulnerabilities in dependencies.
+            
+            - Automatic PR created by the Security Updates workflow
+            - Security vulnerabilities have been fixed
+            - All tests are passing with the updated dependencies
+            
+            Please review and merge as soon as possible.
+          branch: security-updates
+          base: main
+          labels: security,dependencies

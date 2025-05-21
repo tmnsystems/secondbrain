@@ -1,0 +1,74 @@
+{
+  "source": "Done Transcript for Laura + Tina(2).txt",
+  "type": "transcript",
+  "analyzed_at": "2025-05-04T04:58:54.589Z",
+  "profile": {
+    "Voice and Tone": {
+      "Overall Tone": "The tone is conversational and collaborative, with a focus on problem-solving and planning. There is a sense of informality and friendliness, as seen in the casual greetings and apologies.",
+      "Distinctive Voice Patterns": "Tina Marie's voice is characterized by a collaborative and supportive tone, often using inclusive language like 'we' and 'let's'. She frequently checks in with Laura to ensure understanding and alignment."
+    },
+    "Characteristic Phrases": {
+      "Unique Phrases": [
+        "Oh my god, I didn't know what to have.",
+        "It's really been annoying.",
+        "It's almost like, oh, there's a home, I can start filling it up, you know?"
+      ],
+      "Frequent Expressions": [
+        "I mean",
+        "You know what I mean",
+        "Hold on a second"
+      ]
+    },
+    "Metaphors and Analogies": {
+      "Common Metaphors": [
+        "It almost looks like an ocean. Like ocean waves.",
+        "It's almost like, oh, there's a home, I can start filling it up, you know?"
+      ],
+      "Analogies": [
+        "It's like, I think there was a different color in there before, also, or something."
+      ]
+    },
+    "Structural Patterns": {
+      "Paragraph Length": "The dialogue is structured in short exchanges, typical of a conversation, with frequent back-and-forth between the speakers.",
+      "Transitions": "Transitions are often informal and conversational, using phrases like 'so', 'well', and 'okay'.",
+      "Overall Organization": "The conversation follows a problem-solving structure, starting with greetings, moving into technical issues, and concluding with future plans."
+    },
+    "Rhetorical Devices": {
+      "Recurring Techniques": [
+        "Questions: Frequently used to clarify understanding and next steps, e.g., 'Do you know?'",
+        "Repetition: Repeated phrases for emphasis, e.g., 'I don't know.'",
+        "Lists: Used to outline steps or options, e.g., 'A record, C name, and URL records.'"
+      ]
+    },
+    "Conceptual Frameworks": {
+      "Thinking Frameworks": [
+        "Problem-solving approach: Identifying issues, discussing potential solutions, and planning next steps.",
+        "Collaborative decision-making: Involving Laura in decisions and seeking her input."
+      ],
+      "Teaching Methodologies": [
+        "Explaining technical processes step-by-step, e.g., domain configuration."
+      ]
+    },
+    "Value Hierarchy": {
+      "Emphasized Values": [
+        "Collaboration: Frequent use of 'we' and 'let's' indicates a value on teamwork.",
+        "Problem-solving: Focus on resolving technical issues and planning."
+      ],
+      "Repetition": [
+        "Emphasis on ensuring technical configurations are correct and functional."
+      ]
+    },
+    "Distinctive Vocabulary": {
+      "Unusual or Distinctive Words": [
+        "Provisioned",
+        "Propagate",
+        "Parallax"
+      ],
+      "Frequent Word Choices": [
+        "Domain",
+        "Subdomain",
+        "Redirect"
+      ]
+    }
+  }
+}

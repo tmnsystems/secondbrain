@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Topics Database Explorer</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.5;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #eee;
+      margin-bottom: 20px;
+    }
+    .search-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    .search-bar input, .search-bar select {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+    .search-bar button {
+      padding: 8px 16px;
+      background-color: #0066ff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.2s;
+    }
+    .search-bar button:hover {
+      background-color: #0052cc;
+    }
+    .topics-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+    .topic-card {
+      border: 1px solid #eee;
+      border-radius: 6px;
+      padding: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s, transform 0.2s;
+      position: relative;
+    }
+    .topic-card:hover {
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transform: translateY(-2px);
+    }
+    .topic-card h3 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+    }
+    .category-tag {
+      background-color: #f0f0f0;
+      padding: 4px 8px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: normal;
+      color: #555;
+    }
+    .approach {
+      background-color: #e6f7ff;
+      padding: 4px 8px;
+      border-radius: 12px;
+      font-size: 12px;
+      display: inline-block;
+      margin-right: 5px;
+      margin-bottom: 5px;
+    }
+    .source {
+      background-color: #f6f6f6;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      margin-top: 10px;
+      display: inline-block;
+    }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin: 20px 0;
+    }
+    .pagination button {
+      padding: 5px 10px;
+      border: 1px solid #ddd;
+      background-color: white;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .pagination button.active {
+      background-color: #0066ff;
+      color: white;
+      border-color: #0066ff;
+    }
+    .topic-detail {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90%;
+      max-width: 800px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      padding: 20px;
+      z-index: 1000;
+      max-height: 90vh;
+      overflow-y: auto;
+    }
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0,0,0,0.5);
+      z-index: 999;
+    }
+    .close-button {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: none;
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+    }
+    .status-box {
+      background-color: #f9f9f9;
+      border: 1px solid #eee;
+      padding: 15px;
+      border-radius: 6px;
+      margin-bottom: 20px;
+    }
+    .status-box h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+    .status-indicator {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
+    .status-active {
+      background-color: #4caf50;
+    }
+    .status-inactive {
+      background-color: #f44336;
+    }
+    .response-box {
+      background-color: #f9f9f9;
+      border-left: 3px solid #0066ff;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 3px;
+    }
+    .context {
+      font-style: italic;
+      color: #666;
+      margin-top: 8px;
+      font-size: 14px;
+    }
+    .loading {
+      text-align: center;
+      padding: 40px;
+      font-size: 18px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Topics Database Explorer</h1>
+    <button id="checkStatus">Check Status</button>
+  </div>
+  
+  <div id="statusContainer" class="status-box" style="display: none;">
+    <h3>Topic Analyzer Status</h3>
+    <div id="statusContent"></div>
+  </div>
+  
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search topics...">
+    <select id="categoryFilter">
+      <option value="">All Categories</option>
+    </select>
+    <select id="clientFilter">
+      <option value="">All Clients</option>
+    </select>
+    <button id="searchButton">Search</button>
+  </div>
+  
+  <div id="topicsContainer" class="topics-list">
+    <div class="loading">Loading topics...</div>
+  </div>
+  
+  <div id="pagination" class="pagination"></div>
+  
+  <div id="overlay" class="overlay"></div>
+  
+  <div id="topicDetail" class="topic-detail">
+    <button class="close-button">&times;</button>
+    <div id="detailContent"></div>
+  </div>
+  
+  <script>
+    // Configuration
+    const API_BASE_URL = 'http://localhost:3030/api';
+    let currentPage = 1;
+    let totalPages = 1;
+    let limit = 20;
+    let searchTerm = '';
+    let categoryFilter = '';
+    let clientFilter = '';
+    let allCategories = [];
+    let allClients = {};
+    
+    // DOM Elements
+    const topicsContainer = document.getElementById('topicsContainer');
+    const pagination = document.getElementById('pagination');
+    const searchInput = document.getElementById('searchInput');
+    const categoryFilterEl = document.getElementById('categoryFilter');
+    const clientFilterEl = document.getElementById('clientFilter');
+    const searchButton = document.getElementById('searchButton');
+    const checkStatusButton = document.getElementById('checkStatus');
+    const statusContainer = document.getElementById('statusContainer');
+    const statusContent = document.getElementById('statusContent');
+    const topicDetail = document.getElementById('topicDetail');
+    const detailContent = document.getElementById('detailContent');
+    const overlay = document.getElementById('overlay');
+    const closeButton = document.querySelector('.close-button');
+    
+    // Fetch topics
+    async function fetchTopics() {
+      topicsContainer.innerHTML = '<div class="loading">Loading topics...</div>';
+      
+      try {
+        let url = `${API_BASE_URL}/topics?page=${currentPage}&limit=${limit}`;
+        
+        if (searchTerm) {
+          url += `&search=${encodeURIComponent(searchTerm)}`;
+        }
+        
+        if (categoryFilter) {
+          url += `&category=${encodeURIComponent(categoryFilter)}`;
+        }
+        
+        if (clientFilter) {
+          url += `&client=${encodeURIComponent(clientFilter)}`;
+        }
+        
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topics');
+        }
+        
+        renderTopics(data.topics);
+        renderPagination(data.page, data.total_pages);
+        
+        // Update filter options
+        if (data.categories && !categoryFilter) {
+          allCategories = data.categories;
+          updateCategoryFilter();
+        }
+        
+        if (data.clients && !clientFilter) {
+          allClients = data.clients;
+          updateClientFilter();
+        }
+      } catch (error) {
+        topicsContainer.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+      }
+    }
+    
+    // Render topics
+    function renderTopics(topics) {
+      if (!topics || topics.length === 0) {
+        topicsContainer.innerHTML = '<div class="no-results">No topics found</div>';
+        return;
+      }
+      
+      topicsContainer.innerHTML = '';
+      
+      topics.forEach(topic => {
+        const card = document.createElement('div');
+        card.className = 'topic-card';
+        card.dataset.topic = topic.topic;
+        
+        const sources = topic.sources ? topic.sources.join(', ') : 'Unknown';
+        const approaches = topic.approaches && topic.approaches.length > 0 
+          ? topic.approaches.map(approach => `<span class="approach">${approach}</span>`).join(' ')
+          : '<span class="approach">No approaches</span>';
+        
+        card.innerHTML = `
+          <h3>
+            ${topic.topic}
+            <span class="category-tag">${topic.category}</span>
+          </h3>
+          <div>
+            ${approaches}
+          </div>
+          <div class="source">Sources: ${sources}</div>
+          <p><strong>${topic.response_count}</strong> response(s)</p>
+        `;
+        
+        card.addEventListener('click', () => showTopicDetail(topic.topic));
+        
+        topicsContainer.appendChild(card);
+      });
+    }
+    
+    // Render pagination
+    function renderPagination(currentPage, totalPages) {
+      pagination.innerHTML = '';
+      
+      if (totalPages <= 1) {
+        return;
+      }
+      
+      // Previous button
+      const prevButton = document.createElement('button');
+      prevButton.textContent = '←';
+      prevButton.disabled = currentPage === 1;
+      prevButton.addEventListener('click', () => {
+        if (currentPage > 1) {
+          currentPage--;
+          fetchTopics();
+        }
+      });
+      pagination.appendChild(prevButton);
+      
+      // Page buttons
+      const maxPages = 5;
+      const startPage = Math.max(1, currentPage - Math.floor(maxPages / 2));
+      const endPage = Math.min(totalPages, startPage + maxPages - 1);
+      
+      for (let i = startPage; i <= endPage; i++) {
+        const pageButton = document.createElement('button');
+        pageButton.textContent = i;
+        pageButton.className = i === currentPage ? 'active' : '';
+        pageButton.addEventListener('click', () => {
+          currentPage = i;
+          fetchTopics();
+        });
+        pagination.appendChild(pageButton);
+      }
+      
+      // Next button
+      const nextButton = document.createElement('button');
+      nextButton.textContent = '→';
+      nextButton.disabled = currentPage === totalPages;
+      nextButton.addEventListener('click', () => {
+        if (currentPage < totalPages) {
+          currentPage++;
+          fetchTopics();
+        }
+      });
+      pagination.appendChild(nextButton);
+    }
+    
+    // Update category filter
+    function updateCategoryFilter() {
+      categoryFilterEl.innerHTML = '<option value="">All Categories</option>';
+      
+      allCategories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        option.selected = category === categoryFilter;
+        categoryFilterEl.appendChild(option);
+      });
+    }
+    
+    // Update client filter
+    function updateClientFilter() {
+      clientFilterEl.innerHTML = '<option value="">All Clients</option>';
+      
+      Object.keys(allClients).forEach(client => {
+        const option = document.createElement('option');
+        option.value = client;
+        option.textContent = `${client} (${allClients[client]})`;
+        option.selected = client === clientFilter;
+        clientFilterEl.appendChild(option);
+      });
+    }
+    
+    // Show topic detail
+    async function showTopicDetail(topicName) {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topics/${encodeURIComponent(topicName)}`);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topic details');
+        }
+        
+        const topic = data.topic;
+        
+        let responsesHtml = '';
+        if (topic.responses && topic.responses.length > 0) {
+          topic.responses.forEach(response => {
+            responsesHtml += `
+              <div class="response-box">
+                <p>${response.text}</p>
+                <div class="context">
+                  Context: ${response.context || 'Not specified'}<br>
+                  Source: ${response.source || 'Unknown'}
+                </div>
+              </div>
+            `;
+          });
+        } else {
+          responsesHtml = '<p>No responses available</p>';
+        }
+        
+        const approaches = topic.approaches && topic.approaches.length > 0 
+          ? topic.approaches.map(approach => `<span class="approach">${approach}</span>`).join(' ')
+          : '<span class="approach">No approaches</span>';
+        
+        detailContent.innerHTML = `
+          <h2>${topic.topic} <span class="category-tag">${topic.category}</span></h2>
+          <div>
+            <h3>Approaches</h3>
+            ${approaches}
+          </div>
+          <div>
+            <h3>Responses</h3>
+            ${responsesHtml}
+          </div>
+        `;
+        
+        // Show the detail view
+        overlay.style.display = 'block';
+        topicDetail.style.display = 'block';
+      } catch (error) {
+        alert(`Error: ${error.message}`);
+      }
+    }
+    
+    // Close topic detail
+    function closeTopicDetail() {
+      overlay.style.display = 'none';
+      topicDetail.style.display = 'none';
+    }
+    
+    // Check topic analyzer status
+    async function checkAnalyzerStatus() {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topic-analyzer/status`);
+        const data = await response.json();
+        
+        let statusHtml = '';
+        const statusColor = data.status === 'active' ? 'status-active' : 'status-inactive';
+        
+        statusHtml += `<p><span class="status-indicator ${statusColor}"></span> Status: <strong>${data.status}</strong></p>`;
+        
+        if (data.last_activity) {
+          statusHtml += `<p>Last Activity: ${new Date(data.last_activity).toLocaleString()}</p>`;
+          statusHtml += `<p>Minutes Since Activity: ${data.minutes_since_activity}</p>`;
+        }
+        
+        statusHtml += `<p>Processed Files: ${data.processed_files || 0}</p>`;
+        statusHtml += `<p>Topics Count: ${data.topics_count || 0}</p>`;
+        
+        if (data.sample_topics && data.sample_topics.length > 0) {
+          statusHtml += `<p>Sample Topics: ${data.sample_topics.join(', ')}</p>`;
+        }
+        
+        statusContent.innerHTML = statusHtml;
+        statusContainer.style.display = 'block';
+      } catch (error) {
+        statusContent.innerHTML = `<p>Error checking status: ${error.message}</p>`;
+        statusContainer.style.display = 'block';
+      }
+    }
+    
+    // Event listeners
+    searchButton.addEventListener('click', () => {
+      searchTerm = searchInput.value.trim();
+      categoryFilter = categoryFilterEl.value;
+      clientFilter = clientFilterEl.value;
+      currentPage = 1;
+      fetchTopics();
+    });
+    
+    searchInput.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') {
+        searchTerm = searchInput.value.trim();
+        currentPage = 1;
+        fetchTopics();
+      }
+    });
+    
+    categoryFilterEl.addEventListener('change', () => {
+      categoryFilter = categoryFilterEl.value;
+      currentPage = 1;
+      fetchTopics();
+    });
+    
+    clientFilterEl.addEventListener('change', () => {
+      clientFilter = clientFilterEl.value;
+      currentPage = 1;
+      fetchTopics();
+    });
+    
+    checkStatusButton.addEventListener('click', checkAnalyzerStatus);
+    
+    closeButton.addEventListener('click', closeTopicDetail);
+    overlay.addEventListener('click', closeTopicDetail);
+    
+    // Initialize
+    fetchTopics();
+  </script>
+</body>
+</html>

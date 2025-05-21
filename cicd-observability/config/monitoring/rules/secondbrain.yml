@@ -1,0 +1,48 @@
+groups:
+  - name: secondbrain-alerts
+    rules:
+      - alert: HighErrorRate
+        expr: sum(rate(http_requests_total{status_code=~"5.."}[5m])) by (app) / sum(rate(http_requests_total[5m])) by (app) > 0.05
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "High error rate for {{ $labels.app }}"
+          description: "{{ $labels.app }} has a 5xx error rate above 5% (current value: {{ $value | printf \"%.2f\" }}%)"
+
+      - alert: SlowResponseTime
+        expr: histogram_quantile(0.95, sum(rate(http_request_duration_seconds_bucket[5m])) by (le, app)) > 1
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Slow response time for {{ $labels.app }}"
+          description: "{{ $labels.app }} has a 95th percentile response time above 1s (current value: {{ $value | printf \"%.2f\" }}s)"
+
+      - alert: HighMemoryUsage
+        expr: process_resident_memory_bytes > 1073741824
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High memory usage for {{ $labels.app }}"
+          description: "{{ $labels.app }} is using more than 1GB of memory (current value: {{ $value | humanize1024 }})"
+
+      - alert: HighCPUUsage
+        expr: rate(process_cpu_user_seconds_total[5m]) * 100 > 80
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High CPU usage for {{ $labels.app }}"
+          description: "{{ $labels.app }} is using more than 80% CPU (current value: {{ $value | printf \"%.2f\" }}%)"
+
+      - alert: ServiceDown
+        expr: up == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Service {{ $labels.app }} is down"
+          description: "Service {{ $labels.app }} has been down for more than 1 minute."
+EOF < /dev/null

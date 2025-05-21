@@ -1,0 +1,24 @@
+# Snyk (https://snyk.io) policy file
+version: v1.25.0
+
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JS-LODASH-1018905:
+    - '*':
+        reason: 'Deep prototype pollution in lodash - not exploitable in our usage'
+        expires: 2024-12-31T00:00:00.000Z
+        created: 2023-05-15T00:00:00.000Z
+
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2023-05-15T00:00:00.000Z'
+
+# Exclude specific paths from security scanning
+exclude:
+  global:
+    - node_modules/**
+    - dist/**
+    - coverage/**
+    - reports/**

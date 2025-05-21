@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Topics Database</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      margin-top: 0;
+    }
+    
+    .topics-container {
+      margin-top: 20px;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    
+    th, td {
+      text-align: left;
+      padding: 12px 15px;
+      border-bottom: 1px solid #ddd;
+    }
+    
+    th {
+      background-color: #f8f8f8;
+      font-weight: 500;
+    }
+    
+    tr:hover {
+      background-color: #f5f5f5;
+    }
+    
+    .search-bar {
+      margin-bottom: 20px;
+      display: flex;
+    }
+    
+    .search-bar input {
+      flex-grow: 1;
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+    }
+    
+    .search-bar button {
+      margin-left: 10px;
+      padding: 8px 15px;
+      background-color: #4285f4;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    .filters {
+      display: flex;
+      margin-bottom: 20px;
+      gap: 10px;
+    }
+    
+    .filter-select {
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    
+    .topic-detail {
+      margin-top: 30px;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      border-radius: 4px;
+      display: none;
+    }
+    
+    .topic-detail h2 {
+      margin-top: 0;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 10px;
+    }
+    
+    .responses {
+      margin-top: 15px;
+    }
+    
+    .response {
+      padding: 15px;
+      background-color: #f9f9f9;
+      border-left: 4px solid #4285f4;
+      margin-bottom: 15px;
+    }
+    
+    .response-meta {
+      margin-top: 10px;
+      font-size: 0.9em;
+      color: #666;
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 20px;
+      font-style: italic;
+      color: #666;
+    }
+    
+    .button {
+      display: inline-block;
+      padding: 8px 15px;
+      background-color: #4285f4;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    
+    .button-secondary {
+      background-color: #f1f1f1;
+      color: #333;
+    }
+    
+    .status-container {
+      margin-bottom: 20px;
+      padding: 15px;
+      background-color: white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      border-radius: 4px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Topics Database</h1>
+    
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search topics...">
+      <button id="searchButton">Search</button>
+      <button id="checkStatusButton" class="button-secondary">Check Status</button>
+    </div>
+    
+    <div class="status-container" id="statusContainer">
+      <h3>Topic Analyzer Status</h3>
+      <div id="statusContent"></div>
+    </div>
+    
+    <div class="filters">
+      <select id="categoryFilter" class="filter-select">
+        <option value="">All Categories</option>
+      </select>
+      
+      <select id="clientFilter" class="filter-select">
+        <option value="">All Clients</option>
+      </select>
+    </div>
+    
+    <div class="topics-container">
+      <table id="topicsTable">
+        <thead>
+          <tr>
+            <th>Topic</th>
+            <th>Category</th>
+            <th>Approaches</th>
+            <th>Responses</th>
+            <th>Sources</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="topicsTableBody">
+          <tr>
+            <td colspan="6" class="loading">Loading topics...</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <div class="topic-detail" id="topicDetail">
+      <h2 id="detailTitle">Topic Detail</h2>
+      <p><strong>Category:</strong> <span id="detailCategory"></span></p>
+      
+      <h3>Approaches</h3>
+      <div id="detailApproaches"></div>
+      
+      <h3>Responses</h3>
+      <div class="responses" id="detailResponses"></div>
+      
+      <h3>Sources</h3>
+      <ul id="detailSources"></ul>
+      
+      <button class="button button-secondary" id="closeDetail">Close</button>
+    </div>
+  </div>
+  
+  <script>
+    // API Configuration
+    const API_BASE_URL = 'http://localhost:3030/api';
+    
+    // DOM Elements
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const clientFilter = document.getElementById('clientFilter');
+    const topicsTableBody = document.getElementById('topicsTableBody');
+    const topicDetail = document.getElementById('topicDetail');
+    const detailTitle = document.getElementById('detailTitle');
+    const detailCategory = document.getElementById('detailCategory');
+    const detailApproaches = document.getElementById('detailApproaches');
+    const detailResponses = document.getElementById('detailResponses');
+    const detailSources = document.getElementById('detailSources');
+    const closeDetail = document.getElementById('closeDetail');
+    const checkStatusButton = document.getElementById('checkStatusButton');
+    const statusContainer = document.getElementById('statusContainer');
+    const statusContent = document.getElementById('statusContent');
+    
+    // State
+    let allTopics = [];
+    let allCategories = [];
+    let allClients = {};
+    
+    // Fetch Topics
+    async function fetchTopics() {
+      try {
+        // Construct the API URL with filters
+        let url = `${API_BASE_URL}/topics`;
+        const params = new URLSearchParams();
+        
+        const searchValue = searchInput.value.trim();
+        if (searchValue) {
+          params.append('search', searchValue);
+        }
+        
+        const categoryValue = categoryFilter.value;
+        if (categoryValue) {
+          params.append('category', categoryValue);
+        }
+        
+        const clientValue = clientFilter.value;
+        if (clientValue) {
+          params.append('client', clientValue);
+        }
+        
+        if (params.toString()) {
+          url += `?${params.toString()}`;
+        }
+        
+        // Show loading state
+        topicsTableBody.innerHTML = '<tr><td colspan="6" class="loading">Loading topics...</td></tr>';
+        
+        // Fetch data
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topics');
+        }
+        
+        // Update state
+        allTopics = data.topics || [];
+        
+        // Update filters
+        if (data.categories) {
+          allCategories = data.categories;
+          updateCategoryFilter();
+        }
+        
+        if (data.clients) {
+          allClients = data.clients;
+          updateClientFilter();
+        }
+        
+        // Render topics
+        renderTopics();
+      } catch (error) {
+        console.error('Error fetching topics:', error);
+        topicsTableBody.innerHTML = `<tr><td colspan="6">Error: ${error.message}</td></tr>`;
+      }
+    }
+    
+    // Render Topics
+    function renderTopics() {
+      if (allTopics.length === 0) {
+        topicsTableBody.innerHTML = '<tr><td colspan="6" class="loading">No topics found</td></tr>';
+        return;
+      }
+      
+      topicsTableBody.innerHTML = '';
+      
+      allTopics.forEach(topic => {
+        const row = document.createElement('tr');
+        
+        // Topic Name
+        const nameCell = document.createElement('td');
+        nameCell.textContent = topic.topic;
+        row.appendChild(nameCell);
+        
+        // Category
+        const categoryCell = document.createElement('td');
+        categoryCell.textContent = topic.category;
+        row.appendChild(categoryCell);
+        
+        // Approaches
+        const approachesCell = document.createElement('td');
+        if (topic.approaches && topic.approaches.length > 0) {
+          approachesCell.textContent = topic.approaches.join(', ');
+        } else {
+          approachesCell.textContent = 'None';
+        }
+        row.appendChild(approachesCell);
+        
+        // Responses Count
+        const responsesCell = document.createElement('td');
+        responsesCell.textContent = topic.response_count || 0;
+        row.appendChild(responsesCell);
+        
+        // Sources
+        const sourcesCell = document.createElement('td');
+        if (topic.sources && topic.sources.length > 0) {
+          sourcesCell.textContent = topic.sources.length;
+        } else {
+          sourcesCell.textContent = '0';
+        }
+        row.appendChild(sourcesCell);
+        
+        // Actions
+        const actionsCell = document.createElement('td');
+        const viewButton = document.createElement('button');
+        viewButton.textContent = 'View';
+        viewButton.className = 'button';
+        viewButton.addEventListener('click', () => showTopicDetail(topic.topic));
+        actionsCell.appendChild(viewButton);
+        row.appendChild(actionsCell);
+        
+        topicsTableBody.appendChild(row);
+      });
+    }
+    
+    // Update Category Filter
+    function updateCategoryFilter() {
+      // Save current selection
+      const currentValue = categoryFilter.value;
+      
+      // Clear options
+      categoryFilter.innerHTML = '<option value="">All Categories</option>';
+      
+      // Add options
+      allCategories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        categoryFilter.appendChild(option);
+      });
+      
+      // Restore selection if possible
+      if (currentValue && allCategories.includes(currentValue)) {
+        categoryFilter.value = currentValue;
+      }
+    }
+    
+    // Update Client Filter
+    function updateClientFilter() {
+      // Save current selection
+      const currentValue = clientFilter.value;
+      
+      // Clear options
+      clientFilter.innerHTML = '<option value="">All Clients</option>';
+      
+      // Add options
+      Object.keys(allClients).forEach(client => {
+        const option = document.createElement('option');
+        option.value = client;
+        option.textContent = `${client} (${allClients[client]})`;
+        clientFilter.appendChild(option);
+      });
+      
+      // Restore selection if possible
+      if (currentValue && Object.keys(allClients).includes(currentValue)) {
+        clientFilter.value = currentValue;
+      }
+    }
+    
+    // Show Topic Detail
+    async function showTopicDetail(topicName) {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topics/${encodeURIComponent(topicName)}`);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topic details');
+        }
+        
+        const topic = data.topic;
+        
+        // Update detail view
+        detailTitle.textContent = topic.topic;
+        detailCategory.textContent = topic.category;
+        
+        // Approaches
+        if (topic.approaches && topic.approaches.length > 0) {
+          detailApproaches.textContent = topic.approaches.join(', ');
+        } else {
+          detailApproaches.textContent = 'None';
+        }
+        
+        // Responses
+        detailResponses.innerHTML = '';
+        if (topic.responses && topic.responses.length > 0) {
+          topic.responses.forEach(response => {
+            const responseDiv = document.createElement('div');
+            responseDiv.className = 'response';
+            
+            const responseText = document.createElement('div');
+            responseText.textContent = response.text;
+            responseDiv.appendChild(responseText);
+            
+            const responseMeta = document.createElement('div');
+            responseMeta.className = 'response-meta';
+            responseMeta.innerHTML = `
+              <div>Context: ${response.context || 'Not specified'}</div>
+              <div>Source: ${response.source || 'Unknown'}</div>
+            `;
+            responseDiv.appendChild(responseMeta);
+            
+            detailResponses.appendChild(responseDiv);
+          });
+        } else {
+          detailResponses.textContent = 'No responses available';
+        }
+        
+        // Sources
+        detailSources.innerHTML = '';
+        if (topic.sources && topic.sources.length > 0) {
+          topic.sources.forEach(source => {
+            const li = document.createElement('li');
+            li.textContent = source;
+            detailSources.appendChild(li);
+          });
+        } else {
+          detailSources.textContent = 'No sources available';
+        }
+        
+        // Show detail view
+        topicDetail.style.display = 'block';
+      } catch (error) {
+        console.error('Error fetching topic details:', error);
+        alert(`Error: ${error.message}`);
+      }
+    }
+    
+    // Check Topic Analyzer Status
+    async function checkStatus() {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topic-analyzer/status`);
+        const data = await response.json();
+        
+        let statusHtml = `
+          <p><strong>Status:</strong> ${data.status}</p>
+          <p><strong>Last Activity:</strong> ${new Date(data.last_activity).toLocaleString()}</p>
+          <p><strong>Minutes Since Activity:</strong> ${data.minutes_since_activity}</p>
+          <p><strong>Processed Files:</strong> ${data.processed_files || 0}</p>
+          <p><strong>Topics Count:</strong> ${data.topics_count || 0}</p>
+        `;
+        
+        if (data.sample_topics && data.sample_topics.length > 0) {
+          statusHtml += `<p><strong>Sample Topics:</strong> ${data.sample_topics.join(', ')}</p>`;
+        }
+        
+        statusContent.innerHTML = statusHtml;
+        statusContainer.style.display = 'block';
+      } catch (error) {
+        console.error('Error checking status:', error);
+        alert(`Error checking status: ${error.message}`);
+      }
+    }
+    
+    // Event Listeners
+    searchButton.addEventListener('click', fetchTopics);
+    searchInput.addEventListener('keypress', event => {
+      if (event.key === 'Enter') {
+        fetchTopics();
+      }
+    });
+    
+    categoryFilter.addEventListener('change', fetchTopics);
+    clientFilter.addEventListener('change', fetchTopics);
+    
+    closeDetail.addEventListener('click', () => {
+      topicDetail.style.display = 'none';
+    });
+    
+    checkStatusButton.addEventListener('click', checkStatus);
+    
+    // Initial Load
+    fetchTopics();
+  </script>
+</body>
+</html>

@@ -1,0 +1,2962 @@
+WEBVTT
+
+1
+00:01:22.380 --> 00:01:29.969
+Tina Marie: Also, I think I could use open AI whisper to be able to talk
+
+2
+00:01:30.660 --> 00:01:33.460
+Tina Marie: instead of have to type everything. Is that correct?
+
+3
+00:02:06.900 --> 00:02:08.100
+Tina Marie: There you are.
+
+4
+00:02:15.330 --> 00:02:16.080
+Dan: Hello!
+
+5
+00:02:17.000 --> 00:02:18.070
+Tina Marie: Good morning!
+
+6
+00:02:18.220 --> 00:02:19.179
+Dan: How do you.
+
+7
+00:02:19.920 --> 00:02:20.710
+Tina Marie: How are you?
+
+8
+00:02:20.710 --> 00:02:21.910
+Dan: I'm good. How are you?
+
+9
+00:02:22.060 --> 00:02:23.100
+Tina Marie: Nerdy.
+
+10
+00:02:24.410 --> 00:02:24.660
+Dan: Thanks.
+
+11
+00:02:24.910 --> 00:02:27.701
+Tina Marie: Having way, too much fun.
+
+12
+00:02:28.260 --> 00:02:29.590
+Dan: Good.
+
+13
+00:02:30.539 --> 00:02:39.449
+Tina Marie: Yes, okay. So I. If it's okay, I'll just jump right into it. Because, like, I kind of
+
+14
+00:02:39.830 --> 00:02:46.649
+Tina Marie: chomping at the bit with all of this, and I'm not getting enough sleep. So I'm very groggy and cranky in the morning, but
+
+15
+00:02:47.300 --> 00:02:49.930
+Tina Marie: the caffeine will hit soon, anyway.
+
+16
+00:02:51.110 --> 00:03:09.810
+Tina Marie: okay. So I've got, like, probably 5 apps that I've been working on for different reasons, and some of them simultaneously, because there's so much waiting in between. And a couple were started several months ago, and there's been iterations, as everything has changed
+
+17
+00:03:09.880 --> 00:03:22.320
+Tina Marie: like I played with replet before. There's a huge change in replet now because of the model of Chat Gpt or Openai, really, that it uses
+
+18
+00:03:22.410 --> 00:03:31.220
+Tina Marie: and so that improved exponentially. But what I just learned
+
+19
+00:03:31.250 --> 00:03:49.129
+Tina Marie: this morning actually, is that? Okay? So last night I installed Openai Codex at the terminal. So that allows me to use basically, it's like what Clog Coder does. But what I didn't know until this morning, because I didn't think to ask
+
+20
+00:03:49.130 --> 00:04:05.699
+Tina Marie: is that with codecs you can choose which model you want to use. So, staying in the command line you can choose model 4.1, which is its like most amazing one with a 100 million
+
+21
+00:04:05.700 --> 00:04:11.900
+Tina Marie: token context. So it can remember a ton of things.
+
+22
+00:04:11.990 --> 00:04:30.900
+Tina Marie: and then but you can also switch back to O 4 or O 3 for logic. So for mapping out what you want to do and figuring out the best way that it should basically be laid out right for the user interface and for the function.
+
+23
+00:04:31.704 --> 00:04:57.219
+Tina Marie: Using O 3 or oh, 4. 0, 3 is probably better. This what? It's supposed to be right now and then switch back to 4.1 for the coding. And then what I haven't installed yet, either. But I remember about it because I've watched so many videos is that you can also use open AI whispers that you can talk to it instead of have to type everything.
+
+24
+00:04:58.500 --> 00:05:08.740
+Tina Marie: So I mean just all these different limitations that I've had. The one thing about replet that I love is that because my, I have a teenage daughter who's learning how to drive?
+
+25
+00:05:09.050 --> 00:05:13.589
+Tina Marie: So she's been driving a lot. She's got like 55 h in since November.
+
+26
+00:05:13.840 --> 00:05:20.580
+Tina Marie: and there's only so much driving around. I can just be like, yep, this is cool, you know.
+
+27
+00:05:20.580 --> 00:05:22.090
+Tina Marie: Yeah, yeah.
+
+28
+00:05:22.090 --> 00:05:31.130
+Tina Marie: nothing. But with replet. I could be like, give it a command, and it could be working on something, so I may still try to do some things with replet. But what I might do is like.
+
+29
+00:05:31.660 --> 00:05:38.600
+Tina Marie: really, really build it on a granular level. So one tiny function of an app.
+
+30
+00:05:39.120 --> 00:05:47.890
+Tina Marie: and then the next one, and then the next one and just layer it. Well, but then, you know, while I'm bored, basically. So I'm not doing nothing.
+
+31
+00:05:48.080 --> 00:06:14.960
+Tina Marie: cause then I can go export it, download everything, and then give it to chat, which will go look at it and go. Oh, I see exactly what you're doing here, and if I have built it in a segmented way like that, it should be able to clean it up pretty quickly. It's stuff like that, anyway. So I thought, today we could. I still haven't gone through all that like multi prompts you sent me like 7 or 8 prompts I did want to use.
+
+32
+00:06:14.960 --> 00:06:36.539
+Tina Marie: But anyway, I thought today. Like, if you have your computer, we could, you could show me what you're working on. I'll show you what I'm working on and see. Maybe there's something we could help each other improve and get wherever you're going, wherever I'm going faster, but mostly because what always happens is you have a new insight. I have a new insight, and
+
+33
+00:06:36.980 --> 00:06:43.509
+Tina Marie: we just make it better. And I'd like to see how, whatever you're working on.
+
+34
+00:06:44.310 --> 00:06:49.889
+Tina Marie: For example, you know, I'm sure that we could create something that helps with.
+
+35
+00:06:51.090 --> 00:06:58.350
+Tina Marie: I don't actually know. Because you know what we haven't asked. Chatgpt is, although you you might have is, how can we do
+
+36
+00:06:58.460 --> 00:07:00.980
+Tina Marie: better tracking?
+
+37
+00:07:01.851 --> 00:07:07.940
+Tina Marie: Is it Google analytics? Or can we build something? Custom that is
+
+38
+00:07:08.070 --> 00:07:19.660
+Tina Marie: cookie proof, right? Because it maybe it's hard coded. Maybe it's a sandwich page that only gets hit once something happens like how I used to do things back in the day.
+
+39
+00:07:20.360 --> 00:07:21.020
+Dan: What?
+
+40
+00:07:21.520 --> 00:07:23.942
+Tina Marie: So tracking transactions
+
+41
+00:07:24.750 --> 00:07:26.620
+Dan: For, like a specific project.
+
+42
+00:07:28.020 --> 00:07:48.750
+Tina Marie: For for specific sale of anything. So what I'm thinking about is like, Mom, like, how do you track your results? Cause you don't really advertise for anything except for another 71 that might be useful there, too. But you know, cause they keep we keep running into issues with being able to track ad campaigns and things like that, although you hard code everything, don't you? Anyway?
+
+43
+00:07:48.750 --> 00:07:49.880
+Dan: Yep. Yep.
+
+44
+00:07:49.920 --> 00:07:51.509
+Tina Marie: Yeah, so that's not an issue.
+
+45
+00:07:51.510 --> 00:08:01.740
+Dan: I don't run into that issue. Yeah, we're yeah. The the issue that you have is referrers, because even if you try to capture refer.
+
+46
+00:08:03.270 --> 00:08:09.980
+Dan: The best way to do it is to use Utm. But if you don't have control over that refer, then you can't. You have no control.
+
+47
+00:08:10.150 --> 00:08:29.000
+Dan: and a refer isn't necessarily sent every time you get a click from a referring website. But if you pass the Utm through, I think it goes through, it's more consistent. But that's that's an issue. I ran into this week trying to set up something from Mom. I was like, we can't.
+
+48
+00:08:29.450 --> 00:08:37.659
+Dan: We'll we're just gonna get what we get. But any paid traffic will have Utms, and then that will come back. And then I figured out.
+
+49
+00:08:38.659 --> 00:08:46.579
+Dan: so the problem with Google high level. You name it. Whatever they are, they all pass.
+
+50
+00:08:46.900 --> 00:08:49.780
+Dan: All Google will pass you is an Id.
+
+51
+00:08:50.300 --> 00:08:52.900
+Dan: It will not pass you campaign, name.
+
+52
+00:08:53.060 --> 00:08:56.700
+Dan: It will pass you campaign id. So then you're stuck with
+
+53
+00:08:56.950 --> 00:09:02.631
+Dan: well, I don't. I gotta create a key that tells me what campaign that is.
+
+54
+00:09:03.653 --> 00:09:19.520
+Dan: And then, ideally, you would want to replace the Id with the name. So like I'll just use high level like in high level. I would want to be like, no, I don't want the Id. I want the campaign name, or I don't want the I group I want the Ad group name
+
+55
+00:09:20.090 --> 00:09:23.760
+Dan: and then at the keyword level
+
+56
+00:09:25.800 --> 00:09:40.480
+Dan: it doesn't even pass keyword. Right? Yeah, I don't even think it passes keyword. It says term. So yeah. So you you would pass term, because the structure of like a Google ad would be its exact match only, or I would do something. So anyway.
+
+57
+00:09:40.930 --> 00:09:42.430
+Dan: that doesn't work.
+
+58
+00:09:42.894 --> 00:09:48.940
+Dan: So I've been trying to figure out a way. I think I figured out a way to do it. And it's like
+
+59
+00:09:49.330 --> 00:09:54.249
+Dan: you have to. You would create a Google script
+
+60
+00:09:55.380 --> 00:10:05.880
+Dan: in your. In my case I have a an Mcc. Which is a like a master. Google Ads account that I then have everyone add their Google Ads account to.
+
+61
+00:10:06.210 --> 00:10:13.040
+Dan: So when I log in, I see every account I have access to, and then I drill into the account, and then you drill into campaigns right? So
+
+62
+00:10:13.730 --> 00:10:15.759
+Dan: you would put a script.
+
+63
+00:10:17.000 --> 00:10:23.329
+Dan: I've done this with the the dudes, and down in South America you'd put a script in your Mcc.
+
+64
+00:10:23.960 --> 00:10:26.640
+Dan: And what that script does, is
+
+65
+00:10:27.180 --> 00:10:33.800
+Dan: it? Can I think it? I don't think it can do like anything hourly, or anything like that. It can do
+
+66
+00:10:35.240 --> 00:10:44.829
+Dan: once a day or something. It's there's some. There are some restrictions, but you put a script in there that script would then write to a g sheet.
+
+67
+00:10:45.070 --> 00:10:48.549
+Dan: and it would output every account.
+
+68
+00:10:48.650 --> 00:10:52.390
+Dan: and then every campaign and ad group in that account.
+
+69
+00:10:52.960 --> 00:10:57.470
+Dan: and then you would have an automation in high level
+
+70
+00:10:57.570 --> 00:11:02.659
+Dan: that said, when a when a thing comes in, it would say, Go, get, go, get this.
+
+71
+00:11:02.900 --> 00:11:07.719
+Dan: and it would go look at the sheet and say, I have account id
+
+72
+00:11:07.840 --> 00:11:11.139
+Dan: XYZ, and then campaign Id.
+
+73
+00:11:11.320 --> 00:11:15.569
+Dan: ABC. And it would. It would grab the names.
+
+74
+00:11:16.500 --> 00:11:24.166
+Dan: So that's something. I've been kind of noodling. I haven't built it, but I think that's how it would work.
+
+75
+00:11:25.980 --> 00:11:29.140
+Dan: and then the referral thing we were trying to get.
+
+76
+00:11:30.130 --> 00:11:39.850
+Dan: I think we wrote some of this. It was like cause they don't track refers and high level. So we wrote a script that's like, if referrer.
+
+77
+00:11:40.400 --> 00:11:43.090
+Dan: fill in this this hidden field.
+
+78
+00:11:43.480 --> 00:11:49.390
+Dan: But the problem with high level is they don't wrap their forms in a form.
+
+79
+00:11:50.040 --> 00:11:51.649
+Dan: So the Javascript.
+
+80
+00:11:52.290 --> 00:11:57.219
+Dan: the 1st couple go arounds like it can't find the field because it can't find the form.
+
+81
+00:11:58.240 --> 00:12:02.210
+Dan: So we're like, all right, we're gonna have to. There's gotta be a way around that, too.
+
+82
+00:12:02.730 --> 00:12:04.000
+Dan: And then we discovered.
+
+83
+00:12:04.000 --> 00:12:07.749
+Tina Marie: What do you mean? They don't wrap the form in the form like there's no form code like start.
+
+84
+00:12:07.750 --> 00:12:08.360
+Dan: No.
+
+85
+00:12:08.360 --> 00:12:09.140
+Tina Marie: One.
+
+86
+00:12:09.140 --> 00:12:09.900
+Dan: Nope.
+
+87
+00:12:10.060 --> 00:12:10.750
+Tina Marie: What?
+
+88
+00:12:11.020 --> 00:12:11.710
+Dan: Yeah.
+
+89
+00:12:12.400 --> 00:12:13.270
+Tina Marie: How.
+
+90
+00:12:13.680 --> 00:12:15.559
+Dan: I was like. Oh, I didn't even know you could do that.
+
+91
+00:12:15.980 --> 00:12:16.620
+Tina Marie: Right.
+
+92
+00:12:16.620 --> 00:12:19.110
+Dan: But I mean I haven't built a form like that, and.
+
+93
+00:12:19.110 --> 00:12:22.149
+Tina Marie: I guess it just means it doesn't have a container.
+
+94
+00:12:22.390 --> 00:12:22.970
+Tina Marie: It just.
+
+95
+00:12:22.970 --> 00:12:31.480
+Dan: Yeah, I mean, that's all a form, right? And well you use. Remember, it used to be like the form, and then the where you were submitting it to was always defined like, right there.
+
+96
+00:12:32.060 --> 00:12:34.950
+Dan: that that doesn't exist anymore. That makes sense.
+
+97
+00:12:37.460 --> 00:12:41.872
+Dan: Yeah, so that. And then I haven't done
+
+98
+00:12:42.830 --> 00:12:46.920
+Dan: any of the like I have you ever used notion I.
+
+99
+00:12:46.920 --> 00:12:49.269
+Tina Marie: Yeah. Oh, my God!
+
+100
+00:12:49.710 --> 00:12:52.649
+Tina Marie: Mind blown this year this week on it.
+
+101
+00:12:53.010 --> 00:13:00.760
+Dan: I just knew what it was. I've never used it so I like in, bought it yesterday and installed it, and I was like, oh, I don't have time for this.
+
+102
+00:13:01.740 --> 00:13:09.209
+Tina Marie: Yes, okay, I we're we're just gonna have a few things happen right now. Anyway, you keep talking, though. Go ahead.
+
+103
+00:13:09.210 --> 00:13:12.790
+Dan: I mean, I get it in principle, and I bought that. So I.
+
+104
+00:13:12.790 --> 00:13:16.389
+Tina Marie: It's definitely a mind suck like long time thing.
+
+105
+00:13:16.390 --> 00:13:20.860
+Dan: I was like Yup, Nope, not to a close. I was like Nope not opening that black hole
+
+106
+00:13:22.240 --> 00:13:24.430
+Tina Marie: That is the biggest squirrel ever.
+
+107
+00:13:24.430 --> 00:13:34.705
+Dan: Yeah, I was like, I do not have time. Not. I'm like my plan is to dive into it next week. But I'm like I got shit. I gotta get done this week. I don't need this thing to happen fast. But
+
+108
+00:13:35.670 --> 00:13:43.610
+Dan: I did find this notion programmer dude on upwork and explain the project to him. And he was like, Oh.
+
+109
+00:13:43.720 --> 00:13:45.629
+Dan: that sounds really interesting!
+
+110
+00:13:46.319 --> 00:13:47.999
+Dan: And so he's.
+
+111
+00:13:48.000 --> 00:13:49.739
+Tina Marie: You can build. Notion templates very easy.
+
+112
+00:13:49.740 --> 00:13:53.420
+Dan: He's down. Well, I bought the template, so that was easy.
+
+113
+00:13:54.050 --> 00:14:06.220
+Dan: Then I ran it by him. I was like, Hey, I got this Gtd template, and he's like, Oh, yeah, no, that looks good. So I've installed. I started. I opened it. The account started installing it, and then I was like, Oh, God, no.
+
+114
+00:14:06.410 --> 00:14:09.478
+Dan: no, no, no, no! Run away.
+
+115
+00:14:10.240 --> 00:14:14.939
+Dan: Because I just I'm like, I know I'll go. I'll go deep, and then I'll regret it.
+
+116
+00:14:15.880 --> 00:14:20.589
+Tina Marie: Well, it depends on the timing. But yeah, and like, right now, this is something.
+
+117
+00:14:21.580 --> 00:14:35.360
+Tina Marie: This is not where I'm going right now. So I have, you know, order of operations. There's a few things the the one that. So let's see, let me think about how I wanna go through this. I'll probably show you the replet stuff
+
+118
+00:14:36.190 --> 00:14:41.299
+Tina Marie: first.st Oh, I forgot about co-author genius. Tube to task
+
+119
+00:14:42.270 --> 00:14:46.250
+Tina Marie: this one. I haven't been able to get to work fully.
+
+120
+00:14:48.320 --> 00:14:53.909
+Tina Marie: So my kind of plan is basically build the tools that I need, and then they become sellable.
+
+121
+00:14:54.160 --> 00:15:23.270
+Tina Marie: And then it just starts becoming like my suite of things that I can sell. So a few of the things I'm working on, all, all because they're they're all part of the original plan. But some of them, like, I said, are the tools that are helping me accomplish the original plan. So there's the course there's training. And there's like AI kind of version of Tina. That's the only subscription. Well, there might. It might be the only subscription. Most things I want to make front level. Just
+
+122
+00:15:23.610 --> 00:15:44.699
+Tina Marie: buy it, buy it outright for a couple of reasons. Number one, reduce friction number 2. I actually want to help people as much as I can, and 3 I feel like it will minimize customer support issues if it's because it's just easier to over deliver when you're not getting billed every month.
+
+123
+00:15:45.060 --> 00:15:47.195
+Tina Marie: And I'm thinking about
+
+124
+00:15:47.900 --> 00:16:02.889
+Tina Marie: tidy cow like tidy Cow, was great, but it was also kind of glitchy kind of miss some things, but I'm like for 2029 bucks. You know what I mean like, it's not a subscription. I was tidy. Cow did like 30 million or more.
+
+125
+00:16:03.370 --> 00:16:11.510
+Tina Marie: So anyway, that was my logic. So I'm working on the the AI writer. But that
+
+126
+00:16:11.960 --> 00:16:33.419
+Tina Marie: context, all of that has probably taken me some of the most time with the learning curve, meaning. I probably spent the most time on it, because that was trying to figure out how to use the Pinecone library. And but the AI models really still hadn't quite caught up yet. I think that they're there now. So I'm working on that this week.
+
+127
+00:16:34.230 --> 00:16:36.120
+Tina Marie: This has been
+
+128
+00:16:38.080 --> 00:16:38.970
+Tina Marie: Add
+
+129
+00:16:39.090 --> 00:16:57.649
+Tina Marie: something that I've been doing. So, I have these Youtube people that I follow that just do a really really great job at distilling what the new AI is out and what it actually means like there's a few of them that are super hypey. But there are other ones who have AI agencies.
+
+130
+00:16:58.415 --> 00:17:12.000
+Tina Marie: That they're helping clients that are, you know, business clients. So their application is very much what I'm doing. But some of them are also in just incredibly articulate the way that they think there's not a lot of them, but there's a few of them.
+
+131
+00:17:12.250 --> 00:17:30.100
+Tina Marie: So I'm going every day and just watching their videos. But sometimes, like I don't have time for it. So the other. So the thing that this is supposed to do is to go to the Youtube channels, pull out the the report of what
+
+132
+00:17:30.500 --> 00:17:45.059
+Tina Marie: they published on any given day. This is not working. It's not getting it like, anyway, and then run it through my master plan, right, what I'm what am I doing? Which I don't even know where that's at right now, dashboard.
+
+133
+00:17:45.060 --> 00:18:01.780
+Tina Marie: And then basically tell me, okay, did there was anything new added to the stock that I didn't have like a function that I've been looking for, waiting for, trying to build, trying to solve. Did somebody announce something that solves that problem?
+
+134
+00:18:02.280 --> 00:18:11.589
+Tina Marie: Or is there a use case for my existing stack that I was not aware of, that I could be, you know, benefiting from.
+
+135
+00:18:12.320 --> 00:18:23.339
+Tina Marie: And then in in these things, is there anything that suggests that I should pivot, or that my plan is on set like? Did it? Did it add validation, and
+
+136
+00:18:23.730 --> 00:18:35.500
+Tina Marie: 99 times out of a hundred, not quite that much. But it's almost. It's definitely more than 9 times out of 10. There's no pivot. There's no anything. I'm actually always right on track.
+
+137
+00:18:35.850 --> 00:18:44.929
+Tina Marie: mostly because I did stuff like this from the beginning. So anyway, Replit built this and it can go get the latest videos. It can analyze it.
+
+138
+00:18:48.150 --> 00:18:50.719
+Tina Marie: It lost the master plan again.
+
+139
+00:18:51.120 --> 00:19:17.930
+Tina Marie: and then it has given me a report and and give so it's given me the transcript, and it has run it against the master plan. So anyway, it's got it's got all the AI models. But let me show you. So I made the 1st version of the wrapper that actually works really fast with cloud. AI this one's called AI model. But can you guys chill? Come here? They're just like zoomy zooming all over the place.
+
+140
+00:19:18.080 --> 00:19:19.440
+Tina Marie: driving me nuts.
+
+141
+00:19:21.800 --> 00:19:41.350
+Tina Marie: preview. So this this one went fast with Claude, and with replet and actually functioned. It was when I started to get a little bit more complicated about 1st of all working in Mobile. So that was the biggest issues that it would have overlapping things happen.
+
+142
+00:19:41.870 --> 00:19:44.820
+Tina Marie: And can I do this in a new tab?
+
+143
+00:19:45.300 --> 00:19:46.459
+Tina Marie: I think I can.
+
+144
+00:19:47.050 --> 00:19:47.780
+Tina Marie: Yeah.
+
+145
+00:19:48.290 --> 00:19:55.710
+Tina Marie: And so I can choose which model I want to work with, so I can work with Chat gpt for one in here.
+
+146
+00:19:56.136 --> 00:20:08.609
+Tina Marie: All of these models I was able to program it and tell it which ones and I also have Claude in here. I could. So anything that has an Api rep that was able to set it up for me really easily.
+
+147
+00:20:10.198 --> 00:20:20.240
+Tina Marie: I don't know if it's in settings. Settings aren't working today, anyway. But so access to this happened in less than an hour with Claude and with replet.
+
+148
+00:20:20.350 --> 00:20:21.460
+Tina Marie: And
+
+149
+00:20:23.140 --> 00:20:31.050
+Tina Marie: write a store story like I said, Stort story, Dan. That's my brain. I flip things. It's annoying.
+
+150
+00:20:32.130 --> 00:20:45.129
+Tina Marie: anyway, but it will do this, so we'll do. We'll do. Chat, gpt turbo, which actually is chat open, is 3, and I might be out of tokens for that. So we'll see what it does.
+
+151
+00:20:46.430 --> 00:20:55.810
+Tina Marie: So I had to tell it because it would just do this, and there was nothing happening. So yeah, that's the wrong model. Let me do this one.
+
+152
+00:20:56.400 --> 00:20:58.889
+Tina Marie: And actually, I'll do new chat.
+
+153
+00:21:00.250 --> 00:21:03.312
+Tina Marie: Actually, what it's supposed to do is
+
+154
+00:21:04.120 --> 00:21:16.379
+Tina Marie: I won't say, tell me a story. I need a prompt tell me the most efficient waiting to track
+
+155
+00:21:16.930 --> 00:21:20.420
+Tina Marie: refer websites.
+
+156
+00:21:20.550 --> 00:21:29.070
+Tina Marie: That is, platform device proof.
+
+157
+00:21:29.550 --> 00:21:32.070
+Tina Marie: What it's supposed to do is route. It.
+
+158
+00:21:32.070 --> 00:21:33.240
+Dan: Other upms.
+
+159
+00:21:33.890 --> 00:21:55.029
+Tina Marie: But it doesn't matter. 1st of all, what's happening in the background is it's routing it. So it's chat. Gpt 4 0 is deciding which model could best answer the question based on the context. And so I built a router into this which Chat Gpt doesn't even have right now yet.
+
+160
+00:21:55.190 --> 00:22:05.790
+Tina Marie: and then it chose the model, and it's supposed to tell me. And it did tell me so every time I make a change something breaks right? So this says, Gpt. 4. 0, answered the question.
+
+161
+00:22:06.190 --> 00:22:18.110
+Tina Marie: and Utms, yeah. Server side all that look, anyway, I can't remember what. And yeah. So remember, we had. You had the question with Chat Gpt was like, Should you have pro, or should you not?
+
+162
+00:22:19.087 --> 00:22:28.150
+Tina Marie: And at 1st it was like, Yeah, you don't need it. But I already ran out of Gpt. O. 3, until April 29.th
+
+163
+00:22:28.150 --> 00:22:29.770
+Dan: Oh, yeah, I got that alert.
+
+164
+00:22:29.770 --> 00:22:39.800
+Tina Marie: I probably will get pro but I may not if I so I do still have O 4 mini
+
+165
+00:22:40.384 --> 00:23:01.270
+Tina Marie: and it's basically like I have to go look at the benchmarks to see the difference in the coding. But my prime directive is basically I I want the best logic, the fastest, because that will get me. My money's worth easily if I'm not having to fix errors that O 3 would have prevented, or o 1 even
+
+166
+00:23:02.680 --> 00:23:14.590
+Tina Marie: anyway. Let me show you the other ones real quick. Just cause like these are cause. Then we'll have a comparison in a little while with Chat Gpt in the command line.
+
+167
+00:23:15.358 --> 00:23:17.449
+Tina Marie: Where are my apps? Apps?
+
+168
+00:23:18.920 --> 00:23:22.450
+Tina Marie: Clients record? Oh, this one was
+
+169
+00:23:24.190 --> 00:23:28.709
+Tina Marie: oh, we didn't even start it yet. Here, okay, that one. Claude started.
+
+170
+00:23:29.510 --> 00:23:32.270
+Tina Marie: Coach Tina, Marie? AI,
+
+171
+00:23:35.620 --> 00:23:40.710
+Tina Marie: yeah. So this one didn't get very far. Well.
+
+172
+00:23:40.930 --> 00:23:47.680
+Tina Marie: what it would do, so there was no proof that I could look at that it said,
+
+173
+00:23:50.170 --> 00:24:12.989
+Tina Marie: here's the library, so it would let me upload things, and it was able to create a space where I could upload files. But then what? I would ask a question. The question wasn't being answered by what I had uploaded, because I asked a specific one that could only be answered inside of the context of what I had uploaded.
+
+174
+00:24:13.170 --> 00:24:14.010
+Tina Marie: But
+
+175
+00:24:14.610 --> 00:24:25.889
+Tina Marie: time wise. And this is the thing about the overlap, right? So if I want to sit there and actually like, be productive and stay in the space of I'm working on stuff. I'm just going in between these apps.
+
+176
+00:24:27.870 --> 00:24:32.110
+Tina Marie: It allowed me to choose model 4.1
+
+177
+00:24:32.850 --> 00:24:39.499
+Tina Marie: to do it with so it can upload the content. You'd see that transcripts
+
+178
+00:24:42.571 --> 00:24:50.589
+Tina Marie: whatever. We'll go here, and then I'll show you the Chat Gpt version in the command line.
+
+179
+00:24:51.020 --> 00:24:54.510
+Tina Marie: I had a specific one. I want to get the same one, because that's where I know that
+
+180
+00:24:55.150 --> 00:25:03.830
+Tina Marie: context was upload the files so can see it embed in pine cone. That's new.
+
+181
+00:25:06.990 --> 00:25:08.679
+Tina Marie: That wasn't there last time.
+
+182
+00:25:09.300 --> 00:25:10.910
+Dan: No. Well, yeah, of course.
+
+183
+00:25:11.400 --> 00:25:12.010
+Tina Marie: Right.
+
+184
+00:25:12.010 --> 00:25:14.679
+Dan: The shit moves like it's insane.
+
+185
+00:25:15.280 --> 00:25:23.080
+Tina Marie: Okay, so what percentage of Youtube creators
+
+186
+00:25:23.950 --> 00:25:30.290
+Tina Marie: create their own intent? According to Maria.
+
+187
+00:25:31.420 --> 00:25:33.799
+Tina Marie: Maria said, 2%. That's what she found.
+
+188
+00:25:34.400 --> 00:25:36.099
+Tina Marie: We'll see if it gives an answer.
+
+189
+00:25:40.410 --> 00:25:43.210
+Tina Marie: And this one doesn't do the thinking.
+
+190
+00:25:44.950 --> 00:25:47.749
+Tina Marie: Hey? It actually worked today.
+
+191
+00:25:52.520 --> 00:25:54.070
+Dan: What wasn't it doing.
+
+192
+00:25:55.050 --> 00:26:03.559
+Tina Marie: Well, 1st of all, it either would give an answer at all, or it would give a very chat. Gpt esque answer.
+
+193
+00:26:04.790 --> 00:26:08.739
+Tina Marie: but it it most definitely was not pulling from me.
+
+194
+00:26:11.220 --> 00:26:11.960
+Dan: Gotcha.
+
+195
+00:26:12.480 --> 00:26:16.479
+Tina Marie: This is definitely Maria stuff.
+
+196
+00:26:17.240 --> 00:26:19.300
+Tina Marie: Holy crap! It finally worked.
+
+197
+00:26:20.110 --> 00:26:21.930
+Dan: See, all you had to do was not touch it.
+
+198
+00:26:23.050 --> 00:26:41.300
+Tina Marie: Well, I did give it a final command. Jumped ship! Well, I didn't really jump ship. So this is the thing, though I do keep switching back and forth because I'm learning new things as I'm doing it. I don't really feel like I'm staying distracted because there's so much waiting in between 1st of all.
+
+199
+00:26:42.030 --> 00:27:02.429
+Tina Marie: second of all, because they all have different strengths like this one. So the issue I keep running into with the command line is that it will give me a local host to run, and then I'll try to do it, and it'll give me a 4 0, 3, or a 4 0, 4,
+
+200
+00:27:02.560 --> 00:27:04.570
+Tina Marie: or even a 5. 0, 3.
+
+201
+00:27:05.140 --> 00:27:12.800
+Tina Marie: Yeah. And so but Chat Gpt was able to work around this in a in a different one. In this one, I think.
+
+202
+00:27:12.920 --> 00:27:16.490
+Tina Marie: which this one I just finally
+
+203
+00:27:16.710 --> 00:27:19.259
+Tina Marie: loaded the model so I could choose it.
+
+204
+00:27:20.864 --> 00:27:30.569
+Tina Marie: Yeah. So, Codex, I gave it a code to give me the list of code, and so, if you need to complete up to
+
+205
+00:27:31.780 --> 00:27:38.800
+Tina Marie: let me know if you want to PIN one of these as your default. Let's default to
+
+206
+00:27:39.040 --> 00:27:56.520
+Tina Marie: 4.1, unless we need to strategize 1st and figure out there.
+
+207
+00:27:57.360 --> 00:28:11.169
+Tina Marie: Best framework, then use Gpt. Oh, 3, and if it's not available use, or Oh.
+
+208
+00:28:12.180 --> 00:28:13.499
+Tina Marie: we'll see what it does.
+
+209
+00:28:15.670 --> 00:28:26.259
+Tina Marie: and then I'll try to get whisper AI, so let me see if I can find one of the browser windows it created before we got shut down.
+
+210
+00:28:27.070 --> 00:28:29.150
+Tina Marie: Remember, if it was this one or
+
+211
+00:28:34.980 --> 00:28:40.809
+Tina Marie: this one might have worked anyway. But now.
+
+212
+00:28:41.420 --> 00:28:49.610
+Tina Marie: okay, cool. So this one works, we'll see if it upload content, choose a file transcripts
+
+213
+00:28:52.010 --> 00:29:00.249
+Tina Marie: and see how the Chat Gpt version works, and I'll go to that. Was it
+
+214
+00:29:00.520 --> 00:29:04.130
+Tina Marie: upload files embed in pine cone
+
+215
+00:29:04.710 --> 00:29:13.360
+Tina Marie: error embedding content, internal server error, so that one's not working yet, anyway.
+
+216
+00:29:14.780 --> 00:29:19.599
+Tina Marie: Figuring these out so cloud AI cloud coder had you used it yet
+
+217
+00:29:21.180 --> 00:29:34.549
+Tina Marie: works basically just like this. So sounds good from here on, out for regular work. I'll default to Gpt. 4.1 whenever you want to kick off a strategy or framework finding session, I'll switch to Gpt. Oh, oh, no.
+
+218
+00:29:35.300 --> 00:29:41.130
+Tina Marie: I never want Gpt. 3.5.
+
+219
+00:29:42.500 --> 00:29:49.550
+Tina Marie: It needs to be oh, 3 or 4 O,
+
+220
+00:29:52.000 --> 00:29:54.810
+Tina Marie: for whatever reason they couldn't understand that.
+
+221
+00:29:55.270 --> 00:29:58.780
+Tina Marie: And then let me see if this one is one that I could show you or not.
+
+222
+00:29:59.300 --> 00:30:03.900
+Tina Marie: I don't remember which one was. I got working because it was like midnight.
+
+223
+00:30:04.810 --> 00:30:09.040
+Tina Marie: Open router to hit.
+
+224
+00:30:11.310 --> 00:30:15.520
+Tina Marie: Oh, that's a smoke test which I don't even know what a smoke test is
+
+225
+00:30:19.450 --> 00:30:20.670
+Tina Marie: did not work.
+
+226
+00:30:26.280 --> 00:30:32.700
+Tina Marie: Yep. So those were working. Something was working last night. But it's not now, anyway.
+
+227
+00:30:32.840 --> 00:30:44.759
+Tina Marie: That's my update on, just like how easy they are to use this. So got it no more. Gpt. 3.5. Let me just confirm the exact names. By O. 3. Did you mean Davinci text?
+
+228
+00:30:45.290 --> 00:30:49.599
+Tina Marie: Okay, I'm gonna have to go like, be very specific with the model names.
+
+229
+00:30:51.510 --> 00:30:53.960
+Tina Marie: But you can see if I scroll up.
+
+230
+00:30:56.510 --> 00:31:00.769
+Tina Marie: I want to get to some of the code for you, so you can see.
+
+231
+00:31:01.460 --> 00:31:04.979
+Tina Marie: So it it built a patch and then it applied it.
+
+232
+00:31:09.120 --> 00:31:14.850
+Tina Marie: And we'll get some. So this is not yet, is Codex.
+
+233
+00:31:16.020 --> 00:31:22.679
+Tina Marie: This is Codex trying to figure out what's inside of the files, and it scanned it very quickly.
+
+234
+00:31:23.840 --> 00:31:29.579
+Tina Marie: Oops. Sorry go dude. Hit the thing
+
+235
+00:31:30.861 --> 00:31:36.599
+Tina Marie: same thing here, scan the files, built a patch, fix some things
+
+236
+00:31:37.530 --> 00:31:43.029
+Tina Marie: so all I had to do to get this to work was, I need to have python.
+
+237
+00:31:43.330 --> 00:31:49.949
+Tina Marie: I had python 3.9 point 6. I think it's up to like 3 11 3.11 something.
+
+238
+00:31:50.080 --> 00:31:55.820
+Tina Marie: and then I had to have Pip installed, which I did. But I think I had to update Pip.
+
+239
+00:31:55.990 --> 00:32:01.209
+Tina Marie: And then I just did pip install, and I think it was Openai or
+
+240
+00:32:01.540 --> 00:32:18.849
+Tina Marie: Open AI Codecs, but Chat Gpt can tell you how to install it. It is crazy, fast and easy, Dan, and then all you do is you can do this right here. Say, okay, what? What Openai models do you have? So you can tell ask it to use the model that you want.
+
+241
+00:32:19.860 --> 00:32:27.540
+Tina Marie: and that way you just interact with it here. And then if you install, whisper how do I install
+
+242
+00:32:28.426 --> 00:32:35.210
+Tina Marie: open AI whisper, and can you do it for me?
+
+243
+00:32:38.070 --> 00:32:45.509
+Tina Marie: We'll see how easy it is. But basically you just tell it what you want it to build, and it will build it here
+
+244
+00:32:46.320 --> 00:33:05.510
+Tina Marie: like, it's that easy. It's crazy. So if, like auto a lot of times, it defaults to cli to the command line interface for whatever it wants to build. But if I tell it, I want a web browser interface. It can do that. I keep running into security issues.
+
+245
+00:33:06.260 --> 00:33:22.760
+Tina Marie: Sometimes they've ended up being Api key issues, because for whatever reason, it didn't store it in the right place. Or it was my computer security, because I have Norton and Norton blocks pretty much all the ports
+
+246
+00:33:23.260 --> 00:33:30.699
+Tina Marie: so trying to work around that. But, anyway, so it defaults to command line interface. And
+
+247
+00:33:30.820 --> 00:33:42.761
+Tina Marie: if you want a web browser interface. It can build it, it can build it with tailwind css. I didn't have any of those examples, but I've shown them to you before with the 1st thing that I built in.
+
+248
+00:33:43.210 --> 00:33:46.020
+Tina Marie: We're like, well, I used Claude for that one.
+
+249
+00:33:46.320 --> 00:33:55.670
+Tina Marie: but for Mom kind of the calculations of like what? What could be earned at the price points we were doing. Do you remember that?
+
+250
+00:33:55.960 --> 00:34:04.069
+Tina Marie: Look at those Pip 3 install whisperer! I didn't even know what Pip 3 is never seen. Pip. 3.
+
+251
+00:34:08.190 --> 00:34:12.350
+Tina Marie: So if you're going to go down a rabbit hole.
+
+252
+00:34:12.639 --> 00:34:13.960
+Dan: Well, I'm not excellent.
+
+253
+00:34:14.760 --> 00:34:23.139
+Tina Marie: I know you're so good about that but I don't. I don't know that it's a rabbit hole, so like. If you were looking to. What is the thing? That?
+
+254
+00:34:23.779 --> 00:34:25.739
+Tina Marie: What? The heck? Oh, no!
+
+255
+00:34:26.049 --> 00:34:28.309
+Tina Marie: Why are you calling me? Stop!
+
+256
+00:34:29.009 --> 00:34:31.019
+Tina Marie: It's a team's call. Sorry.
+
+257
+00:34:31.020 --> 00:34:31.920
+Dan: Calmly.
+
+258
+00:34:33.500 --> 00:34:38.060
+Tina Marie: a sister from a mission is calling me.
+
+259
+00:34:38.210 --> 00:34:40.340
+Tina Marie: But she's calling me on teams.
+
+260
+00:34:43.340 --> 00:34:44.430
+Tina Marie: That's weird.
+
+261
+00:34:44.620 --> 00:35:07.539
+Tina Marie: Okay, anyway. Anyway. Sorry. I just totally got derailed with my brain. Whatever. So it just having the conversations in chat like, if you're trying to solve a problem, it'd be interesting if you can be like having the conversation in the command line like, if you were, gonna build
+
+262
+00:35:07.920 --> 00:35:12.719
+Tina Marie: something to help me solve this problem with high level.
+
+263
+00:35:13.010 --> 00:35:24.336
+Tina Marie: how could you do it? What could we do? Have you? Do you know anything about open, router, open router? Whatever I listen to? Too many British people learn more about that
+
+264
+00:35:24.910 --> 00:35:32.169
+Tina Marie: anyway, there's I think, that there are ways that we can build integrations without having to use
+
+265
+00:35:32.960 --> 00:35:42.839
+Tina Marie: like Zapier or make, or Nan, or whatever some of these features that high level doesn't have.
+
+266
+00:35:43.380 --> 00:35:51.649
+Tina Marie: I mean you're you. You have programmers that you can hire and and get things done. But if you could build a
+
+267
+00:35:51.960 --> 00:36:00.919
+Tina Marie: basically a wireframe, right? So work out what you want to do, get as far as you can here within, you know, 20 min, half hour, whatever.
+
+268
+00:36:01.110 --> 00:36:09.799
+Tina Marie: and then go. Okay. This is what I think I need. And then you get them on a much closer starting point to where you actually want to be.
+
+269
+00:36:11.177 --> 00:36:18.529
+Tina Marie: Anyway, that's a thought about how you might use these instead of like going and just building things yourself, getting.
+
+270
+00:36:18.530 --> 00:36:23.659
+Dan: I'm doing that through the whole custom. Gpt right? So I built.
+
+271
+00:36:25.030 --> 00:36:29.439
+Dan: A custom, gpt that scope it, scope. It gpt so I'm like.
+
+272
+00:36:29.440 --> 00:36:29.890
+Tina Marie: I.
+
+273
+00:36:29.890 --> 00:36:35.540
+Dan: Job. This is what you're supposed to do. So I have to do ex exactly what you just talked about. So
+
+274
+00:36:35.690 --> 00:36:37.140
+Dan: I found.
+
+275
+00:36:37.530 --> 00:36:39.020
+Dan: Don't know how I found this.
+
+276
+00:36:39.980 --> 00:36:47.700
+Dan: I found this company called Kunaki and Kunaki. Oh, Shawn, Shawn, or Mark sent me some.
+
+277
+00:36:48.010 --> 00:36:53.410
+Dan: They sent me some pod, seedy, vinyl thing.
+
+278
+00:36:54.350 --> 00:37:22.860
+Dan: And I went, looked at it, and it was interesting. And then I'm like, I could just tell by looking at the website that this other company I'm like they don't have an Api. I know they don't. They're too new. So I hit them up. I'm like, you guys get an Api. They're like, no, I go. Okay. Great. They're like, you can use our landing pages. I'm like, I don't want to use your landing pages. And then they said, Yeah, but you can use our landing pages. And then I said, Okay, great. If I use your landing pages, do I get the customer data? Oh, no, we don't share that. I go. Well.
+
+279
+00:37:23.030 --> 00:37:24.200
+Dan: we're done here.
+
+280
+00:37:24.450 --> 00:37:34.390
+Dan: So I was like, they obviously can't they? I could tell. They just launched. I can't remember the name, but I got all right, there's gotta be somebody else. Right? So then I went to Gpt and was like.
+
+281
+00:37:34.510 --> 00:37:50.499
+Dan: Hey, I need a company that's like this that has an Api. And it came back with 3 companies, and Kunaki was one of them, and I'm like I've never heard of them. So then I go look at the kunaki site. I figure out they do have an Api. I think it's like, but their sites like super Ghetto. I was like, okay.
+
+282
+00:37:50.500 --> 00:37:50.910
+Tina Marie: Yeah.
+
+283
+00:37:50.910 --> 00:37:52.000
+Dan: Interesting.
+
+284
+00:37:52.260 --> 00:37:58.970
+Dan: So, then, that I then I found an app for shopify called Kunakify.
+
+285
+00:37:59.490 --> 00:38:00.160
+Tina Marie: What?
+
+286
+00:38:00.160 --> 00:38:03.480
+Dan: Which I love because the dude's like my flowy. He's like.
+
+287
+00:38:03.480 --> 00:38:03.965
+Tina Marie: Right.
+
+288
+00:38:04.450 --> 00:38:05.650
+Dan: And nadiring.
+
+289
+00:38:05.880 --> 00:38:06.500
+Tina Marie: Yes.
+
+290
+00:38:06.500 --> 00:38:07.540
+Dan: Oc. If I.
+
+291
+00:38:07.540 --> 00:38:09.690
+Tina Marie: Heard a nadir in so long.
+
+292
+00:38:09.690 --> 00:38:24.340
+Dan: I know I haven't been using lately. So canakify is a 3rd party app for shopify that connect, shopify to konaki so that people can, you know, do on? Demand Cds and Vinyl, I was like, Okay, that's what I want for high level.
+
+293
+00:38:25.260 --> 00:38:43.350
+Dan: So I figured out who the developer. I stalked, the developer found his contact page emailed him. I was like, Hey, man, I want to build a kunakify for my app fan flowy Yada Yada, he writes like this is over the course like a week. He writes me back, hey? I'm building one for high level right now.
+
+294
+00:38:43.850 --> 00:38:46.870
+Dan: and I said, That's great. I don't want to use that.
+
+295
+00:38:47.480 --> 00:39:10.079
+Dan: I was like, look, I don't know where you're gonna be in 5 years. I don't. Wanna. I don't wanna be reliant on some other somebody else's software. It's bad enough that you're relying on high level, right? It's like I'm building apps to extend high level to like increase the value of what I'm doing. I would want my own integration that I will never put on the marketplace because I have 0 interest in those kind of customers.
+
+296
+00:39:10.330 --> 00:39:14.159
+Dan: Would you consult with me on that?
+
+297
+00:39:14.790 --> 00:39:27.060
+Dan: And then he or he wrote back like, No, I don't really do consulting. And then I'm like you're not understanding what I'm saying. So then I wrote him back again, and then he wrote back, oh, yeah, I would do that. I was like, Okay, cool.
+
+298
+00:39:27.300 --> 00:39:46.150
+Dan: So now I have to. I just texted Sean right before this call. So Sean has shopify. So I'm like you need to go sign up for canocify. So I can look at the interface and see what it what I think it does and doesn't do. Then I'm gonna use my scope of Gpt and I'm gonna feed it. The canocify Api.
+
+299
+00:39:46.410 --> 00:39:49.830
+Dan: the high level Api. And then what I want
+
+300
+00:39:49.970 --> 00:39:58.179
+Dan: and see get how good of a scope it gets me. And it knows that I use larval, because that's part of how I defined it.
+
+301
+00:39:59.230 --> 00:40:03.860
+Dan: and then see see what it says. And then I'm gonna send that to Simon.
+
+302
+00:40:03.990 --> 00:40:12.949
+Dan: and then so I'll be like, this is what I think we want to build. And then Simon's like, gonna give me a quote for how much it would cost for him to help us not fuck it up.
+
+303
+00:40:16.690 --> 00:40:31.659
+Dan: and he'll probably because he's a dev, will not be able to help himself, but fix it and be like, no, do it like this, and then we'll get that code. Then Norio will coat overlord Saad's group, and we'll get that built.
+
+304
+00:40:31.890 --> 00:40:38.919
+Dan: and then we will be the only people that have. Pod. That'll just be another layer that nobody has.
+
+305
+00:40:40.390 --> 00:40:43.520
+Tina Marie: That's awesome. How is Norio? By the way.
+
+306
+00:40:44.842 --> 00:40:48.619
+Dan: He, I think his wife had a miscarriage.
+
+307
+00:40:48.890 --> 00:40:49.840
+Tina Marie: Oh!
+
+308
+00:40:49.840 --> 00:40:58.180
+Dan: And I think he's not telling us. And I'm not gonna ask. So yeah.
+
+309
+00:40:58.350 --> 00:41:06.610
+Dan: I mean, she's all. They're both like early forties. So it was already tenuous. I think it's happened before.
+
+310
+00:41:06.950 --> 00:41:18.110
+Dan: So he had. He had mentioned that that she was pregnant, and then he hasn't said a word since, and then he got kind of weird and went dark on us.
+
+311
+00:41:18.110 --> 00:41:18.600
+Tina Marie: All right.
+
+312
+00:41:18.600 --> 00:41:20.074
+Dan: Oh, I know what this is.
+
+313
+00:41:20.680 --> 00:41:28.049
+Dan: And so he sort of reemerged. But then I was like I emailed him the other day. I'm like, Look Bro, straight up. This is becoming a problem.
+
+314
+00:41:28.510 --> 00:41:40.740
+Dan: And then he like snapped out of it and was like, Okay, all right. And he like he's making sure that this new flow is going, and like there's been lots of going back and forth the last 3 days, and a lot of shit's
+
+315
+00:41:40.870 --> 00:41:58.080
+Dan: getting lined up. And I'm like, this is all this is all we need. We just need to push through this thing and get this communication sort of thing. And then fucking Eric. All Eric does complain. And I I'm serious. I swear to God if he does it today, I'm gonna be like, you know, you could go work somewhere else.
+
+316
+00:41:58.190 --> 00:42:05.409
+Dan: like, if you seriously Bro, like, you have nothing to complain about. This is like the best job ever.
+
+317
+00:42:05.410 --> 00:42:06.520
+Tina Marie: For real.
+
+318
+00:42:06.520 --> 00:42:13.059
+Dan: Yeah, I'm like, if you wanna go to a real office and realize like you're welcome to it.
+
+319
+00:42:13.320 --> 00:42:16.239
+Dan: because I don't need to listen to this shit like
+
+320
+00:42:16.600 --> 00:42:24.630
+Dan: I just don't understand how people can't reframe things like you just need to reframe. You're framing it negatively.
+
+321
+00:42:24.810 --> 00:42:25.550
+Tina Marie: Yep.
+
+322
+00:42:25.550 --> 00:42:31.550
+Dan: And then it. But and then it's like a vortex. And I'm like, it's this, everything's bad. I'm like, no, it's not.
+
+323
+00:42:31.550 --> 00:42:32.340
+Tina Marie: Yeah.
+
+324
+00:42:33.160 --> 00:42:34.500
+Tina Marie: Yeah. Dude.
+
+325
+00:42:34.500 --> 00:42:38.100
+Dan: Like he was complaining about the I go then fucking, fix it.
+
+326
+00:42:38.430 --> 00:42:39.660
+Dan: I don't like.
+
+327
+00:42:40.350 --> 00:42:48.290
+Tina Marie: It was miserable. Even when when you guys had a skate park, basically a pipe, whatever in your like, half pipe in your office.
+
+328
+00:42:48.290 --> 00:42:50.690
+Dan: Like it's not happening to you.
+
+329
+00:42:50.900 --> 00:42:51.330
+Tina Marie: Right.
+
+330
+00:42:51.330 --> 00:42:55.130
+Dan: Happening around you like you can, you can fix this.
+
+331
+00:42:55.260 --> 00:42:55.740
+Dan: It's what.
+
+332
+00:42:55.740 --> 00:42:57.290
+Tina Marie: Happening around him.
+
+333
+00:42:58.520 --> 00:43:05.969
+Dan: So he. He was complaining because he was like being a go between between the Devs and Norio, and then I was like then, just don't do that.
+
+334
+00:43:07.110 --> 00:43:16.301
+Dan: I go. What? Okay? So, Norio. This is what I hear. Norio is not in their Pm. System. Here's a thought. Get Norio added to the Pm. System.
+
+335
+00:43:18.230 --> 00:43:21.040
+Dan: My goodness, brilliant Dan, yeah.
+
+336
+00:43:21.290 --> 00:43:23.449
+Dan: Just tag them in the fucking comment.
+
+337
+00:43:24.950 --> 00:43:29.570
+Dan: So I'm like, I didn't even know these dev test. I go. I literally said, What are you talking about.
+
+338
+00:43:29.570 --> 00:43:30.380
+Tina Marie: Hmm.
+
+339
+00:43:30.380 --> 00:43:35.670
+Dan: He's like, what do you mean? What am I talking? I'm talking all the stuff at click. I go. Bro, I've done
+
+340
+00:43:35.810 --> 00:43:39.490
+Dan: 3 dev projects with them, and none of them are in click.
+
+341
+00:43:40.060 --> 00:43:44.190
+Dan: So if you're telling me these ones are in click, that's news to me.
+
+342
+00:43:44.190 --> 00:43:46.790
+Tina Marie: What is click exactly.
+
+343
+00:43:47.720 --> 00:43:51.859
+Dan: Zoho's. It's Zoho's Pm. Thing. It's terrible.
+
+344
+00:43:52.560 --> 00:43:54.220
+Tina Marie: Who invented that?
+
+345
+00:43:54.930 --> 00:43:57.680
+Tina Marie: Whose idea, like in your system.
+
+346
+00:43:57.680 --> 00:44:00.880
+Dan: Oh, no, it's theirs. It's not ours. Yeah.
+
+347
+00:44:01.320 --> 00:44:03.779
+Dan: Unfortunately, we can't make people change.
+
+348
+00:44:04.570 --> 00:44:06.090
+Dan: I wish we could.
+
+349
+00:44:06.090 --> 00:44:07.732
+Tina Marie: I mean Dan.
+
+350
+00:44:08.280 --> 00:44:10.659
+Dan: I mean, I could teach them better ways. This is true.
+
+351
+00:44:11.212 --> 00:44:19.589
+Tina Marie: You. You kind of have a a pattern of getting people to do the things that you want that are not what they normally do. So.
+
+352
+00:44:19.590 --> 00:44:21.069
+Dan: Better for them. Yeah.
+
+353
+00:44:21.070 --> 00:44:23.500
+Tina Marie: Yeah, but also better for you. So.
+
+354
+00:44:23.500 --> 00:44:25.040
+Dan: Yes, this is true.
+
+355
+00:44:25.170 --> 00:44:29.389
+Dan: Well, that's why I saw notion I was like, Oh, you can pm, with this thing like.
+
+356
+00:44:29.390 --> 00:44:31.000
+Tina Marie: Holy crap. Yes, okay. So that.
+
+357
+00:44:31.000 --> 00:44:32.370
+Dan: Very interesting.
+
+358
+00:44:32.370 --> 00:44:38.210
+Tina Marie: So we were talking about that I didn't know you could basically use it for freaking. Crm.
+
+359
+00:44:38.210 --> 00:44:42.309
+Dan: Yeah, you can use it for all kinds. It's it's I get.
+
+360
+00:44:42.310 --> 00:44:48.599
+Dan: You're basically able to. It's like, almost like a ui for a database. But but then.
+
+361
+00:44:48.600 --> 00:44:49.100
+Tina Marie: Really.
+
+362
+00:44:49.480 --> 00:44:50.060
+Tina Marie: Yes.
+
+363
+00:44:50.060 --> 00:44:51.209
+Dan: Way. More than that.
+
+364
+00:44:51.380 --> 00:44:56.549
+Tina Marie: Exactly. Okay. Hold on. Let me make this big and just show you I don't know.
+
+365
+00:44:56.550 --> 00:44:59.800
+Dan: Hilarious is I signed up for it. So
+
+366
+00:45:00.130 --> 00:45:10.010
+Dan: you know, I started this whole second brain concept. And then the I mean the difference between what you're doing and what I'm doing is I have 0 interest in ever selling this.
+
+367
+00:45:10.350 --> 00:45:13.609
+Dan: And I was like, I just need something that works for me.
+
+368
+00:45:13.720 --> 00:45:31.709
+Dan: And then, yeah, in theory, maybe I maybe I exhaust that and then need to amplify it for me. But I'm like that. I asked. Gpt. I'm like, how long could this last for me? And they're like years. I go great, that's all I need. I'm like, I'm not gonna be around. I'm not gonna be doing this much longer.
+
+369
+00:45:32.150 --> 00:45:32.950
+Dan: So.
+
+370
+00:45:32.950 --> 00:45:34.519
+Tina Marie: How long could what last for you?
+
+371
+00:45:34.670 --> 00:45:48.370
+Dan: The the notion set up before. I sort of exhaust, and they're they're like, no, this this will last for you like my current in Gpt memory. Not gonna last that long like I can already tell. It's forgetting stuff. And I'm like fuck.
+
+372
+00:45:48.860 --> 00:45:52.720
+Dan: But that's fine, because I can kind of reconstitute it all.
+
+373
+00:45:53.340 --> 00:45:59.050
+Dan: So cause I started going down the path that you're on. And then it I was like, Nope.
+
+374
+00:45:59.370 --> 00:46:07.199
+Dan: because then I'm sacrificing my current workflow. And I'm like, it's more important that I can keep working like I do like, through.
+
+375
+00:46:07.200 --> 00:46:08.450
+Tina Marie: You can just have it.
+
+376
+00:46:08.660 --> 00:46:28.249
+Dan: Through. Well, yeah, that's fine through like an app. Right? Cause I use the app exclusively on my, I never go to the Gpt website. I only use the desktop app, and I use the mobile app. And then I saw you can fake that with notion. You can fake a threaded conversation. It looks like you're having a threaded conversation. But you're really not
+
+377
+00:46:28.878 --> 00:46:35.039
+Dan: I was like, Okay, so I can fake that. I can fake that workflow. That'll give me the same feel.
+
+378
+00:46:35.290 --> 00:46:48.099
+Dan: and then but then I I will be. It's a level above the custom Gpt, because they they each have their own self contained. Yeah, they each have their own self contained memory.
+
+379
+00:46:48.100 --> 00:46:50.470
+Tina Marie: Well, also the file size. So.
+
+380
+00:46:50.470 --> 00:46:51.280
+Dan: File, size.
+
+381
+00:46:51.280 --> 00:46:57.729
+Tina Marie: So it's huge, like I. All of my custom. Gpts ran out of context because.
+
+382
+00:46:57.730 --> 00:47:02.160
+Dan: Yeah, they suck. They're yeah. They're good, for one thing. That's why I just made 9 that do one.
+
+383
+00:47:02.160 --> 00:47:28.180
+Tina Marie: Yes, yeah. But even then the problem is, everything that I do is so complex. And I want to keep a level of complexity. And that's just me. I realize, you know, 80 20 like I could give some stuff up, however, for me, like if I you know, if I'm thinking about Brand and having something that I know stands out. It is my complexity. And the way that I think
+
+384
+00:47:28.390 --> 00:47:31.340
+Tina Marie: that actually is the hardest to beat
+
+385
+00:47:31.630 --> 00:47:47.239
+Tina Marie: right. I don't. Nothing I do is really, really, really that unique, except for the way that I think so if I and let's say it wasn't even a business thing, just understanding the
+
+386
+00:47:47.400 --> 00:48:00.360
+Tina Marie: the way to use these tools at such a level, being able to accomplish that there would be so many problems that I could solve. Let's say I never had to work for anything, ever for the rest of my life.
+
+387
+00:48:00.570 --> 00:48:04.850
+Tina Marie: I would still come, use this technology to help everybody else do their.
+
+388
+00:48:04.850 --> 00:48:05.230
+Dan: And.
+
+389
+00:48:05.230 --> 00:48:08.250
+Tina Marie: You're better. You know what I mean.
+
+390
+00:48:08.480 --> 00:48:11.840
+Tina Marie: Yep, so I would do the same thing, no matter what. So
+
+391
+00:48:12.190 --> 00:48:31.580
+Tina Marie: so it aligns with everything for me on a, on a business plan, but just on a life use plan like these are the things that I like and want to do, anyway. So. Yeah, that's it. It works out for me. But there, like you said, you know, there, and especially
+
+392
+00:48:31.580 --> 00:48:44.880
+Tina Marie: with the 80 20 rule like, whatever you lose in that custom gpt like you're still head and shoulders above everybody else, and you're still, you know, getting speed right? What? What's a
+
+393
+00:48:45.780 --> 00:48:50.420
+Tina Marie: dan your thing, something money, execution, idea, money.
+
+394
+00:48:50.420 --> 00:48:51.889
+Dan: Good money, execution. Yeah.
+
+395
+00:48:51.890 --> 00:48:56.080
+Tina Marie: Right? So your system aligns with that.
+
+396
+00:48:56.690 --> 00:49:02.370
+Tina Marie: The fastest yeah, anyway. But I
+
+397
+00:49:03.540 --> 00:49:12.390
+Tina Marie: get embarrassed to say it. But I'm such a nerd that I really really delight in this, and have so much fun with it.
+
+398
+00:49:13.080 --> 00:49:18.179
+Dan: Oh, yeah, that's why I was like, oh, I mean it it right? Here's the problem.
+
+399
+00:49:19.470 --> 00:49:34.700
+Dan: Sometimes we ourselves go. You know what would be cool, and you have to stop yourself and say, Yeah, that would be cool. So I was doing that. I was like, Oh, yeah, I can. I'll do this, and then I'll use glide, and then and then I'm like looking, and I go. No, no, no! What do I really need?
+
+400
+00:49:35.100 --> 00:49:55.340
+Dan: What do I like what is the shortest distance between me and this? Right like the idea. And it's not. There's 2 paths, and one was that one was the other. And then this, this is actually a 3rd path, like, I was not considering notion. But then, when I introduced that into the mix, I was like, Okay, this is sort of
+
+401
+00:49:55.990 --> 00:50:07.069
+Dan: happy medium between the 2. And then also I was like, Oh, this is another way for me to cause. I always look at omni focus. I'm like, man, I gotta get back to that. But.
+
+402
+00:50:07.070 --> 00:50:08.330
+Tina Marie: Still do.
+
+403
+00:50:08.840 --> 00:50:09.420
+Dan: Do but.
+
+404
+00:50:09.420 --> 00:50:11.250
+Tina Marie: Abandon it forever, but it.
+
+405
+00:50:11.250 --> 00:50:20.432
+Dan: I know, cause it. It's hard for me to use. But then notions like, Oh, you can hook in G drive and calendar, and I was like, Oh.
+
+406
+00:50:20.760 --> 00:50:24.670
+Tina Marie: You can also look in Gmail this week as of this week.
+
+407
+00:50:24.670 --> 00:50:36.630
+Dan: Yeah, yeah, you can. I saw that, too. So I was like, okay, if I can have like jeep, and you can hook in teamwork it looks like which I would have to pay for. But I go okay. If I could get the team if I could go into a Dan dashboard
+
+408
+00:50:36.960 --> 00:50:45.119
+Dan: which I've never had, and and it was like all that stuff I'm like, oh, my God! That could be like next level! And the Gpt is in there, too. I'm like oof.
+
+409
+00:50:45.580 --> 00:50:48.090
+Dan: that could be huge for me.
+
+410
+00:50:48.850 --> 00:50:50.479
+Dan: So then I was like, All right.
+
+411
+00:50:50.700 --> 00:50:56.369
+Dan: I gotta go down this so. But now I'm like looking for a notion. Course I'm like I have to go through a course really quick, just to
+
+412
+00:50:56.750 --> 00:50:57.680
+Dan: figure out.
+
+413
+00:50:57.780 --> 00:51:02.779
+Dan: Figure out what I need to figure out, and then I got the dev dude ready to go, so
+
+414
+00:51:03.726 --> 00:51:04.620
+Dan: we shall.
+
+415
+00:51:05.460 --> 00:51:17.539
+Tina Marie: It's, you know, we have conversations about like pacing and synergy, and it's it's been a while. But so Chris Mason showed me notion.
+
+416
+00:51:18.470 --> 00:51:29.010
+Tina Marie: I think he started, or actually I did. I don't remember. I might. Somebody showed it to me, and then I dabbled in it with a couple of people, but I looked at it, and I'm like it's too much.
+
+417
+00:51:29.010 --> 00:51:34.930
+Dan: Too, it turns out, cause when I signed up yesterday, it's like you originally logged in. I was like, I don't even remember.
+
+418
+00:51:34.930 --> 00:52:03.179
+Tina Marie: Well, you know, when I learned something new, I tell everybody so. It was probably me because I was definitely using it for a little while, and looking like, Oh, my gosh! Because you can use it for project management and all these templates! But it has blown up. It's not I was like, is it publicly traded? I want this stock because the way that they're integrating AI and the fact like you just said, it's basically a Ui for infinite applications that people can build.
+
+419
+00:52:03.280 --> 00:52:05.459
+Tina Marie: It's nuts, anyway.
+
+420
+00:52:05.770 --> 00:52:21.089
+Tina Marie: But they understand these integrations and they understand the need to customize it at a user level. And I don't think it exists anywhere else.
+
+421
+00:52:21.570 --> 00:52:24.950
+Tina Marie: It's almost like high level, but way better.
+
+422
+00:52:25.520 --> 00:52:26.909
+Dan: Yeah, I mean, it's
+
+423
+00:52:27.860 --> 00:52:33.870
+Dan: it does seem like it has. Yeah, I think I think I saw that it had some automations, too, or whatever. And I was like, Oh, okay.
+
+424
+00:52:33.870 --> 00:52:42.829
+Tina Marie: It's got AI built into it. Notion AI like ask Chatgbt about it, and say, Look, you know everything I'm working on, and what I'm doing.
+
+425
+00:52:42.890 --> 00:53:08.519
+Tina Marie: I think I've been sleeping on notion. I know that it has AI capabilities. I know it has integrations. What does it ex? What does it integrate with my existing stack and tools. What what functions does it serve that I'm already working on that, you know. And tell me if there's a way that notion would make this better for me if I were to understand it. Taking into account the fact that
+
+426
+00:53:08.520 --> 00:53:29.630
+Tina Marie: wrapping my head around notion is laborious. It is a big task, but once that task is accomplished, and I understand the interface and how to use it. What, then, is my cumulative, compounding benefit? Saving time, you know, over the next 3, 6, 12 months.
+
+427
+00:53:29.650 --> 00:53:32.870
+Tina Marie: Ask Chatgpt to do that math for you.
+
+428
+00:53:33.130 --> 00:53:37.240
+Tina Marie: and I just about guarantee that
+
+429
+00:53:37.420 --> 00:53:41.869
+Tina Marie: you know in a few months. The it's a force multiplier.
+
+430
+00:53:42.060 --> 00:53:43.500
+Tina Marie: I hate
+
+431
+00:53:43.800 --> 00:53:55.289
+Tina Marie: wrapping my head around something new and complex right now, because I like, you know, short, digestible, speedy. I don't have that kind of attention span these days, but I will
+
+432
+00:53:55.540 --> 00:54:06.260
+Tina Marie: if I if I have to, and I think that this is one of those investments of time that will be worth it. Also because the other thing that I do as a system
+
+433
+00:54:06.370 --> 00:54:14.740
+Tina Marie: is watch trajectory evolution right? And
+
+434
+00:54:14.870 --> 00:54:20.750
+Tina Marie: how smart they are what they're doing, how it's evolved.
+
+435
+00:54:21.360 --> 00:54:41.040
+Tina Marie: This is staying. This will probably put a lot of things out of business eventually, maybe not because everybody can iterate so much faster now with AI. But I feel confident in spending the amount of time that I would need to spend to truly wrap my head around, and mostly it will just take practice
+
+436
+00:54:41.120 --> 00:55:07.639
+Tina Marie: doing things that feel tedious in the beginning. But I think that that's another thing I can do. I can look at Chat Gpt, and say, Look, this setup gets the things done, but the way that it looks, and the way that it feels is tedious to me like the font size is too small. I don't you know what I mean? Like when we look at these websites, there's big buttons, big sections. You move around them. It's not tedious. Notion is compact
+
+437
+00:55:07.750 --> 00:55:13.310
+Tina Marie: that shit drives me nuts. I don't want to see it anymore. I'm old. Okay.
+
+438
+00:55:13.310 --> 00:55:13.840
+Dan: It is.
+
+439
+00:55:13.840 --> 00:55:16.430
+Tina Marie: Surgery like that shit is hard on me.
+
+440
+00:55:16.990 --> 00:55:17.750
+Dan: Totally.
+
+441
+00:55:17.910 --> 00:55:21.002
+Tina Marie: And you know it is cause I just swore twice about it.
+
+442
+00:55:21.260 --> 00:55:25.800
+Dan: No, I'm telling you I you've never seen me close something so fast. I was like, Nope.
+
+443
+00:55:26.862 --> 00:55:29.100
+Tina Marie: Like Nope, Nope, Nope, Nope, Nope.
+
+444
+00:55:29.330 --> 00:55:32.269
+Dan: Nope, Nope, Nope, not today, not today's sake.
+
+445
+00:55:32.550 --> 00:55:57.010
+Tina Marie: But that that could be changed with the ui right? So you've probably got people designing it that are like young eyeballs and nerdy, and don't mind all this text, and I'm not that person. So but because it's so customizable. So, anyway, having those types of conversations with chat real quick and just be like, I love this, I hate this.
+
+446
+00:55:57.130 --> 00:56:08.269
+Tina Marie: How do we fix that? You know? Kind of thing, and just basically make it your own? So, either. Like is it simple enough for it to give you an out a template like I just had one. Hold on.
+
+447
+00:56:09.670 --> 00:56:12.460
+Tina Marie: If I don't know if you're still looking at my screen, but.
+
+448
+00:56:12.460 --> 00:56:13.080
+Dan: Right.
+
+449
+00:56:13.230 --> 00:56:17.630
+Tina Marie: And go up, up, up.
+
+450
+00:56:17.900 --> 00:56:20.480
+Tina Marie: No, must be down. Then
+
+451
+00:56:21.540 --> 00:56:27.499
+Tina Marie: one sec. It had basically a framework that it did dude. You're not even going down
+
+452
+00:56:28.450 --> 00:56:33.060
+Tina Marie: somewhere around here. We're talking this right?
+
+453
+00:56:34.020 --> 00:56:37.980
+Tina Marie: So it maps it out. And then it can
+
+454
+00:56:38.610 --> 00:57:07.219
+Tina Marie: help create these things. So then you could say, Hey, okay, I've got this. How do I do things and specify the layout and like? And and we know with AI everything works better if you have an example. So like, if there's an interface of anything that you like that has a really good like this doesn't hurt my eyes. It's easy to use. I navigate between this tab, this tab, this tab, but I like it. I've got a dashboard for this all in one like Monday. Monday does a good job
+
+455
+00:57:07.340 --> 00:57:22.360
+Tina Marie: right teamwork look wise. Monday is much easier on my eyes. Like, if you like, focus like, how would I use notion as omni focus? Here's the layout that I like, how would I design this?
+
+456
+00:57:22.360 --> 00:57:37.630
+Tina Marie: And if it's easy enough for you to create something right, tell me, give me basically an export file that I upload into notion to make for me great. If not, write this in a way that a developer can go, make exactly what I want, and be on the same page with me.
+
+457
+00:57:38.500 --> 00:57:45.859
+Tina Marie: That's how we use chat right now is, what are the gaps that have always pissed us off, whether it's
+
+458
+00:57:45.970 --> 00:57:54.409
+Tina Marie: out you know, layout how long it takes to get a developer to see your vision?
+
+459
+00:57:57.065 --> 00:58:04.159
+Tina Marie: you know all those all those little things. Whatever is tedious go to chat to make it less tedious. That's what I'm working on.
+
+460
+00:58:05.788 --> 00:58:08.980
+Dan: Oh, yeah, I mean, I use it incessantly.
+
+461
+00:58:09.320 --> 00:58:10.490
+Tina Marie: I know I love it.
+
+462
+00:58:10.490 --> 00:58:12.059
+Dan: Ridiculous. Yeah.
+
+463
+00:58:12.250 --> 00:58:14.243
+Tina Marie: Yes, okay.
+
+464
+00:58:15.720 --> 00:58:23.780
+Tina Marie: I pretty much talked through the whole thing. But I mean, you did tell me what you're working on, too. I want to use one of the prompts.
+
+465
+00:58:24.060 --> 00:58:25.899
+Tina Marie: I don't have them saved.
+
+466
+00:58:26.730 --> 00:58:28.189
+Tina Marie: I don't even know where.
+
+467
+00:58:28.770 --> 00:58:34.769
+Tina Marie: Also, I feel like my blood sugar is crashing, anyway. What's something? If you have something for me
+
+468
+00:58:34.880 --> 00:58:38.920
+Tina Marie: that I might not have thought about, that, I should try.
+
+469
+00:58:40.580 --> 00:58:42.359
+Dan: In relation to.
+
+470
+00:58:42.360 --> 00:58:43.750
+Tina Marie: AI period.
+
+471
+00:58:44.430 --> 00:58:45.670
+Dan: Just a in general.
+
+472
+00:58:46.050 --> 00:58:46.630
+Tina Marie: Huh!
+
+473
+00:58:47.090 --> 00:58:48.270
+Dan: Just in general.
+
+474
+00:58:48.470 --> 00:58:49.020
+Tina Marie: Yeah.
+
+475
+00:58:49.948 --> 00:58:52.820
+Dan: Let me see, what have I done recently?
+
+476
+00:59:00.050 --> 00:59:01.110
+Dan: Scrolling?
+
+477
+00:59:08.220 --> 00:59:12.092
+Dan: Oh, I've got all these. I I just collect prompts.
+
+478
+00:59:13.120 --> 00:59:14.989
+Dan: But what I was thinking was
+
+479
+00:59:15.900 --> 00:59:21.650
+Dan: my collecting of prompts. And what you're talking about is like for your thing.
+
+480
+00:59:21.850 --> 00:59:28.599
+Dan: It's like you would have like the Tina brain right at the top level if you will.
+
+481
+00:59:28.820 --> 00:59:33.659
+Dan: but then it's almost like they would. They would be like custom gpts
+
+482
+00:59:34.280 --> 00:59:38.790
+Dan: you would make them, and it's like how they onboard into Tina.
+
+483
+00:59:38.990 --> 00:59:41.999
+Dan: Right? So there's like, Hey, here's this.
+
+484
+00:59:42.160 --> 00:59:59.950
+Dan: you know, sort of like your intake that you do. You would break that into several gpts where you're like your goal is to get them to answer all these questions, and then it would just walk them through. And then it's feeding the their profile for you or or what in Gpt would be
+
+485
+01:00:00.480 --> 01:00:07.520
+Dan: probably like if you could build context around your clients. Right? So it
+
+486
+01:00:07.690 --> 01:00:18.260
+Dan: literally builds the context file. Then there when they interact with your Gpt, their context is loaded. So it's you talking to them, knowing what they're like.
+
+487
+01:00:20.170 --> 01:00:26.020
+Tina Marie: And know if new people would want to talk to. I don't know that they all
+
+488
+01:00:26.460 --> 01:00:34.070
+Tina Marie: yeah, especially if I keep getting the new non techie, like doctors and lawyers, things.
+
+489
+01:00:34.370 --> 01:00:44.400
+Dan: Yeah, but they, it's not like they're doing these huge, long ass things. It's like, okay, once a week. It's like, Hey, just do this, and it's a little bit and a little bit and a little bit. But
+
+490
+01:00:44.530 --> 01:00:48.689
+Dan: cumulatively, they create a context file
+
+491
+01:00:48.900 --> 01:01:05.500
+Dan: where, like you essentially do this like, you're looking at people going. This is how this person thinks this is how, instead, you just get that right up front. You don't need to figure it out over time. You have them go through this. It's a dual dual purpose, like onboarding slash context to fire.
+
+492
+01:01:05.640 --> 01:01:12.160
+Dan: And it's like, Oh, okay, this. This is how this person thinks this is how this, this is their
+
+493
+01:01:12.410 --> 01:01:14.149
+Dan: the context in which
+
+494
+01:01:14.630 --> 01:01:30.759
+Dan: they operate. And now I know it. And now my AI knows it. So if they ever come talk to my AI, the AI knows. The context of like this is how I should respond to this person. This is what's gonna res this, this team of information
+
+495
+01:01:30.980 --> 01:01:37.419
+Dan: that is helpful needs to be delivered to this person like this because they're this type of thinker.
+
+496
+01:01:37.730 --> 01:01:38.350
+Tina Marie: You know.
+
+497
+01:01:38.750 --> 01:01:39.440
+Dan: I went through
+
+498
+01:01:39.440 --> 01:02:05.849
+Dan: a bunch of. I went through one that because I asked Gpt, I was like, Hey, I've got this like it was telling me you need to build the context on yourself to build the Gpt around yourself right? And I was like, what was my context look like, and it spit out this Json file, and it's like you are an analytical thinker. You move fast, you you try. You know what you want to do. Then you go figure out the pieces that you need to get you there like you don't waste time.
+
+499
+01:02:06.000 --> 01:02:11.230
+Dan: You'll but you'll go deep when you have to. Whatever it was very accurate, I was like, yep, that's right.
+
+500
+01:02:11.460 --> 01:02:12.779
+Dan: So then
+
+501
+01:02:13.010 --> 01:02:24.660
+Dan: I got a prompt from that dude, I think, on X, and it was like use this to figure out what kind of thinker you are. And it just walked me through like a series of 7 or 8 questions.
+
+502
+01:02:25.220 --> 01:02:30.560
+Dan: And then it was like, Okay, this is. And it was like, How would you solve this problem? And it just lays out the problem.
+
+503
+01:02:30.690 --> 01:02:43.612
+Dan: And it gives you ABC, you got 3 or 4 ups whatever, and at the end of it it was like it. It was an additional context that I showed. Gpt, I'm like, would this be something I add to my context, it's like, absolutely
+
+504
+01:02:44.344 --> 01:02:48.610
+Dan: you would, absolutely. And I was like, Okay, I'm I'm starting to get it.
+
+505
+01:02:50.524 --> 01:02:51.820
+Dan: But yeah, so.
+
+506
+01:02:51.820 --> 01:02:53.680
+Tina Marie: Did it to give you a context file.
+
+507
+01:02:54.190 --> 01:02:57.759
+Dan: I just added asked it to make it, and it spit out a Json file.
+
+508
+01:02:59.090 --> 01:03:03.740
+Tina Marie: Oh, did you feel like it was comprehensive enough.
+
+509
+01:03:05.020 --> 01:03:32.369
+Dan: Yeah, I mean, it was interesting the questions that it asked, but that's the whole thing like you can take it. And then I just looked at like I started taking people's prompts like some people are like, Try this prompt. I'm like, it's a fucking paragraph. I'm like, this is a shitty, prompt like. Conceptually, I like where you're going right? Like I got this guy was like, you need the rewire your mind, and it's like
+
+510
+01:03:32.700 --> 01:03:36.609
+Dan: act as a neuroplasticity expert and cognitive enhancer.
+
+511
+01:03:38.000 --> 01:03:40.785
+Tina Marie: Mental training program. And it's like boarded.
+
+512
+01:03:41.480 --> 01:03:43.160
+Dan: It's like, okay.
+
+513
+01:03:43.160 --> 01:03:43.780
+Tina Marie: You.
+
+514
+01:03:44.670 --> 01:03:50.970
+Dan: That's a good idea. But I'm like this prompt could be so much better. Because it's
+
+515
+01:03:51.100 --> 01:03:53.020
+Dan: I've now learned that
+
+516
+01:03:53.150 --> 01:03:59.820
+Dan: structurally you're like, Hey, this is who you are. Gpt, this is what I want you to get right.
+
+517
+01:04:00.030 --> 01:04:01.230
+Dan: So I've
+
+518
+01:04:01.360 --> 01:04:24.590
+Dan: took these other prompts and I fed it to Gpt. And I'm like, tell me what's good about these prompts. And it was like, Oh, the structure and the dot. And I said, Okay, great. Tell me what's missing. And like, okay, this is missing. I said, Okay, great. Now write me a custom. Gpt, that will help me build these prompts in the future. And I was like, sure. Here you go. I was like this is the description. This is the knowledge base. And now I have a.
+
+519
+01:04:24.670 --> 01:04:34.039
+Dan: you know, prompt assistant. Gpt, so I go into that and say, I want to write a prompt for Xyz. So I would load up like this dude's baby prompt.
+
+520
+01:04:34.200 --> 01:04:35.970
+Dan: and then it will spit out
+
+521
+01:04:36.390 --> 01:04:38.660
+Dan: much more elaborate, prompt at the end.
+
+522
+01:04:39.200 --> 01:04:49.039
+Dan: So it's like your stuff. You could do something similar like, Hey, I you know you extract a crap load of data in that 1st
+
+523
+01:04:49.160 --> 01:04:50.680
+Dan: thing, like as I recall.
+
+524
+01:04:50.680 --> 01:04:52.830
+Dan: Oh, yes, or whatever right.
+
+525
+01:04:52.830 --> 01:04:53.796
+Tina Marie: 6. Pages.
+
+526
+01:04:54.280 --> 01:04:56.769
+Dan: Yeah, so it could be like 6 gpts.
+
+527
+01:04:56.980 --> 01:05:00.410
+Dan: 6 short little boop, boop, boop, boop, boop! But.
+
+528
+01:05:00.650 --> 01:05:11.430
+Tina Marie: There are. There's sections. So yeah, for each section. What I'm gonna do is gonna take this this transcript and run it through, chat, Gpt and then have it
+
+529
+01:05:11.450 --> 01:05:40.239
+Tina Marie: basically better analyze what you just did. But one of the things that I was doing which is in alignment is this is my client manager. What I wanted to do was have a system that takes all of my zoom, calls and transcribes it, and then runs it through. 1st of all the context of everything. You know, all previous stuff, which is another reason like I want it local. I don't want it chat, Gpt, or anything like that, because privacy like it doesn't need to know my people's everything or my everything.
+
+530
+01:05:40.510 --> 01:06:02.679
+Tina Marie: But but then I was thinking about that. I was like what what I wanna do is be able to have it in real time, actually build something of my own that's transcribing in zoom right? Not just zoom, or one of these plugins, but my own thing, which probably bigger and complicated. But we're narrowing that gap much, much faster into how that can happen.
+
+531
+01:06:02.750 --> 01:06:21.599
+Tina Marie: Where, then it can go. Okay, here's what's happening based off of what we know. So now it's referencing the past database of all the calls that we've had with this client. Here's the questions that you should be asking now to get the most momentum for this particular client. But also, what if I built a version? That is
+
+532
+01:06:21.891 --> 01:06:50.410
+Tina Marie: let's say it's a sales helper, right? So this is a sales call. This is an intro call. Get to know you. It's an opportunity to get a new client. What are the kinds of questions? And then but but then it also has. You know, it's programmed to say, Okay, you need to listen to the answers. This person is given. Right? You've heard the salesperson, let's say, Tina, ask these questions over and over again. These are the different types of answers and profiles. What do we know about this person? The way that they're responding.
+
+533
+01:06:50.410 --> 01:06:53.819
+Tina Marie: that lets me know this is what they need to hear.
+
+534
+01:06:53.940 --> 01:07:05.046
+Tina Marie: to help them feel like we can answer their questions or flag. The salesperson be like, this person is not a good match for you. Abort, abort, abort.
+
+535
+01:07:05.430 --> 01:07:10.360
+Dan: Yeah, yeah. But it's like, I mean, now, I'm thinking, like the
+
+536
+01:07:12.010 --> 01:07:16.781
+Dan: I mean that that it gets way more complicated. But it's like, okay, well, what is?
+
+537
+01:07:17.190 --> 01:07:28.459
+Dan: I think this is how I got to notion. I think I asked. Gpt. I'm like, you know, I like the Ghetto version. Tell me what the Ghetto version is, and I think that's how I started down this notion path. It's like, well, you could do this, and I was like.
+
+538
+01:07:28.460 --> 01:07:31.540
+Tina Marie: We call it Mvp. But that's the same thing like, what's the.
+
+539
+01:07:31.540 --> 01:07:32.100
+Dan: Yeah.
+
+540
+01:07:32.100 --> 01:07:33.340
+Tina Marie: Easiest way. Notion.
+
+541
+01:07:33.340 --> 01:07:33.870
+Dan: Yeah.
+
+542
+01:07:33.870 --> 01:07:34.599
+Tina Marie: Coming up.
+
+543
+01:07:34.810 --> 01:07:44.150
+Dan: So it's like, if you I mean taking into what you just said. Now I'm thinking of. Tina had this set up in notion where I'll just use Mark.
+
+544
+01:07:44.440 --> 01:07:45.700
+Dan: Let's say you had.
+
+545
+01:07:45.700 --> 01:07:46.649
+Tina Marie: It was Mark.
+
+546
+01:07:47.790 --> 01:08:01.389
+Dan: suite. Yeah. So you have suite law as a client. Right? Pro slash project, right? So it becomes a project in in notion. In in this setup, right? And then that project has a knowledge base.
+
+547
+01:08:01.690 --> 01:08:02.930
+Dan: a context.
+
+548
+01:08:03.240 --> 01:08:17.589
+Dan: And then you're transcribing phone calls to it. And you're just constantly feeding it data every week, but it also has. He did all the onboarding right? So that's part of the knowledge base. So it becomes this brain around the project.
+
+549
+01:08:17.840 --> 01:08:25.759
+Dan: and then the brain around you. Not, miss, there's not. Well, if you had a Tina one in there, too, they can talk. They can.
+
+550
+01:08:25.760 --> 01:08:26.660
+Tina Marie: I'm building.
+
+551
+01:08:26.700 --> 01:08:28.800
+Dan: Yeah, they can go between each other.
+
+552
+01:08:29.340 --> 01:08:34.030
+Dan: But it's like, it's this idea that then that
+
+553
+01:08:34.340 --> 01:08:47.880
+Dan: that project just knows everything. Right? So it's like, yeah, yeah, you transcribe a phone call and you run it through like a post call. Gpt, and you're like, this is your job. You need to find any tasks that you think we're in here.
+
+554
+01:08:48.060 --> 01:08:58.490
+Dan: and then at the it. Just send you a review at the end and said, Hey, this is what went on on the call. Blah blah! These are the tasks that I saw, and then you review it and go. Yep, yep, that looks right. And then you.
+
+555
+01:08:58.540 --> 01:09:19.599
+Dan: Then you say, and then maybe it makes like a you say, make a knowledge base, a relevant knowledge base, or whatever, from this call that's relevant to the greater project right? Because it could strip out the extraneous shit about like Chona. Right? It would just be like that. You talked about this Chona stuff. I didn't include it correct. Don't include that.
+
+556
+01:09:20.250 --> 01:09:23.519
+Dan: And then, in the context of like.
+
+557
+01:09:23.689 --> 01:09:28.108
+Dan: if it like, let's say, Mark, God forbid! Had quarterly goals
+
+558
+01:09:29.740 --> 01:09:55.989
+Dan: right? And then it was all. And then that was part of it, too. You're like it's it knew that you're in a quarter, and it's working towards quarterly goals. And you're like tracking that. And you have like a notion board for Mark. That's like, okay, this is what's happening. I mean, that'd be crazy. And then it's like, is this worth turning into an app like? I've now done it in practical. I've used it like it does what I want.
+
+559
+01:09:56.460 --> 01:10:07.939
+Dan: Now, how do I turn this into an app, these these same things? Because that's the problem I see with the app is like, and I'm sure there's a way to do this, but you would have to be able to create like
+
+560
+01:10:08.050 --> 01:10:10.200
+Dan: a container for each project.
+
+561
+01:10:10.640 --> 01:10:15.319
+Dan: which I'm sure is doable. But I just like I'm like. I don't know how to do that. I don't that
+
+562
+01:10:15.470 --> 01:10:20.760
+Dan: that's where I think it gets into this crazy database. Architecture shit that like is way beyond me.
+
+563
+01:10:22.190 --> 01:10:27.809
+Dan: So that's why that's why I ended up going. I just need to do something that works for me. And then it's like.
+
+564
+01:10:27.920 --> 01:10:31.100
+Dan: it's the it's the age, old thing, solve your problem.
+
+565
+01:10:31.570 --> 01:10:37.565
+Dan: And then, if it's a problem that other people have, you can sell it. But if you just if I just solve my problem. I'll be pretty pleased.
+
+566
+01:10:38.830 --> 01:10:45.340
+Tina Marie: Yeah, I that was a lot to distill and think about. And now I'm just like.
+
+567
+01:10:45.720 --> 01:10:54.229
+Dan: No, yeah, no. It was a lot to to pour out of me because I was like, Oh, I'm looking at the ceiling. So you know, I'm really rolling. I'm like, Oh, okay, yeah, yeah.
+
+568
+01:10:54.980 --> 01:11:00.679
+Tina Marie: Yes, so I'll go back to, though, like.
+
+569
+01:11:01.170 --> 01:11:04.189
+Dan: Oh, here, here's a funny story, though. Here's the universe.
+
+570
+01:11:04.815 --> 01:11:05.440
+Tina Marie: Okay.
+
+571
+01:11:05.650 --> 01:11:13.139
+Dan: Literally. I signed up for notion yesterday. I started looking at notion. A week ago. I signed up for it yesterday. This morning. Sean goes. Check this out
+
+572
+01:11:13.350 --> 01:11:14.320
+Dan: notion.
+
+573
+01:11:15.060 --> 01:11:16.220
+Dan: I go.
+
+574
+01:11:16.220 --> 01:11:20.949
+Tina Marie: What I tell you about notion and synergy and pacing. I just said that.
+
+575
+01:11:20.950 --> 01:11:28.920
+Dan: I I was like, I will be an expert in that or a hater by the end of next week. So I was like, just give me about a week, and I'll tell you. I'll tell you if it's any good.
+
+576
+01:11:29.190 --> 01:11:36.580
+Tina Marie: I'll tell you. If you're a hater of it, it's because it hasn't been customized the way you want it to, but it can be.
+
+577
+01:11:37.220 --> 01:11:40.261
+Dan: Yeah. Well, and his example was, it was a
+
+578
+01:11:41.250 --> 01:11:59.889
+Dan: I'll just call it a progress tracker. That's way inaccurate, for, like independent artists to manage themselves. And I said, Sean, I can tell you right now. I opened it and closed it. There's no way some band guys gonna be like this. Is it like they will lose their minds. They'll never. It's way too much.
+
+579
+01:12:00.860 --> 01:12:04.680
+Tina Marie: Yeah, yes, yep. And that.
+
+580
+01:12:04.680 --> 01:12:06.190
+Dan: Dirt looks great.
+
+581
+01:12:07.210 --> 01:12:15.040
+Tina Marie: What I was gonna say is, though, you like, you know, and this gets more complicated and it takes more time. But think about you know where we're at
+
+582
+01:12:15.160 --> 01:12:17.210
+Tina Marie: in life seasons.
+
+583
+01:12:17.400 --> 01:12:41.140
+Tina Marie: Where is your time? Gonna go right now? It's going to go to music making. It will always go to business building, right? Because it's that's just a function that you serve everywhere you go. It's the brain that you have that will help everybody like you. You probably can't have a conversation with somebody and not add some value if it's business related. So
+
+584
+01:12:41.140 --> 01:12:48.110
+Tina Marie: in terms of like longevity, I'm thinking, you know, next 1, 2, 3 decades of life.
+
+585
+01:12:48.530 --> 01:12:51.580
+Tina Marie: You're going to be involved in music making.
+
+586
+01:12:51.770 --> 01:12:58.569
+Tina Marie: You're always going to have the business brain. You may not have the interest in it. But whatever is built now.
+
+587
+01:12:58.960 --> 01:13:03.560
+Tina Marie: framework wise, knowing the tools.
+
+588
+01:13:04.070 --> 01:13:12.490
+Tina Marie: all of the tools are going to be iterations and evolutions of what exists now to a degree.
+
+589
+01:13:12.610 --> 01:13:18.259
+Tina Marie: There's only so much change that could happen. But framework, wise as far as anything exists.
+
+590
+01:13:18.420 --> 01:13:26.560
+Tina Marie: notion is the most so like we, the competitors are more like salesforce.
+
+591
+01:13:27.078 --> 01:13:43.810
+Tina Marie: Really, I don't even know what a competitor to salesforce truly is. I know that there's entrepreneur, and I know that there's infusion soft, but they really don't have the complexity that salesforce does. But salesforce is corporate. It's bloated, it's limited.
+
+592
+01:13:43.810 --> 01:13:44.570
+Dan: Oh, it's all.
+
+593
+01:13:44.570 --> 01:13:48.410
+Tina Marie: Customize it. So notion is
+
+594
+01:13:48.610 --> 01:13:58.120
+Tina Marie: between notion and high level, the competitor to salesforce that never existed with the ability to customize things, and now
+
+595
+01:13:58.360 --> 01:14:07.850
+Tina Marie: add into that the appendages of Zapier make NAN out, right? etc. Those types of things. Yeah.
+
+596
+01:14:07.940 --> 01:14:30.780
+Tina Marie: we have the ability, although it's not super fast. It's faster than it's ever been to create kind of these custom frameworks. The basis, right? That that's the way that you operate. That's what you did. It doesn't exist. I'm going to build it. It took a long time to build. None of these are going to take as long as any of that did.
+
+597
+01:14:30.950 --> 01:14:51.429
+Tina Marie: and your job is in one way to add the complexity. But in another way it's to remove the complexity right that other people have built in that is never going to get used. And you know, from experience it's never going to get used. So what actually does matter? What is the essential? And I think that
+
+598
+01:14:51.860 --> 01:14:58.159
+Tina Marie: the ability to distill and refine is the higher level skill
+
+599
+01:14:58.350 --> 01:15:04.499
+Tina Marie: that is always going to be needed. Lots of people can overcomplicate. That's what they do.
+
+600
+01:15:04.990 --> 01:15:10.230
+Tina Marie: They build and build and build and build and build right. But if your building is.
+
+601
+01:15:10.370 --> 01:15:37.460
+Tina Marie: let me take away the extraneous right, so that what gets used is actually, what matters right, what what matters gets measured everything else. Nothing happens. So anyway, in terms of like the investment of learning this particular thing, I would say. It's as as valuable, as high level. It's as valuable as you learning Bootstrap figma
+
+602
+01:15:39.340 --> 01:15:41.340
+Dan: Oh, yeah, I mean, I'm I'm going in.
+
+603
+01:15:41.750 --> 01:15:42.910
+Dan: I'm for sure going there.
+
+604
+01:15:42.910 --> 01:15:46.449
+Tina Marie: I know when you're talking about, maybe getting out I'm like, don't get out just.
+
+605
+01:15:46.450 --> 01:15:48.000
+Dan: No, no, I'm only gonna get out.
+
+606
+01:15:48.000 --> 01:15:48.470
+Tina Marie: Yours.
+
+607
+01:15:48.470 --> 01:15:50.509
+Dan: If I figure out it's not going to work.
+
+608
+01:15:50.740 --> 01:15:57.830
+Dan: But yesterday I was like, Oh, today's not the day I was like, I got some tasks. I gotta get my tasks done. Stay on task.
+
+609
+01:15:58.330 --> 01:16:10.160
+Tina Marie: That's good. I like this because Dan Dan Brain used to go bing, bing, bing, bing, bing! And that didn't work for you, cause you've got too many things to manage. I don't. I just have me so I can bing, bing! All I want to.
+
+610
+01:16:10.440 --> 01:16:11.030
+Dan: Yeah.
+
+611
+01:16:11.660 --> 01:16:12.290
+Tina Marie: Yeah.
+
+612
+01:16:12.290 --> 01:16:13.320
+Dan: Totally.
+
+613
+01:16:13.840 --> 01:16:23.179
+Tina Marie: Alright. With that I need to go like, put some food in. I had a half of a 5 h energy, and it did nothing for me. This conversation helped.
+
+614
+01:16:23.290 --> 01:16:26.450
+Tina Marie: but as soon as it's over, like my body's just gonna go.
+
+615
+01:16:26.450 --> 01:16:35.790
+Dan: Oh, I gotta tell you my new favorite app it's called Downey, DOW. Yeah DOWN IE.
+
+616
+01:16:36.200 --> 01:16:38.439
+Dan: I don't know how often you download videos.
+
+617
+01:16:38.440 --> 01:16:40.955
+Tina Marie: The way we spell downy downy. What sorry.
+
+618
+01:16:41.270 --> 01:16:45.420
+Dan: That I don't know how often you download videos, but it turns out I do it every day.
+
+619
+01:16:45.850 --> 01:16:46.210
+Tina Marie: This.
+
+620
+01:16:46.210 --> 01:16:49.629
+Dan: This thing makes its it downloads anything.
+
+621
+01:16:49.880 --> 01:16:54.580
+Dan: So like Youtube, video, click embedded video on a web page. Click.
+
+622
+01:16:55.135 --> 01:16:55.400
+Tina Marie: We.
+
+623
+01:16:55.400 --> 01:16:57.259
+Dan: Entire entire courses.
+
+624
+01:16:57.650 --> 01:17:00.209
+Tina Marie: Seasons of Big Bang theory.
+
+625
+01:17:01.401 --> 01:17:11.639
+Dan: I mean, I've downloaded an entire course by logging into the site. It can see every video on the page, and then you select which ones you want, and then you just hit go.
+
+626
+01:17:11.840 --> 01:17:17.229
+Dan: So I download like I had this spotify. Course, I'm like, I'm never going through this course downloaded the whole thing.
+
+627
+01:17:17.230 --> 01:17:25.299
+Tina Marie: I feel like people have gone through class action lawsuits and been sued by the Ftc. And had millions of dollars taken from them for doing shit like this.
+
+628
+01:17:26.490 --> 01:17:28.190
+Dan: Well, I mean, you bought the videos.
+
+629
+01:17:29.760 --> 01:17:30.270
+Tina Marie: Oh!
+
+630
+01:17:30.270 --> 01:17:36.859
+Dan: I mean, I'm just trans. I did. I just transcribe them and then tell Gpt to turn it into a a plan
+
+631
+01:17:37.060 --> 01:17:45.649
+Dan: like, Show me what to tell me. Explain this whole thing to me right? So like I bought, here's perfect example. I'm like, Oh, my God, I'm never gonna go through this. Now I am.
+
+632
+01:17:45.820 --> 01:18:10.669
+Dan: I bought. Ezra Firestone sold his shit for like a gazillion dollars, and then he made a course with the guys that he sold the company through on, hey? This is how you prep yourself to sell your company, I was like, oh, that's relevant. So I bought it. But then I'm like, I'm not going to spend 8 h going through this thing like there's not 8 h worth of shit in here.
+
+633
+01:18:10.900 --> 01:18:11.510
+Dan: There's.
+
+634
+01:18:11.510 --> 01:18:28.379
+Tina Marie: That's I bought Peter Parker's trading stuff, and then I stopped. It just took so long. Here's the thing. Here's the reason why I wanted to keep his stuff, but he he locks it like, if you lose your subscription like you don't get access for the course you paid for. You don't pay for the course you pay for access, which, really
+
+635
+01:18:29.140 --> 01:18:48.179
+Tina Marie: but I but I was like, but he takes forever to get to the point, but his points are kind of genius, so they're worth through, except for I still couldn't just like I don't have the time to sift through it at this moment for the nuggets, but I want the nuggets. I paid for the nuggets.
+
+636
+01:18:48.450 --> 01:18:49.310
+Dan: Right.
+
+637
+01:18:49.600 --> 01:18:52.000
+Tina Marie: Yeah, I love them.
+
+638
+01:18:52.250 --> 01:18:59.600
+Dan: Yeah. So I didn't realize how much I downloaded videos until I got this. And then now I'm like, Oh, I'll just. I'll just download that.
+
+639
+01:19:00.230 --> 01:19:04.969
+Tina Marie: I'm glad download the script done your your library in notion it'd be like.
+
+640
+01:19:04.970 --> 01:19:05.779
+Dan: Then I just
+
+641
+01:19:06.360 --> 01:19:11.749
+Dan: it through descript. Then I run it through Gpt, and then I will stick it in a Google Doc
+
+642
+01:19:12.000 --> 01:19:14.709
+Dan: and then attach it to notion. Yeah, totally.
+
+643
+01:19:15.820 --> 01:19:19.303
+Tina Marie: Yeah, we were separated at birth. You're just my nerdy brother.
+
+644
+01:19:19.620 --> 01:19:34.360
+Dan: I realized it's so funny because the notion thing when I saw it integrate with G drive. And I was like, Oh, yeah. Then I realized, how much time do I spend going to G drive looking for shit, because God knows that thing's not organized and never is going to be.
+
+645
+01:19:34.530 --> 01:19:41.080
+Tina Marie: Google and Chat Gbt integrate with it, too. I mean, I'm now integrates with it. Also.
+
+646
+01:19:41.080 --> 01:19:44.439
+Dan: Yeah, yeah, it's great. I'm like, Okay, I'm I'm doing it.
+
+647
+01:19:44.720 --> 01:19:45.750
+Dan: I'm doing it.
+
+648
+01:19:46.390 --> 01:19:47.020
+Tina Marie: Oof.
+
+649
+01:19:47.140 --> 01:20:02.690
+Tina Marie: I'm having too much fun. It's good. It's not too much fun, because this getting to the point of like the last child leaving after 4 of them. Been a mom 24 years, and I'm on the last 2 like this is, anyway, it's wild. So I'm grateful for the nerdy distractions.
+
+650
+01:20:02.870 --> 01:20:04.409
+Dan: No, I don't think about that.
+
+651
+01:20:04.600 --> 01:20:08.449
+Tina Marie: All right, I need food.
+
+652
+01:20:08.660 --> 01:20:15.219
+Tina Marie: Okay, I don't have any close. I didn't ask lots of questions. I get to bombard you with other questions next week.
+
+653
+01:20:15.940 --> 01:20:19.720
+Dan: Here. I'll give you an update. So we figured out, I think we're right.
+
+654
+01:20:20.170 --> 01:20:24.049
+Dan: Ninja should be over 5,000 subscribers by the end of the summer.
+
+655
+01:20:24.610 --> 01:20:25.920
+Tina Marie: Wow!
+
+656
+01:20:25.920 --> 01:20:30.059
+Dan: I know Bobby and I were like Oh, my God! And that's on the low end.
+
+657
+01:20:30.230 --> 01:20:30.860
+Dan: That's.
+
+658
+01:20:30.860 --> 01:20:31.300
+Tina Marie: Using the.
+
+659
+01:20:31.300 --> 01:20:34.380
+Dan: Current math. Yeah, because I go. Wait a minute.
+
+660
+01:20:34.850 --> 01:21:02.480
+Dan: What? What's I go? Dude? We're going into the high season. We must have an average increase. And Bobby Bobby's so funny. He's like, Oh, my God, dude! I never thought of that. And so then he goes and does the math, and he comes back. He's like, it's 15%. We average 15% increase in overall subscribers every busy season which starts right now. So then, we applied that math, but we still can't factor in the unknown. So I'm like Dude. It's a minimum of that.
+
+661
+01:21:02.650 --> 01:21:06.099
+Dan: So it comes out. It comes to 5,000. It's over 5,000,
+
+662
+01:21:06.260 --> 01:21:08.279
+Dan: I was like. I'll take it.
+
+663
+01:21:08.530 --> 01:21:10.180
+Dan: Oh, bonkers! Dude.
+
+664
+01:21:11.400 --> 01:21:14.207
+Tina Marie: It is, but it isn't like, but it is.
+
+665
+01:21:14.740 --> 01:21:17.560
+Dan: Correct exactly. You couldn't have said it any better.
+
+666
+01:21:18.600 --> 01:21:19.180
+Tina Marie: Cool.
+
+667
+01:21:19.180 --> 01:21:26.919
+Dan: I feel like, I'm like, Oh, this is cool. Oh, okay, yeah, it is. We don't really know. But it is.
+
+668
+01:21:26.920 --> 01:21:27.830
+Tina Marie: Right.
+
+669
+01:21:27.830 --> 01:21:30.719
+Dan: Because the numbers way higher. Yep.
+
+670
+01:21:31.740 --> 01:21:35.660
+Tina Marie: Well, because, but also like you've done the things.
+
+671
+01:21:36.110 --> 01:21:39.580
+Tina Marie: And there was no way of knowing
+
+672
+01:21:39.870 --> 01:21:48.829
+Tina Marie: the the way that it would change things. But you knew that if anything was going to change it, it was this, right like.
+
+673
+01:21:48.830 --> 01:21:49.470
+Dan: Yes.
+
+674
+01:21:49.470 --> 01:21:53.479
+Tina Marie: And then how much and all of that so wild!
+
+675
+01:21:54.310 --> 01:22:08.279
+Tina Marie: But all of these things always are just proof of 1st of all, showing up consistently every day, showing up strategically and consistently every day.
+
+676
+01:22:08.750 --> 01:22:17.119
+Tina Marie: does what can only other be described as like good luck, magic miracles whatever to other people.
+
+677
+01:22:17.370 --> 01:22:26.779
+Tina Marie: But it is the pattern that if you show up strategically and consistently every day, crazy, good shit happens.
+
+678
+01:22:28.590 --> 01:22:29.549
+Tina Marie: told him something.
+
+679
+01:22:29.690 --> 01:22:30.910
+Tina Marie: That's all I'm saying.
+
+680
+01:22:30.910 --> 01:22:32.349
+Dan: That's all there is to it.
+
+681
+01:22:32.350 --> 01:22:43.520
+Tina Marie: But you know most people won't show up period consistently, much less consistently and strategically, and actually use their brains
+
+682
+01:22:45.930 --> 01:22:46.960
+Tina Marie: anyway.
+
+683
+01:22:47.370 --> 01:22:54.150
+Tina Marie: All right. Well, that was an awesome update. Okay, I will talk to you Monday.
+
+684
+01:22:54.600 --> 01:22:55.360
+Dan: Cool.
+
+685
+01:22:55.520 --> 01:23:01.760
+Tina Marie: Have a good week. Oh, wait, wait! I do have to ask one more question. How did the recording session go with Mariel?
+
+686
+01:23:02.570 --> 01:23:15.249
+Dan: So she didn't want to record. She just wanted to sing. She's been over. She was over again yesterday, so she comes over. She goes into the vocal booth she's practicing to try out for Hadestown.
+
+687
+01:23:16.500 --> 01:23:28.270
+Dan: So yesterday she I she doesn't want me to hear sing, but I may have snuck into the room because she's in a booth, and she can't see there's no window or the window faces the other way. So I was listening to her. And I was like, Okay.
+
+688
+01:23:28.440 --> 01:23:37.649
+Dan: I hear, what's she's I'm like she's straining. She hits the notes, but she's straining. Then she came out. She's talking, and her voice is a little hoarse, and I was like you.
+
+689
+01:23:37.650 --> 01:23:38.190
+Tina Marie: Touch.
+
+690
+01:23:38.190 --> 01:23:39.420
+Dan: You need to warm up.
+
+691
+01:23:39.550 --> 01:23:46.980
+Dan: and I'm like, do you know how to move your voice? And I was? You know I'm like, I know, you know what chest and head voice are. But do you
+
+692
+01:23:46.980 --> 01:23:47.370
+Dan: right
+
+693
+01:23:47.370 --> 01:23:56.990
+Dan: to move them? And she was like, No, and I said, Okay, I'm gonna send you some videos, 3 videos, you're gonna watch them. And it's gonna make. And it's gonna instantly make you a better singer.
+
+694
+01:23:56.990 --> 01:23:57.610
+Tina Marie: Yes.
+
+695
+01:23:57.610 --> 01:24:01.499
+Dan: And she was like, Okay, and then I actually.
+
+696
+01:24:01.500 --> 01:24:01.970
+Tina Marie: Thank you.
+
+697
+01:24:01.970 --> 01:24:03.529
+Dan: So vocal, coaching thing?
+
+698
+01:24:03.880 --> 01:24:04.770
+Dan: Who.
+
+699
+01:24:04.770 --> 01:24:06.070
+Tina Marie: Cheryl, porter.
+
+700
+01:24:06.681 --> 01:24:09.089
+Dan: The singer, the the British chick.
+
+701
+01:24:09.400 --> 01:24:10.240
+Tina Marie: No.
+
+702
+01:24:10.240 --> 01:24:11.519
+Dan: Oh, no! Then no!
+
+703
+01:24:11.520 --> 01:24:19.729
+Tina Marie: She? Well, she's not British, she's American, but she lives in Italy. Cheryl porter, voice coach!
+
+704
+01:24:19.840 --> 01:24:25.758
+Tina Marie: You cannot not love this lady. She does such amazing
+
+705
+01:24:27.109 --> 01:24:33.889
+Tina Marie: what do you call it? Just social media posts? I'm gonna let's see, where do I? I want to text this to you?
+
+706
+01:24:34.180 --> 01:24:38.619
+Tina Marie: Where's my text? Messages? I don't know. Copy it this way. Hold on
+
+707
+01:24:39.154 --> 01:24:49.859
+Tina Marie: anyway. There's there's a few on social media that do such a good job of like showing all those voice changes and things. But you know it's a chemistry match, especially for teenagers.
+
+708
+01:24:50.010 --> 01:25:03.169
+Tina Marie: so like finding the person that lights her up, that makes her go. I love this person. She'll consume the information so much better, but if she watches somebody that she's like kind of met about.
+
+709
+01:25:03.380 --> 01:25:20.929
+Tina Marie: she won't. She won't keep watching it whatever. So if you really want to help her, tell her that, tell her to find the person that you just can't stop watching their videos. And you, because you feel like you're in the room with them, whatever that person will help her, be ready. The fastest and the best.
+
+710
+01:25:21.730 --> 01:25:24.960
+Dan: Yeah. And if you don't need help with pitch.
+
+711
+01:25:25.260 --> 01:25:29.399
+Dan: then these things are helpful. Right? It's like she doesn't really have a pitch problem.
+
+712
+01:25:29.550 --> 01:25:39.680
+Dan: So it's like you just have like a you gotta relax that that's in like, where in? Probably, like diaphragmic support.
+
+713
+01:25:39.790 --> 01:25:44.140
+Dan: that kind of stuff like she's you, exhausting her breath too quickly like that's
+
+714
+01:25:44.370 --> 01:25:50.770
+Dan: let's just do it like this. And then once you feel it, you're like, Oh, okay, yeah, I feel that difference.
+
+715
+01:25:50.770 --> 01:25:54.690
+Tina Marie: Go click on that that link for me real quick, please.
+
+716
+01:25:55.230 --> 01:25:58.739
+Tina Marie: even better if you do it on your desktop. I texted it to you. I think I did.
+
+717
+01:25:59.150 --> 01:25:59.920
+Dan: Yeah.
+
+718
+01:26:01.055 --> 01:26:04.500
+Tina Marie: I'll be like. Oh, I know who this is. Oh, I do know who this is.
+
+719
+01:26:04.500 --> 01:26:05.120
+Tina Marie: Yes.
+
+720
+01:26:05.650 --> 01:26:06.180
+Dan: Okay.
+
+721
+01:26:06.370 --> 01:26:13.490
+Tina Marie: Somebody taught her marketing, though, because look at it, she's got the old way of the new way. She's got all the things.
+
+722
+01:26:13.690 --> 01:26:16.299
+Dan: Yeah, I do know her. The second I was like, Oh, yeah.
+
+723
+01:26:16.740 --> 01:26:28.607
+Tina Marie: Yeah, she's amazing. I love her spirit energy. I love that like she's a makeup girly, but she's like I'm also gonna be barefaced and naked, and if you don't like it, or you got mean things to say, get gone.
+
+724
+01:26:29.440 --> 01:26:34.010
+Dan: I mean, this is practically the Alan. What's his name? Funnel?
+
+725
+01:26:34.370 --> 01:26:35.140
+Dan: It's very similar.
+
+726
+01:26:35.140 --> 01:26:35.810
+Tina Marie: Clinic.
+
+727
+01:26:36.230 --> 01:26:41.480
+Dan: Yeah, interesting. Yeah. I've watched some of her stuff, not a lot.
+
+728
+01:26:42.610 --> 01:26:50.749
+Tina Marie: I've watched tons of it, just cause she makes me smile like I literally look at her face. And I start smiling.
+
+729
+01:26:51.340 --> 01:26:56.417
+Tina Marie: Jesus, cool, anyway. Okay, that's what I wanted to know. I wanted to know how it went. So.
+
+730
+01:26:56.700 --> 01:26:57.450
+Dan: Happening.
+
+731
+01:26:57.680 --> 01:27:00.480
+Tina Marie: That's so cool, Dan. I love that cause.
+
+732
+01:27:00.480 --> 01:27:00.970
+Dan: Yes.
+
+733
+01:27:00.970 --> 01:27:01.750
+Tina Marie: No.
+
+734
+01:27:02.070 --> 01:27:19.699
+Tina Marie: she just has something hopefully that will help her like kids just need a thing to help them blossom. And they need that before they leave the house, so that they do well outside. If they don't have it before they leave, then they have to find it, and that's hard.
+
+735
+01:27:21.160 --> 01:27:21.830
+Dan: Yeah.
+
+736
+01:27:22.600 --> 01:27:25.390
+Tina Marie: Anyway, I'm happy for you, happy for her.
+
+737
+01:27:25.390 --> 01:27:25.960
+Dan: Oh!
+
+738
+01:27:26.330 --> 01:27:30.800
+Tina Marie: Okay, well, have a great weekend, and I will talk to you today.
+
+739
+01:27:30.800 --> 01:27:31.433
+Dan: Alright! Later.
+
+740
+01:27:32.070 --> 01:27:32.820
+Tina Marie: Bye.
+

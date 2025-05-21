@@ -1,0 +1,10 @@
+# Crontab configuration for SecondBrain repository backups
+
+# Daily git bundle backup at 1:00 AM
+0 1 * * * /Volumes/Envoy/SecondBrain/scripts/backup-repo.sh >> /Volumes/Envoy/SecondBrain/logs/backup-$(date +\%Y\%m\%d).log 2>&1
+
+# Weekly S3 upload (Sunday at 2:00 AM) - Now handled in the script
+# 0 2 * * 0 aws s3 cp /Volumes/Envoy/SecondBrain/backups/sb-repo-$(date +\%Y\%m\%d).bundle s3://secondbrain-backup/
+
+# Monthly Glacier transfer (1st of month at 3:00 AM) - Now handled in the script
+# 0 3 1 * * aws s3 cp s3://secondbrain-backup/sb-repo-$(date +\%Y\%m01).bundle s3://secondbrain-archive/ --storage-class GLACIER

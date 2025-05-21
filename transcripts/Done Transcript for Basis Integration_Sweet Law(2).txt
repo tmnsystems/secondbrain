@@ -1,0 +1,378 @@
+00:00:00 - Tina Marie (profitdriversinc.com)
+Yes, I can. How are you?
+00:00:04 - mark sweet
+Pretty good.
+00:00:06 - Tina Marie (profitdriversinc.com)
+That's good. What's that? How's it going? Like what's happening?
+00:00:11 - mark sweet
+I'm sorry. told you. Wait, Yeah.
+00:00:22 - Tina Marie (profitdriversinc.com)
+No, no, seriously.
+00:00:23 - mark sweet
+Repeat what you said? Tony, I kicked out of it. He said he can't it. Damn. Yeah.
+00:00:31 - Tina Marie (profitdriversinc.com)
+Wait, so you're in a good mood?
+00:00:34 - mark sweet
+can't control what you other doesn't do. She's her own person. away on person. I can't with it, but I got going on. So you're not to figure it out.
+00:00:47 - Tina Marie (profitdriversinc.com)
+So you feel some relief?
+00:00:51 - mark sweet
+I don't know. It is what it is. It's just a thing. What am I going to do about it?
+00:00:57 - Tina Marie (profitdriversinc.com)
+know? I mean, I went to... the three of them and each one of them told my ex basically you're the problem here's your issues and he's like you're quacks and then i left so yeah well we'll see what happens but today's on today make good decision well i'm just glad to hear good good stuff in your voice yes it is what it is uh what you'll really like is to see how many new cases we've got so far this month oh yeah yeah i think we're at four three oh yeah don't mess with that boy it picks the dashboard there was a problem i'm not evil oh i mean it's the fourth that's what i meant to say my best yes yeah yeah no then i already have the what his fun denial of services act they confused me yeah that's good times it's gonna be total joy when did that start
+00:02:00 - Dan Ryan
+They started attacking Mark's site like two days ago. They started attacking another site like within the last week. And that's on top of like we've had these carding attacks going on for close to a month. And so we fixed like the carding attack issue, which took a while. And then all of a sudden they're like, hey, yesterday they're like, sweet love's getting hammered. It's like, come on. What are you talking about?
+00:02:36 - mark sweet (3) (sweetlaw.com)
+It's not anything good for them to hammer on our site.
+00:02:38 - Dan Ryan
+It's not like it's an e-commerce site. Yeah, I don't know why. The other ones I understood, yours, I don't understand. And yours, they're trying to, they're trying to get into the admin specifically. So they were specifically attacking the WordPress login.
+00:02:52 - mark sweet (3) (sweetlaw.com)
+Nice.
+00:02:54 - Dan Ryan
+But since cloud players have been set up, 19 attacks have been stopped. Wow. In less than 21. for hours. So I'm pretty sure because someone had a successful trading attack on one of the sites, and we started getting all these people going, why is this? But what they did was, it was a very sneaky, I've never seen them do this. They did zero dollar transactions. So all they were doing was proving the car was real, and then they were going to probably go use it somewhere else. And we started getting emails from people like, who are you? like, what are you talking about? So I think our IPs or whatever got put on some sort of hacker forum, and then the onslaught started.
+00:03:39 - mark sweet (3) (sweetlaw.com)
+Yeah, hosting guys are loving it. We're weird, weird target.
+00:03:45 - Dan Ryan
+Yeah, totally. It's, yeah, I don't know why they would go, the WooCommerce sites made sense, or so it doesn't make sense.
+00:03:53 - Tina Marie (profitdriversinc.com)
+Yeah, that is so weird. Lidify numbers. Hold on a second. Let me just go look at this because we were talking about updating the report. So can we start there if there's any updates in the new dashboards?
+00:04:16 - Dan Ryan
+Yeah, I mean, he pushed updates to the dashboards and then. He sent me no. What's Talking about it. Stacey had COVID.
+00:04:34 - Tina Marie (profitdriversinc.com)
+So she was a.
+00:04:35 - Dan Ryan
+out for a week. Oh, yeah, he's so nerdy.
+00:04:43 - Tina Marie (profitdriversinc.com)
+I'm like.
+00:04:43 - Dan Ryan
+Yeah, now I'm like, hey, let's come back to me. So he switched the thing to using resolution data. said that would work, but first he has to explain how it's in the wrong place. Okay. It's in case you want And that was a child object, and I guess that's sad, I don't know. But that's now in the dashboard. As a parent of the policy limits thing is now set up. And we have to look at that. He said he made some assumptions that expenses and damn business and liens are what we're looking for in terms of what would be hitting the policy limit. Is that correct? Yeah, okay. And then the report is only against defendant insurance single person policy limit. And he said, as I'm not sure what the rules of policy limits stacking are in marks various operating states differentiates from state to state. Unfortunately, he did say he knows his . Yeah.
+00:05:57 - mark sweet (3) (sweetlaw.com)
+So Washington, it's sometimes Arizona, it's sometimes, most of time. New Mexico, it's where...
+00:06:08 - Dan Ryan
+How do we, is there a way to deal with that or not?
+00:06:12 - mark sweet (3) (sweetlaw.com)
+can check the box for policy limit or not, because it's going to be tied to the resolution tab.
+00:06:18 - Dan Ryan
+Okay. That box exists? Yes. Okay. I'll let him know.
+00:06:27 - Tina Marie (profitdriversinc.com)
+That's it? I feel like this report changed a whole lot. And, uh, because, well, let me just go. So, DD intake, DD matters. Let me see which one I'm looking at. Okay. That's never mind. I was looking at intake and I wanted to look at matters. So, when I spoke with Lorenz and Patrick yesterday, I had some questions about things I wanted to put in a report. But I take terrible notes. So one of the things I want to know is I would really like to see, and I know that you, we can't really change this because you pretty much have to take all the cases, but I would be interested to see anyway, what the matters look like by insurance companies, in terms of volume, in terms of how long they take to close, and percentage of policy limits, especially after the way they discussed state farm. Just so that, like even if we can to say, okay, we're not taking state farm cases, obviously we can't do that, but we might be able to find ways to improve processes, improve, let's say, state farm cases take, you know, and on average, a month or two longer to resolve than I other cases, or let's say Geico just blows everybody else out of the water, like, maybe we could find some commonalities in the processes, maybe we could find better ways to improve how we deal with those specific insurance companies in order to get better results. Even again, if it's a 10% lift here or a 2% lift there, everything that we do to improve our operations, improves our operations and leverage. And the other thing is, if everybody's on the same page about it, like, Lorenz felt like it was just him dealing with it for the most part. And he had a slow Q1, and that's really been hurting him, like, in his head, like he's been in his head about it. And I'm like, I have to go back and look at everybody else's numbers, but I know that Q1 kind of slows down for all the sweet lot in terms of... Cases that we get, I don't know what it does to attorney fees if it slows things down there, but what I told them is that there there's a dip for all of Sweet Long Q1 anyway. They really just looked at it.
+00:09:13 - mark sweet (3) (sweetlaw.com)
+No, there's not.
+00:09:15 - Tina Marie (profitdriversinc.com)
+Okay.
+00:09:15 - mark sweet (3) (sweetlaw.com)
+we usually are one of our better money in months because December, they don't like to send the checks. like to hold them until January.
+00:09:23 - Tina Marie (profitdriversinc.com)
+Okay. So all of this makes me know at least what I need to dig into better so that I know what I'm actually talking about by the attorneys, by the overall fees and everybody's performance. The other thing is, okay, so we have dropouts and subs by team, but we don't have that in comparison to total at like as a percentage of total cases. So I would like that because there's no, so are you either if you're looking at, let a fire, I could just share my screen, let me share my screen. Yeah, I'm a little far right now, but yeah, I, yeah, so I would like to see this as a percentage of active matters or because this is, this is by time period, right? So this is for the year, this is how many dropped out and how many subouts that they have. And like Lorenz's number is five in Samantha's 12 or 13, but she's got way more cases. I know that. So I have no relationship to, you know, this is by the volume of cases that she has. So looking at this, it would make it look like he's doing better, but percentage wise, they're probably pretty close. I don't know that she's got twice as many cases as him, but she definitely has more. So anyway, Dan, is that something that you could ask for, is that this could be be in relationship to total matters.
+00:11:06 - Dan Ryan
+Oh, it's over. It's a right now. It's just showing total drops and subs.
+00:11:12 - Tina Marie (profitdriversinc.com)
+Yes.
+00:11:13 - mark sweet (3) (sweetlaw.com)
+What's that? You want to hear it?
+00:11:15 - Tina Marie (profitdriversinc.com)
+The year is it's this year's.
+00:11:18 - mark sweet (3) (sweetlaw.com)
+Okay. So, yeah, then it should be able to just overlay number of matters created this year.
+00:11:26 - Dan Ryan
+Uh, yeah, biotraming.
+00:11:29 - mark sweet (3) (sweetlaw.com)
+Yeah, yeah.
+00:11:34 - Tina Marie (profitdriversinc.com)
+So just ask, is asking you to get that done enough or do I need to ask you a task for that?
+00:11:42 - Dan Ryan
+This is the one that sent everything to Josh. So she, you sent it to her and then if she has questions, she asks me. Um, and then her and Josh go back and forth.
+00:11:58 - Tina Marie (profitdriversinc.com)
+This is dropouts inside by team. I feel like percentage against matters. So and then Mark, would you have any interest and is it possible? Do you track and litify what insurance company the matters are assigned to it? Yeah. So would you be interested in looking at a breakdown of those cases?
+00:12:53 - mark sweet (3) (sweetlaw.com)
+Sorry, let me take that back. The names are in there but it's not like a drop down. on picklist. I don't know if we'll be able to filter it, because it definitely says like State Farm or Skyco or whatever else, but it's not from like a picklist.
+00:13:12 - Tina Marie (profitdriversinc.com)
+So I mean, I wish we could use that AI like the I know we're on the beta list for it. So maybe it's something we could do in the future. But for right now, could we create it? Could we create that and on the processes side, knowing that, hey, these are the same issues that we all run into, trying to deal with State Farm, like is there anything that we can do to improve that process? Whatever, can we capture some best practices of what we observe is happening with other insurance companies?
+00:13:53 - mark sweet (3) (sweetlaw.com)
+I don't know, we don't know what we can do this. Honestly, I don't think it's going to make a large difference to be framed with you.
+00:14:00 - Tina Marie (profitdriversinc.com)
+I don't think It'll be a large difference. I do think that the whole path to optimization is little different from just here and there.
+00:14:07 - mark sweet (3) (sweetlaw.com)
+Yeah, no, yeah, yeah.
+00:14:10 - Tina Marie (profitdriversinc.com)
+Are you? So, you know, if you're not interested in it, that's fine. I think it will be more about helping the team learn some things, even if they can see the numbers and go, okay, I'm not crazy. And this really does have this big of an impact. And just being able to help them visualize and go, you know, this, this, your experience is not unique. It's across the board and, but from there, if there's a bright spot, for example, and that this goes back to the book switch, which I had, I don't remember, actually I had Fuji read that one, but anyway, where sometimes by the way, just FYO. He does, yay. He's awesome. And they're gonna have a baby Monday.
+00:15:03 - mark sweet (3) (sweetlaw.com)
+I'm so excited.
+00:15:06 - Tina Marie (profitdriversinc.com)
+If Mark referred me to a doctor friend of his.
+00:15:10 - Dan Ryan
+Oh, right. Yeah, you told me that.
+00:15:12 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:15:13 - Dan Ryan
+all coming back to me.
+00:15:14 - Tina Marie (profitdriversinc.com)
+I'm right. Anyway, um, anyway, so the point is that sometimes little things stick out and like we might notice that somehow one of your team members does better with with one particular insurance company than everybody else does. And so we wouldn't we wouldn't know that because we look at the report and it may just be like, Hey, this is just how we do business and they might have found a solution that they're not even aware is a solution, but it shows up in the reports consistently that they do better on this particular type of thing. So that's the whole thing about tracking all the data points that we can identify. And then looking at them and going, why. is that different? You know what I mean? So for the amount of effort that it would take to create the drop down list and then to select things, that's not really significant in terms of workload and for us to look at the data is not very significant. But let's say it just makes a little bit of improvement or let's say that it's a mental improvement for your team just going, yeah, this is what we think it is. It's not just me. That's significant. That improves morale. That gets people out of their heads and that helps them, you know, free up their mental energy for just doing their work instead of sitting there feeling bad about some of the stuff that's not going well. Does that make sense? So on whose end, who would set this up so that we can have a drop down menu and let if I for your team to start tracking what the insurance company is that we can put this into a report. probably I think because we'll have all the big ones and then we'll just have one that just says other because there's a lot of just one offs if you will like some go with which is Hyundai Japan we've got like two cases over the last three years from then like not enough to create a drop down um the drop down I see is like you know again psycho mercury infinity usa like the big ones okay cool and then um uh whatever it's called something I'm saying AI if and won't get there scratch um just see the retro actively if possible right so let me just see if there was anything else that I wanted to look at in here Can we sort it, let's see. I got that. All right, that was it for report updates based off of talking to the guys. So, um, how many cases did you have? I didn't look at that for July so far.
+00:18:31 - mark sweet (3) (sweetlaw.com)
+Yeah, we actually read 22.
+00:18:37 - Tina Marie (profitdriversinc.com)
+What? Yeah. You're kidding me. That is wild. That's cool. Uh, unexpected.
+00:18:50 - Dan Ryan
+Unexpected. for, especially going into a holiday weekend. Yeah.
+00:18:56 - Tina Marie (profitdriversinc.com)
+Yes.
+00:18:57 - mark sweet (3) (sweetlaw.com)
+little fresh rate has got subbed up by sweet James. 20 minutes after HQ intake sent us the signed agreement.
+00:19:04 - Dan Ryan
+Wow.
+00:19:05 - Tina Marie (profitdriversinc.com)
+Wow.
+00:19:06 - mark sweet (3) (sweetlaw.com)
+Wow. Wow.
+00:19:08 - Dan Ryan
+Wow.
+00:19:09 - mark sweet (3) (sweetlaw.com)
+Wow. My guest is trying to sign up and then went to like search for us to call and had sweet James. So. I really need to make sure that we are owning the PPC for sweet loss, sweet attorneys, we lawyers. Sweet law firm.
+00:19:33 - Dan Ryan
+Oh, my God. Are you sure? I mean, you're pretty sure that's what You signed up and then was like, Oh, I need to ask him a question or something.
+00:19:55 - mark sweet (3) (sweetlaw.com)
+And then tried to call back because as we kept calling and texting us follow up, she texted Yes. My law firm is sweet Jane is please stop calling me. And so I texted her to Denise over there. I'm like, Hey, is this a client of yours? You know, sometimes clients think we're sweet James or whatever.
+00:20:12 - Dan Ryan
+Yeah.
+00:20:14 - mark sweet (3) (sweetlaw.com)
+And they're like, yeah, she signed yesterday. I'm like, what time she she signed with us at 3 11 p.m. And she's like 3 33 p.m. So like the timing is just too tight for it to be much anything else.
+00:20:27 - Dan Ryan
+Sure.
+00:20:27 - Tina Marie (profitdriversinc.com)
+Was she just not just confused? Like she thought she signed up with them, but really she signed with you.
+00:20:35 - mark sweet (3) (sweetlaw.com)
+She signed her a dinner with sweet James. Oh, she did. OK, later though, correct. So she signed with us first. Yeah. So that's why I'm thinking that she must have been gooling online to like call or get some started or to ask a question and then come to James instead. Because the time is just too close for it to be. Oh, yeah, yeah, totally.
+00:20:57 - Dan Ryan
+I don't know if someone's somewhere ready to feel comfortable.
+00:20:59 - Tina Marie (profitdriversinc.com)
+So now I'm going to call someone else. That's weird.
+00:21:02 - Dan Ryan
+That is super weird.
+00:21:06 - mark sweet (3) (sweetlaw.com)
+I don't So, yeah, enough about that one.
+00:21:10 - Tina Marie (profitdriversinc.com)
+Washington, man.
+00:21:12 - Dan Ryan
+Also not thrilled that those guys did basically talk to her out of staying with you because they had to. But that's unsurprising.
+00:21:21 - mark sweet (3) (sweetlaw.com)
+Yeah, I mean, I thought we kind of had the gentleman's agreement about this, but yeah, it also sounded like she didn't mention that she'd sign anything with anything. So maybe.
+00:21:31 - Dan Ryan
+Oh my God, these people are so stupid.
+00:21:35 - mark sweet (3) (sweetlaw.com)
+My friend, the business is built on people doing stupid things.
+00:21:39 - Dan Ryan
+No, no. They make you wonder why I didn't why didn't she think she signed anything is it makes me wonder like. What is the HQ sign up process like are they texting her and he signed like. His system is so . And the dude will not respond to me like I'm about to send a new. email, just so you know, I was waiting to talk to you. I'm going to send an email to you and him saying, I think you should just leave quantify with them and move everything else. Because I swear to you, I go in and I'm like, those are the same exact notes, you are not calling these people. But I can't say that explicitly. I did kind of intimate that.
+00:22:23 - mark sweet (3) (sweetlaw.com)
+And last thing I dropped down that they're just picking from a checklist on the note.
+00:22:29 - Dan Ryan
+No, it's not. Definitely not.
+00:22:31 - mark sweet (3) (sweetlaw.com)
+It's not there.
+00:22:32 - Dan Ryan
+They're too weird. Like the notes are very specifically non-specific.
+00:22:38 - mark sweet (3) (sweetlaw.com)
+can pull value over. not a problem. can stop that.
+00:22:44 - Dan Ryan
+Yeah. And then it's like, we could just just leave like you were saying leave them with quantifies because I met with the ad certainly guys. that guy just he just opened the air table of all their clients and just was scrolling through showing me. And I do still think That his Washington guy is that because he's multi state that they're signing cases and subbing and sending them out and I also think that they have to be signing just bad cases. And then these guys are never going to hear her. Oh yeah, we ended up just totally tossing that right. So that's hard to why their results are so good but literally dude.
+00:23:26 - mark sweet (3) (sweetlaw.com)
+Or within the span of a week. That's a $56.
+00:23:31 - Dan Ryan
+Right. But then the span of a week, the other firm, whoever they are, I haven't been able to figure out who it is. Sign two passenger band cases in Washington. I'm like, where are those? dude, really? he walked me through their follow up system is like. Literally three calls in the first hour. Like he's like, it's, they're so aggressive, but, and then it seems to tie to their. results. So he's super duper motivated to like, I want this to work. He's like, I want sweet lot to just stick around. I want you guys to be like a long-term client. So I'm thinking like if we take their leads and then alter the follow up just for them, right? So create a laboratory around ad-serbly. Here's what we know, their leads to convert. The first round they ended up getting the lower one of the lowest cost per retainers. I think ever that since we've been testing vendors, they're super communicative, they're super data-driven, totally show everything except their websites. He actually, he's the one that I was like, you know what that quantifies doing. He's like, yeah, this is their site. So it's super sketchy, by the way, but maybe I shouldn't tell you so I won't. And then you don't know. Okay.
+00:25:01 - mark sweet (3) (sweetlaw.com)
+When you say super sketchy, like they're fitting on other people's names, that's going to create a lawsuit for me sketchy.
+00:25:11 - Dan Ryan
+Create a lawsuit for you. I'm not going to say that that's what they're doing. Would something like that create a lawsuit for you?
+00:25:17 - mark sweet (3) (sweetlaw.com)
+It's not you doing it. Potentially. So Google, Quintessa marketing.
+00:25:23 - Dan Ryan
+Yeah, I know who they are. Yeah.
+00:25:25 - mark sweet (3) (sweetlaw.com)
+Yeah. That's why we don't use Quintessa.
+00:25:27 - Dan Ryan
+So their entire strategy is that. And not only is that their entire strategy. Injury.com is.
+00:25:39 - mark sweet (3) (sweetlaw.com)
+So that makes sense more why the Sweet James thing happened with Quantify. She may have been looking for Sweet James all along.
+00:25:46 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:25:51 - Dan Ryan
+So who's injury.com?
+00:25:54 - mark sweet (3) (sweetlaw.com)
+I think that's Morgan.
+00:25:58 - Dan Ryan
+Yeah. Look it up. It's somebody big. It is... It's an injury and Morgan and Morgan. Yeah, so I thought it was Morgan. Oh, it's an interesting sight. does not look like a lawyer's sight. Their domain is not injury.com. It's lowercase L N G U R Y dot com. And I'm like, wow. Okay. Creative. That's super creative. And so they're using LINGERY dot com. guess that's a word. And then they do competitor to targeting. Because I ran them through a harass. And I looked at all the keywords that they're buying. And there's a couple. There's a couple that you can't say for sure. They're getting the leads from competitor to targeting. They're also going after some. I mean, I would say they're low volume keywords, but. Yeah.
+00:26:58 - mark sweet (3) (sweetlaw.com)
+That is what they're talking about.
+00:26:59 - Dan Ryan
+Injured. of course. And they're not like ripping off the website, their website's ugly as well, get out. And they have the most convoluted form. I'm like, I cannot believe they actually get leads, but they obviously they do. Totally. mean, it's working. So competitor targeting works, brand competitor targeting. Quintessa, they're on this guy probably worked at Quintessa what you're going to find out.
+00:27:32 - Tina Marie (profitdriversinc.com)
+have a question. If you guys are done with that topic, but if you're not, I'll wait. Okay, so this is resolutions by teams by month, but the report is pulled according to that date at the top. is this just mislabeled?
+00:27:54 - Dan Ryan
+Yeah.
+00:27:56 - Tina Marie (profitdriversinc.com)
+copy. And this one is well, Yeah, it should be that if you adjusted the time, then you know, right, do you need that? Okay, so, um, so I'm going do the report. What the crap just happened? I don't know what just happened. Okay. Um, what's it called? I think it's because I pieced it in it. Resolution 13 by month. So, is there Is there any difference in significance? Because this is the case as close as we've done our part, this is when we get paid, right? Close versus resolution.
+00:29:10 - mark sweet (3) (sweetlaw.com)
+Correct.
+00:29:12 - Tina Marie (profitdriversinc.com)
+Okay, so is resolution even something relevant on a biotin kind of thing today? Okay, and which of these do you think is more valuable? Are they the same in terms of tracking?
+00:29:27 - mark sweet (3) (sweetlaw.com)
+If have to pick one, close is more important, but the factors in the legal team is how many cases did you settle?
+00:29:37 - Tina Marie (profitdriversinc.com)
+Because once you settle it, we know money's coming in.
+00:29:40 - mark sweet (3) (sweetlaw.com)
+Right. And then obviously, did it come in because we have to have cash flow?
+00:29:45 - Tina Marie (profitdriversinc.com)
+Right, okay, so this is just interesting, just digging into this a little bit. Um, the case is close. I don't, I don't know. how to value this because of so many different factors and how long the cases stay open. So could we talk about that a little bit so that I can understand it better? Like if you look at this, what do you think about it?
+00:30:21 - mark sweet (3) (sweetlaw.com)
+I mean, this makes sense to me. The resolutions are usually hard when cases closed.
+00:30:30 - Tina Marie (profitdriversinc.com)
+No, I mean like Lorenz versus Samantha or Tyler even. Do you want to see this compared to last year? This is this year because there's a big change. I just find it interesting, but I don't. know how to weigh it. What I would like to see is the average length of time. It takes to close the case by team also. But again, report on that.
+00:31:20 - mark sweet (3) (sweetlaw.com)
+So we should be able to add it to this.
+00:31:22 - Tina Marie (profitdriversinc.com)
+Okay. Okay. Okay. any thoughts. So this again, this is last year. Lauren's had 155 for the whole year and Sam had 2001 or 2001 Tyler 174. I'm really going to look at anybody else. then this year, Lorenz is at 125 Sam 120, Tyler 109. So Tyler's kind of like keeping right behind Samantha, which is what was doing. But does this say anything to you about Lorenz's performance?
+00:32:22 - mark sweet (3) (sweetlaw.com)
+That he's dragging on getting some cases resolved, because look, he's only settled 120, but he somehow paid out 125.
+00:32:31 - Tina Marie (profitdriversinc.com)
+Wait, is that not the other way around?
+00:32:35 - mark sweet (3) (sweetlaw.com)
+Closed is after resolution is before. happens before closing.
+00:32:41 - Tina Marie (profitdriversinc.com)
+Oh, OK. I thought it was the other way around. OK. So resolved is when they settled the case. Closed is we've been paid. OK. When I asked that question, I asked it the other way around, and you said that was correct. So we missed each other. All right. well, okay, can you look at it in terms of these numbers? wait, hold on a second. that's the case, then let me look at this. So 120 and 173, and let me go to last year for resolutions. Two thirty one. We're twenty one. That's okay. Okay. Sorry, I'm just still trying to like wrap my head around.
+00:33:42 - mark sweet (3) (sweetlaw.com)
+The numbers are going to be off, no matter what, because some cases have more than one resolution, but none are going to have more than one close date.
+00:33:51 - Tina Marie (profitdriversinc.com)
+Well, regardless what I'm looking at, I'm trying to look at improvement on the team or at least trajectory. Same, improving, declining numbers you would have to pull are these two numbers that you know, you pull our average attorney fee. I'm looking at that.
+00:34:13 - mark sweet (3) (sweetlaw.com)
+Right. And then time from open to close, which we don't have yet on this report.
+00:34:20 - Tina Marie (profitdriversinc.com)
+Yeah, but we certainly can pull it because we have an open date in a closed date. we can definitely make that happen. Yeah, well, so we'll get that added to here so we can just look at it all together. So but the fact that he's he's resolving more cases, like he's he's getting closer to Samantha's pace. This year does that doesn't say anything to you because of the attorney fees?
+00:34:46 - mark sweet (3) (sweetlaw.com)
+Well, let's do it mathematically, 173 divided by 120. So she's 1.44 times faster than him.
+00:34:59 - Tina Marie (profitdriversinc.com)
+Okay, and that's the Let's look at last year, though, because she was more than that last year, she was almost 33%.
+00:35:11 - mark sweet (3) (sweetlaw.com)
+1.38.
+00:35:19 - Tina Marie (profitdriversinc.com)
+Yeah, okay, so last year, his average attorney fees for the year were 14,000 and hers were 18, and they've both dropped so far this year. Hars are 17, I think, and his is 11.
+00:35:41 - Dan Ryan
+What makes her faster?
+00:35:43 - mark sweet (3) (sweetlaw.com)
+that's the question, I guess. That's really what it comes down. She micromanages her team.
+00:35:51 - Dan Ryan
+Lauren, she has a process that she micromanages.
+00:35:56 - Tina Marie (profitdriversinc.com)
+Yes, and she has a team because you guys to move things around that is compatible with her doing that, right? if she had Cynthia on her team, that would make an impact, because Cynthia probably can't handle that very well. Cynthia is on Patrick's team, But I'm saying if she was on Samantha's team, that would probably impact Sam's production. But Cynthia also probably wouldn't last very long in Sweet Law, if that was her only option. Is that also right, do you think? So that's part of the, that's one of the things I'm actually really excited about in learning to work with these guys, because here's the thing, we all know that you can't just go hire everybody that can work at Sam's pace. What we can do is see if there are some of the processes that she does. Sorry, it's my damn reminder. And the styles that she has that can be, you know, implemented elsewhere. where what I do know is Patrick's gunning for her numbers. And every time he asks her questions, she answers thoroughly, doesn't hold back, gives lots of information, and he's soaking it all up. So that's good. I don't know, like, so Lorentz has Gary and he's saying that she, like trying to get any information from her is like pulling teeth. And I asked him if he thought it was because she is just a withholding type of person, doesn't talk much, or if she's a little bit like I'm a single mom with four kids, I don't want to rock the boat, I'm just going to show up and like try not to make waves. And so that's the conversation we're going to dig into a little bit more next week and find out if, because that's the case. So I was explaining to them that several times I've hired a right-hand person and it's been a female too. to support CEOs that I'm working with, case in point Dan and Stacey. Stacey's job was from the beginning to help with accountability, make sure that things get captured, follow up with people and make sure jobs are getting done. But even though she knew that from the beginning, she was very hesitant to do it. She improved it over time as she kind of like dipped her toe in a on this. Nobody's going to yell at me. Nobody's going to hate me. You know, this isn't going to create a hostile environment. And so now she's really good. I'd be like, hey, where's this? You said you were going to do this. Where's this? You know what I mean? Which is what it was from the beginning, but she had because of previous work experience and just how a lot of times women who behave that way show up and are treated, they're just like, eh, I don't want to do that because someone's going to call me a , basically. So. Oh, I'm wondering if Viri might have had that type of experience where maybe we can encourage it out of her to talk a little bit more about whatever's going on, where she needs help, what can be improved, because at the end of the day, like we know it's difficult to find new people, to onboard them, to train them, whatever, it takes a long time to replace anybody, really, especially your attorneys, so everything that we can do to make them more independent, more strong, more autonomous, better communicators, more reliable, like Patrick said, Cynthia is doing better after he has just sit there and tell her, this is what you need to do. Don't wait for me to tell you to do this, do this. But he did it in a way where he was super concerned about not hurting her feelings, not plowing over her in, in, in, And he said that, you know, he doesn't get really stressed out about everything, like he's driven, he's competitive, but the things that stress them out, like talking to difficult clients, people that are mad, yelling at them, whatever, he's like, that doesn't bother him at all because of his training. So anyway, just all these different things, like looking at these numbers, there's, there's a compatibility thing on the pot, right? So Sam's team probably has people who are more on the pace of being able to go hard, have her drive them. And let's say Patrick could do that. He doesn't have people necessarily. I don't know how elsey or at least it's elsey, right? Oh, yeah. don't know, you know, what she can handle pace wise, but it isn't pace caps, basically. Oh, and one of the things that Patrick asked about was how, and I know that he's not on the incentive program yet, but he's thinking about what does he do, how does he keep them motivated and driven to keep working harder when they don't get incentive pay for working harder. He says, if it was me, I wouldn't be motivated to work any harder than I am. And Lauren said what he does is he takes incentive pay out of his pocket to give to his team. And I was wondering, you know, is there a sweet lot policy for that? Like it, it does it not behoove you to create a program that is based on the team or do you want it managed as though basically everybody's their own, not just pod, but like their own little company and the attorneys have like, you know, it's almost like it's their own business inside of your business, where they're figuring out how to incentive pay them.
+00:41:59 - mark sweet (3) (sweetlaw.com)
+I wasn't. Yeah. Yeah, that's something that I haven't done particularly well. Sam's team gets paid on a quarterly bonus if they hit their goal for the quarter. Tyler pays at his team more ad hoc month to month. Lorenz is doing the same. It hasn't been a formalized program and part of the reason is because the attorneys get paid so much. Like our payroll's 34% of our gross, which is high. should be like 25%. But Mary and I have talked about creating like a quarterly incentive plan. Not even just quarterly but half yearly because full years too long for people who are going to miss by September, they're just going to stop trying. So to do it where it's 30,000 per attorney if they can hit the goals for six months straight, basically. On average, you know, I don't want them to
+00:43:00 - Tina Marie (profitdriversinc.com)
+hold cases that's always the problem and then for the teams to split up 6 000 between each of them so most teams have four people so it'd be like 1,500 each so okay i'm sure like three grandi here i i would love to sit with you and try to work that out a little bit more because i feel like first of all your attorneys um you want them to have a certain amount of but they're not all putting the same level of business training and experience and leadership as you are and i think that you're better off as having consistency across your company me, rather than having almost like individual companies within your company, because ultimately, they look to you, your attorneys look to you, you're, and I think that you'll just get better results across the board if it's a corporate right wide kind of structure, and helping helping your leaders be better leaders, not micromanaging them, but being aware of their data, giving them some reviews, just saying like, you know, this is how your team is performing month over month, quarter over quarter, year over year, et cetera. Yeah, so could we set a goal for having completed and implemented that type of incentive program for the teams so that they do all have incentive programs to work? for performance-wise.
+00:45:02 - mark sweet (3) (sweetlaw.com)
+Yeah, but I'd rather do it sooner rather than later because we can still do that back up the year because it's only the first week of July.
+00:45:08 - Tina Marie (profitdriversinc.com)
+Yeah, I mean, it's only limited by when you want to do it and when you're willing to do it. We could have an extra meaning if we needed to, but I would really like to see that happen because I think that it really supports everybody, your attorneys and the teams.
+00:45:23 - mark sweet (3) (sweetlaw.com)
+I think Monday we should definitely talk about it then.
+00:45:26 - Tina Marie (profitdriversinc.com)
+Okay, so let me do that and put that in my notes. Okay, I think that was it for right now in terms of like you What was already in my brain now? have to kind of just process what I was talking about are while while I'm waiting for my brain to catch up and think about the next thing. Um, was there anything new that's come up that you want to discuss? Oh, actually. I do want to tell you what something that Lorenz did which I was impressed with. It's not a major thing and it should have happened anyway, but it did and that's the point is that Lorenz was doing through multiple iterations working with file reviews as a team. And he's basically got the two like sub pods Jessica and Mike and then John and Barry. And they were all meaning together going over file reviews, but the team had complained that they're basically wasting time while one pod goes over there. did that about month ago and I will find out more this week how he tracked this and how he can quantify, qualify what he said but what he said was he can notice an improvement in their trajectory having gone over the five hour views together that it's making an improvement but it's only a month long and I don't know how he's tracking and measuring it but just the fact that he's gotten to that point was I think it was good that he's working on first of all noticing what the team needs and just trying to get everybody on the same page trying to improve performance and trying to lead them yeah so I didn't want to say that let's see everyone does I was looking at my star stuff yeah anyway okay so that was it now Is there anything that we haven't brought up that you want to tell us about or ask about?
+00:48:10 - mark sweet (3) (sweetlaw.com)
+Really I mean the issuing ticket figure out what we're gonna do with it.
+00:48:13 - Dan Ryan
+We're gonna pull things from them or what not I'm all for pulling I mean like I'm doing a lot better than we are quite frankly now For like HQ intake, sorry So we can keep them with what they're gonna quantify right now, and then yeah And I think So the absurdly thing like him and I we mapped it out like on the phone It's the big thing that they did was three calls in an hour, right? So I Could create an automation that's the add-surdly automation That does that so it's like oh Okay, let's try this more aggressive thing with the lead source that's getting those results elsewhere, right? what we have is we know the intake team can close. We know that certainly the leads can close. So the bit that's different that supposedly is driving their clients average 14% whereas we've only ever seen five from any vendor except for malquantify who well we know maybe their numbers are better. So it's like okay if it's either that and I don't know that I mean I don't know that it certainly gets better leads and I guess technically they do if you compare look at them as like a monkey but it's like okay if this dude's gonna be like hey what can we do to make this better? Hey no one else has ever done that. It's like okay. Hey, what can we make this better? That would be making a custom automation that's just for them. And then it's like, OK, does it lift? Do we get a lift from adding three calls on the front end? And because if the call connects, it came over, right? The calls connected, the intake team's taking over. So that seemed to be the biggest differentiator that we don't have. I say build and add thirdly automation, run their leads through that, and see what happens. And pull from HQ.
+00:50:41 - mark sweet (3) (sweetlaw.com)
+OK.
+00:50:44 - Dan Ryan
+All right. Then that's what we're going to do.
+00:50:47 - mark sweet (3) (sweetlaw.com)
+So just recap for HQ, we'll just have them do the quantified leads.
+00:50:52 - Dan Ryan
+And I'll pull the TRG leads. Yeah, so we changed quantified to come to us. first. So now, like, so basically we're like, for some reason, though, they're still getting I know, Eric, Eric hit up, don't go or submit or whatever their name is. He confirmed that it was that way. And I'm like, but that if that doesn't make the thing that you said. So I'm not sure how it's occurring. And Eric, I haven't, Eric has not figured it out yet. But we will. But the point is that we're making it so that, like, we're the first point of contact that therefore we can always control it and see and see what's going on. Because when they do it, it's like, you got to reach out to them. then what are you doing about what is
+00:52:00 - Tina Marie (profitdriversinc.com)
+Right. And take script where we at with that.
+00:52:07 - mark sweet (3) (sweetlaw.com)
+We've gone through it more than a few times. It still not where I would like it to be.
+00:52:18 - Tina Marie (profitdriversinc.com)
+Okay. Okay. So, are, is it going to stay on your schedule to keep going through it? Like where I don't want it to die on the vine.
+00:52:32 - mark sweet (3) (sweetlaw.com)
+It's not, it's got to get done within the next week and a half because then I've only got past two or two more weeks. it has to be done before he goes.
+00:52:44 - Tina Marie (profitdriversinc.com)
+Okay. And we have been discussing trying to figure out a way to create a client slash case ranking system to. Well, help intake. Just better figure out the call. I feel like the intake script would be a good preface to that.
+00:53:07 - mark sweet (3) (sweetlaw.com)
+It is starting the conversation the right way.
+00:53:13 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:53:15 - mark sweet (3) (sweetlaw.com)
+Oh, so they just throw over the place when they start.
+00:53:22 - Dan Ryan
+Right. When's Pat?
+00:53:23 - mark sweet (3) (sweetlaw.com)
+When's Pat too even?
+00:53:24 - Tina Marie (profitdriversinc.com)
+Two weeks.
+00:53:25 - Dan Ryan
+Okay. I'm gonna, if you're good with to refer to be like, hey, I'm gonna compile the whole thing. What's currently there and the ones that I sent you and I'd be like, hey, we're gonna make this switch and it looks like it will resolve a bunch of typing that they do. And because they I'd go through a bunch of leads because of the ads, at least stuff. And I'm like, Oh, we gotta get this in. So if you're good with that, I'm gonna compile those into one giant list and be like, Hey, this is the new Then I can go back to Josh and he can back sort of back turned on reason people. That's going to be a little bit of a , but it'll happen in the background.
+00:54:13 - mark sweet (3) (sweetlaw.com)
+Yeah.
+00:54:15 - Tina Marie (profitdriversinc.com)
+Okay. Well, that covers everything that I had.
+00:54:20 - mark sweet (3) (sweetlaw.com)
+Well, Patsy's out. We're splitting her role kind of into. So we're to do one that double check files before they're converted because she's very. Detail oriented. And then Mia is going to be the backup of yes or no to cases because she's been around the long since seen the most. So she has a pretty good idea of what to take enough to take more questions to ask.
+00:54:46 - Tina Marie (profitdriversinc.com)
+Okay.
+00:54:48 - mark sweet (3) (sweetlaw.com)
+Obviously, I'm going to be heavily, heavily, heavily involved, but you know, we have to go back in case I'm on an airplane or something. And they're told basically if. They have any questions at all. Just put it on the attorney intake channel of the attorneys to decide whether they take it or not.
+00:55:08 - Tina Marie (profitdriversinc.com)
+Because we've talked about this before, down the road a little bit, especially after I've had some more time working with Patrick and Lauren's because it's really illuminating to me. Maybe we could spend a little time, maybe a quarter or something working with the intake team.
+00:55:25 - mark sweet (3) (sweetlaw.com)
+Yeah.
+00:55:28 - Tina Marie (profitdriversinc.com)
+But let's get the scripts first. Maybe we could come up with the client ranking system. All of that could probably go hand in hand, let's get them on a jumping off point.
+00:55:38 - mark sweet (3) (sweetlaw.com)
+And then Patsy's going to be gone for how long? Six months.
+00:55:43 - Tina Marie (profitdriversinc.com)
+OK, right.
+00:55:45 - mark sweet (3) (sweetlaw.com)
+So probably come back to the beginning of the year. Some point for coming back around Christmas. So probably the beginning of the year.
+00:55:52 - Tina Marie (profitdriversinc.com)
+And something for you to just ponder is, would it be more useful to try to. get something going before she comes back because she's gone to just add some strength or wait till she gets back and get everybody on the same page. I think part of that is just kind of watching and seeing what happens first getting the intake script and seeing what happens with that. But I do think sooner rather than later, I think Q4 might be a really good time to get some of that work done while we're heading into the new year, things kind of slow down anyway. And so maybe that would be a good time to not be too overwhelming but then to get them going the holidays. But anyway, so if you could just ponder over that and think about what- And you just see how they do first what Patu's going quite frankly. Okay, yeah, so well and that would that would line up with it too so we get some observation time but okay cool. So we'll table that for a little bit and Anything else? Okay. All right. Well, I was just thinking about the very beginning of this conversation and just wishing you the best of luck. Oh, Mark, I've been meaning to ask. Gosh, I keep getting, because I don't have my phone in my hand when I mean to ask you, but what are you doing in the mornings now?
+00:57:34 - mark sweet (3) (sweetlaw.com)
+Meditation for about the first 30 minutes.
+00:57:38 - Tina Marie (profitdriversinc.com)
+You are.
+00:57:40 - Dan Ryan
+What kind of meditation?
+00:57:45 - mark sweet (3) (sweetlaw.com)
+Through the nose, after the nose, then something called bliss meditation.
+00:57:53 - Tina Marie (profitdriversinc.com)
+Are you doing that at home?
+00:57:54 - mark sweet (3) (sweetlaw.com)
+Are you going to the office and doing it? I'm doing it at home in five in the morning. I'm not going to the office as soon as I wake up.
+00:58:01 - Tina Marie (profitdriversinc.com)
+Well, I was just checking because they're staying so late. don't know what's going on.
+00:58:05 - mark sweet (3) (sweetlaw.com)
+Like, I'm just going to be upset like, you know, before seven. Here's two plus hours.
+00:58:14 - Tina Marie (profitdriversinc.com)
+But you're not checking your phone right away anymore, right?
+00:58:20 - mark sweet (3) (sweetlaw.com)
+Rarely. Like when I first get up, I just look at it to make sure there's not like, you know, 20 missed calls from someone or something.
+00:58:32 - Tina Marie (profitdriversinc.com)
+And that's it. You don't get pulled into anything.
+00:58:35 - mark sweet (3) (sweetlaw.com)
+No, I get the other stuff done first.
+00:58:38 - Tina Marie (profitdriversinc.com)
+Good job. Good job. I was, I was really worried about how that was going to start going. So nice job. Very, very glad to hear that. OK, all right, then. Put the mommy team that way from the next. was worried about you. All right, number questions, number, anything. Can we same time next week? No, no, not same time.
+00:59:03 - Dan Ryan
+Monday, next week. Yeah, I was like, I don't think so.
+00:59:08 - Tina Marie (profitdriversinc.com)
+That's what day it is already. I'm out of it. I won't see my girls for four days. So I'm just like, anyway, all right. Well, Mr. Mark, have a, and Dan, we have a meeting right after this. So, Mark, have a good holiday and a great weekend and take very good care of yourself.
+00:59:26 - mark sweet (3) (sweetlaw.com)
+Stop.
+00:59:27 - Tina Marie (profitdriversinc.com)
+Yeah, ease.
+00:59:30 - Dan Ryan
+Bye.
+00:59:31 - Tina Marie (profitdriversinc.com)
+Bye.
+00:59:32 - Dan Ryan
+Bye.
+00:59:34 - Tina Marie (profitdriversinc.com)
+All right. Let's see. Oh, wait. Do you need a break or anything?

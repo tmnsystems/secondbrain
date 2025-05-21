@@ -1,0 +1,19 @@
+name: "Check required secrets"
+on: [push, pull_request]
+
+jobs:
+  verify-secrets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if ANY required secret is missing
+        env:
+          SHOULD_FAIL: ${{ secrets.PINECONE_API_KEY == '' ||
+                           secrets.OPENAI_API_KEY   == '' ||
+                           secrets.STRIPE_SECRET_KEY == '' }}
+        run: |
+          if [ "$SHOULD_FAIL" = "true" ]; then
+            echo "❌ One or more GitHub repository secrets are missing."
+            exit 1
+          fi
+      - name: Pass
+        run: echo "✅ All required secrets present."

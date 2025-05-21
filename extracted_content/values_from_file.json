@@ -1,0 +1,743 @@
+[
+  {
+    "text": "What was wrong with this person.",
+    "marker": "wrong",
+    "context": "But I was like, you know what you know. When I grew up it was, what could we pick on about a person? What was wrong with this person. What was wrong with that person? And I love that we are a family that just looks for great things in people, and compliments it constantly, and.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "What was wrong with that person?",
+    "marker": "wrong",
+    "context": "But I was like, you know what you know. When I grew up it was, what could we pick on about a person? What was wrong with this person. What was wrong with that person? And I love that we are a family that just looks for great things in people, and compliments it constantly, and.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I need to see everybody as a child of God.",
+    "marker": "need to",
+    "context": "You see what you look for, so look for the good. Um see people. As for me, it was. I need to see everybody as a child of God.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Okay, there's a little chink in your armor right there, like you.",
+    "marker": "right",
+    "context": "For those things, and like. Okay, there's a little chink in your armor right there, like you.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I don't need to put any of you on a pedestal.",
+    "marker": "need to",
+    "context": "I don't need to put any of you on a pedestal. I don't need to put myself on a pedestal. I'm not better than anybody else. I'm not worse than anybody else. We all.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I don't need to put myself on a pedestal.",
+    "marker": "need to",
+    "context": "I don't need to put any of you on a pedestal. I don't need to put myself on a pedestal. I'm not better than anybody else. I'm not worse than anybody else. We all.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Deserve respect and to be happy.",
+    "marker": "deserve",
+    "context": "Deserve respect and to be happy. Now some people. Also.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Everybody deserves to be happy, deserves respect.",
+    "marker": "deserve",
+    "context": "But, barring that exception. To me. Everybody deserves to be happy, deserves respect.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Deserves kindness, deserves.",
+    "marker": "deserve",
+    "context": "Deserves kindness, deserves. Um acknowledgement. You know those kinds of things, and so.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "You don't need to worry about punishing them or getting them back, or.",
+    "marker": "need to",
+    "context": "Incessantly negative. They are their own worst enemies. You don't need to worry about punishing them or getting them back, or.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And it's, you know, it's really interesting, because you just demonstrated that right?",
+    "marker": "right",
+    "context": "Yeah. And it's, you know, it's really interesting, because you just demonstrated that right? Your mom is not thankful for the gift that she is for you, for the peace of mind, and for the help that she is to the family.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "But Fuji's mom is, thank you for this right?",
+    "marker": "right",
+    "context": "But Fuji's mom is, thank you for this right? And. And you can see the difference in happiness. But I bet if you looked at.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Gratitude across the parallels, right in in the parents.",
+    "marker": "right",
+    "context": "Gratitude across the parallels, right in in the parents. Um that you would see that. That's that's probably.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Confirmation, you know, for test proofs, scientific method, right of of a concept and a principle.",
+    "marker": "principle",
+    "context": "Confirmation, you know, for test proofs, scientific method, right of of a concept and a principle. Um for what I would call.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Maybe even eternal truths or universal truths.",
+    "marker": "truth",
+    "context": "Maybe even eternal truths or universal truths.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right that there aren't exceptions for.",
+    "marker": "right",
+    "context": "Right that there aren't exceptions for. And that to me is one of them. It is that people that are thankful.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right.",
+    "marker": "right",
+    "context": "Right. But but there's a correlation between gratitude and happiness. That is undeniable and.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I have to ask you about this, because.",
+    "marker": "have to",
+    "context": "I have to ask you about this, because. I felt that you had said, you don't make friends easily, so this feels like a little bit of a shift.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Because of how you felt, or your mom staying with you, or anything right.",
+    "marker": "right",
+    "context": "Because of how you felt, or your mom staying with you, or anything right. But that was a gift that you gave to your children.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "So like if we get heavy metal poisoning right.",
+    "marker": "right",
+    "context": "So frequency is energy. So like if we get heavy metal poisoning right. But that will change the frequency. All all the things inside of our bodies. There's everything's energy, everything's.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "So if you play one frequency, one tone in the left ear and one on the right ear, bi narrow right, 2 ears.",
+    "marker": "right",
+    "context": "So if you play one frequency, one tone in the left ear and one on the right ear, bi narrow right, 2 ears.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "So we can think about it on a musical level, right?",
+    "marker": "right",
+    "context": "Toxic to us. So we can think about it on a musical level, right? What it feels like. We know that that's dark. That's foreboding music.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right?",
+    "marker": "right",
+    "context": "On a frequency level that cannot be perceived. Right? We know that there's a whole spectrum of light and sound.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Oh, right!",
+    "marker": "right",
+    "context": "Oh, right!",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right, which was used on purpose by anybody who wanted to control victims.",
+    "marker": "right",
+    "context": "And then shame! Right, which was used on purpose by anybody who wanted to control victims.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "They weren't even able to know what was truth.",
+    "marker": "truth",
+    "context": "They weren't even able to know what was truth.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Tradition is the highest value.",
+    "marker": "value",
+    "context": "Culture suggests that. Tradition is the highest value.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And tradition is the highest value.",
+    "marker": "value",
+    "context": "Shame. And tradition is the highest value.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Um at at 1 point, and then I was thinking about also the value of.",
+    "marker": "value",
+    "context": "Motherhood, and that you weren't really sure that you wanted to be a mother. Um at at 1 point, and then I was thinking about also the value of.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "If you feel like you have to apologize for somebody, you're doing business with the wrong people.",
+    "marker": "wrong",
+    "context": "Don't ever apologize for your children. If you feel like you have to apologize for somebody, you're doing business with the wrong people. You need to stop that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "You need to stop that.",
+    "marker": "need to",
+    "context": "Don't ever apologize for your children. If you feel like you have to apologize for somebody, you're doing business with the wrong people. You need to stop that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And he was dead serious, like he was upset with me, that I would feel that I need to apologize for my children, that they're everything.",
+    "marker": "need to",
+    "context": "And he was dead serious, like he was upset with me, that I would feel that I need to apologize for my children, that they're everything.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I'm telling you um, and but he's got his flaws right, and they're really difficult.",
+    "marker": "right",
+    "context": "I'm telling you um, and but he's got his flaws right, and they're really difficult. We all big people, big energy people.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Something that I'm doing wrong.",
+    "marker": "wrong",
+    "context": "Something that I'm doing wrong. 2 things are going to happen. Number one, you're going to feel like I want to kill you.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "So I'm going to give a lot of value to what was said to me.",
+    "marker": "value",
+    "context": "I am going to go inspect everything you said, and I'm going to expect the quality of the person who said it to me, and I don't let low quality people around me. So I'm going to give a lot of value to what was said to me.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I believe in what I did and how I did it.",
+    "marker": "believe",
+    "context": "I am going to like. I believe in what I did and how I did it. However.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "For you because I honor you.",
+    "marker": "honor",
+    "context": "For you because I honor you.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Because I love you and value you and want you.",
+    "marker": "value",
+    "context": "Because I love you and value you and want you. And so learning that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And try to right, and they will.",
+    "marker": "right",
+    "context": "And try to right, and they will. Be who they are with you.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And I say at all times, because there's fair weather friends right?",
+    "marker": "right",
+    "context": "And I say at all times, because there's fair weather friends right? There are people. Who are safe up and until.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "She's like not right now.",
+    "marker": "right",
+    "context": "She's like not right now.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And I need to only be around people who respect that.",
+    "marker": "need to",
+    "context": "I like. I want to be my own self, and be comfortable, being um my own self, and use my own voice and my own thoughts. And I need to only be around people who respect that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "So my poor babies don't even know what the truth is.",
+    "marker": "truth",
+    "context": "And to allow children to think that he was dying. So that kind of manipulation hasn't changed. It's only gotten worse. So my poor babies don't even know what the truth is.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "They'll be able to orient and know what the truth is.",
+    "marker": "truth",
+    "context": "Somehow they'll be able to orient. I know that they will. They'll be able to orient and know what the truth is. But that example is that powerful? Because.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "They respect women.",
+    "marker": "respect",
+    "context": "Those men are not abusive. They respect women.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "This is a good segue, because we need to wrap up and make a plan for next week, but.",
+    "marker": "need to",
+    "context": "Um. This is a good segue, because we need to wrap up and make a plan for next week, but. You're you're you're so far ahead of most people who have lived the kind of life that you did, Esther.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "My my key thing was, I wanted somebody who would make me the best version of myself.",
+    "marker": "key",
+    "context": "When I, when I was praying for the kind of partner that I would have in my life, when I was ready to be single until my girls were grown. My my key thing was, I wanted somebody who would make me the best version of myself.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "We have to have somebody who is.",
+    "marker": "have to",
+    "context": "We don't grow without opposition. So to become the best version of ourselves. We have to have somebody who is.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Yeah, yeah, but but respectfully and good.",
+    "marker": "respect",
+    "context": "Yeah, yeah, but but respectfully and good. You've done that, you you have. You created the environment for yourself to grow.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I could keep talking to you, but I have to get ready for my daughter, but what I would love to do.",
+    "marker": "have to",
+    "context": "I could keep talking to you, but I have to get ready for my daughter, but what I would love to do. Is, I just want you to contemplate.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right.",
+    "marker": "right",
+    "context": "No, no, no, no, no, no, no, no! This this. Okay? So I will tell you, because one of the things I do sometimes is I take my transcripts and go to the AI like, okay, do you have any feedback for my coaching? Right.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Which are the filters that all the thoughts will go through that have to do with anything.",
+    "marker": "have to",
+    "context": "Esther's heart and mind. Which are the filters that all the thoughts will go through that have to do with anything.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "There doesn't need to be more than that.",
+    "marker": "need to",
+    "context": "Think about you and to journal and to write. That's all the structure there is. You can brain dump. There doesn't need to be more than that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right, so.",
+    "marker": "right",
+    "context": "Right, so.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I think I might have told you.",
+    "marker": "have to",
+    "context": "And I want you to think about. It's 1 of my favorite phrases. I think I might have told you. Um. But this is a good thing to end with is that.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "Right.",
+    "marker": "right",
+    "context": "All grown up. Without constraining her against her will. Right.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "I need to know what that is.",
+    "marker": "need to",
+    "context": "What uh! I need to know what that is. I will be in Portland. I'll be like, Sis. I'm coming to visit also.",
+    "types": [
+      "value",
+      "principle",
+      "belief"
+    ],
+    "domains": [
+      "general"
+    ]
+  }
+]

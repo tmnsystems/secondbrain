@@ -1,0 +1,348 @@
+00:00:04 - Fujinaka, M.D.
+Hello. Hold on. Something's not working.
+00:00:13 - Tina Marie (profitdriversinc.com)
+I did.
+00:00:14 - Fujinaka, M.D.
+Hello.
+00:00:15 - Tina Marie (profitdriversinc.com)
+How are you?
+00:00:16 - Fujinaka, M.D.
+Good. Thank you for sending the clarification because yes, you're right. I did think it was for today. As you suspected.
+00:00:29 - Tina Marie (profitdriversinc.com)
+Yes, I am glad.
+00:00:31 - Fujinaka, M.D.
+You know me very well.
+00:00:33 - Tina Marie (profitdriversinc.com)
+We're good for next Tuesday.
+00:00:35 - Fujinaka, M.D.
+Oh, yeah, let me check that.
+00:00:37 - Tina Marie (profitdriversinc.com)
+Because then I just thought about it and I was like, well, wait a minute. Does next Tuesday work or? That was probably just for this week.
+00:00:43 - Fujinaka, M.D.
+Yeah, you wanted it just Tuesday.
+00:00:45 - Tina Marie (profitdriversinc.com)
+What time did we say two 30 or something? We said two, but two 30 would actually work better.
+00:00:51 - Fujinaka, M.D.
+That's fine. Yeah. Can you?
+00:00:52 - Tina Marie (profitdriversinc.com)
+Will you send the updated invite? Yes, I will.
+00:00:54 - Fujinaka, M.D.
+Yeah, that should be fine.
+00:00:56 - Tina Marie (profitdriversinc.com)
+Thank you. Yes. Thank you, actually. I'll be in the error at our meeting time.
+00:01:04 - Fujinaka, M.D.
+All right. I'm going to share my screen.
+00:01:07 - Tina Marie (profitdriversinc.com)
+All right.
+00:01:09 - Fujinaka, M.D.
+Show you what I did. See. Oh. So I called HubSpot. Well, first of all, I talked to Esther because I wanted to know, because she actually has a custom Salesforce and Salesforce as a CRM. And, you know, she actually, we paid like, well, she paid like $70,000 to make a custom Salesforce. So she's very good with Salesforce. She just thought for what I'm doing is a little bit overkill for Salesforce. So she agreed I should try HubSpot. So I called HubSpot. I can't get technical support unless I play for the pro subscription. So I signed up for pro trial and then I got to talk to a tech. And they said that I could, there was no button to click. I think our problem last time was. I would call someone and I would select, I left the voicemail, HubSpot tech support, they confirmed they said this, you can't just look at that, like you can, there's no way you can filter for voicemail. So the workaround is I create this lead status. So I could make different leads, like whatever, I could say like I'm talking about it. And then the same thing for, you know, we added a field for the meal set.
+00:02:29 - Tina Marie (profitdriversinc.com)
+They said this is okay, but it's only ever going to show the date.
+00:02:32 - Fujinaka, M.D.
+It's never going to show you like, you know, when you have to follow up, it's not going to show you anything except the date. So they said, you know, maybe you could use that and that or just use the lead status and just type in the date that I sent the meal. So that's the workaround. And then I have a call with the HubSpot Pro because you know, it's $100 a month to have it, which is fine because then you get the tech support. But if there's a $1,500 startup, then the person on the phone is like, you talk to one of the reps, a lot of times they'll wave it. So I was like, okay, so I'll talk to the rep.
+00:03:13 - Tina Marie (profitdriversinc.com)
+Yeah, especially if you'd be like, I really want to do this, but I'm not paying a startup D, so I don't think that's possible.
+00:03:22 - Fujinaka, M.D.
+So we'll see what they say. And yeah, that's it. And yeah, I did that. I was doing my calls this morning. I only reached out to like three people, but then the other part of that I was doing the HubSpot. Yep. then I am going to probably add I manager Paul to this so that both Paul and I can add to these case manager and keep updated. And then I, when I connected my inbox. So now anytime I email, for instance, got email Arthur, who I just called HubSpot. Automatically log the call I clicked that button right here.
+00:04:03 - Tina Marie (profitdriversinc.com)
+It says log or track and Yeah, I love that Yep, so you did actually end up because we were talked about Deciding if you would do that and you pulled the trigger and got it down, huh?
+00:04:16 - Fujinaka, M.D.
+Well the tech tech walk me through it He said I don't think it'll mess with Jamelius because I was like can't mess with Jamelius. how I manage everything right and he said well You know, I don't know but you can try it so So far it looks like it hasn't touched Jamelius. I don't think anyway When did you activate it in your email? Oh this morning.
+00:04:42 - Tina Marie (profitdriversinc.com)
+Oh, okay, so it did all my homework this morning Nothing like last minute.
+00:04:48 - Fujinaka, M.D.
+How Yeah Yeah, like it's good. Yeah, still pulls up Jamelius on the side. I turned off HubSpot emails So if I email anyone within the company, it's not gonna track If I send an email outside of HubSpot, it'll give me the option to create a new HubSpot like case manager file or a contact.
+00:05:10 - Tina Marie (profitdriversinc.com)
+Contact, mm-hmm. yep. I love that.
+00:05:15 - Fujinaka, M.D.
+That's what I did. And then I'm going to have a meeting to see if I can get the initiation fee waived at 2.30 today and also see if they could help me do a sequence. They said that I can do like a workflow sequence where I call the case manager, if it's voicemail, then it'll pop up on a calendar to call back in three or four days. And then if not, it'll prompt me to email. So I can make a sequence. But the guy was like, honestly, if you're only calling two hours a day, he's like, you should probably just do it manually and see how it works. And then after that, then you could automate it.
+00:05:56 - Tina Marie (profitdriversinc.com)
+And I was like, I don't care. This is. This um, awesome. I'm just thinking. So one of the things that I do a bit. We is track. You okay?
+00:06:10 - Fujinaka, M.D.
+Yeah.
+00:06:12 - Tina Marie (profitdriversinc.com)
+you finally kick all that, that coffin cold and stuff?
+00:06:15 - Fujinaka, M.D.
+Yeah, I think I'm good. My, you know, just a little lingerie, but I'm pretty good now.
+00:06:19 - Tina Marie (profitdriversinc.com)
+How's Esther? think last week you said she was maybe starting to come down with us just as she kicked it yesterday. Right.
+00:06:26 - Fujinaka, M.D.
+Yeah, so we're good.
+00:06:27 - Tina Marie (profitdriversinc.com)
+Okay. So kind of tracking how long it takes from problem aware to problem solved or function aware to function implement, right? Need aware kind of thing. So like when we first started six months ago, which by the way, I used to strike this time instead of PayPal, and I just want to make sure that those invoices got to you because it's a system for me. Yes. Okay. It's okay. I just wanted to make sure because there's no. Um, like PayPal says if the invoice was seen or not seen and I have definitely had issues with PayPal invoices getting to junk mail and things like that. So I do need to ask and make sure that they work. Um, so I think it's, yeah, I was, I don't know if it comes like if it's, if it's like easily identifiable because I haven't seen my own invoices in my inbox from stripes.
+00:07:26 - Fujinaka, M.D.
+So I don't know, you what I mean? Here they are in here.
+00:07:29 - Tina Marie (profitdriversinc.com)
+Um, okay. Well, see, and I don't know if like you would think about my company name versus me.
+00:07:35 - Fujinaka, M.D.
+Oh, I know this.
+00:07:36 - Tina Marie (profitdriversinc.com)
+It's on your email. Okay.
+00:07:38 - Fujinaka, M.D.
+Yeah. You know, profit drivers.
+00:07:40 - Tina Marie (profitdriversinc.com)
+Yep. Yeah. So they're broke up and I had them be different amounts so they didn't trigger any like duplication issues or whatever for carbs.
+00:07:51 - Fujinaka, M.D.
+So I did that on purpose. Sounds great. Thank you. Yeah. I'm trying to open a new credit card to get the startup points.
+00:08:00 - Tina Marie (profitdriversinc.com)
+go. Well, and the other thing is because there are three different invoices, you could spread them across whatever you want to do.
+00:08:06 - Fujinaka, M.D.
+Thank you.
+00:08:07 - Tina Marie (profitdriversinc.com)
+I feel like, I'm sorry, I just ate my daughter made me some real chicken breast and yeah, and video, so I can't like plus ready. Things that need to know. So, but in the beginning, I was really concerned about, you know, the way you have your system, it's not in a database and just, I mean, there was a lot, but I feel like, and the point is that I want you to look at like how things kind of grow like slowly, slowly, slowly then leaps bound. And it's because of the, the other work, the foundational work. So, first there was just kind of processing and wrapping your head around everything. There's been a few conversations of like, well, I don't see the point in this, not only the point in this, and we evolve and change and some things you're not going to agree with me on. And some things you may, but maybe for different reasons, whatever, but I wanted to just kind of look at the evolutionary process and it's also the awareness that you had that the lifeblood of the business is leads and that you really want to put consistent effort towards gathering leads, know, obtaining leads, but then you kind of measured, well, where did they come from, their people, how do you handle those people, how do you leverage obtaining the leads when it's relationship, right? It's not just marketing spend. Yes, you can spend marketing dollars, but there's leveraging managing the lead sources that you already have and the people that have already sent you business. And so a CRM, a customer relationship management database, right, is really, that's what they are, therefore, so just again, it's just looking the process of evolution. So what I imagine is going to happen from here between that and the door dash system over eats, I think we went there. I think the compounding effect of these two things over the next six months, I really think that you're going to be at your threshold within six months, if not from there. So speaking of, I remember talking about if we actually did the math, but what would it mean to you financially to go from your current amount, your current volume to threshold volume? Did we do that math? we finish it?
+00:10:49 - Fujinaka, M.D.
+Yeah, I think it was right because right now we're saying 350 visits a month times $300, right? But that was my goal. Well, original goal was 100,000 a month in revenue. And I think once the checks start coming in, it should be right around there. So if we went up to about 500 visits a month, that's closer to 300. Yeah, it's 150 a month. So 12 months, that's about 2 million years. So obviously doubles the revenue. So my moving targets, I wanted to have 5 million in revenue a year or a profit a year. So now, if I have 1 million from my medical legal Q and U work, and then if this company currently is doing a million a year, that's 2 million. So if I could double the volume or get up to like 500 visits a month, then it should be closer. That should be 3 million a year.
+00:11:53 - Tina Marie (profitdriversinc.com)
+Right. then so that becomes a well-oiled machine, though, that you you still have to work in and spend time on, so it's not, you know, hands off. But with the systems in place and it being a well-oiled machine, the mental draw that it takes reduces, because you're only spending operational brainpower rather than problem solving and creating brainpower, which means you can put that towards Delto, could put that towards your educational program, which actually probably has, I don't know if it's the most leverage, because the market size is so small, it's, there's definitely more in there, and if you find a complimentary product or service to give it to that market, then the earning power increases, because even though the market is small, you're serving more to them, so increasing the lifetime. I will reach customer that you got. So there's a lot of room for getting there, but I think spending the next whatever, or at the end of the year. And I feel like between sickness, holidays, and not just you, but you and your team, patients, offices, things like that, everybody gets busier now. So I think knowing that this is just going to have a little bit more of a slow pace, but hopefully a steady pace, where if more of your time is spent on just the automations. So the AI version of it, the automation and the organization of the data that we have, if we spend our time on that for these next few weeks and then kind of use that as moment for January, looking at, OK, so the. CRM is fleshed out, working well, all of the hiccups and kinks are gone, and we've been nurturing these doctor's offices and whatnot, or attorney's offices for you. Doctor's offices too, yeah? No, attorney's office. See, I just get done talking to Mark, so I have to flip-flop everything. Um, let me just make sure that wasn't my daughter. Okay, it's not.
+00:14:27 - Fujinaka, M.D.
+Yeah, I think it's funny, you know, the hard part, I think, was we, you know, the mother-in-law, my mother-in-law went home last was it two weeks ago now? Oh, remember, she was giving us full-time, you know, 24-7 child care, so now every morning I wake up with Emmy, get Emmy ready for school until 830, then mom, or Esther takes Emmy to school at 830, and then either I go to CUMI's half the month, so, you know, eight days a month, or, like, Today, I'm home and I could do a couple hours of work because we have a full-time nanny from eight to four. So, but then I am responsible generally for pickup of Emmy. So at two, well, maybe three o'clock, I go pick her up, right? And then would you jitsu, that leaves me like from eight thirty to eleven thirty. So three hours in the morning, which like this morning I worked with this hub spot. And then when I get back from jiu jitsu, which is one thirty, I then have about an hour and a half to work until I have to get Emmy. I'm figuring out my time. So like on the ten days that I'm on, you know, twelve weekdays that I'm home a month, I have three hours of the morning and about an hour and a half in the afternoon before Emmy comes home. And then when Emmy gets home, it's just, you know, me and Esther are the only ones now after four p.m. to watch yours. now I just, I have no more evenings until about eight thirty. when I put her down. And then by then Efster and I spend a little time generally, know, just hanging out, eating together, you know, we go to sleep. And now we're going to sleep about 10 p.m. So it's like from 8 to 9, we get to hang out and at 9 o'clock we're taking baths and showers and then we're in bed. So I'm just kind of like wrapping my head around like the very condensed amount of work times I have really just 12 days a month. It's not many hours, you know, like I got to figure out something either I got to wake up. I got to start waking up earlier, know, like maybe six or something and then working till 730 when Emmy wakes up, you know, or just committing a day because this amount of hours isn't going to help me grow Delta or really going to help me. I mean, I think I think the amount of hours will help me sustain July. Once our help spots in place, like I just full-time call, you know, I think it'll be enough, but you know, certainly it'll be enough for Delta.
+00:17:00 - Tina Marie (profitdriversinc.com)
+Before I get into the questions, and I hope I don't lose one, I think my brain just checked out, but one of the things that you can do for leverage and to get the most investment out of your investment with me is I will talk to you throughout the week. I can help you throughout the week without requires you doing something. Now, this is not me picking on you at AlphaG. This is, you definitely have some limits, but they're good limits. Oh, the question was, do you plan on having more children?
+00:17:33 - Fujinaka, M.D.
+I think we're gonna address that in about a year. wouldn't mind another one. Esther's okay with you. It's up to her, I think. And I'm pretty clear that I wouldn't mind another one, but it's up to her, ultimately, we'll address it in probably another year.
+00:17:46 - Tina Marie (profitdriversinc.com)
+Okay, so that's a possibility. And the reason I'm asking that is because really, it helps to kind of put your pace and look at things. But it also helps you psychologically when I talk about, okay, let's leverage this particular thing and that particular thing. thing. The best way for you to leverage my time that you're spending money on is to, like if you did your homework, let's say midweek or something, so we, you know, Mondays, if you say like you check in with me on Thursday, Thursday gives me Friday, me some time to think about, so maybe on the weekend there's something going on. We don't know until we even get started with this. And sometimes it'll just be, you got stuck somewhere, I'll go do some research before you potentially, or work something out, but talking just a little bit of updates throughout the week means I'll get to bring more to you. And I can't be specific until that happens in terms of like what kind of results that will be, but it will, it will open something up.
+00:18:51 - Fujinaka, M.D.
+It just always does. Yeah, I like the light because, you know, now that we, we bump Paul, he's willing to do you know the reports that we're asking. It's just a really matter of just honing down what we want from him and I can see how that could leverage because like last call we talked about let's get him to do reports every Monday so like you know I think if I would have got him to do it you know he would have given me the report this morning and then you and I could have looked at the numbers today and said hey because that's how many reports we did this is how many visits this how visits and then get my house spots pretty much done and I'm just focusing on that watching the business calling you leads you know it's I see the light you know it's it's close um yes so oh here's the other question what do um what is your cost of living annually like cost of living cost of business like it's on cost professionally and personally we have no idea or we have no idea what our yearly budget is like I sense I used to have my mom and dad's credit card till I was like 32 and so I don't even I don't I've never tracked how much I spent on food groceries gas electricity um I mean I just always you pay everything on car cash everything goes on the credit card yeah everything so um who do you have that can take all of your stuff in quick books and tell you what you spend on groceries what you spend on Amazon what you spend like seriously that's the great thing about the digital stuff is you get that numbers really quickly we had uh we had our bookkeeper that does my businesses it's three hundred dollars a month for their bookkeeping they used to give us a monthly report about what we were spending on our we only have I think extra other credit card I have one we only have two credit cards for personal stuff and they were giving us a report but then Esther and I were like well this is just you know it's on Robin we had like an app that broke it down and it wasn't anything we You're just like, okay, well, that's we're spending like, you know, whatever on food is not much electricity and then we cancel that service because we're like, well, it's like, I don't know what it's really telling us because it's just such, it's such a, you know, we don't go, we don't like go out, we're not, we don't have any crazy subscriptions. Like the biggest thing is the mortgage and the food we eat and everything else is just kind of like electricity water, we don't buy clothes, we don't buy like.
+00:21:25 - Tina Marie (profitdriversinc.com)
+Can you ballpark it confidently within $2,000?
+00:21:30 - Fujinaka, M.D.
+Include the mortgage or not?
+00:21:31 - Tina Marie (profitdriversinc.com)
+Yes, everything like what does it cost?
+00:21:33 - Fujinaka, M.D.
+Well, now we have two mortgages, that's $3,000, but yeah, so $30,000 plus another $6,000 for the food within $2,000 is probably about $36,000, $37,000 a month.
+00:21:46 - Tina Marie (profitdriversinc.com)
+Okay, so we're gonna go with $37,000. And then we're gonna sell our house in Dublin, so once that comes down, it'll come down to $27,000. And what are your professional expenses every year and your professional expenses across all companies? Yeah, because those bills have to be paid. What I'm trying to figure out is what do you need to earn and what can we start growing so that when we look at the pacing, I know that the number one, you know, in a danger zone, this is your buffer amount. And I want to know what you need and what motivates you, what excites you and what's required.
+00:22:49 - Fujinaka, M.D.
+Oh, yeah, it's pretty much business by business. It's hard to answer that. I don't really know how to answer that because each company runs its own expenses, so like MFMC, its main expenses, it pays me 200,000 a year, pays Esther 100,000 year as W2, and then the other $1 million of that is just distributed as shareholder, so the real costs are about 300,000, maybe 350 for expenses, and then the rest is about a million we distribute to ourselves.
+00:23:35 - Tina Marie (profitdriversinc.com)
+So could you get a report or get somebody that could get a report that does P&L's basically for all of your businesses for the last two years?
+00:23:48 - Fujinaka, M.D.
+Oh, we have that, yeah, I have P&L's for the last two years, yeah, like the year-to-day kind of things?
+00:23:54 - Tina Marie (profitdriversinc.com)
+Yes, so, well, if we're going to do that then the last three or so, this year today, and then two years prior to that so that I can look at the trajectory again baseline right and also in case it may give some new insight into questions that I haven't asked that I could ask that will help you so if you're confined to approximately 12 working days a month then what we want to do is get as much revenue power out of those 12 days a month but we also want to get as much revenue power out of the systems out of the people out of the teams that don't necessarily be limited to 12 days month you know what I mean like yes so um there is more uh perspective that I need to obtain in order to be as useful as possible to you so that's what I would like to get so I'm gonna put this today is the 18th my daughter's gonna be 15 my baby my baby my oldest is gonna be 24 next month Hi, baby. It's going to be. Okay. Um, okay. So, foodie email. Oh, my gosh.
+00:25:26 - Fujinaka, M.D.
+Can I type, you know, email something and then can you tell me if the this is I'm just going to do it now because I'm not great with the other stuff. Okay, so this is what our bookkeeper.
+00:26:05 - Tina Marie (profitdriversinc.com)
+Sitting any more?
+00:26:06 - Fujinaka, M.D.
+Yeah.
+00:26:10 - Tina Marie (profitdriversinc.com)
+There it goes. Okay. So you want to walk me through this? Like what is our question?
+00:26:24 - Fujinaka, M.D.
+No, is this what you wanted?
+00:26:26 - Tina Marie (profitdriversinc.com)
+Yes. So, but I see two businesses. Wait, yeah. CUMI and Ava. Is that everything?
+00:26:38 - Fujinaka, M.D.
+Yeah, it was. Now it's all one, right? Because Ava was the company we closed two years ago.
+00:26:43 - Tina Marie (profitdriversinc.com)
+It was still giving me some profits.
+00:26:46 - Fujinaka, M.D.
+So now all this in 2024 is just CUMI.
+00:26:50 - Tina Marie (profitdriversinc.com)
+Okay. And that includes Delto and your education staff and all that.
+00:26:56 - Fujinaka, M.D.
+This company, Michael Fijianaka Medical, in. it's the education. No, it actually doesn't include the recruitment work that I do.
+00:27:09 - Tina Marie (profitdriversinc.com)
+So the first thing I definitely want to have the numbers for everything because your best way to get the most out of your investment with me is for me to look at all the things. And the first thing I need to know is what revenue is tracked under microfuginoc, medical corporation, okay? And it doesn't matter if it's not broken down per thing, not for these intents and purposes, I don't need that. But anything that's not covered in that, I need that number separately, those numbers separately.
+00:27:50 - Fujinaka, M.D.
+Does it make sense? Yeah, so that would be the test prep that's separate. I mean, that's It's like 15,000 a year. And I guess July. Yeah, it's just July in the educational company.
+00:28:13 - Tina Marie (profitdriversinc.com)
+Okay, so um, did you bookmark the notes?
+00:28:18 - Fujinaka, M.D.
+Yep.
+00:28:19 - Tina Marie (profitdriversinc.com)
+Okay. So, because I'm gonna have, and I'm gonna do, I'm sorry, I'm just gonna, oh my heck, I cannot click on anything properly today. So, um, would you, well, that's not what I meant to do. Okay. I never have to do that though. There we go. It is not working. Normally I just can like put your name in here and it'll tag somebody. Add to contact. In my contacts. Let's down comment. So. All right. And then. And. you're. Okay. And What was your gross?
+00:30:03 - Fujinaka, M.D.
+Profit gross revenue last year across all the companies, you know Gross revenue, okay, so One point is a one million four hundred seventy one thousand three hundred thirteen for MFSC which is can be income and the recruitment and And then for July medical I think it was like twenty thousand I don't think I would think I have any profit December here it is December P&L for the year 49,380 dollars for July Or when for July medical Wait a bit before that what was the amount? or the time frame because they all look like 23 per july medical okay so sorry the first thing you told me was july medical was 20 000 what was the time frame for that no no no i said it was an estimate oh okay i'm like i know i missed something no no that was an estimate i didn't actually know but yeah it's uh forty nine thousand three hundred eight dollars before expenses forty nine a million then the then the educational one was i don't know how to use people oh um like you want to go get a report yeah oh here's all reports oh yeah okay no reports okay great
+00:32:02 - Tina Marie (profitdriversinc.com)
+So it'll generate a report for you.
+00:32:04 - Fujinaka, M.D.
+Oh, there it is. Oh, yeah, I'm going to generate a report. Summary transactions from so to January 1st, 2023 to December 31st, 2023. I can't use that end date, 1 1 2023 to December 21st, let's run with that. 30 days? No, 31 31. can't take an end date.
+00:33:01 - Tina Marie (profitdriversinc.com)
+You want to share screen?
+00:33:04 - Fujinaka, M.D.
+Yeah. Oh, it's only letting me go a few months. Is to your running? Oh, maybe it has to be some running. Share screen. How is your screen? See, let me go past three months. Okay, well, let's try it. Okay.
+00:33:39 - Tina Marie (profitdriversinc.com)
+So we're just looking for gross revenue, right? Yeah. So go back to all reports.
+00:33:50 - Fujinaka, M.D.
+Oh, statements, maybe.
+00:33:53 - Tina Marie (profitdriversinc.com)
+Yes. But it's probably click on the date. Right there.
+00:34:00 - Fujinaka, M.D.
+Yeah. Oh, okay. Great report. Yeah, nice You can download it from history, okay Shouldn't take that one. Oh, yeah, Okay, oh they won't take long and this is where you'll Here's it here is it's in progress Yeah, January 1st 2023, okay, yep This okay download Okay, yeah Let's see Payments received here it is twenty seven thousand seven hundred and seven dollars and twenty-four cents I mean, that's not bad for not doing anything after you created it pretty much, right?
+00:34:56 - Tina Marie (profitdriversinc.com)
+I never knew that
+00:35:01 - Fujinaka, M.D.
+Twenty seven thousand seven hundred and seven dollars and twenty four cents and it cost you what to do last year hours I don't know I set this up in 2022 so why don't you go do the report for 2022 real quick because it's fast yeah that's a good idea okay.
+00:35:32 - Tina Marie (profitdriversinc.com)
+Or you can just do it from 2022 to date to see what it's made all time.
+00:35:40 - Fujinaka, M.D.
+Yeah. Yeah. Yeah. don't know. We have about 12 hours to make it probably.
+00:35:52 - Tina Marie (profitdriversinc.com)
+That's that's pretty fantastic.
+00:35:54 - Fujinaka, M.D.
+And how many customers. about, well, I can just do it. 27,000 divided by 300 equals 90.
+00:36:10 - Tina Marie (profitdriversinc.com)
+I was like, 27 divided by three is a very easy nine.
+00:36:15 - Fujinaka, M.D.
+Yeah. I just got choked out in GGC, Brenda doesn't work that well. All right, let's take a look. Oh, no. I guess I started in 2023.
+00:36:31 - Tina Marie (profitdriversinc.com)
+Okay, that's still more than, I mean, like, if all you did was created and it was 12 hours, that'd still be like over $2,000 effective hourly rate. So that's pretty good. Yeah, okay. So the goal for me when I started asking the questions is roughly roughly, how much does it take just to function, operate comfortably, right? with your existing living expenses and your existing operating expenses so that if we look at if you could grow increase by percent you know every quarter or even if it took every six months what would that dollar amount be and how happy would you be if that's all that you could do while the little ones are little ones because everything changes when they start going to school you get more time back but this is a very particular time in your life like nothing else and you can't buy it back you can't get this time back all of these business things you can do any other time in your life you can leverage it but you can't get this time back with your children and so that's just kind of an awareness of can we find a pace that you're still excited about um that's still kind specializes on potentially a really good market right now with what just happened election-wise, at least by our confidence should have increased. So there should be some positive things happening, right? And so we want to tap into that. But if we're being very intentional and strategic and leveraged in what we're doing, lack of hours shouldn't be that big of a deal, right? Also to the statistics and the data like that the book Scrum was written about but I don't think it was just that report is that productivity reduces roughly 20 hours a week anyway. And when we're thinking about your greatest productivity for the most part is going to be your creative and strategy, thoughts, then we want to make sure that we're not, being excessively so that your brain is free to work subconsciously, these work out these problems. That's really why that statistic is the way that it is, is because subconsciously, we do a lot of really powerful work, but subconscious is, it can't, when it's, we're engaged consciously do other things and we're fatigued. So it's not necessarily a bad thing that you're limited like that, but knowing it, this is where we look for the leverage. So based off of the numbers that you gave me, let me pull this back up. So 150,000, 1,500,000, 550,000, and then you, that can't be read. I did that wrong. Hold on a second. So, if I heard your numbers right, and if this is right, then roughly 794,000 for expenses, personal and business, how's that sound? Okay. roughly half of that then is profit.
+00:40:21 - Fujinaka, M.D.
+Well, then the other part is about 40, we figured about 43% that goes to taxes.
+00:40:28 - Tina Marie (profitdriversinc.com)
+Right. Okay. So, um, let's see, taxes, um, um, it's funny that you said you get a little time back when the little ones go to college or go to school, um, I've always to go
+00:41:00 - Fujinaka, M.D.
+If I'm not going to have as much free time as right now, it's funny that to hear that Melbourne will get a little bit of time back when they go to, when Mari goes to school. So yeah, we'll see.
+00:41:12 - Tina Marie (profitdriversinc.com)
+And it depends on how good they do at school. The actual, the time I think that you have the most time is from like age six to around age 11, depending on how active they are in activities. But once they start preteen, and they start choosing their own activities, but also now stress kicks in. So the headaches at school, I forgot my homework, because they don't really have homework, depending on what school you go to when they're younger, public school is terrible. yeah, so once they get preteens, you actually start getting busy a lot again. But that's something that even a or an assistant can help with, because it's not necessarily that they need mom and dad emotionally, it's just that they need somebody. to help them with something mom and dad are invested but um yeah but then um it all it all changes so like you don't get sleep right now because or you or you do right but so as we get sleep the but but when they're teenagers the only time they want to talk is when it's like the middle of night that's when their defenses are down um that's when they can't sleep and so if they'll they'll open up a lot more not it's not just my kids like statistically that's and it's hilarious so anyway there's different reasons you're tired but there's different ways that you can leverage it um and there's different ways that it impacts you you're going to be busy until until they're not there anymore um but your ability to manage the time shifts a little bit if that makes sense yeah okay so um that 100% cannot be right. Oh, yeah, that's why decimal points matter Tina Okay, so oh wait, that's not even the right thing anyway My brain all right, so This where's this? Where's my auto sum? Here you go wait there you are some check and then My dogs are calling bonkers right now number Connecting That and then Texts down here I don't know I'm saying still even that text is It was this Linked four three Okay, so then Oh, I could probably share my screens here, not just going sitting there doing nothing. I am working on creating my own kind of little dashboard for stuff that I want to do. This is MS, I just started it today, so ignore it, I'll move things around, but because the notes are kind of linear, they won't help me be, I don't know, look at the bigger picture, so I'm starting to build something where we can look at all these things in a better way. So it's going to be, we'll call this netish equals this minus this, minus this, minus this, okay, it's much more humble number than that, right? So, if we took this, how do I do this, 5% increase, not yet, okay, we'll do it okay, 5% this, this, bear with me for a second, equals this times.5, plus this. So, but that's So what I need to do is figure out, I need these monthly, I need, I need monthly numbers, so I can look at a monthly increase or a quarterly increase so we can set some goals. But where it really started was, if July goes from 250,000, sorry, 250 visits a month average to 500, then that was, that increased you by 1.5 or one rate. Not the whole, I think, That's what I think you said, but the real numbers don't bear it out yet, but hopefully it's the settle, it will. Right. So, and I don't know that my brain can actually really go crunch that right now, but this is what I want to do is I'll kind of create this, I can share this with you, but this is really my kind of working thing. if you work out, and then duplicate it don't don't change what I have you can just not this part because then I'm like what was I doing um so um we want uh to do this rename wonder if i can just look at the uh see here so so we're gonna And so we have the headhunter kind of thing, what do you call it, like a talent, what are the other things that you have, equipment, equipment, that's what I was thinking of, what else, that's it, okay, so education and then equipment, yeah that's right, oh delta, okay, we're doing a website right now, so zero, nay,
+00:49:00 - Fujinaka, M.D.
+We have $7,500.
+00:49:03 - Tina Marie (profitdriversinc.com)
+We're going to do this. We can have hope for this number.
+00:49:11 - Fujinaka, M.D.
+I can make one to say that I'd be very happy.
+00:49:15 - Tina Marie (profitdriversinc.com)
+So if you send me P&Ls, let's see, these are all under...
+00:49:22 - Fujinaka, M.D.
+Only July is under its own and then QMian education or QMian recruitment are under one bookkeeping. The education is just on PayPal. I don't even put those into the books. Such a little amount.
+00:49:41 - Tina Marie (profitdriversinc.com)
+What does it make monthly?
+00:49:44 - Fujinaka, M.D.
+Or even quarterly? I'd be okay with quarterly. About $13,000 every six months. I mean... The test is only twice a year.
+00:49:55 - Tina Marie (profitdriversinc.com)
+The test is okay. what are the months that the test is in?
+00:50:00 - Fujinaka, M.D.
+April and October.
+00:50:02 - Tina Marie (profitdriversinc.com)
+So is that when people come to you?
+00:50:05 - Fujinaka, M.D.
+Yeah, like 30 days before.
+00:50:08 - Tina Marie (profitdriversinc.com)
+So we're just going to do this and we know it's starting math.
+00:50:11 - Fujinaka, M.D.
+Yep.
+00:50:12 - Tina Marie (profitdriversinc.com)
+April and October 13.
+00:50:14 - Fujinaka, M.D.
+Yeah.
+00:50:15 - Tina Marie (profitdriversinc.com)
+Okay. So. What's going to happen is like we're already working on July. And that's going to be the biggest number. And then we'll work on QME. I don't know anything about. I know little bit about the recruitment. But I want to fill out these numbers from here. Looking at it this way. Like real numbers, not not guests numbers. Then we can I'll put in formulas and do some calculations. Okay. So if we get an extra like. 30 visits next month. And then compounding from that number. Another 30 like working. Like, what is the pace of the revenue growth knowing that it doesn't actually come for another 12 to 18 months potentially? But this will help us kind of get the roadmap, which will then inform, okay, how much time do we spend on this particular thing? for example, the system of reaching out to our referral partners who are sending the business. And then keeping in mind, okay, these are the hours, these are the days, food, you can work. So that's one of the things that I want to do is rename.
+00:51:41 - Fujinaka, M.D.
+I sent all of the July statements to you, I believe, let me check here, I think I said.
+00:51:50 - Tina Marie (profitdriversinc.com)
+I think you did. You sent me a lot of stuff or I put them in a, is that a Google drive folder that you shared with me?
+00:51:59 - Fujinaka, M.D.
+Oh, no, no, no, I didn't. Well, on August 18th, I could just read them off.
+00:52:04 - Tina Marie (profitdriversinc.com)
+We could do it now. Let's see. Yeah, let's go ahead and populate this.
+00:52:08 - Fujinaka, M.D.
+So January, what are we looking at? Is it gross? Gross profit? Oh, I got up by the...
+00:52:14 - Tina Marie (profitdriversinc.com)
+Yes. Gross revenue.
+00:52:19 - Fujinaka, M.D.
+Yeah, $19,249. I could just put it in I could just do it. me do it. Where's the document? Let's see.
+00:52:27 - Tina Marie (profitdriversinc.com)
+Okay. I'm going copy the link and put it in the chat more.
+00:52:34 - Fujinaka, M.D.
+It's just gross, right?
+00:52:37 - Tina Marie (profitdriversinc.com)
+Gross.
+00:52:39 - Fujinaka, M.D.
+Yay. Okay. March. April. Having a bookkeeper is just magic sometimes.
+00:53:15 - Tina Marie (profitdriversinc.com)
+just like, I don't know how you get this data. mean, I know how to get data, but it's always very nice to see these reports. I'm just like, you get it not cheap to brainstorm. I do not like doing that stuff at all, but yeah.
+00:53:30 - Fujinaka, M.D.
+Yeah, they look at all my account statements and reconcile it and I'm like, oh my god, this is magical when it works.
+00:53:38 - Tina Marie (profitdriversinc.com)
+I love when all I have to do is answer like five questions the whole year long and she does everything else.
+00:53:43 - Fujinaka, M.D.
+And I'm like, I was really mad because they asked me like questions about my credit cards. And then I went to my banker this month and I was like, hey, you know, then they're like, well, they have access. And then so I went back to them. I was like, you have access to the statements. What changed? And then she was like, oh, I'm sorry. RN, so I got furious. was like, you don't ask me that until you go to your manager and you know, ask your manager for help because you couldn't get my statements. There wasn't a problem for the last year and a half you've done this and all of a sudden you can't find it. So then she's like, okay, well, it's just the one time I was like, well, then you need to ask your manager and then I looped in the CEO of the company. I was like, you figure this out instead of making me waste my time. Like, this was just couple days ago. was like, furious about this. Nothing has changed. Just look at my credit card statements.
+00:54:33 - Tina Marie (profitdriversinc.com)
+gave you access.
+00:54:34 - Fujinaka, M.D.
+All right, there it is. It's all in there and then you want to see the MFMC ones, right?
+00:54:39 - Tina Marie (profitdriversinc.com)
+Yes. Um, where did you put that?
+00:54:58 - Fujinaka, M.D.
+Fuji goals.
+00:55:00 - Tina Marie (profitdriversinc.com)
+The schedule planner. It's weird. I don't see it. Oh, no, I'll refresh it.
+00:55:04 - Fujinaka, M.D.
+Your goal is plus schedule planner.
+00:55:06 - Tina Marie (profitdriversinc.com)
+Oh, that's it. Oh, it shows it's offline for me. Yeah, I'm having issues.
+00:55:23 - Fujinaka, M.D.
+And again, we're looking at gross profit, right? Oh, shoot. OK, no, wait. You want to break it up between Q and E and recruitment, right? Q and E is here and recruitment, but the gross. OK, recruitment, I'm going to switch these columns so they're next to each other. There we go.
+00:55:41 - Tina Marie (profitdriversinc.com)
+I love what you like.
+00:55:43 - Fujinaka, M.D.
+OK, and then where's January?
+00:55:46 - Tina Marie (profitdriversinc.com)
+I'm going to close my browser and see if opening and backup helps.
+00:55:51 - Fujinaka, M.D.
+No, that's the one in this January. and and and going and browser browser and going going close
+00:56:20 - Tina Marie (profitdriversinc.com)
+My chrome is struggling. Another thing.
+00:56:25 - Fujinaka, M.D.
+Oh, say, Maybe, I don't know if that's wrong. Oh man, I got crushed in June, that's not good. The nature of the nature of not knowing when they're going to send collections, right? For the kidneys, technically they're supposed to pass within like 60 days, but you never know when they're going to fight you, tooth and nail, do not pay.
+00:57:57 - Tina Marie (profitdriversinc.com)
+That's another good reason to have everything. leverage those that wherever, you know, come on, come on, come on, we're ship temperature. I cannot get Chrome to relaunch. Never have these problems, but also have to shut my computer down for a few weeks. So that might have something to do with it.
+00:58:30 - Fujinaka, M.D.
+That's it. They still haven't gone in October.
+00:58:42 - Tina Marie (profitdriversinc.com)
+Who's the year accountant?
+00:58:45 - Fujinaka, M.D.
+What day is it today?
+00:58:46 - Tina Marie (profitdriversinc.com)
+18. When is it, when is it, it, when are you supposed to get it?
+00:59:12 - Fujinaka, M.D.
+I was having problems with them. So I wanted it on the 10th day of the I don't know. I don't care. They should have gotten the preliminary then. They should have just sent me the preliminary. All right. I got the yaw at them. This is ridiculous. Every year at the yaw at them, at least once. And then they shape up for a couple months. All right. Well, there it is.
+00:59:47 - Tina Marie (profitdriversinc.com)
+Up until September, at least. Well, I can't see it.
+00:59:52 - Fujinaka, M.D.
+Sorry, because I can't get it.
+00:59:53 - Tina Marie (profitdriversinc.com)
+Oh, that's all good. Actually, how, where in an hour, how did that happen?
+00:59:57 - Fujinaka, M.D.
+Yeah.
+00:59:58 - Tina Marie (profitdriversinc.com)
+Um, will you screenshot?
+01:00:00 - Fujinaka, M.D.
+Let me real quick, just so I can take a minute and then I'm probably going to have to just restart my computer. Okay. I don't know how to expand this area. Okay.
+01:00:16 - Tina Marie (profitdriversinc.com)
+So. Okay. Okay. All right, so that will get me started with some organizing, and then I can't. Can you open the the notes?
+01:00:42 - Fujinaka, M.D.
+Okay.
+01:00:44 - Tina Marie (profitdriversinc.com)
+Please. about what we're working on.
+01:00:48 - Fujinaka, M.D.
+Go down to last week.
+01:00:53 - Tina Marie (profitdriversinc.com)
+You did that, determine if you integrate, you did that, have fall update, the number of visits and the type of.
+01:00:59 - Fujinaka, M.D.
+Yeah, I got to do that. That's the one bar, if we can figure out what he wants to give us every Monday, then he could start, I could start seeing every Monday.
+01:01:09 - Tina Marie (profitdriversinc.com)
+Okay, so can you move that to this week, please?
+01:01:12 - Fujinaka, M.D.
+That sounds like a great thing I should work on.
+01:01:16 - Tina Marie (profitdriversinc.com)
+Yes, and there hasn't been any accountability stuff for a while, and we talked about that not being there while you're trying to figure out this transition, but I think that even if you only pick one thing that you for sure are going to do, and as far as I'm concerned, you integrating the email and reaching out to Hubsport and getting that done was a big movement. I'm really happy with what got accomplished across the week, so, but I want to make sure that you are, especially because that was a goal for you to work on your accountability. Pick the thing that you commit to getting done before we talk next week. Remember, part of that, it needs to be done by nine o'clock the day of our meeting.
+01:02:04 - Fujinaka, M.D.
+So I have time to review it.
+01:02:06 - Tina Marie (profitdriversinc.com)
+Okay. So it's not done if it's not done by then and reported.
+01:02:12 - Fujinaka, M.D.
+Okay.
+01:02:13 - Tina Marie (profitdriversinc.com)
+right. Um, that's just a little bit of the leverage. So the other thing is, if you'll just put a note in there, just, you know, update me on pick a day of the week. That does not Friday because if it's the end of Friday, then I'm not going to see it really. Okay, because I'm taking the last three years of motherhood and sucking it all up. yeah, so, okay, then we will keep making some progress. Oh, you know what I was going to do? Um, and we can wait till next week, but if you go back into that goal, the, the, the we were working in. Sorry. Who did you schedule? So what I was going to do was make kind of my own version of your work schedule in this so that when I'm thinking and planning and trying to ask you some strategy questions like I have an idea of where your work time is going and also an idea of like this is your family time this is when you don't want to be working so I can just really think about how you can be leveraging things as much as possible and because I'm visual it really helps me a lot so if you have to if you just if you want to make time and and fill that out for me because I know that like the first Monday of the week the third Thursday all of those different things like we don't have to have the dates but you have a pretty steady schedule if you could fill those out that would be really good and that that will be a leverage activity for us to go through and figure out how can we help you hit the growth goals but still have plenty of time for the life you guys are building with your family and feel satisfied with the growth professionally but also with the growth personally and just just the life that you're living.
+01:04:13 - Fujinaka, M.D.
+Where is that just in the note talking about?
+01:04:16 - Tina Marie (profitdriversinc.com)
+Fuji schedule on that tab at the bottom.
+01:04:19 - Fujinaka, M.D.
+Oh yeah.
+01:04:20 - Tina Marie (profitdriversinc.com)
+I hadn't got it started yet so because we were doing this then it crashed but yes if you if you would do that that would be fantastic. I will be super happy with the progress that we've had and I think that you'll be happy with what we get finished throughout the year if if we if we get all these numbers together even without spending a ton of time I think that that you'll be happy with where where we put our efforts and energy. Sounds good. Okay well good job on everything. You guys are healthy and well and I'll see you next Tuesday. Tuesday. Got it. Okay. Thanks Fuji. Bye.

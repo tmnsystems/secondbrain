@@ -1,0 +1,1667 @@
+[
+  {
+    "fileName": "prologue.md",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/prologue.md",
+    "type": "written_content",
+    "priority": "medium",
+    "contentPreview": "**Version One**\n\nPrologue\n\n\"The tree that never had to fight  \nFor sun and sky and air and light,  \nBut stood out in the open plain  \nAnd always got its share of rain,  \nNever became a forest king  \nB...",
+    "cachePath": "processed_content/prologue_md.json",
+    "processedAt": "2025-05-04T03:40:52.648Z"
+  },
+  {
+    "fileName": "your_comment_edits.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/your_comment_edits.txt",
+    "type": "social_media",
+    "priority": "low",
+    "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" /><base href=\"../../\" /><style type=\"text/css\" nonce=\"nG6RCtYp\">html{touch-action:manipulation}body{background:#fff;color...",
+    "cachePath": "processed_content/your_comment_edits_txt.json",
+    "processedAt": "2025-05-04T03:40:52.647Z"
+  },
+  {
+    "fileName": "Blog Posts .txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/written_content/Blog Posts .txt",
+    "type": "marketing",
+    "priority": "medium",
+    "contentPreview": "﻿How Setting Firm Rules and Personal Boundaries Can Liberate You\r\n 20 September 2017  0 Comments\r\n\r\n\r\nI feel that every person, in every station in life, and in every aspect in life, should take the t...",
+    "cachePath": "processed_content/blog_posts__txt.json",
+    "processedAt": "2025-05-04T03:40:52.646Z"
+  },
+  {
+    "fileName": "All Fathom Transcripts.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/All Fathom Transcripts.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "\n2024-09-17T20:00:00Z 00:00:04 - Tina Marie (profitdriversinc.com) Hey, Patrick. 00:00:05 - Patrick Shahverdian (sweetlaw.com) How are you doing? Good. How are you? 00:00:08 - Tina Marie (profitdriver...",
+    "cachePath": "processed_content/all_fathom_transcripts_txt.json",
+    "processedAt": "2025-05-04T03:40:52.639Z"
+  },
+  {
+    "fileName": "Done Patrick.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Patrick.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nHey, Patrick.\n00:00:05 - Patrick Shahverdian (sweetlaw.com)\nHow are you doing? Good. How are you?\n00:00:08 - Tina Marie (profitdriversinc.com)\nGood. I'm tr...",
+    "cachePath": "processed_content/done_patrick_txt.json",
+    "processedAt": "2025-05-04T03:40:52.635Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nCan you hear me? I can't. How are you doing today?\n00:00:05 - mark sweet\nI'm trying to take time to make things at once, you know, you know, Yeah. to figur...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.632Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nTwo Mark sweets.\n00:00:01 - mark sweet\nYeah, I wasn't sure which one was right. So that's all right.\n00:00:10 - mark sweet (3)\nI just don't know one. They'...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.628Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nyou there? Give me a date.\n00:00:07 - mark\nYeah, I'm here. What? I don't know why the update is not in my calendar.\n00:00:21 - Tina Marie (profitdriversinc...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.628Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(12).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(12).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:15 - Tina Marie (profitdriversinc.com)\nI'm trying to get myself this, stabilized real quick. Sorry. Sorry. How do you say?\n00:00:32 - mark sweet (3)\nDan, how was college?\n00:00:35 - Tina Marie (...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_12__txt.json",
+    "processedAt": "2025-05-04T03:40:52.627Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(13).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(13).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nYou're so quiet, but yeah, definitely. Are you there?\n00:00:11 - mark sweet\nYeah.\n00:00:12 - Tina Marie (profitdriversinc.com)\nHow are you?\n00:00:14 - mark...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_13__txt.json",
+    "processedAt": "2025-05-04T03:40:52.626Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(14).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(14).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - mark sweet\nOkay, Tina, can you hear us? No, Tina's unmuted.\n00:00:09 - Tina Marie (profitdriversinc.com)\nSorry.\n00:00:10 - mark sweet\nI'll see your videos on.\n00:00:12 - Tina Marie (profitd...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_14__txt.json",
+    "processedAt": "2025-05-04T03:40:52.625Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nYes, I can. How are you?\n00:00:04 - mark sweet\nPretty good.\n00:00:06 - Tina Marie (profitdriversinc.com)\nThat's good. What's that? How's it going? Like wha...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.624Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nCan you hear me? Yeah. So did you said to say hi?\n00:00:08 - mark sweet\nYeah, they are COVID. So he's having fun.\n00:00:11 - Tina Marie (profitdriversinc.c...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.623Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nYeah, Mark, we have had three car wrecks in my family in three weeks. My daughter got in another wreck and this time she's born. Yeah, I don't know what th...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.622Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - mark sweet (sweetlaw.com)\nOkay, can you hear me?\n00:00:05 - Tina Marie (profitdriversinc.com)\nYes, can you hear me? How are you doing?\n00:00:11 - mark sweet (sweetlaw.com)\nGetting a little ...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.622Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:08 - Tina Marie (profitdriversinc.com)\nare you here? can't hear you. Yeah, let me get on my time.\n00:00:17 - mark sweet\nYeah, I'm just as nice as about it.\n00:00:20 - Tina Marie (profitdriversin...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.621Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:08 - Tina Marie (profitdriversinc.com)\nYes, how are you? Yeah, good. Good enough, you mean?\n00:00:18 - mark sweet\nYeah, it works. He's not so fluffy right now, but he's good. He had fun this wee...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.620Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - mark sweet\nCan you hear me?\n00:00:07 - Tina Marie (profitdriversinc.com)\nYes, can you hear me? Who has his new baby.\n00:00:15 - mark sweet\nI know how exciting.\n00:00:17 - Tina Marie (profit...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.619Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - mark sweet\nthat's okay interesting how people are deciding just yeah it's okay it's legal so the guy wasn't close to the kid so you shouldn't get anything it's like or last year that we've ...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.618Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis Integration_Sweet Law.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nYou muted, homie.\n00:00:15 - mark sweet\nOkay. here we go. I did the okay to this being recorded.\n00:00:19 - Tina Marie (profitdriversinc.com)\nYou what?\n00:...",
+    "cachePath": "processed_content/done_transcript_for_basis_integration_sweet_law_txt.json",
+    "processedAt": "2025-05-04T03:40:52.617Z"
+  },
+  {
+    "fileName": "Done Transcript for Basis PM_Ops Meeting.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis PM_Ops Meeting.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Dan’s iPhone (danddcompany.com)\nI need to get her to just start updating Stacie when the content friends and then I wish I could be jaded through the pages.\n00:00:08 - Bobby (Basis)\nAll rig...",
+    "cachePath": "processed_content/done_transcript_for_basis_pm_ops_meeting_txt.json",
+    "processedAt": "2025-05-04T03:40:52.616Z"
+  },
+  {
+    "fileName": "Done Transcript for Chona, Mark, Tina(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:10 - Tina Marie (profitdriversinc.com)\nAre you guys here together? Can you hear me? Hello?\n00:00:56 - mark sweet\nYou Hey.\n00:01:01 - Tina Marie (profitdriversinc.com)\nHi, I can hear you guys. I'...",
+    "cachePath": "processed_content/done_transcript_for_chona__mark__tina_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.616Z"
+  },
+  {
+    "fileName": "Done Transcript for Chona, Mark, Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:17 - mark sweet\nYou're muted, I couldn't hear anything, and you're still muted.\n00:00:21 - Tina Marie (profitdriversinc.com)\nI was telling you, you're muted. There she is. was okay. She was comi...",
+    "cachePath": "processed_content/done_transcript_for_chona__mark__tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.615Z"
+  },
+  {
+    "fileName": "Done Transcript for Chris Mason_Profit Drivers.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chris Mason_Profit Drivers.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Chris Mason\nInterested in for him is he he has this he developed this app the software that uses in his gym and it's like in 25 other gyms That That tracks each individual because the the m...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason_profit_drivers_txt.json",
+    "processedAt": "2025-05-04T03:40:52.614Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nCan you hear me? Oh, wait, it says you're muted.\n00:00:13 - Dan’s iPhone (danddcompany.com)\nMight be a problem.\n00:00:15 - Tina Marie (profitdriversinc.com...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.613Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nHello. You're muted.\n00:00:11 - Dan’s iPhone (danddcompany.com)\nHello.\n00:00:13 - Tina Marie (profitdriversinc.com)\nHi. I had a horrible asthma attack toda...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.612Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nI got off another call and I was like, I got to go get onto this but it was like 10 minutes before and I got distracted and I forgot because I don't have m...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.611Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nThat was a long five minutes.\n00:00:03 - Dan’s iPhone (danddcompany.com)\nYeah, I was like, I need to make coffee.\n00:00:08 - Tina Marie (profitdriversinc.c...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_12__txt.json",
+    "processedAt": "2025-05-04T03:40:52.610Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nI cannot tell you how many times I am just picking up my phone to text you and then you log it.\n00:00:07 - Dan’s iPhone (danddcompany.com)\nYeah, it's like ...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_13__txt.json",
+    "processedAt": "2025-05-04T03:40:52.610Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHello. What's that?\n00:00:04 - Dan’s iPhone (danddcompany.com)\nI said, what's up?\n00:00:06 - Tina Marie (profitdriversinc.com)\nWhat's up? My kids always sa...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_14__txt.json",
+    "processedAt": "2025-05-04T03:40:52.609Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Dan’s iPhone (danddcompany.com)\ndid you say what's up did cuz yeah I heard up low I can pick up the low towns probably but I never know if it's you or the audio mm-hmm how is how is team Ry...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_15__txt.json",
+    "processedAt": "2025-05-04T03:40:52.608Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nHello. Hello. Hello. Dan Ryan today.\n00:00:15 - Dan’s iPhone (danddcompany.com)\nTrying to fix this.\n00:00:17 - Tina Marie (profitdriversinc.com)\nthink your...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_16__txt.json",
+    "processedAt": "2025-05-04T03:40:52.607Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:04 - Dan Ryan (danddcompany.com)\nWe are.\n00:00:08 - Tina Marie (profitdriversinc.com)\nDan Ryan sir. Are you.\n00:00:15 - Dan Ryan (danddcompany...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_17__txt.json",
+    "processedAt": "2025-05-04T03:40:52.605Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nWell, I'm talking back to you realize mine was muted, and I know I unclicked it, but then I was in the wrong meeting, and so I forgot the second time.\n00:0...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.604Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Dan’s iPhone (danddcompany.com)\nHello.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:04 - Dan’s iPhone (danddcompany.com)\nWhat's up?\n00:00:07 - Tina Marie (profitdriversinc.com)...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.604Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nHello, how are you?\n00:00:12 - Dan Ryan (3)\nCleaners day and up on the poetry of my various furry friends.\n00:00:17 - Tina Marie (profitdriversinc.com)\nI l...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.602Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nI'm just looking at my bathroom no highlights and they are so weird because they're a I yeah but like one of them is NHH semi colon period KKKG you know yo...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.601Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Dan Ryan (danddcompany.com)\nThere we go, there we go.\n00:00:10 - Tina Marie (profitdriversinc.com)\nYou ready for orange charts?\n00:00:14 - Dan Ryan (danddcompany.com)\nYeah.\n00:00:15 - Tina ...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.601Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:17 - Dan’s iPhone (danddcompany.com)\nHello, is this thing on?\n00:00:19 - Tina Marie (profitdriversinc.com)\nIs this thing on? Yes. Where's my volume? My kids are working on the. It's evil for us ...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.600Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nOh, that's not good sound. Hello. Can you hear me?\n00:00:11 - Dan’s iPhone (danddcompany.com)\nI heard that.\n00:00:19 - Tina Marie (profitdriversinc.com)\nwa...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.599Z"
+  },
+  {
+    "fileName": "Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Dan’s iPhone (danddcompany.com)\nHello. Oh, shoot.\n00:00:06 - Tina Marie (profitdriversinc.com)\nI'm on my iMac instead of my laptop. I've got about the audio. Oh, well, I guess I don't even ...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_txt.json",
+    "processedAt": "2025-05-04T03:40:52.598Z"
+  },
+  {
+    "fileName": "Done Transcript for Etsy Team Meeting.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Etsy Team Meeting.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:12 - Tina Marie (profitdriversinc.com)\nCan you hear me?\n00:00:15 - BethanyGrace (3)\nHi, Ena.\n00:00:16 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:18 - BethanyGrace (3)\nHi. I'm goo...",
+    "cachePath": "processed_content/done_transcript_for_etsy_team_meeting_txt.json",
+    "processedAt": "2025-05-04T03:40:52.597Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Michael F\nHi.\n00:00:01 - Tina Marie (profitdriversinc.com)\nHey, how are you, Fuji?\n00:00:03 - Michael F\nGood. Well, I'm so sorry I missed Monday.\n00:00:06 - Tina Marie (profitdriversinc.com...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.596Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Fujinaka, M.D.\nGood morning.\n00:00:04 - Tina Marie (profitdriversinc.com)\nGood morning. How are you?\n00:00:07 - Fujinaka, M.D.\nHow are you?\n00:00:09 - Tina Marie (profitdriversinc.com)\nGood...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.596Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Fujinaka, M.D.\nI'm having some Zoom issues so I'm joining on the phone until I can get that fixed. Okay.\n00:00:05 - Tina Marie (profitdriversinc.com)\nHow are you doing?\n00:00:06 - Fujinaka,...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.595Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(12).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(12).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Fujinaka, M.D.\nAre you excited?\n00:00:01 - Tina Marie (profitdriversinc.com)\nI'm so excited. I have to tell you I don't usually do video I'm paying attention to my notes and my screen and s...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_12__txt.json",
+    "processedAt": "2025-05-04T03:40:52.594Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(13).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(13).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Fujinaka, M.D.\nGood morning.\n00:00:02 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:04 - Fujinaka, M.D.\nGood. are you?\n00:00:05 - Tina Marie (profitdriversinc.com)\nSweetie. I a...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_13__txt.json",
+    "processedAt": "2025-05-04T03:40:52.594Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Fujinaka, M.D.\nGood morning.\n00:00:03 - Tina Marie (profitdriversinc.com)\nGood morning, Fuji.\n00:00:05 - Fujinaka, M.D.\nHow are you? Good.\n00:00:08 - Tina Marie (profitdriversinc.com)\nI not...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.593Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Michael Fujinaka\nGood morning.\n00:00:06 - Tina Marie (profitdriversinc.com)\nGood morning.\n00:00:07 - Michael Fujinaka\nHow are you? It really well.\n00:00:10 - Tina Marie (profitdriversinc.co...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.591Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nHi. Sorry. It's having weird issues with Zoom today.\n00:00:09 - Fujinaka, M.D.\nOh, I'll get it.\n00:00:16 - Tina Marie (profitdriversinc.com)\nThe worst time...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.590Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Michael’s iPhone\nHello.\n00:00:02 - Tina Marie (profitdriversinc.com)\nHey, how are you?\n00:00:04 - Michael’s iPhone\nGood, well.\n00:00:05 - Tina Marie (profitdriversinc.com)\nare you? Good. Ho...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.588Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nHello? Are you muted? It looks like you're muted. Can you hear me? You can chat if you can hear me.\n00:00:32 - Fujinaka, M.D.\nHey, good morning.\n00:00:34 -...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.587Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Michael Fujinaka\nGood morning. One moment, my video, my sound isn't fun.\n00:00:11 - Tina Marie (profitdriversinc.com)\nNo, that was my fault.\n00:00:13 - Michael Fujinaka\nOh, there you go.\n00...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.587Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nSo I don't know if we can just do a quick check in this week. I was all ready to work. I got tons for you. OK. All right. Well, actually the good news abou...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.586Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:12 - Tina Marie (profitdriversinc.com)\nThat's weird, it's like grey, hi, hello, how are you, good and well, yeah, deep breath.\n00:00:26 - Fujinaka, M.D.\nYeah, today is, this is our, my work week...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.585Z"
+  },
+  {
+    "fileName": "Done Transcript for Fuji_Tina Coaching.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello. You're muted. go.\n00:00:13 - Michael Fujinaka\nHi, good afternoon. Hi, how are you?\n00:00:16 - Tina Marie (profitdriversinc.com)\nReally well. How are...",
+    "cachePath": "processed_content/done_transcript_for_fuji_tina_coaching_txt.json",
+    "processedAt": "2025-05-04T03:40:52.585Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Laura L\nHello hi Tina sorry I'm earlier no problem I also even asked you if you could do earlier because I got done from the gym earlier but and I had things to do so it's fine it worked ou...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.584Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Laura L\nHi, Tina.\n00:00:01 - Tina Marie (profitdriversinc.com)\nI'm sorry. I'm late. No problem. I wasn't sure because I changed the meeting and I didn't see if you accepted.\n00:00:08 - Laur...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.584Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHi, Laura.\n00:00:02 - Laura L\nHi, Tina.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHow are you? I am so sleepy right now. Sorry to hear that.\n00:00:09 - ...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.584Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Laura L\nHi, Tina.\n00:00:01 - Tina Marie (profitdriversinc.com)\nHi. How are you?\n00:00:03 - Laura L\nOh, good yourself.\n00:00:05 - Tina Marie (profitdriversinc.com)\nGood. Good. Let me, I was ...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.583Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Laura L\nHi, Tina.\n00:00:06 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:08 - Laura L\nOh, good yourself.\n00:00:10 - Tina Marie (profitdriversinc.com)\nGood. of tired out from th...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.582Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHi, Tina. Hi, how are you?\n00:00:03 - Laura L\nOh, good yourself.\n00:00:05 - Tina Marie (profitdriversinc.com)\nGood, except for I can't find. I don't rememb...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.581Z"
+  },
+  {
+    "fileName": "Done Transcript for Laura + Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Laura L\nHi Tina.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:05 - Laura L\nDoing well yourself.\n00:00:08 - Tina Marie (profitdriversinc.com)\nGood kind of all over the...",
+    "cachePath": "processed_content/done_transcript_for_laura___tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.581Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz- Tina(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Lorenz Schuerch (sweetlaw.com)\nGood to see you Hello.\n00:00:13 - Tina Marie (profitdriversinc.com)\nI think I was. How are you?\n00:00:18 - Lorenz Schuerch (sweetlaw.com)\nSo, how are you?\n00:...",
+    "cachePath": "processed_content/done_transcript_for_lorenz__tina_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.580Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz- Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Lorenz Schuerch (sweetlaw.com)\nOh, can't hear you.\n00:00:12 - Tina Marie (profitdriversinc.com)\nThere. Got it?\n00:00:15 - Lorenz Schuerch (sweetlaw.com)\nYep.\n00:00:15 - Tina Marie (profitdr...",
+    "cachePath": "processed_content/done_transcript_for_lorenz__tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.579Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nCan you hear me?\n00:00:11 - Lorenz Schuerch (3)\nYeah, I can hear you.\n00:00:13 - Tina Marie (profitdriversinc.com)\nHow are you?\n00:00:14 - Lorenz Schuerch ...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_txt.json",
+    "processedAt": "2025-05-04T03:40:52.578Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:13 - Lorenz Schuerch\nGood to see both of you guys.\n00:00:24 - Tina Marie (profitdriversinc.com)\nHow are you guys doing?\n00:00:27 - Patrick Shahverdian (sweetlaw.com)\nHow are you?\n00:00:29 - Tina...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.577Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nAre you there? You're muted, by the way.\n00:00:15 - Patrick Shahverdian\nYeah, I'm here.\n00:00:18 - Tina Marie (profitdriversinc.com)\nHow are you?\n00:00:19 ...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.576Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - mark sweet\nHey.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHow are you today?\n00:00:05 - mark sweet\nI'm just a little overwhelmed, but can't right?\n00:00:09 - Tina Marie (profitdriversinc...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.575Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nHi, Lauren.\n00:00:10 - Lorenz Schuerch\nHow are you?\n00:00:14 - Tina Marie (profitdriversinc.com)\nMy daughter started seminary and it starts at 6 a.m. and I...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.575Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:11 - Tina Marie (profitdriversinc.com)\nHi, this is going to say good morning, it's not morning, though. How are you?\n00:00:17 - Lorenz Schuerch\nPretty good. How are you?\n00:00:19 - Tina Marie (p...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.574Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:07 - Lorenz Schuerch (sweetlaw.com)\nHey, Tina.\n00:00:08 - Tina Marie (profitdriversinc.com)\nHey, how are you?\n00:00:10 - Lorenz Schuerch (swee...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.573Z"
+  },
+  {
+    "fileName": "Done Transcript for Lorenz_Patrick.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nYou guys hear me okay?\n00:00:13 - Patrick Shahverdian\nYeah, I can hear you.\n00:00:16 - Tina Marie (profitdriversinc.com)\nAnd hey Patrick.\n00:00:18 - Patric...",
+    "cachePath": "processed_content/done_transcript_for_lorenz_patrick_txt.json",
+    "processedAt": "2025-05-04T03:40:52.573Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:02:00 - Tina Marie (profitdriversinc.com)\nYou Thank you. Hi, how are you?\n00:04:31 - Maria Gudelis (Maria Gudelis)\nHow are you?\n00:04:33 - Tina Marie (profitdriversinc.com)\nSleepy. I'm not fully aw...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.572Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Maria Gudelis (Maria Gudelis)\nHey.\n00:00:04 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:05 - Maria Gudelis (Maria Gudelis)\nHow are you?\n00:00:06 - Tina Marie (profitdriversinc.com)\nNot as...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.571Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Maria Gudelis (Maria Gudelis)\nHey.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:05 - Maria Gudelis (Maria Gudelis)\nSorry about that.\n00:00:06 - Tina Marie (profitdriversinc.com)\nI...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.570Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Maria Gudelis (Maria Gudelis)\nHey!\n00:00:06 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:06 - Maria Gudelis (Maria Gudelis)\nHow are you? Good. got a cool background.\n00:00:10 - Tina Marie ...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.569Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nAre we there?\n00:00:07 - Maria Gudelis (Maria Gudelis)\nI am. Oh, sorry.\n00:00:09 - Tina Marie (profitdriversinc.com)\nI did have my video on. How are you?\n0...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.569Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:21 - Maria Gudelis (Maria Gudelis)\nOkay, I'm just going to move on Yeah, I can hear you now. I'm just going to move down to my family room to sit on a more comfortable chair. I was in my other r...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.568Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nI'm sleepy, I got up at 5.30, but I'm good.\n00:00:06 - Maria Gudelis (Maria Gudelis)\nIt breaks your throat behind me, I was gonna think, oh yeah, that's fu...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.567Z"
+  },
+  {
+    "fileName": "Done Transcript for Maria & Tina🪄.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:10 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:11 - Maria Gudelis (Maria Gudelis)\nHi.\n00:00:13 - Tina Marie (profitdriversinc.com)\nI know what he was like, a swab lately, all the time, and I'm...",
+    "cachePath": "processed_content/done_transcript_for_maria___tina___txt.json",
+    "processedAt": "2025-05-04T03:40:52.566Z"
+  },
+  {
+    "fileName": "Done Transcript for Patrick(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Patrick Shahverdian (sweetlaw.com)\nI'm going to do on my phone because I can't find the other link.\n00:00:10 - Tina Marie (profitdriversinc.com)\nI was just emailing it to you because I sent...",
+    "cachePath": "processed_content/done_transcript_for_patrick_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.565Z"
+  },
+  {
+    "fileName": "Done Transcript for Patrick(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nHey, Patrick.\n00:00:05 - Patrick Shahverdian (sweetlaw.com)\nHow are you doing? Good. How are you?\n00:00:08 - Tina Marie (profitdriversinc.com)\nGood. I'm tr...",
+    "cachePath": "processed_content/done_transcript_for_patrick_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.565Z"
+  },
+  {
+    "fileName": "Done Transcript for Patrick.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Patrick Shahverdian (3)\nHey, yeah, I can hear you.\n00:00:04 - Tina Marie (profitdriversinc.com)\nHow was vacation?\n00:00:05 - Patrick Shahverdian (3)\nIt was good. Just got home really late l...",
+    "cachePath": "processed_content/done_transcript_for_patrick_txt.json",
+    "processedAt": "2025-05-04T03:40:52.564Z"
+  },
+  {
+    "fileName": "Done Transcript for Patrick_Tina Consult Session.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick_Tina Consult Session.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Patrick Shahverdian (sweetlaw.com)\nHello, 18 a good morning.\n00:00:04 - Tina Marie (profitdriversinc.com)\nGood morning.\n00:00:05 - Patrick Shahverdian (sweetlaw.com)\nHow are you? I'm doing ...",
+    "cachePath": "processed_content/done_transcript_for_patrick_tina_consult_session_txt.json",
+    "processedAt": "2025-05-04T03:40:52.563Z"
+  },
+  {
+    "fileName": "Done Transcript for Profit Fairies(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Samantha Caplan (Lead Mare Studio)\nHi.\n00:00:02 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:05 - Samantha Caplan (Lead Mare Studio)\nI had to relocate because John is here and he's uncalle...",
+    "cachePath": "processed_content/done_transcript_for_profit_fairies_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.562Z"
+  },
+  {
+    "fileName": "Done Transcript for Profit Fairies(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:12 - Tina Marie (profitdriversinc.com)\nI feel like I haven't seen you in forever.\n00:00:15 - Samantha Caplan (3)\nI haven't seen you since we saw each other in person. Which was only a few weeks ...",
+    "cachePath": "processed_content/done_transcript_for_profit_fairies_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.562Z"
+  },
+  {
+    "fileName": "Done Transcript for Profit Fairies(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:22 - Tina Marie (profitdriversinc.com)\nYou did it. It's a new video. What are you calling here? Hello? Hi. Are we going to do it on the phone? I would like to do, but I am going to unmute myself...",
+    "cachePath": "processed_content/done_transcript_for_profit_fairies_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.562Z"
+  },
+  {
+    "fileName": "Done Transcript for Profit Fairies.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nCricut. Hi.\n00:00:05 - Samantha Caplan (Lead Mare Studio)\nHello.\n00:00:06 - Tina Marie (profitdriversinc.com)\nUp until half an hour ago, I was like, yes, w...",
+    "cachePath": "processed_content/done_transcript_for_profit_fairies_txt.json",
+    "processedAt": "2025-05-04T03:40:52.561Z"
+  },
+  {
+    "fileName": "Done Transcript for Seth.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Seth.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nHello, can you hear me?\n00:00:06 - Seth Ellsworth\nWhat was that?\n00:00:08 - Tina Marie (profitdriversinc.com)\nMe, but I'm sleepy.\n00:00:12 - Seth Ellsworth...",
+    "cachePath": "processed_content/done_transcript_for_seth_txt.json",
+    "processedAt": "2025-05-04T03:40:52.560Z"
+  },
+  {
+    "fileName": "Done Transcript for Thinking Big profits.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Thinking Big profits.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Chandelle Hay\nI'm pretty quick hearing, he knows. How's your week going? What's going on? I don't think I actually sent you over log in information for BBD.\n00:00:13 - Tina Marie (profitdri...",
+    "cachePath": "processed_content/done_transcript_for_thinking_big_profits_txt.json",
+    "processedAt": "2025-05-04T03:40:52.560Z"
+  },
+  {
+    "fileName": "Done Transcript for Tina Maria CAll(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Maria Gudelis (Maria Gudelis)\nOh, nice.\n00:00:01 - Tina Marie (profitdriversinc.com)\nYes, I'm very excited about it. But I have this people that build my deck did not build it right. And so...",
+    "cachePath": "processed_content/done_transcript_for_tina_maria_call_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.559Z"
+  },
+  {
+    "fileName": "Done Transcript for Tina Maria CAll.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Maria Gudelis (Maria Gudelis)\nHey, hey, hey, lady. How are you? You're good. You're good.\n00:00:06 - Tina Marie (profitdriversinc.com)\nI'm a little tired now.\n00:00:10 - Maria Gudelis (Mari...",
+    "cachePath": "processed_content/done_transcript_for_tina_maria_call_txt.json",
+    "processedAt": "2025-05-04T03:40:52.558Z"
+  },
+  {
+    "fileName": "Done Transcript for Warren Trust Ops.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Warren Trust Ops.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:11 - Seth Ellsworth\nHello.\n00:00:13 - Tina Marie (profitdriversinc.com)\nHello. Kind of quiet.\n00:00:18 - Seth Ellsworth\nAlmost be my hair pods.\n00:00:21 - Tina Marie (profitdriversinc.com)\nYou'r...",
+    "cachePath": "processed_content/done_transcript_for_warren_trust_ops_txt.json",
+    "processedAt": "2025-05-04T03:40:52.557Z"
+  },
+  {
+    "fileName": "Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Chris Mason (chrismason.net)\nHey, how are you doing?\n00:00:03 - Tina Marie (profitdriversinc.com)\nApparently too eager to meet me because I got here to meet.\n00:00:11 - Chris Mason (chrisma...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason___profit_drivers_systems_consult_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.556Z"
+  },
+  {
+    "fileName": "Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nHey.\n00:00:03 - Chris Mason (chrismason.net)\nHey.\n00:00:05 - Tina Marie (profitdriversinc.com)\nHow are you?\n00:00:09 - Chris Mason (chrismason.net)\nOh, I'm...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason___profit_drivers_systems_consult_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.556Z"
+  },
+  {
+    "fileName": "Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nSorry, I'm late. I had a call just went long, but it was people I haven't talked to for years, and I was like, I gotta go. gotta go. it was so good. They'r...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason___profit_drivers_systems_consult_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.554Z"
+  },
+  {
+    "fileName": "Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHey, hey, long time no see I know it feels like I don't like it.\n00:00:08 - Chris Mason (chrismason.net)\nIt's been a month or so. Yeah, I didn't know if we...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason___profit_drivers_systems_consult_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.554Z"
+  },
+  {
+    "fileName": "Done Transcript for chris mason - Profit Drivers Systems Consult.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Chris Mason (chrismason.net)\nI'm doing great.\n00:00:07 - Tina Marie (profitdriversinc.com)\nHow are you doing? I'm good. Time like flies. feels like forever. And also yesterday that I talked...",
+    "cachePath": "processed_content/done_transcript_for_chris_mason___profit_drivers_systems_consult_txt.json",
+    "processedAt": "2025-05-04T03:40:52.553Z"
+  },
+  {
+    "fileName": "Done ranscript for Maria Gudelis.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done ranscript for Maria Gudelis.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Maria Gudelis (Maria Gudelis)\nHello, hello. Hello, hello.\n00:00:15 - Tina Marie (profitdriversinc.com)\nI can't hear you.\n00:00:18 - Maria Gudelis (Maria Gudelis)\nI can.\n00:00:19 - Tina Mari...",
+    "cachePath": "processed_content/done_ranscript_for_maria_gudelis_txt.json",
+    "processedAt": "2025-05-04T03:40:52.552Z"
+  },
+  {
+    "fileName": "Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nOh, wait, you don't hear me. I was talking about you and being sassy and I was muted.\n00:00:12 - Dan’s iPhone (danddcompany.com)\nThat's the mute.\n00:00:15 ...",
+    "cachePath": "processed_content/done_transcript_for_d_d_co___profit_drivers___weekly_review_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.551Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nlike do we even have a meeting today I don't even know yeah it's weird day it is how's everything besides weird what it feels like a Monday sort of doesn't...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.551Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - mark sweet (sweetlaw.com)\nHello, hello, no, it's not yeah, Mark is Wow, Marcus here or me time two o'clock, right?\n00:00:21 - Tina Marie (profitdriversinc.com)\nare you? How's New York?\n00:0...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.550Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nHello, hey, can you hear me very early turn that volume up really good. How are you?\n00:00:36 - mark sweet\nI'm still pretty tired for me, but that's okay.\n...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.549Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(12).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(12).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:15 - Tina Marie (profitdriversinc.com)\nYeah, how are you?\n00:00:17 - mark sweet (sweetlaw.com)\nOkay. felt that.\n00:00:26 - Tina Marie (profitdriversinc.com)\nHow many flights did you take last we...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_12__txt.json",
+    "processedAt": "2025-05-04T03:40:52.548Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - mark sweet (sweetlaw.com)\nHey, can you hear me?\n00:00:02 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:03 - mark sweet (sweetlaw.com)\nHey.\n00:00:04 - Tina Marie (profitdriversinc.com)\nSo...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.547Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:02 - mark sweet\nHey.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHow are you?\n00:00:06 - mark sweet\nI'm sort of happy with it. That's okay.\n0...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.546Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nAre you there?\n00:00:08 - mark sweet (sweetlaw.com)\nYeah, can you hear me?\n00:00:10 - Tina Marie (profitdriversinc.com)\nYeah. I had it muted and I didn't k...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.545Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nI can hear you. How are you doing?\n00:00:07 - mark sweet\nI'm definitely tired.\n00:00:10 - Tina Marie (profitdriversinc.com)\nI imagine you are.\n00:00:14 - m...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.543Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:03 - mark sweet\nHey, okay.\n00:00:06 - Tina Marie (profitdriversinc.com)\nSorry, my daughter needed mom five minutes is on time. What's that?\n00...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.537Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nMark is not hearing it.\n00:00:05 - Dan’s iPhone\nYou think.\n00:00:08 - Tina Marie (profitdriversinc.com)\nWell, you could talk to me and tell me how the meet...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.535Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:08 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:10 - mark sweet\nHey, can you hear me?\n00:00:13 - Tina Marie (profitdriversinc.com)\nBarry, I got to turn you all the way up. Very cool. How are...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.535Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:02 - mark sweet (sweetlaw.com)\nHey.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHey. Let's. Apparently not a great day.\n00:00:09 - mark sweet...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.532Z"
+  },
+  {
+    "fileName": "Transcript for Basis Integration_Sweet Law.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nMark's notes that we did in our guitar. Okay. Hello.\n00:00:18 - Dan (3)\nY'all.\n00:00:20 - Tina Marie (profitdriversinc.com)\nGuys, like, ever get up early, ...",
+    "cachePath": "processed_content/transcript_for_basis_integration_sweet_law_txt.json",
+    "processedAt": "2025-05-04T03:40:52.526Z"
+  },
+  {
+    "fileName": "Transcript for Basis PM_Ops Meeting.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis PM_Ops Meeting.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Dan Ryan (danddcompany.com)\nor emails over 10 days.\n00:00:02 - Bobby (Basis)\nSo I was going to load her up. All right.\n00:00:06 - Eric\nThat's awesome.\n00:00:08 - Bobby (Basis)\nAnd that one,...",
+    "cachePath": "processed_content/transcript_for_basis_pm_ops_meeting_txt.json",
+    "processedAt": "2025-05-04T03:40:52.525Z"
+  },
+  {
+    "fileName": "Transcript for Basis(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:02 - Dan’s iPhone\nHello.\n00:00:04 - Tina Marie (profitdriversinc.com)\nAnd how is Dan Ryan today? Mark's dog has pneumonia.\n00:00:13 - Dan’s iP...",
+    "cachePath": "processed_content/transcript_for_basis_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.521Z"
+  },
+  {
+    "fileName": "Transcript for Basis.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nI'm in there. Okay, let's see. Where's my o'clock? So we were kind of mapping out a little bit about like what the offer would be or what it would look lik...",
+    "cachePath": "processed_content/transcript_for_basis_txt.json",
+    "processedAt": "2025-05-04T03:40:52.520Z"
+  },
+  {
+    "fileName": "Transcript for Chona(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:10 - Chona Sweet ( wspainclinic)\nI don't need the name. Okay, bye. Hi.\n00:00:16 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:18 - Chona Sweet ( wspainclinic)\nOh. Um, I don't know h...",
+    "cachePath": "processed_content/transcript_for_chona_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.519Z"
+  },
+  {
+    "fileName": "Transcript for Chona(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Chona Sweet, DNP ( wspainclinic)\nHi, hi, I was just gonna see if you're coming. Yeah, sorry. I don't know how to make a decision. I'm in Mark's office. Okay there. I think it's charges. Oka...",
+    "cachePath": "processed_content/transcript_for_chona_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.518Z"
+  },
+  {
+    "fileName": "Transcript for Chona(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Chona Sweet, DNP ( wspainclinic)\nOkay.\n00:00:07 - Tina Marie (profitdriversinc.com)\nOkay.\n00:00:10 - Chona Sweet, DNP ( wspainclinic)\nI just literally just finished. Just now.\n00:00:16 - Ti...",
+    "cachePath": "processed_content/transcript_for_chona_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.518Z"
+  },
+  {
+    "fileName": "Transcript for Chona(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Chona Sweet, DNP\nHello. Hi. I can't hear you. muted. Okay.\n00:00:08 - Tina Marie (profitdriversinc.com)\nI'm so bad about that.\n00:00:09 - Chona Sweet, DNP\nHi.\n00:00:10 - Tina Marie (profitd...",
+    "cachePath": "processed_content/transcript_for_chona_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.517Z"
+  },
+  {
+    "fileName": "Transcript for Chona(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Chona Sweet\nHi. Can't hear you. You're muted. Yeah. are you? Good. Good. Just sweetest got home.\n00:00:15 - Tina Marie (profitdriversinc.com)\nLong day.\n00:00:17 - Chona Sweet\nIt's okay. But...",
+    "cachePath": "processed_content/transcript_for_chona_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.516Z"
+  },
+  {
+    "fileName": "Transcript for Chona(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Chona Sweet, DNP\nHello. Can you hear me? cannot hear you. Oh, there's my fault.\n00:00:14 - Tina Marie (profitdriversinc.com)\nYou didn't get to hear me call you beautiful.\n00:00:16 - Chona S...",
+    "cachePath": "processed_content/transcript_for_chona_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.515Z"
+  },
+  {
+    "fileName": "Transcript for Chona(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:26 - Chona Sweet\nI cannot hear you. Let me try to. Now it Hi.\n00:00:36 - Tina Marie (profitdriversinc.com)\nIs it too loud out here? No. Good. I need a. Sir. Okay. won't consider with me.\n00:00:4...",
+    "cachePath": "processed_content/transcript_for_chona_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.514Z"
+  },
+  {
+    "fileName": "Transcript for Chona(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - mark sweet\nCan you hear me?\n00:00:01 - Tina Marie (profitdriversinc.com)\nYes. Shona's not here yet though.\n00:00:06 - mark sweet\nYeah.\n00:00:09 - Tina Marie (profitdriversinc.com)\nYeah. Eve...",
+    "cachePath": "processed_content/transcript_for_chona_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.513Z"
+  },
+  {
+    "fileName": "Transcript for Chona.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Chona Sweet ( wspainclinic)\nHi, hi, how are you?\n00:00:11 - Tina Marie (profitdriversinc.com)\nIt's been a lot.\n00:00:19 - Chona Sweet ( wspainclinic)\nI worked, I went to the hospital alread...",
+    "cachePath": "processed_content/transcript_for_chona_txt.json",
+    "processedAt": "2025-05-04T03:40:52.512Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Dan’s iPhone (danddcompany.com)\nFind my zoom button. Well, I guess you found it.\n00:00:04 - Tina Marie (profitdriversinc.com)\nI found it.\n00:00:05 - Dan’s iPhone (danddcompany.com)\nI found ...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.512Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello. Are you there?\n00:00:09 - Dan’s iPhone (danddcompany.com)\nI'm going to join here. So I got the cleaners console. have to go outside with the dogs.\n0...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.511Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Dan’s iPhone (danddcompany.com)\nGood.\n00:00:02 - Tina Marie (profitdriversinc.com)\nJust as you got home for lunch and I was like, I gotta wait second.\n00:00:09 - Dan’s iPhone (danddcompany....",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.510Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHello. How you doing?\n00:00:04 - Dan’s iPhone (danddcompany.com)\nWorking.\n00:00:06 - Tina Marie (profitdriversinc.com)\nLet's say what you're doing. I said,...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.507Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHow? You got the dentist done, huh?\n00:00:05 - Dan’s iPhone (danddcompany.com)\nYeah, it was last week, and then... I forget why, but I had to change it. wa...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.505Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nOoh.\n00:00:01 - Dan’s iPhone (danddcompany.com)\nStay on.\n00:00:02 - Tina Marie (profitdriversinc.com)\nThere we go. Vuffing on.\n00:00:05 - Dan’s iPhone (dan...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.504Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHow are you doing?\n00:00:04 - Dan’s iPhone (danddcompany.com)\nWe're right. Thursday. Got nothing. Craig. So good. So good.\n00:00:14 - Tina Marie (profitdri...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.503Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello Hello, is this thing on?\n00:00:07 - Dan Ryan (danddcompany.com)\nHow is the Ryan family, this week? Big, nothing, things you'd say, things are fairly ...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.503Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Dan’s iPhone (danddcompany.com)\nThat's weird, it looks totally different.\n00:00:10 - Tina Marie (profitdriversinc.com)\nWhat looks different?\n00:00:13 - Dan’s iPhone (danddcompany.com)\nThe z...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.501Z"
+  },
+  {
+    "fileName": "Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Dan (danddcompany.com)\nHello. Happy 25, 2025, 2025, everyone. Hey, gang.\n00:00:09 - Tina Marie (profitdriversinc.com)\nBro, at the end of this year, we'll be at quarter of the way to the cen...",
+    "cachePath": "processed_content/transcript_for_d_d_co___profit_drivers___weekly_review_txt.json",
+    "processedAt": "2025-05-04T03:40:52.501Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nHello. Oh, you're muted.\n00:00:12 - Fujinaka, M.D.\nHello.\n00:00:14 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:15 - Fujinaka, M.D.\nHow are you?\n00:00:...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.500Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Fujinaka, M.D. (3)\nHi, how are you? Good.\n00:00:03 - Tina Marie (profitdriversinc.com)\nI am not. Huh?\n00:00:09 - Fujinaka, M.D. (3)\nCOVID number three.\n00:00:11 - Tina Marie (profitdriversi...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.499Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Tina Marie (profitdriversinc.com)\nAre you there? I don't know what you'll get. Can you hear me? You're muted right now.\n00:00:24 - Michael\nI can hear you. Hey, I am not doing video today. a...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.498Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nI just updated my Mac OS and I haven't had meetings since then so I think that it was just let me put it in the way I don't know some glitches you go in th...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.498Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:01:00 - Tina Marie (profitdriversinc.com)\nSo in the notes, I really didn't do anything on the homework front.\n00:01:04 - Fujinaka, M.D.\nI did make a couple balls. I don't know if there was one. I d...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.497Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Fujinaka, M.D.\nHello.\n00:00:02 - Tina Marie (profitdriversinc.com)\nHey, I forgot to click the last button to finish the meeting.\n00:00:07 - Fujinaka, M.D.\nOh, good.\n00:00:08 - Tina Marie (p...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.496Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Fujinaka, M.D.\nHello. Hold on. Something's not working.\n00:00:13 - Tina Marie (profitdriversinc.com)\nI did.\n00:00:14 - Fujinaka, M.D.\nHello.\n00:00:15 - Tina Marie (profitdriversinc.com)\nHow...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.496Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Fujinaka, M.D.\nHello.\n00:00:05 - Tina Marie (profitdriversinc.com)\nHey, how are you?\n00:00:07 - Fujinaka, M.D.\nYou're Oh, what happened here?\n00:00:11 - Tina Marie (profitdriversinc.com)\nTh...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.495Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Fujinaka, M.D.\nHello.\n00:00:02 - Tina Marie (profitdriversinc.com)\nHello, Fuji.\n00:00:04 - Fujinaka, M.D.\nHow are you? Good. We're crazy.\n00:00:10 - Tina Marie (profitdriversinc.com)\non. We...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.494Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Fujinaka, M.D.\nHey Fuji, how are you? Good. How are you?\n00:00:04 - Tina Marie (profitdriversinc.com)\nGood. Got a lot going on, huh?\n00:00:07 - Fujinaka, M.D.\nYeah, I realize my speakers ar...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.494Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Fujinaka, M.D.\nHello.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHey, how are you?\n00:00:05 - Fujinaka, M.D.\nGood, Good.\n00:00:08 - Tina Marie (profitdriversinc.com)\nDid you day?\n00:00:09...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.493Z"
+  },
+  {
+    "fileName": "Transcript for Fuji_Tina Coaching.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nHello. Hello. How are you?\n00:00:05 - Fujinaka, M.D.\nOh, wait. Hold on. The volume's not working.\n00:00:10 - Tina Marie (profitdriversinc.com)\nI'm not mayb...",
+    "cachePath": "processed_content/transcript_for_fuji_tina_coaching_txt.json",
+    "processedAt": "2025-05-04T03:40:52.492Z"
+  },
+  {
+    "fileName": "Transcript for Laura + Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Laura + Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Tina Marie (profitdriversinc.com)\nHello.\n00:00:04 - Laura L (3)\nHow are you? Doing well yourself.\n00:00:08 - Tina Marie (profitdriversinc.com)\nGood. I'm just texting my daughter and she's j...",
+    "cachePath": "processed_content/transcript_for_laura___tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.492Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz- Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz- Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nHello. Hello. How are you?\n00:00:15 - Lorenz Schuerch (3)\nGood. How are you?\n00:00:16 - Tina Marie (profitdriversinc.com)\nGood. Good. I'm busy. got the poe...",
+    "cachePath": "processed_content/transcript_for_lorenz__tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.491Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:12 - Tina Marie (profitdriversinc.com)\nI was muted.\n00:00:16 - Lorenz Schuerch (sweetlaw.com)\nI was muted.\n00:00:18 - Tina Marie (profitdriversinc.com)\nOh, there's a round. Patrick, can you talk...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.490Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Lorenz Schuerch (sweetlaw.com)\nHello.\n00:00:08 - Tina Marie (profitdriversinc.com)\nCan you hear me? Hey, how are you?\n00:00:11 - Lorenz Schuerch (sweetlaw.com)\nGood. are you?\n00:00:13 - Tin...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.489Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:03 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:05 - patrick\nHello.\n00:00:05 - Tina Marie (profitdriversinc.com)\nHow are ya?\n00:00:07 - patrick\nDoing good.\n00:00:07 - Tina Marie (profitdriversi...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.489Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:07 - Tina Marie (profitdriversinc.com)\nis there?\n00:00:09 - Lorenz Schuerch\nHello.\n00:00:10 - Tina Marie (profitdriversinc.com)\nHey, how are you?\n00:00:12 - Lorenz Schuerch\nGood. How are you? We...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.488Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nHey, Tina. Hey, guys. How are you?\n00:00:04 - Lorenz Schuerch (sweetlaw.com)\nGood. are you?\n00:00:06 - Tina Marie (profitdriversinc.com)\nI am pretty good. ...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.487Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Tina Marie (profitdriversinc.com)\nYou're muted. don't know if you know that.\n00:00:09 - patrick\nHi, how you? Doing good.\n00:00:13 - Tina Marie (profitdriversinc.com)\nHow are you doing? I do...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.486Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Lorenz Schuerch (sweetlaw.com)\nWhoa.\n00:00:30 - Tina Marie (profitdriversinc.com)\nI don't have a orientation. Oh my gosh. Did you hear what Siri just said? I know. First of all, it's not al...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.485Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Lorenz Schuerch (sweetlaw.com)\nHello.\n00:00:10 - Tina Marie (profitdriversinc.com)\nHello. How are you guys saying? Good.\n00:00:17 - Lorenz Schuerch (sweetlaw.com)\nHow are you?\n00:00:18 - Ti...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.484Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nHello friends, how are you? still have sick child. Yeah, she has to go to her dad's for the weekend, so I didn't get to mama and take care of her and give ...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.483Z"
+  },
+  {
+    "fileName": "Transcript for Lorenz_Patrick.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Lorenz Schuerch (sweetlaw.com)\nI read an article this morning that there's a flu epidemic in San Diego. I'm pretty sure me and my son started it. When we started it? Well, we went on vacati...",
+    "cachePath": "processed_content/transcript_for_lorenz_patrick_txt.json",
+    "processedAt": "2025-05-04T03:40:52.482Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(10).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(10).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Maria Gudelis (Maria Gudelis)\nHi!\n00:00:01 - Tina Marie (profitdriversinc.com)\nHello, how are you?\n00:00:03 - Maria Gudelis (Maria Gudelis)\nI'm Jim Good. thought I'd take it from my phone i...",
+    "cachePath": "processed_content/transcript_for_maria___tina___10__txt.json",
+    "processedAt": "2025-05-04T03:40:52.481Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(1).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(1).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Maria Gudelis (Maria Gudelis)\nHey, hey, hey, how are you good video on there we go. Hey, hat. Thank you. My video hat I'm going to record video this.\n00:00:13 - Tina Marie (profitdriversinc...",
+    "cachePath": "processed_content/transcript_for_maria___tina___1__txt.json",
+    "processedAt": "2025-05-04T03:40:52.481Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(11).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(11).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:10 - Maria Gudelis (Maria Gudelis)\nHey, hi, hi girl. What's going on?\n00:00:16 - Tina Marie (profitdriversinc.com)\nNot talking about it. Let's think about work. Let's see. Trying to go get the n...",
+    "cachePath": "processed_content/transcript_for_maria___tina___11__txt.json",
+    "processedAt": "2025-05-04T03:40:52.480Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(12).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(12).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Maria Gudelis (Maria Gudelis)\npainting so it's got my gosh you're so cute yeah yeah I just I even have a picture of me in the car we I painted an old Honda Civic in my parents garage right ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___12__txt.json",
+    "processedAt": "2025-05-04T03:40:52.479Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(13).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(13).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:06 - Tina Marie (profitdriversinc.com)\nSorry, was that a good morning, but then I remembered it's not morning for you.\n00:00:11 - Maria Gudelis (Maria Gudelis)\nOh, yeah. Yeah. and let me see if ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___13__txt.json",
+    "processedAt": "2025-05-04T03:40:52.479Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(14).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(14).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:08 - Maria Gudelis (Maria Gudelis)\nHey, hey.\n00:00:09 - Tina Marie (profitdriversinc.com)\nHey, What's going on? When did I need my name?\n00:00:15 - Maria Gudelis (Maria Gudelis)\nBecause I'm sick...",
+    "cachePath": "processed_content/transcript_for_maria___tina___14__txt.json",
+    "processedAt": "2025-05-04T03:40:52.478Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(15).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(15).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:19 - Tina Marie (profitdriversinc.com)\nHi, how are you?\n00:00:20 - Maria Gudelis (Maria Gudelis)\nGood, good. So what's going on with you? happened this morning?\n00:00:24 - Tina Marie (profitdriv...",
+    "cachePath": "processed_content/transcript_for_maria___tina___15__txt.json",
+    "processedAt": "2025-05-04T03:40:52.477Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(16).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(16).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:09 - Tina Marie (profitdriversinc.com)\nOh, yeah, I'm Zoom now.\n00:00:16 - Maria Gudelis (Maria Gudelis)\nHi.\n00:00:17 - Tina Marie (profitdriversinc.com)\nOh, there. That's funny. On Boxer. dog is...",
+    "cachePath": "processed_content/transcript_for_maria___tina___16__txt.json",
+    "processedAt": "2025-05-04T03:40:52.477Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(17).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(17).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Maria Gudelis (Maria Gudelis)\nHey!\n00:00:03 - Tina Marie (profitdriversinc.com)\nHey! so sweet.\n00:00:06 - Maria Gudelis (Maria Gudelis)\nYou look great. Your hair is perfect. Were you doing ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___17__txt.json",
+    "processedAt": "2025-05-04T03:40:52.476Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(18).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(18).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:05 - Tina Marie (profitdriversinc.com)\nHey, hey, how are you?\n00:00:07 - Maria Gudelis (Maria Gudelis)\nGood. me just grab a glass of water. just realized I don't have that for saw my desk.\n00:00...",
+    "cachePath": "processed_content/transcript_for_maria___tina___18__txt.json",
+    "processedAt": "2025-05-04T03:40:52.475Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(2).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(2).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\njust a little bit. He's probably going to be between six and eight pounds.\n00:00:05 - Maria Gudelis (Maria Gudelis)\nOh, love it. Love it. When does the pup...",
+    "cachePath": "processed_content/transcript_for_maria___tina___2__txt.json",
+    "processedAt": "2025-05-04T03:40:52.474Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(3).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(3).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Tina Marie (profitdriversinc.com)\nHello, Dolly.\n00:00:04 - mariagudelis (Maria Gudelis)\nHey, hey. What's wrong? How are you? Good. Hi. There. My voice is from the proper mic. I attempted to...",
+    "cachePath": "processed_content/transcript_for_maria___tina___3__txt.json",
+    "processedAt": "2025-05-04T03:40:52.473Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(4).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(4).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:01:02 - Maria Gudelis (Maria Gudelis)\nAnd then I'll stay here till this call ends, and then I'll head to pick them up, and then I'll work another hour or two from home.\n00:01:11 - Tina Marie (profi...",
+    "cachePath": "processed_content/transcript_for_maria___tina___4__txt.json",
+    "processedAt": "2025-05-04T03:40:52.472Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(5).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(5).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Maria Gudelis (Maria Gudelis)\nHey.\n00:00:03 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:05 - Maria Gudelis (Maria Gudelis)\nOh yeah.\n00:00:07 - Tina Marie (profitdriversinc.com)\nGood. But ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___5__txt.json",
+    "processedAt": "2025-05-04T03:40:52.471Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(6).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(6).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:01 - Maria Gudelis (Maria Gudelis)\nHey, hey, I'm kind of groggy.\n00:00:05 - Tina Marie (profitdriversinc.com)\nI was late working on this and then up early working on this.\n00:00:10 - Maria Gudel...",
+    "cachePath": "processed_content/transcript_for_maria___tina___6__txt.json",
+    "processedAt": "2025-05-04T03:40:52.470Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(7).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(7).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:02 - Maria Gudelis (Maria Gudelis)\nWell that was fast. Hey Alexa, 10 minute timer.\n00:00:08 - Tina Marie (profitdriversinc.com)\nI just need to take my chicken out in 10 minutes. You said you're ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___7__txt.json",
+    "processedAt": "2025-05-04T03:40:52.470Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(8).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(8).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:04 - Maria Gudelis (Maria Gudelis)\nHey, hey lady. How are you? Good. How is that onesie?\n00:00:11 - Tina Marie (profitdriversinc.com)\nComfy, but I just started my period and I'm cramping and it ...",
+    "cachePath": "processed_content/transcript_for_maria___tina___8__txt.json",
+    "processedAt": "2025-05-04T03:40:52.469Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄(9).txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(9).txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - mariagudelis (Maria Gudelis)\nHi.\n00:00:01 - Tina Marie (profitdriversinc.com)\nHi.\n00:00:02 - mariagudelis (Maria Gudelis)\nHow are you? I had to feed the animals. The animals. Yes. Oh, my Go...",
+    "cachePath": "processed_content/transcript_for_maria___tina___9__txt.json",
+    "processedAt": "2025-05-04T03:40:52.468Z"
+  },
+  {
+    "fileName": "Transcript for Maria & Tina🪄.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Maria Gudelis (Maria Gudelis)\nYou There I am here. Hey, sorry. was just my friend. Just got a Yorkie. Oh She just sent me pictures as I had a caller. Sorry Well, you can see that picture.\n0...",
+    "cachePath": "processed_content/transcript_for_maria___tina___txt.json",
+    "processedAt": "2025-05-04T03:40:52.467Z"
+  },
+  {
+    "fileName": "Transcript for Maria.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - Tina Marie (profitdriversinc.com)\nOkay, hello. Ah, this visible table for, we're just setting for this. Oh, did I, and I'm going to invite you? That's what I was trying to do, share in Mari...",
+    "cachePath": "processed_content/transcript_for_maria_txt.json",
+    "processedAt": "2025-05-04T03:40:52.467Z"
+  },
+  {
+    "fileName": "Transcript for Mark Sweet + Basis + Tina.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Mark Sweet + Basis + Tina.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:00 - mark sweet\nand then we're talking about do we want to try to find a building when this thing expires or do we want to like keep renting because right now the rental rate that we got for a s...",
+    "cachePath": "processed_content/transcript_for_mark_sweet___basis___tina_txt.json",
+    "processedAt": "2025-05-04T03:40:52.466Z"
+  },
+  {
+    "fileName": "Transcript for Warren Trust Ops.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Warren Trust Ops.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "00:00:11 - Seth Ellsworth\nHello.\n00:00:13 - Tina Marie (profitdriversinc.com)\nHello. Kind of quiet.\n00:00:18 - Seth Ellsworth\nAlmost be my hair pods.\n00:00:21 - Tina Marie (profitdriversinc.com)\nYou'r...",
+    "cachePath": "processed_content/transcript_for_warren_trust_ops_txt.json",
+    "processedAt": "2025-05-04T03:40:52.465Z"
+  },
+  {
+    "fileName": "Transcript sorting prompt for ChatGPT.txt",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript sorting prompt for ChatGPT.txt",
+    "type": "transcript",
+    "priority": "medium",
+    "contentPreview": "Save this prompt as how I want you to process transcripts \"Here's a transcript. Please use the following transcript and Identify the speakers. Post the content that is only Tina Marie - and remove any...",
+    "cachePath": "processed_content/transcript_sorting_prompt_for_chatgpt_txt.json",
+    "processedAt": "2025-05-04T03:40:52.464Z"
+  },
+  {
+    "fileName": "facebookposts2015-21725.md",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/facebookposts2015-21725.md",
+    "type": "social_media",
+    "priority": "low",
+    "contentPreview": "\nYour posts, check ins, photos and videos\nPhotos, videos, text and status updates you've shared on Facebook\nGenerated by Tina Marie on Thursday, February 20, 2025 at 12:27 AM UTC-08:00\nTina Marie shar...",
+    "cachePath": "processed_content/facebookposts2015_21725_md.json",
+    "processedAt": "2025-05-04T03:40:52.461Z"
+  },
+  {
+    "fileName": "tina_style.md",
+    "filePath": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/tina_style.md",
+    "type": "style_guide",
+    "priority": "very_high",
+    "contentPreview": "\\# Tina's Distinctive Teaching Style: A Reference Guide\n\n\\#\\# Core Elements That Make Teaching Transformative\n\n\\#\\#\\# 1\\. Multi-Layered Metaphors  \nTina's metaphors work simultaneously on multiple lev...",
+    "cachePath": "processed_content/tina_style_md.json",
+    "processedAt": "2025-05-04T03:40:52.452Z"
+  }
+]

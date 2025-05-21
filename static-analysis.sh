@@ -1,0 +1,1 @@
+apps/static-analysis/static-analysis.sh

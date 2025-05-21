@@ -1,0 +1,28 @@
+# Core Dependencies
+fastapi>=0.95.0
+uvicorn>=0.20.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.28.2
+httpx>=0.23.3
+langchain>=0.0.208
+langgraph>=0.0.15
+anthropic>=0.5.0
+openai>=0.27.8
+tiktoken>=0.4.0
+
+# Document Processing
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+markdown>=3.4.3
+beautifulsoup4>=4.12.2
+
+# Vector Storage
+chromadb>=0.4.6
+pinecone-client>=2.2.2
+
+# Utilities
+loguru>=0.7.0
+tqdm>=4.65.0
+pytest>=7.3.1
+pytest-asyncio>=0.21.0

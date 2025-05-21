@@ -1,0 +1,206 @@
+00:00:01 - Tina Marie (profitdriversinc.com)
+Hi, Laura.
+00:00:02 - Laura L
+Hi, Tina.
+00:00:03 - Tina Marie (profitdriversinc.com)
+How are you? I am so sleepy right now. Sorry to hear that.
+00:00:09 - Laura L
+What time is it now there?
+00:00:11 - Tina Marie (profitdriversinc.com)
+It's only eight o'clock, but I've just been getting up earlier and earlier and now I'm going to bed earlier and earlier and I'm just sleepy.
+00:00:18 - Laura L
+I can relate to that.
+00:00:22 - Tina Marie (profitdriversinc.com)
+How are you doing?
+00:00:24 - Laura L
+Yeah, all good. well.
+00:00:27 - Tina Marie (profitdriversinc.com)
+Good. So I was thinking about the get response. I saw the message and then I forgot about it. And this is going to be the whole kind of slow warm up period. So what I wanted to do is find out what your research was on your tasks and then we'll circle back to get response because I'm thinking maybe I just move everything to high level or active campaign or something. But either way, I'll set up a team account so that we're not limited by two factor authentic.
+00:01:00 - Laura L
+Okay, all right.
+00:01:02 - Tina Marie (profitdriversinc.com)
+That's correct. Okay, good. So how did your research go?
+00:01:09 - Laura L
+Yeah, I actually put it in a Google sheet. So all the benefits. So I found out that go high level has this magic link. So the user, the use case is that we could have a link in the email and then they just have, I mean, a one-time login and when they click the link, you'll be able to see the content.
+00:01:34 - Tina Marie (profitdriversinc.com)
+Perfect. That's perfect.
+00:01:39 - Laura L
+Yeah.
+00:01:41 - Tina Marie (profitdriversinc.com)
+Okay, so we'll use high level then. Yep. And then we'll just, that will answer the question then about high level in terms of the CRM. Yep.
+00:01:53 - Laura L
+So I confirm and chat support, but it looks like we don't have the access to support with the sub account.
+00:02:01 - Tina Marie (profitdriversinc.com)
+Okay, um, hold on a second. What was it? Fresh leads pro, right? Yeah.
+00:02:10 - Laura L
+Fresh leads pro.
+00:02:14 - Tina Marie (profitdriversinc.com)
+I don't even pay for it that my friend was just like, here I'll just give you a sub account. So we might like upgrade it or move, but I want to figure that out. So Um, what were you trying to do for support?
+00:02:32 - Laura L
+Uh, you wanted to confirm regarding the magic link.
+00:02:37 - Tina Marie (profitdriversinc.com)
+What I mean is how did you go about it?
+00:02:40 - Laura L
+Oh, yeah, I tried to check on the uh, settings and uh, try to see if there's a health section or chat support, but I couldn't find it.
+00:02:53 - Tina Marie (profitdriversinc.com)
+Okay. Okay, um, let me see how they go about support. words.
+00:03:03 - Laura L
+if we have the agency admin access, we could have that support feature.
+00:03:11 - Tina Marie (profitdriversinc.com)
+Yeah, that's what I want to find out. So let me message her real quick. Okay, bye. You You think about this for a minute though if I really want to do that. I kind of don't like like having my business tied to friends or clients or anything like that like never nothing's ever gone wrong but I don't want it. to go wrong, if I need something, I prefer that, you know, I'm a paying customer, take care of it. don't want to mess with that energy. So maybe then we end up moving. don't remember, let's see, let's go to Trello. I got a log in. Trello, Trello, Trello. My dog is barking. That's not Trello. Oh, that's Trello. Yeah, okay. So I feel like we had more than one task but I don't remember it. know one was to do that research. Another one was get response. You were working on that but blocked and that's my fault. Was there anything else we talked about?
+00:05:38 - Laura L
+Like procedium?
+00:05:39 - Tina Marie (profitdriversinc.com)
+Yeah, I go on check procedium and I just wondering if there's a separate login for the WordPress or for the site for a profits driver? Oh, yeah, probably. So the profit driver's ink.
+00:05:56 - Laura L
+That one? Yeah.
+00:05:58 - Tina Marie (profitdriversinc.com)
+And actually, You should be able to access it from Presidium because that's the hosting account. So let's screen share and go through that just to make sure. We'll go here. I might be wrong, but I think that hosting access has WordPress access also.
+00:06:29 - Laura L
+Yeah, because I could see just the link to the website.
+00:06:34 - Tina Marie (profitdriversinc.com)
+Okay, hang on, let's go here. And then there's that one. I just want to see. I feel like it's been so long since I've looked at it. So that's the primary domain. WordPress backups. don't think it's in the database. I assume you looked probably through everything.
+00:07:00 - Laura L
+And here, yes, no, maybe. Yeah, I did.
+00:07:03 - Tina Marie (profitdriversinc.com)
+OK. OK, so I'll share it. I just wondered if there was, now that you asked the question, it's just making me wonder is there not a, what you call it? link. OK, so let's see. There should be this one. OK, so I will share that with you. And that's the things. Oh, no, that's not it either. Oh, share security dot. Just didn't go anything. OK, that's what happens when I'm So more or more. Yeah. Okay, there it is. There we go. Okay. So that's taken care of. And then, okay, so progress from last week is slow, but, um, so I decided, so let's see, I have to figure out what the domain is that I'm going to use, and I would have to get that to you so that we could set it up. But, I mean, set up on profit drivers and then just have some landing pages. I'm going to kind of think about this for a minute. oh, and also, okay, so Google Analytics, you probably weren't able to install because you did get access to the site.
+00:08:55 - Laura L
+Yeah, that's the, uh, that's the reason why I also have to, uh, I checked the, So I can see if there's analytics installed.
+00:09:04 - Tina Marie (profitdriversinc.com)
+Okay. So what I would love to do if you're okay with it is add you to my Slack account. Okay. It's just because I can, I can, I can give it. So Slack allows me to remind myself something if I haven't followed up with it. And just that little feature just helps to make sure and, and the other thing is like if we ever get into a two factor authentication where you need something at a specific time. If you'll tell me, Hey, I'll be online in this window, then I'll know that you're available and be like, Okay, I'll, I'll try to get it to you there. Okay. And likewise, like if I know you might need something, I'll give you a window be like, Okay, this is where I'm going to be available. Okay. Let me create a new channel. that team that it's just your me and private creates and add l laurel at our laurel 28 what was it your email add to lrl258 at gmail.com 258 yes okay gmail dot com have you used to sock before yes I did with I actually active in slack also okay great so let me know if you end up getting that email probably slack is pretty quick about getting their emails through I'm gonna go ahead and check and you're logging time right now right
+00:11:00 - Laura L
+Yes.
+00:11:04 - Tina Marie (profitdriversinc.com)
+Okay.
+00:11:05 - Laura L
+I can see the invitation now.
+00:11:13 - Tina Marie (profitdriversinc.com)
+Perfect. I'll, I don't mind waiting. Just, I want to make sure that it works and we're connected.
+00:11:20 - Laura L
+Okay. Is it the SMP? Okay. Sorry. guess. Okay. Okay. Okay.
+00:12:10 - Tina Marie (profitdriversinc.com)
+I'm going to share names, sorry, no, you're going to, you would need to, I'll do that because the two factor on that is tight. Okay, great. So we're in there, I'm getting notifications, and I can remind myself if you send me some thing and I can't get to it. So that will be good. And hopefully, do you have a setup so that you're getting notifications?
+00:12:38 - Laura L
+don't know how often you have to use it. Yeah, I could actually install on my phone, so I always get the notification.
+00:12:47 - Tina Marie (profitdriversinc.com)
+Perfect. And then you can also mute it at certain times a day. don't know if you turn off your phone at night or put it somewhere else, but I feel bad about waking you up or bothering you.
+00:13:00 - Laura L
+And I'll raise that.
+00:13:00 - Tina Marie (profitdriversinc.com)
+Oh, okay. Okay, so then, okay, so you've got you want to go ahead and test the login and make sure you can log into the blog.
+00:13:12 - Laura L
+Okay, sure.
+00:13:53 - Tina Marie (profitdriversinc.com)
+Yeah, I can, you know, okay, great, and then do you want to see how I verified that you can get into the Google Analytics account added to you. don't remember if we checked that last week.
+00:14:09 - Laura L
+Okay. We'll make sure we've got everything going. Okay. I could just sorry. could just launch the site. I could not see if I could go to the back end.
+00:14:26 - Tina Marie (profitdriversinc.com)
+Okay.
+00:14:27 - Laura L
+They can't be found.
+00:14:30 - Tina Marie (profitdriversinc.com)
+Do you want to share your screen so I can see? Okay. Sure. Then where the issue is, so I want to make sure I get it.
+00:14:39 - Laura L
+Okay. Let me go back first to. I'm sharing my screen, yeah, sharing now.
+00:15:06 - Tina Marie (profitdriversinc.com)
+Okay.
+00:15:07 - Laura L
+Okay, so if I collect this launch, it takes me to here.
+00:15:15 - Tina Marie (profitdriversinc.com)
+Okay, try WP-admin.
+00:15:22 - Laura L
+This one here?
+00:15:24 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. No, I'm sorry. Instead of secret login, I think it might have got changed when I moved to work, when I moved to Presidium, because I wasn't originally hosted there.
+00:15:38 - Laura L
+Okay, so T-admin is not registered on that side.
+00:15:45 - Tina Marie (profitdriversinc.com)
+Okay, hold on. Okay, so then we can go into Presidium and see...
+00:15:54 - Laura L
+Let me make sure the login, so I'm going to take me to the site. again, maybe it could change the URL in last bus and it would launch me to the right side.
+00:16:07 - Tina Marie (profitdriversinc.com)
+Yeah, we went to the right side though, but yeah, you definitely want to update that. Okay, so it's now the standard login. And it's wp-admin instead. mean, that will work also, but we wanted to go to the admin dashboard instead of the user dashboard. Okay, and then say, okay, I'll do it. Let me first see if I can log in. I've already logged in, so then let me go to my account and it profile. Oh, my username is now the email, Tina at profitdriversinc.com, okay, so let me go ahead and I wonder if this one is it, hold on a second, oh, that's it, okay, so I'll share this one with you instead, let me just, whoa, I'm using do this one, gonna okay, let's Save that and then share it, share security, take it for whatever, let's try this again, you might need to refresh.
+00:18:38 - Laura L
+Okay, I'm going to launch, maybe I have to refresh again, okay, there you go. Yup, I'm in.
+00:18:52 - Tina Marie (profitdriversinc.com)
+Yay! Awesome.
+00:19:00 - Laura L
+Yeah, go ahead. Okay. Back end. Or maybe I could try and also log in, get response.
+00:19:14 - Tina Marie (profitdriversinc.com)
+So you'll get the, I mean, the code right away. Yeah. That's the other thing I was going to say is if we keep using it, let's just do that because it will keep you logged in for 30 days. Yeah. So if I end up choosing to continue to use it, then we've got that.
+00:19:37 - Laura L
+Yes. So there's the code.
+00:19:45 - Tina Marie (profitdriversinc.com)
+Waiting for it. Go ahead and hit resend code.
+00:19:58 - Laura L
+At risk.
+00:20:00 - Tina Marie (profitdriversinc.com)
+recent.
+00:20:00 - Laura L
+Yeah. Okay.
+00:20:02 - Tina Marie (profitdriversinc.com)
+I always have to do this with get response. Oh, here we go. 731-355.
+00:20:36 - Laura L
+731-355. Mm-hmm. Okay.
+00:20:46 - Tina Marie (profitdriversinc.com)
+Yeah. Great. Because even if we do get rid of this and use something else, I will want to, I cleaned up my list. So, Let's see, this size, I have my 10, okay, that's growth. was like, wait a minute, I have people on there. So there are few contacts, some of them are customers, some often. I've really never done email marketing, but I do want to keep the ones that I have. I've been paying for this for years and years and and never used anything. I was running a sales letter today. I'm working on like, I have a deadline with a lady that I'm working with to kind of help me be accountable for getting this simple stuff together and starting an offer. So there will be some, well, we'll have to build the site to get some traffic, but it'll need potentially an opt in page and a landing page, sales page, then check out whatever. So, let's see, let's, I have to pick the domain. So let's go. And a Trello and I'll create some tasks for myself to be accountable for that. Which one of these was Trello Trello. Okay, so do. And then after that, it'll be for you. That new domain at high level, which I also have to give you an account. So set up new high level account.
+00:22:56 - Laura L
+Okay.
+00:22:59 - Tina Marie (profitdriversinc.com)
+Tina first so. to get in and then give it to you.
+00:23:03 - Laura L
+So I'll be having a new JHL account, or you're to be going to Yes. Okay.
+00:23:10 - Tina Marie (profitdriversinc.com)
+Yeah. Because that's a sub account and a past client, I just, I don't want anybody that knows me knowing my business or me meeting them in case, for whatever reason, they're not doing their job right.
+00:23:25 - Laura L
+I got to want it to affect a friendship, their friends.
+00:23:28 - Tina Marie (profitdriversinc.com)
+Yeah. And so I just think it's, it's better for business that way. Yeah. Run. So set up a new high level account and then let's see what we're going to do that. That goes. Yeah. Oops. Get off of that. And then, oh, how about I share screen that way. You can just see what I'm doing. Okay. Yeah. I need to, so we'll need to create opt form for a lead magnet which I haven't decided if I'm actually going to do that or just sell something really cheaply first. That would be, you know, but I have to choose it first so and now you can choose who it's assigned to but Hey, I did that. Not going to edit now. I told you I'm sleepy. so create an opt-in form for a lead magnet. Sign in, create cells page container for a cell page. So I'd provide copy but anyway for load to get offer with order bump. Are you familiar with an order bump? Yep, okay. I figured you would be but I just want to make sure and then I'm not gonna let's see. Oh Give this to you, but I'll have the copy for it and there's no due dates for this at the moment I'm waist so sleepy, but we're just getting started. We're getting some traction and we will we'll we'll put some meat on this But due dates will definitely help me. So let me I'm gonna have this be a due date of Friday Okay because on Make it Saturday, because on Friday, I have to have A lot of it completed like the actual training and deliverability. So most of that stuff should be done. And then most of these things that I need to do will also be done by Friday. So I'm just going to Make all of these are set on a say Saturday. For me. Move. Oh, okay. And just double check it.
+00:26:37 - Laura L
+Yeah, it's okay.
+00:26:39 - Tina Marie (profitdriversinc.com)
+Okay, cool. And then Laura, we'll just Put Tuesday if that's not enough time because I didn't get it. Let's get it done till Saturday and you're busy. That's fine. But we'll make this a target. The up-inform should be in co-high level, so that I'll still determine, but I think that what I'm looking at is that they do okay for deliverability and inbox placement. I can't find anything that says that they're not reliable for that. And because I do want to use their automations they have it, I think I'd like to try it. Yeah, see how it goes. And then if we need to go back to get response or use active campaign or something, we'll figure that out. But I'd kind of like to test it out with my experience personally and know for myself, how does it work? Yeah. So, and I'd rather be all under one roof, if possible, as much as possible. Yeah, I think it would be great to keep all in one.
+00:27:58 - Laura L
+It would be easier to integrate. one another?
+00:28:00 - Tina Marie (profitdriversinc.com)
+Yes. So let's see. Now I have Stripe and so integrate, and that'll be me probably Stripe and PayPal, which already did with this high level account. Stripe and PayPal with high level so it can be used to process on sales page slash. And that will be me edit dates. I'll say by here also for me. And how do you change members? So that's who owns it, right?
+00:28:52 - Laura L
+That's who assigned for it. Yeah, like two months ago.
+00:28:57 - Tina Marie (profitdriversinc.com)
+Okay, change members, Tina, say, It's been so long since I've used Trello, but also it's changed a little bit. Oh, Laura, would say Laura L.
+00:29:12 - Laura L
+Actually, my last name is the same meaning with my name.
+00:29:21 - Tina Marie (profitdriversinc.com)
+I don't So, how does this have a picture in it already? Oh, it must have done like a gravatar or something. Okay. Let me just think about this. Well, I think this will get us started. I know it's not a lot of hours at first.
+00:29:54 - Laura L
+Yeah, get there.
+00:29:56 - Tina Marie (profitdriversinc.com)
+Yeah, just getting some bones on it, you know, getting some structure. and then the momenta mokom plus summer time is always super inconsistent for me because it's family time and we're playing a lot more traveling a lot but then come September when the when the kids are in school about middle of September I get this fire lit under me and I'm like let's go let's go let's go let's go and then also the sun goes away so I've got nothing else to do except computer work and stuff I can do in the house so I get a whole lot done then but anyway okay so do you have any questions yeah I think it's all good for me right now no questions at the moment okay all right well I am sleepily excited I just want to ask you cuz I was thinking about the the goal that you have and just wondering if you had pondered a little bit more on well what you want to do and what you want to create.
+00:31:02 - Laura L
+Yeah, because right now, there's so many going in my head. think I know how to get the clarity, so I need to maybe set a day to really think about and make a clear goal, because right now, there's so many noise in my head. There's so many things that I wanted to do, so there's no clear goals yet. I just wanted to maybe set a day to really think what are the objectives, something like that.
+00:32:14 - Tina Marie (profitdriversinc.com)
+Okay, how about by Tuesday, you have just a start and it can be a Google Doc and you can share it with me and answer these questions, know, why do you want to do anything? What is it? Why do you want to do it? Who's it for? Like who do you want to help? And what do they need? You know, do they need education? Do they need a little bit of money? Do they need to be convinced that there's a new possibility? Like do they even know that what you want to do is possible? So there's going to be a whole kind of spectrum, like like a gradient, right, of where people are on the path. And then the other thing is how many people? So a lot of times when people wanna start with a new business or new project or new venture, they've got this huge vision. And so our brains want to go to how do we build the huge thing? But really what you do is you just start with one person. Like even if you build a website and that website literally only gets one person. And you serve that one person, but you serve that one person really well, then you learn some new things. And now you have a little bit of a case study and you have some knowledge and experience and then you can build on that. And so by starting slow, which is the best way to go because you really learn it and you can take care of the people because that's gonna be, I know that from what I can tell, you care about. you know, wanting to actually have something of value for them. So maybe it's not one person, maybe it's five people, maybe it's 10 people, but start with like kind of a pilot group and something small, where you're maybe just talking to them and encouraging them and telling something's possible and maybe you create like a survey where you find out what kind of skills or talents they have or what kind of interests they have and maybe you create like a Facebook group and just start talking to women that that might be interested. So there's some ideas that maybe we'll just kind of percolate a little bit in your brain and if you have a face of a person in mind, like this is the person, like if I could just give her the ability to work from home and take care of her family, right now I'd be so happy. So whoever that person is, we can kind of build an avatar around them and if, and this is really important, that person would... actually do the work because as much as like we were talking about it last week, as much as you want to help people, they have to want to help themselves that much also. So the person that you want to help doesn't want to learn new things, doesn't want to work online, doesn't want to get clients. It's okay if they're scared, it's okay if they don't know how, but they have to be okay with being uncomfortable and doing it or you can't actually help them, you know? Yep. So if you think about all those things and then at the end of our call next week, we can go over your document and if you have questions or I can ask you questions, we just kind of go back and forth and just try to get some structure for you as well.
+00:35:50 - Laura L
+Okay, yep, sounds awesome.
+00:35:52 - Tina Marie (profitdriversinc.com)
+Okay, good.
+00:35:54 - Laura L
+Thank you very much Tina for this time.
+00:35:57 - Tina Marie (profitdriversinc.com)
+You're very welcome. I'm very happy to give it. Okay, I'm going to go to sleep. I'm so sleepy, but I'm so glad that we got to have this call and just ping me on Slack. If you have any questions that are time sensitive and I will do my best to get back to them quickly and being able to set a reminder should definitely help me out and feel free if you haven't heard anything within a day, just be like, ping, I just wanted to make sure you saw it and I'll be like, oh yes, please don't be worried about bothering me because that's actually helpful. Like I don't need it multiple times a day, but if you haven't heard from me in a day, then definitely feel free to check out.
+00:36:44 - Laura L
+Yeah, I'm getting scared the last time to check if you saw the message, if I sound very annoying.
+00:36:51 - Tina Marie (profitdriversinc.com)
+No, and I will tell you too, if I was like, oh, you know, like you don't actually need to do this, don't worry about, I'm not going to get annoyed, I'm just going to be like, well I didn't. set an expectation for you. But I want you to be bold and I want you to do what you feel is necessary to do a good job. And I'm going to respect that. I don't want a robot. I don't want somebody intimidated. That's afraid to ask anything. I'd rather you do something annoying than do nothing.
+00:37:21 - Laura L
+Okay, yeah, I agree.
+00:37:23 - Tina Marie (profitdriversinc.com)
+Yeah. So don't don't worry about that. I don't I probably do have a little bit sometimes like I get mama bear on people and my kids or my people. But other than that, not really like I get loud and intense, but not angry. It's just my nature.
+00:37:42 - Laura L
+I get loud over everything. I get loud about Jesus. I just get loud because I'm loud.
+00:37:49 - Tina Marie (profitdriversinc.com)
+Yeah, I think it'd be great than having to be like very silent, but if inside there's something Yeah, no, I don't want that. I definitely want all the energy. I thrive on it. So bring it, bring it, bring it.
+00:38:05 - Laura L
+Yeah, that's really cool.
+00:38:08 - Tina Marie (profitdriversinc.com)
+Okay. All right, Laura, well, this is a great way to end my night. So I hope that you will have a great rest of your day. And I will talk to you soon. Alright, talk to you soon. Have a great night. Thank you. Bye. Alright, yeah.

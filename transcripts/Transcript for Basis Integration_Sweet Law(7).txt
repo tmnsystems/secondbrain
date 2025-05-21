@@ -1,0 +1,490 @@
+00:00:01 - Tina Marie (profitdriversinc.com)
+Mark is not hearing it.
+00:00:05 - Dan’s iPhone
+You think.
+00:00:08 - Tina Marie (profitdriversinc.com)
+Well, you could talk to me and tell me how the meeting went.
+00:00:16 - Dan’s iPhone
+Well, I'm literally like, we already do this. That was the first thing. was like, Oh my God, why are we doing this again? Anyway, it turned out we came up with a better solution. Then I'm not going to get into it because it's way too hard to explain. And the four of us were like, wait, what? And then, but we mapped it. I was like, yeah, we should do that. And then it was like Bobby was like, I don't think you should launch this until January and just have like our last year of like one subscription.
+00:00:48 - Tina Marie (profitdriversinc.com)
+God damn you. That's a good point.
+00:00:51 - Dan’s iPhone
+You know, I like clean data. So I'm pretty sure that's what we're going to do. So we'll do like the Black Friday thing and then but.
+00:01:00 - mark sweet (sweetlaw.com)
+plan is to launch it. All right.
+00:01:02 - Dan’s iPhone
+Sorry. On on January 1st.
+00:01:04 - mark sweet (sweetlaw.com)
+All right.
+00:01:05 - Dan’s iPhone
+Okay. We took care of everything.
+00:01:07 - mark sweet (sweetlaw.com)
+Oh, we're getting away from me and we're chasing a death case that's in Baker's field. I think you're okay. wanted to hit and run after the school. So super fun.
+00:01:24 - Tina Marie (profitdriversinc.com)
+Oh my gosh.
+00:01:25 - mark sweet (sweetlaw.com)
+would be big case or a ton of order for like no money. But yes, hi.
+00:01:30 - Dan’s iPhone
+Great.
+00:01:31 - Tina Marie (profitdriversinc.com)
+The poor family. Well, now I feel like crying.
+00:01:40 - mark sweet (sweetlaw.com)
+Okay. Don't cry.
+00:01:40 - Dan’s iPhone
+You didn't kill anyone else.
+00:01:42 - Tina Marie (profitdriversinc.com)
+It's fine. Somebody say something else quickly.
+00:01:45 - mark sweet (sweetlaw.com)
+At least they came to us instead of a crappy firm that's gonna rip them off and that's right.
+00:01:50 - Tina Marie (profitdriversinc.com)
+Thank God.
+00:01:51 - Dan’s iPhone
+It's right.
+00:01:53 - mark sweet (sweetlaw.com)
+Okay. So, what's up? I feel there's 20 different things going on and my brain's buying too many spots. and I'm hamster in the wheel. So what do you want to talk about?
+00:02:03 - Tina Marie (profitdriversinc.com)
+I have things but um I'd rather hear whatever you and Dan have to talk about and then I can probably just let Dan go so I can bug you about the stuff I I want to talk about because I don't think it really needs to bother him. Okay. Any update on like the Google accounts?
+00:02:26 - Dan’s iPhone
+I just put up some ads an hour ago.
+00:02:28 - Tina Marie (profitdriversinc.com)
+What?
+00:02:30 - Dan’s iPhone
+That's right. Now we just need to make they better go live. They should. I got it all worked out. I put up my valiant strategy. yeah and then and then like a little extra some stuff that I wanted to do but um basically I mean I kind of know what they're doing but I and I'm also pretty sure there's overspending a shitload but we'll see so I just put in like then. And it's mainly now it's like I'm going to buy a bunch of data and see what I see. And then we got I had these AI dudes do a bunch of stuff for the blog, the accident blogs. Oh, I found this. The funding doesn't make any sense. So I don't know how far back it goes, it goes back a long way. I never considered the idea that someone would go to a death blog, leave, come back and then submit a form somewhere else. Right? So when we first looked at the site, it was always like, well, here's the day I was like, your site couldn't do this. Your new site does. So it's not that I didn't consider it. It's that I knew, hey, yeah, death blogs coming through the death. blog form. But with our , if they leave and come back and submit through a different form, I can see that they originally were on the death blog because we cookie them when they come in and then that cookie lasts for like a year. So when you said like a couple weeks ago, yeah, know, death blogs are down. Like, yeah, that's true. But whatever. And then I started poking around, I started seeing like, Oh, wait a minute, there are death blog leads that are old website, basically. So Eric and I figured out a way to stop that. But now the question is, how can we go back and fix it in LFI? And that part, well, first of all, got to make sure that we put in place is working. At first, it didn't. And then we modified it. And then it would be like, okay, now we got to figure out how to go back and correct it so that every news lead is a news lead. And I just haven't figured that part out yet. Um, then how are the AI guys to, who can ask for big sound in our back again?
+00:05:07 - mark sweet (sweetlaw.com)
+it goes, I mean, if it's a death case calling in, like it's a 99% chance to keep from the death clock, right?
+00:05:15 - Dan’s iPhone
+Yeah, yeah, that that we can, I can never catch it, those guys, and they, they seem to do a good job with that.
+00:05:21 - mark sweet (sweetlaw.com)
+And I'm like, it's a death case.
+00:05:22 - Dan’s iPhone
+It's, yeah, yeah, yeah, totally. Uh, that's a good point. Yeah. And then, but if they came in through a form and then got called out, we can definitely correct all those. And then they, they seemed to always catch those that come in on the phone and mark them as days. Um, I hired these guys to categorize all the 40,000 blog posts. Well, two apply categories based on the SEO peeps. So I think they sent that yesterday. so now Eric and I are going to use that to them. execute like the thing that the SEO guys want, which is like, now there'll be like a category for every, there's like 16 accident practice areas. So if if a practice area was identified, it'll add them the blog writers, much to my surprise, we have categories and they instantly started using them. It's like, okay, great. Yeah, so they do in that since we added them like a week or so ago, and I will go in and back. Well, and then we're gonna add more, hopefully they'll pick up on that too. So we're adding essentially the 16 or so practice areas and then some number of geographic categories. So if there's a state, there's a state name category, if a city was mentioned, then that city category will be created as opposed to creating a category for every city in California. was like, that's ludicrous. What's that doing that? We're creating categories based on cities that have been referenced. So what will happen is that some blog posts are going to have five of its categories, so we're going to have two, so we're going to have three, So they sent us this, they ran it all through a G script and some of that . So it looked at the things and applied the categories based on that. But we'll upload that and then we'll get into... Then I'll go back to the SEO guys and be like, okay, they want to delete old , because you cannot keep 40,000 blog posts. I'm like, okay, well let's do this and then let them get crawled and then we'll go delete them out. And then I'll get an update from Stacey. So they wanted to change the home page. and add the 16 practice areas there. we're trying to like get those into the blog and then on the homepage and then in the nav. But I think there's like five or six that's the content that we pay them to write. think they still four or five or six more to go. So hopefully that'll be done like the next two weeks and then we'll update the homepage and all that good stuff too.
+00:08:26 - mark sweet (sweetlaw.com)
+All right.
+00:08:29 - Dan’s iPhone
+What did you do with me, Nito? Did you?
+00:08:32 - mark sweet (sweetlaw.com)
+As it was.
+00:08:34 - Dan’s iPhone
+Okay.
+00:08:35 - Tina Marie (profitdriversinc.com)
+Nice. does that mean?
+00:08:38 - mark sweet (sweetlaw.com)
+I haven't done it.
+00:08:39 - Tina Marie (profitdriversinc.com)
+haven't followed it them. just left it.
+00:08:41 - Dan’s iPhone
+Yeah.
+00:08:41 - mark sweet (sweetlaw.com)
+That's good. want to talk to you guys about it a little bit.
+00:08:44 - Dan’s iPhone
+Make them come to you. I would go back and say, look, let's look at the setup for the set because I read their thing. We should look at the setup that we paid tier 11 and be like, we'll pay you that because you're not building.
+00:08:57 - Tina Marie (profitdriversinc.com)
+You're not building any funnels.
+00:09:00 - Dan’s iPhone
+So you could take that out. You're not building any landing pages. You could take that out. All you're going to do is set up some ads. That ain't 15 grand.
+00:09:11 - Tina Marie (profitdriversinc.com)
+Which was the conversation we had last week about it. Um, any updates on any of the other lead sources I feel like there was one more.
+00:09:30 - mark sweet (sweetlaw.com)
+Otherwise legal post one has been garbage so far as three leads that no one good and it's showing that they were five months ago.
+00:09:39 - Dan’s iPhone
+So I can't on the website and right.
+00:09:42 - mark sweet (sweetlaw.com)
+The response has been crap basically to us. Um, maybe I'll get better, but it's not looking great garbage. But I grew So that's where we're at with that one. The CMG is supposed to give me more data numbers supposed to happen this week. They asked for a little more time. going to get it back to us next week.
+00:10:16 - Tina Marie (profitdriversinc.com)
+Mg.
+00:10:18 - mark sweet (sweetlaw.com)
+Like California marketing group or something like that. Tom works now.
+00:10:31 - Tina Marie (profitdriversinc.com)
+You're going to get back to them this week.
+00:10:33 - mark sweet (sweetlaw.com)
+No, they're supposed to get back to me.
+00:10:34 - Tina Marie (profitdriversinc.com)
+Oh, because I have them for like numbers and breakdown. And I suppose come this week, they asked for some more time.
+00:10:41 - mark sweet (sweetlaw.com)
+So next week, I'm assuming. That's kind of where we're at lead wise. Walker came back and offered 11 50 lead, but they want me to buy 200, which is a lot of money a month. we're at. Tom. I'm. My book, we're only converting 18.9%, even though we around that to 20.5, 5,500 bucks a retainer doesn't really work on scale. So we're going to try to figure it out, maybe 150 leads a month instead of 200. But I said, look, we're also going to December, which I know is maybe not the best time to try something new.
+00:11:21 - Tina Marie (profitdriversinc.com)
+So for the last time to do something now, what happened? I said, or it's the exact time to do something new. And I'm not saying, I know that it is, I'm saying literally or.
+00:11:34 - mark sweet (sweetlaw.com)
+For this, I think it might make more sense just to wait till January. not like we're not going to keep buying leads from them.
+00:11:41 - Tina Marie (profitdriversinc.com)
+Well, can we, let's go look at our trajectory. By the way, you didn't send month to date. I think last week, didn't you, like at the end of the week?
+00:11:50 - mark sweet (sweetlaw.com)
+Saturday night from Monday. Hold on, I'll go find it.
+00:12:07 - Tina Marie (profitdriversinc.com)
+Um, let's do this, that was Saturday. Right, it was the night that you sent that right now. Yeah.
+00:12:26 - mark sweet (sweetlaw.com)
+Yeah. We're like late Saturday night because the world is being suspended.
+00:12:32 - Tina Marie (profitdriversinc.com)
+So, uh, I'm going to share my screen now.
+00:12:41 - mark sweet (sweetlaw.com)
+I think it was any closer to having Walker, Missouri. You don't know why it's just.
+00:12:46 - Dan’s iPhone
+Oh, so we didn't set that up. That was, that was. So off the, uh, I'm going to write you about it. That was the one that Josh worked out. Um, but, uh, so. I think he did all the zaps for that. So I have to go look at what he did. I never looked at how he did it, but I want to say he created zaps for them. So it might just be that the zap, a zap is messed up or the zap doesn't exist.
+00:13:16 - mark sweet (sweetlaw.com)
+How does the zap exist?
+00:13:18 - Dan’s iPhone
+Yeah, or it's like he, you know, you cut and pasted and left one Washington and called it Missouri and it's doing the same thing. So, yeah, that's a, I'm gonna say that because I just did something very similar to that with Google. It's like, that's weird.
+00:13:35 - mark sweet (sweetlaw.com)
+You have Nebraska, come on, like, come on.
+00:13:37 - Dan’s iPhone
+Be the enough to. So I'll look at that. gosh, I'm sorry to the other.
+00:13:45 - Tina Marie (profitdriversinc.com)
+Okay, um, how let's see, where are we?
+00:13:50 - mark sweet (sweetlaw.com)
+month today and 20 more seconds. just think you can tell any more people.
+00:13:56 - Tina Marie (profitdriversinc.com)
+Okay, cool. Well, what I want to do, and I'm trying to think about, The best report to do that is look at the last I'd like a bar chart to see leads over the months from like let's say November, December through March for last winter and then the winter before and the winter before. Actually, I just want to for the whole year. Let's see, maybe it's in that partnership dashboard we haven't used for a while. No. Management main. It's probably just reports then, no, I really want to dashboard for this type of thing, see. Alright, this is what I'm going to do. What I see at 46, 9 hours out of 10, California, 3 in Missouri, 10 in Mexico, 13 in Washington. And in Mexico and Washington are just thinking about the days when we didn't have them, you know. Well, I guess you always had Washington when we started, but it really wasn't what it is now. Are you guys there? Am I or something?
+00:16:01 - mark sweet (sweetlaw.com)
+No, we can hear you.
+00:16:02 - Tina Marie (profitdriversinc.com)
+OK, just not responding.
+00:16:04 - Dan’s iPhone
+ahead. I'm slacking Stacy to tell Eric to fix the bass.
+00:16:11 - Tina Marie (profitdriversinc.com)
+Come on.
+00:16:13 - Dan’s iPhone
+Concentrating.
+00:16:14 - Tina Marie (profitdriversinc.com)
+All right, all right. So let me show screen from the net. Go here. my gosh, the name is in my way. And my dog is barking. OK, so what I want is just a snapshot of. And I need to send this to Josh if it's OK with you. I want a widget or its own dashboard where we can, because we don't do this very often, but this is the time of year that we do it. This and sometimes summer. Look at the trajectory of the cases over particular times of year. So I want to look at. Oh my gosh, doggies. Stop barking your faces off. Can you hear them?
+00:17:08 - mark sweet (sweetlaw.com)
+just hear some squeaks in the background.
+00:17:14 - Tina Marie (profitdriversinc.com)
+Anyway, I just want to look at total number of retainers by month, month over month, but I think we just have to get. No, yeah, there's got to be a report where we can just look at it linear, like January, February, March, April, total retainers. I feel like I've seen that report before.
+00:17:43 - mark sweet (sweetlaw.com)
+Any thoughts about that? So think cases signed by month, source and state was one thing that you had us make.
+00:18:00 - Tina Marie (profitdriversinc.com)
+It's a retainers.
+00:18:02 - Dan’s iPhone
+It's matters, right?
+00:18:03 - Tina Marie (profitdriversinc.com)
+Lidif I speak.
+00:18:06 - Dan’s iPhone
+That's what kills me. Josh is so like, oh, you need matters. I'm like, OK, yes, matters.
+00:18:12 - Tina Marie (profitdriversinc.com)
+Yeah. What?
+00:18:18 - mark sweet (sweetlaw.com)
+It's stupid.
+00:18:23 - Tina Marie (profitdriversinc.com)
+Different reporter.
+00:18:25 - mark sweet (sweetlaw.com)
+No, it's just stupid. Yeah.
+00:18:28 - Tina Marie (profitdriversinc.com)
+So how do I see it by month? I know we do have that, because we've done the sub totals by month.
+00:18:35 - mark sweet (sweetlaw.com)
+OK, so look up the report that's called cases signed by month, source, and state.
+00:18:45 - Tina Marie (profitdriversinc.com)
+No, I'm in the wrong thing, right?
+00:18:47 - mark sweet (sweetlaw.com)
+But I'm going make it so it's after December 2020, because this is not super helpful.
+00:18:56 - Tina Marie (profitdriversinc.com)
+OK, so I don't OK, actually, that's recent. My bad. I need.
+00:19:00 - mark sweet (sweetlaw.com)
+to go to all reports, cases signed by my, I'm just going to from 2021 forward because November, had, let me transfer it to Lidify and so it had like all the ones from previous, which is not giving the data you want.
+00:19:27 - Tina Marie (profitdriversinc.com)
+Month source and state, this one right here. Yeah.
+00:19:32 - mark sweet (sweetlaw.com)
+Sorry. I mean one source in the state. Yeah, I think so.
+00:19:49 - Tina Marie (profitdriversinc.com)
+Oh, cool. Okay. Yeah. Oh, yeah. This is awesome. That was what I wanted.
+00:19:58 - mark sweet (sweetlaw.com)
+Look, it's a bar chart.
+00:20:02 - Tina Marie (profitdriversinc.com)
+We can change that to a graph company in here for this.
+00:20:10 - mark sweet (sweetlaw.com)
+Yeah, toggle chart. The chart properties, the scroll back up the widget, the gear icon, the chart.
+00:20:26 - Tina Marie (profitdriversinc.com)
+Scroll back. Oh, here. Oh, yes. Actually. Maybe like that or line. Hmm. See what that happened. Okay, that's easier for my brain.
+00:20:41 - mark sweet (sweetlaw.com)
+don't know why, but it is. Okay.
+00:20:45 - Tina Marie (profitdriversinc.com)
+So I'm just kind of looking at the trajectory. Let's go January 2021 and watch it go up and down and then I'm going to go January. Doesn't really follow a consistent pattern at all. Well, that's all I was looking for is to see if there was any kind of consistency in the pattern, which that was interesting.
+00:21:09 - mark sweet (sweetlaw.com)
+Well, you can kind of see is look at November and January and December is generally lower than both of those. I know it's not going to be a perfect way to look at it.
+00:21:20 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:21:21 - mark sweet (sweetlaw.com)
+But look at like November 23 and January 24th, that broke pretty high, December is low. Look at 22. It's a little bit. Well, we'll get.
+00:21:30 - Tina Marie (profitdriversinc.com)
+I mean, hold on second. So this is November says record count 59 December, 58 January 62. So I mean, like that's almost identical. So let's go here in November, record count 47 December record count 44. So it's only three different last year in November, record count 86, December.
+00:21:52 - mark sweet (sweetlaw.com)
+Hold on. Hold on. I'm going to take out one thing.
+00:21:55 - Tina Marie (profitdriversinc.com)
+Okay.
+00:21:56 - mark sweet (sweetlaw.com)
+Because we have dropped and sub out, which. Okay.
+00:22:00 - Tina Marie (profitdriversinc.com)
+Yes.
+00:22:01 - mark sweet (sweetlaw.com)
+So let's see if run it. So if you just want to refresh it, I think that might be better.
+00:22:14 - Tina Marie (profitdriversinc.com)
+I hit it. Oh, I guess it did update.
+00:22:18 - mark sweet (sweetlaw.com)
+It's not going to be a massive change, but it may give you so November record count 47.
+00:22:25 - Tina Marie (profitdriversinc.com)
+This should be 44. That's what it was. And then January was even lower 36 and 2022. I mean, well, yeah. So 2021 to 22 59 and December 50. I mean, November 58 in December. 62 in January. And then November. 86 72 88. But I'm well, we're not even in here. So let's look at the relativity of November to October. Let's see what October was. Was a little bit lower. Let's see, 59, 59, right? And then October, it's interesting. It does seem to be that November is bigger than October. That one's kind of even, but this year it was bigger. We'll see what this is. So we're it's 46 and we're at the 14th and all of October was 84. Move interesting to see. It's hard though to even like really actually even try to analyze it like this because we have constantly changing the the vendor sources.
+00:23:48 - mark sweet (sweetlaw.com)
+But we've helped her spend dramatically.
+00:23:51 - Tina Marie (profitdriversinc.com)
+Yeah. So I'm really looking forward to getting that report from Josh so we can see what our costs have changed year. over time. But what I would also like to see then and side by side is what has our profitability changed over time based off of the incentive program and especially like second chair and some of the other things that are we're trying to do to increase attorney fees. Yeah, what needs to happen is marketing costs go down while income comes up or at the very least that marketing cost goes up income come up as well. But because the margins are just not great, really want to see that come up. Anyway, okay, that's what I want to see. So where's my and this is where Dan, I don't know if you have interest in staying,
+00:25:00 - Dan’s iPhone
+are you want to bounce? Oh, see, uh, we, uh, Mark, do you need to answer anything else?
+00:25:08 - mark sweet (sweetlaw.com)
+Um, then anymore leads that are cheaper and better.
+00:25:14 - Dan’s iPhone
+Well, I'm running some good.
+00:25:16 - mark sweet (sweetlaw.com)
+There's something on lead flow. We can we work to build a slightly separate funnel for the people who are filling out the death vlogs.
+00:25:27 - Dan’s iPhone
+We're already, we already did it.
+00:25:29 - mark sweet (sweetlaw.com)
+Okay.
+00:25:30 - Dan’s iPhone
+Do you want one that has better compassion than? Do you have example?
+00:25:40 - mark sweet (sweetlaw.com)
+Yeah.
+00:25:42 - Dan’s iPhone
+Okay. But yes, we can. Absolutely. Uh, we also reminds me we plugged, we plugged in the AI. So we had put AI in overnight. Unfortunately, there's no good way of tracking. or knowing what I'm about to say about it. Other than, we ended the AI in overnight. If we changed this conversational AI thing, and then we noticed overnight, books better, right? Okay, great. So then we took that, we stuck it into one spot in the daytime flow where people get exhausted, right? exhaust the workflow, it sort of ends. And what I do is I just stick people in a weight bucket so that we could go look at it and go, okay, well, people are ending up here. So we can sort of see a path they took. So Eric was like, what if we just start sticking the AI in these eight buckets? So instead of nothing happening, an AI conversation will kick in. We did that like two weeks ago, maybe 10 days ago. And then Eric analyzed it yesterday and it booked like four or five appointments. and three of them closed. Unfortunately, I think what's happening is it's going to increase the contact rate, but we don't have the contact rate. We don't actually know what the contact rate was before to say, oh, the contact rates gone up. But it has to have increased it. But it also is turning its looking people into appointments. then we saw two or three of those converted to retainers. A bunch of them got turned down, but it was like in the period of time where the turned down reasons got updated to. So we got to figure out a way to like, I want to know like the contact rate per source, right? So like, is monkeys contact rate the same as same as so and so they're not, they're not all the same. And then, and then we could start working on that. is this AI like dude it started contacting people that have been dormant for like a week and ended up booking them so i was like oh that's interesting but yeah we can take we can we've separated the death blog already based on not using the the person's name or whatever so then we could we could hook a different prompt up to that that says hey you're most likely talking to someone that's dealing with the death blah blah blah blah blah right for sure i'll send that to eric okay yeah email uh lola 8 2 1 9 n g no dot com lola was lovely you are wonderful okay but it should be it should be easy to find uh it's from 9 39 a.m.
+00:28:57 - mark sweet (sweetlaw.com)
+cool so you can see what My response was, which I was more detailed, but we want to start with, like, the more deepest condolences, and then kind of into a little bit more from there.
+00:29:09 - Dan’s iPhone
+So just a tiny bit more sensitivity. Yeah, totally. Yeah, we can definitely get the prompt. That would be easy.
+00:29:19 - mark sweet (sweetlaw.com)
+Okay, we're just keep trying to just small small small small.
+00:29:24 - Dan’s iPhone
+All right, cool. Thank bye.
+00:29:32 - Tina Marie (profitdriversinc.com)
+Wait, wait, Oh, oh, oh, oh, oh, oh, oh.
+00:29:36 - Dan’s iPhone
+So close.
+00:29:37 - Tina Marie (profitdriversinc.com)
+You said you had an example.
+00:29:42 - mark sweet (sweetlaw.com)
+Yeah, Carmida Aguilar, the one from this morning that we're talking about.
+00:29:46 - Tina Marie (profitdriversinc.com)
+Excellent. okay. Oh, that's what that was about.
+00:29:51 - Dan’s iPhone
+Oh, yeah, Lola.
+00:29:52 - Tina Marie (profitdriversinc.com)
+it's not really going to help you with that's okay. Okay, never mind. was going to put it. I'll link as an example, but never mind. Bye, Dan.
+00:30:04 - Dan’s iPhone
+That's worse. OK. Cool.
+00:30:09 - mark sweet (sweetlaw.com)
+Oh, well, asking Dan, OK, come on.
+00:30:13 - Tina Marie (profitdriversinc.com)
+He doesn't waste any time.
+00:30:14 - mark sweet (sweetlaw.com)
+It was more about what you had say told me.
+00:30:17 - Tina Marie (profitdriversinc.com)
+So oh, well, you can tell me about that. I guess probably there. So one of the things that I'm working with these guys until we can get the call control training is kind of teaching it to them a little bit every week. And I'm having them write notes during the week and kind of give me a report on things that they notice that could probably be improved. And so, hold on. I'm trying to figure out the best way to say this, like. Sixinks Lee. I'm also like struggling. oxygen levels are a little low today.
+00:31:06 - mark sweet (sweetlaw.com)
+is terrible and we miss it all on fire.
+00:31:12 - Tina Marie (profitdriversinc.com)
+Well actually I was interested to know like how the anniversary is going today with Shona and what I did and how it's super cute.
+00:31:23 - mark sweet (sweetlaw.com)
+How you're going your mind over it.
+00:31:25 - Tina Marie (profitdriversinc.com)
+It's your anniversary today. Happy anniversary. So are we not meeting today?
+00:31:33 - mark sweet (sweetlaw.com)
+I don't, or dinner's until eight o'clock. So we have time.
+00:31:37 - Tina Marie (profitdriversinc.com)
+Okay. Well, I was kind of going to need to be a mean team today and I probably don't want to do that on her anniversary.
+00:31:46 - mark sweet (sweetlaw.com)
+No, it's fine. You can be mean to her.
+00:31:47 - Tina Marie (profitdriversinc.com)
+don't mind.
+00:31:48 - mark sweet (sweetlaw.com)
+You're going to be mean to her now is the time to make it better after. It was mean to me yesterday in line to me. So yep, feel free.
+00:31:58 - Tina Marie (profitdriversinc.com)
+I don't need to hear that. But um, I mean, I do want to hear the cute things, though. You're not going to tell me?
+00:32:10 - mark sweet (sweetlaw.com)
+I'm emailing it to you.
+00:32:11 - Tina Marie (profitdriversinc.com)
+Okay. I'll look at it later and stay focused because I'm trying to give you your money, but yeah. Okay. So I do feel like the, I haven't looked at their stats lately, but you know, it updates slowly.
+00:32:31 - mark sweet (sweetlaw.com)
+Um, before I forget, so Monday we did the meeting with, well, Sunday of the month, it was a lot of doctor meetings in Arizona. So overall, this, I got a good thing back from the doctors and the main thing that just kept coming up and it's not surprise, but it's obviously really good thing is, you know, like our level of communication, because it's just a lot higher than most places.
+00:32:54 - Tina Marie (profitdriversinc.com)
+That's great.
+00:32:55 - mark sweet (sweetlaw.com)
+It's given our volume that we're to communicate that well with them is definitely a good thing.
+00:33:01 - Tina Marie (profitdriversinc.com)
+That's great, um, do you, I'm just trying to think about like how that translates to revenue because really at the end of the day.
+00:33:11 - mark sweet (sweetlaw.com)
+We definitely impact revenue because for a variety of reasons, one, it means less likely for a client to start missing treatment or not going to tell us about it. Two, doctors are going to give just better service and quicker reports and bills to firms they'd like to work with. Yeah, they know we're going to short changes and we'll put them more to the bottom of the pile. Three, it will hopefully also help to push for more, you know, unrepresented cases. So it absolutely does impact the bottom line. It may not be obvious how to title this right indirectly, maybe, but it's big.
+00:33:46 - Tina Marie (profitdriversinc.com)
+Um, all what is this? don't want all time. I'm going to go last 90 days and refresh. Okay, excuse me. Can't refresh it more than once. So, one of the things that I'm working really hard on is trying to close this gap between Lorenz and in processing time. He's working really hard on it, too. And I don't know if you've noticed, but to me, that's got to have an impact on revenue, too, because if we're getting through the cases faster, we're getting to the money from the start of the case faster. At one point, this was like, over a year, let's do, last year, look at Lorenz's numbers, right? So, don't know how that's right, but that, um, so shortening it by 30 days, I mean, ultimately, I guess that's not a ton, but it's helping.
+00:34:56 - mark sweet (sweetlaw.com)
+But that is, I mean, look at it, was 300 days you're doing by 30 days. 10%.
+00:35:00 - Tina Marie (profitdriversinc.com)
+Yeah, it is significant. What I'm trying to do is show you how your investment is paying off, but also it's going to have a compounding effect because the one thing I see every week is the light go on with them and then they come back and they tell me what they did to implement it every single week both of them. So I don't have, you know, Patrick's data is still skewed while that was last year.
+00:35:26 - mark sweet (sweetlaw.com)
+So it's definitely still very skewed.
+00:35:29 - Tina Marie (profitdriversinc.com)
+Yeah, so it's hard to work with, but his leadership, his efforts and training, he's definitely working on it and there's a return, he's improving. I don't have to. Huh?
+00:35:49 - mark sweet (sweetlaw.com)
+He's super coachable.
+00:35:51 - Tina Marie (profitdriversinc.com)
+Yes. Which is good. Yes. He has a great balance of strength with humility. Um, which is, which is really, which is really good, you know, like you said, coachable, also malleable workable, which is not necessarily the same thing. His potential for improvement, even just on his own, is, is really good and he's super internally motivated. So yeah, so Lorenz, now how does this, oh, because I did last 60 days instead of last 90 days. That's crazy. Look at this. I don't know because of how long the cases last, how much this matters, you know what I mean?
+00:36:42 - mark sweet (sweetlaw.com)
+If look at the numbers, because now it's right, speed and close, just nicks are charted screen things up.
+00:36:51 - Tina Marie (profitdriversinc.com)
+I don't even look at nicks ever.
+00:36:53 - mark sweet (sweetlaw.com)
+Yeah, but what I'm saying is like, the data is now correct, which is good.
+00:37:00 - Tina Marie (profitdriversinc.com)
+Um, I don't before where like the resolution was longer than the oh, yes. Yeah.
+00:37:05 - mark sweet (sweetlaw.com)
+Yeah. It looks weird because of Nick.
+00:37:08 - Tina Marie (profitdriversinc.com)
+So what's interesting to me though is this, like, I just wonder if is slipping a little bit.
+00:37:15 - mark sweet (sweetlaw.com)
+Yeah.
+00:37:19 - Tina Marie (profitdriversinc.com)
+Do you look at this dashboard?
+00:37:21 - mark sweet (sweetlaw.com)
+90 day or 30 day.
+00:37:22 - Tina Marie (profitdriversinc.com)
+This is 60.
+00:37:23 - mark sweet (sweetlaw.com)
+So let's do 90 also literally just be because of like two cases that settled near statute.
+00:37:31 - Tina Marie (profitdriversinc.com)
+Yeah. There are so many things that go into it. I do get that. But so this is 90 days.
+00:37:39 - mark sweet (sweetlaw.com)
+Yeah.
+00:37:40 - Tina Marie (profitdriversinc.com)
+And I think because I had him do something for me. I don't want to do what we let's do this year equals this year and we can also do last year, especially for Samantha. Okay, so this is this year. Let's just look at Samantha. last year. Yeah, so she's not doing as good this year as she was last year.
+00:38:15 - mark sweet (sweetlaw.com)
+Part of that doesn't shock me because we added New Mexico.
+00:38:21 - Tina Marie (profitdriversinc.com)
+And does New Mexico just take longer itself, those cases? Yeah. She also went through the divorce and all kinds of other things, which is really the bigger reason I'm bringing it up is have you. What other indicators like do you even have eyeballs on Samantha because she was always such a rock star for so long. Have you gotten a little complacent about looking at her?
+00:38:46 - mark sweet (sweetlaw.com)
+Nope. Okay. went over a case where they once looked through the cracks and we just went over what went around with it this morning so absolutely not. And she bit her tongue the entire way through to the point where you could almost see her tongue bleed.
+00:39:01 - Tina Marie (profitdriversinc.com)
+Okay, but before that, when was the last time you took a look at herself? Monday. Okay, so you're looking at it proactively not because something comes across your desk because somebody reported it to you.
+00:39:13 - mark sweet (sweetlaw.com)
+Usually something comes across my desk and then it's like pulling a string and then you find out 20 other things. So I tried to. I can't look through them all.
+00:39:25 - Tina Marie (profitdriversinc.com)
+I'm talking about looking at the cases per se, but like looking at things that are indicator so. I just try to spot check as well. Yeah, so this is last year. Let's look at and we're not through the area, but we're. Oh my goodness. Okay, 3.5 for last year and then. This year. Let's see where we're at. 3.7. All right. This always fascinates me, the parallels between Tyler and Lauren's, I've seen it and other things, especially because of like, Tyler's issue is complacency, according to like what you've described and Lauren's is just pacing, just his natural pace. And I am sure, I'm really glad though that we're working together now because if what happened to his wife happened without him having any help, be really worried about him.
+00:40:44 - mark sweet (sweetlaw.com)
+Yes. Although in all likelihood we'll see, I don't know how much we're both, I will see, because Jonathan is paralegal, he's out on paternity leave. I know you got married on Tyler's team. He was only out for a little, but you know, wedding kind of takes over.
+00:41:05 - Tina Marie (profitdriversinc.com)
+Yeah. Way after it.
+00:41:08 - mark sweet (sweetlaw.com)
+So I don't know how much of an impact that's gonna have and we're not really gonna see the ripple effects for a little while.
+00:41:14 - Tina Marie (profitdriversinc.com)
+We're not really what?
+00:41:16 - mark sweet (sweetlaw.com)
+Going to see the full ripple effects for a little while.
+00:41:20 - Tina Marie (profitdriversinc.com)
+Yeah, but I for sure and I don't know how much you can see in the runs, but like And I think that he's getting a little bit better because we had some talks about it in the beginning, but a few weeks ago He was he looked like he was just drowning emotionally Um, was really worried about Carrie. think he's still really worried about her and then trying to balance out taking care of the kids and then doing this work, but He's leched on to Perspective and the things that he can do to make a difference We implemented this them having starting their journaling a month ago Um, and that's been helpful because they weren't really coming well prepared for the call, and they need to be better prepared. I mean, that's the conversation. need to have what Chona too is like, we don't work together just once a week. Thank you really have to be thinking about this all throughout the week. One thing I do is send messages to her, but, um, I'm trying to be politically correct because I would not be getting through my life right now without you. But if anybody else that I was working with didn't do the work they said they would do.
+00:42:43 - mark sweet (sweetlaw.com)
+I've fired clients for that.
+00:42:44 - Tina Marie (profitdriversinc.com)
+Yeah, there's no point in the work, but I needed to work for you.
+00:42:50 - mark sweet (sweetlaw.com)
+But like when we did the like super hand life coach person, he literally got kicked out of the program. She wasn't following it and then like. will corrupt. So sometimes she needs that.
+00:43:03 - Tina Marie (profitdriversinc.com)
+So what I would like to know, because, because this is a very unique situation, you're the one paying bill, you're the one that's been my client, you do the work. I want to do this. But the other thing is like, yeah, anyway, part of it is you have a different perspective as you're both female entrepreneurs, right?
+00:43:27 - mark sweet (sweetlaw.com)
+as much as I can simplify as much as I can truly, I am not in that position. physically can never be in that position, right? That's just not. And so, you know, having you in that regard house for, I think, quite a bit, because again, you're someone who can say I've been in those shoes, I understand that, you know, male-dominated XYZ and whatever that may be, I don't have that perspective. And my solution to almost every problem has just worked hard, which is not always the right solution.
+00:44:00 - Tina Marie (profitdriversinc.com)
+So, You know, and the learning board, it's great. So the one other thing though I get to bring as a benefit is I'm that person and her in all of the profiling. I'm right in the middle. And so I can be heavily one side of the other. I am. And if this frustrates me because I have four kids that are very strong, but also have no emotional fortitude, like when things get stressful, they shut down. They get that from their dad. And that's not even being a, you know, thing, whatever. Because for me, I don't have fight, flight, or freeze. just have fight. Literally. I get like somebody scares me, my fiance was like, wait, he's like, I'm not going to hurt you. I'm like, I know it's not. But if I hear noise, I turn around, jump up. hands are up. I'm ready to go. Every time. But but that's my thing. Like, if there's a problem, I'm. going to bull push my way through it and get it. And I think that she has that in her, but I think that it's, do you think that that's where the power is, is trying to tap into that with her? And I've caught a hold of it a couple times. But what I don't think you understand, and I'm really starting to see it more and more, is that the opposite happens even more quickly. If she feels ashamed, or disappointed in herself, or overwhelmed, and all of those things can happen easily, then her power just just like sucks right into herself. Like she's like a snail that just went back into the shell. So it's fragile, I do think that there's a balance that I could strike with the the love and and the tough love like the soft nurturing love and the tough love. I think that it's time for a little tough love but to me I don't think of it like and I needed to pre-frame it with you um because I if she gets upset and frustrated I'll need you to calm her down and be the good cop it won't be bad it won't be rough it would be something as like you know if this was any other situation I'd be talking to you about like maybe this isn't for us maybe maybe I'm not for you and that's probably how I'll approach it because um at the level that I'm paid I expect to see results because I am not my investment it doesn't make sense if we're not making money from it. Now you can't do it immediately but I'm also future pacing going at this pace I don't even know if going to get there because you're not doing the basics right now if you're not doing the basics, there's no way you're going to get to the high level stuff I've got going for you, right? So anyway, that's the conversation. Um, it's not, it's not really bad, but going, it was one thing to be sick and then to have cycle and then burnout, which by the way, burnout is very real. And I think that that's what happened. But you, you still have to make a decision and either decide that you're going to fix it or that you're going to be a leaf in the wind, kind of, you know? Yep. So Dr.
+00:47:37 - mark sweet (sweetlaw.com)
+E did call me and give me good feedback on her. Um, saying he's really, really happy to have her. Obviously I told her all this stuff. Um, and she's doing great and you know, it's huge weight off his shoulders because, yes, you're going go in the hospital and that's I mean, that is why he brought her in part of it. Obviously the bi part is great, but like, large part of it is he doesn't have to train her. He knows she's very, very competent in that
+00:48:01 - Tina Marie (profitdriversinc.com)
+Yeah, that's almost a double-edged sword, though, because she wants to get out of that completely, and he's going to want to hold on to that. So it's important.
+00:48:13 - mark sweet (sweetlaw.com)
+the She likes the hospital. She's fine with the hospital. She doesn't like the clinic. And so he's here more out of clinic and doing more in the hospital for her.
+00:48:20 - Tina Marie (profitdriversinc.com)
+Okay. I'm still trying to wrap my head around what aspects are what? So but the clinic is also his though, right?
+00:48:29 - mark sweet (sweetlaw.com)
+But all of this is his.
+00:48:31 - Tina Marie (profitdriversinc.com)
+Okay, that's what I thought. So specifically, she's always done hospitals, but she's comfortable with hospital is like, your home. Yeah. Okay.
+00:48:43 - mark sweet (sweetlaw.com)
+immediate reaction from someone, you know, how it's going.
+00:48:47 - Tina Marie (profitdriversinc.com)
+I'm actually really happy with, I've lost track of time if it was last week or the week before, but seeing the fire perk up in her when she was like, because you. It was last week because you got off the phone and I was like, what is it that you want? And she's like, she didn't want to be judged. But she's like, I want nice things. I want Hermes and I want this and I want that. And I'm like, if that's what you want, maybe, you know, then, then own it because she just like, she leans in, her voice gets louder, her, she talks faster, but she talks more aggressively. you pay attention to her conversation, she's leaning back, she's got her arms in front of her, which is guarded, insecure. then when she's talking about getting a million dollars a year, she's leaning forward, her hands are out and she's eyebrows lifted. Like she, this is the benefit of having field calls is because I can hear some of it in the voice, but I wouldn't pick up on all of that. So there, it's a difference between, it's very much a difference between security and security. hour and weakness and submission. the success that she wants is going to be her driving and no other way, but she gets taken out of driving mode very quickly. If she feels like she's disappointing you and not going fast enough, she goes into little girl mode. If she feels like Cheryl is picking on her, she's either going to be aggressive or go into little girl mode. Either one could happen. If she doesn't get her job done and she feels disappointed by herself but also overwhelmed but still ended up not doing her job, then she goes into shame, little girl mode. So what we have to do is make that cycle faster and then just try to get rid of it. But the first thing that we can do is make the cycle faster. And that's by recognizing what gets her out of it. It's thinking about the money. It's thinking about the freedom. It's thinking about being able to buy what she wants to do. some of it is just the fun, frilly stuff. And I think there's other things that are deeper value and purposeful that she wants that she didn't really get into. But there was like something alluded to it.
+00:51:20 - mark sweet (sweetlaw.com)
+I don't know if it's taking care of her family or what, but there's definitely no part of it. And anytime I do some of our family, there's like a small part of shame that she can't do it, I have to do it. Yes. Instead of using the word shame, we use what we're taught is negative emotion. That's kind of like the keyword, like you're doing things out of negative emotion, not out of fear or shame, but because there's a negative emotion left to it.
+00:51:42 - Tina Marie (profitdriversinc.com)
+Yes. So what we want to do and what you can do the most is just talk to her about what she wants, not talk to her about what she needs to do, because she already knows that. Or the thing that you can be like, and just think if we get this done. or just that much closer to this thing. And I use that all the time. It works on me just as well. I know what it is. It's not, I think manipulation is trying to get people to do something that is against what they normally would want to do, like against their internal rules and values. And I think persuasion is the same thing but used for helping them do what they want to do with their struggling to do. So anyway, motivation, whatever. That is something that you can do is be mindful of the way that you say it and know that she has, she can very quickly go back and forth. And I'm sure that you've experienced this in frustrating ways from sweet, soft little girl to powerhouse very quickly. Yeah.
+00:52:58 - mark sweet (sweetlaw.com)
+Yeah. It's a smidge when it's like you said, when it's going from the negative emotion, she tends to come out, either go run, hide, go girl, or ferocious lion, rah rah rah.
+00:53:15 - Tina Marie (profitdriversinc.com)
+Right. So.
+00:53:18 - mark sweet (sweetlaw.com)
+But I've been saying one thing that seems to be resonating with her is like, if you want the view, you have to do the hike up the mountain.
+00:53:24 - Tina Marie (profitdriversinc.com)
+Yes. I love that. Um, but use more visuals than that. So that's a powerful one, but no, it makes sense. Draw the picture of the view and, and like, and just a reminder, this is what the view looks like, you know, the things that you know, specificity is really what matters. So in terms of the luxury items, specific types of things that she wants. I can't remember. She told me a particular kind of car, these, yeah. But then the family thing, and so then the other thing that I do, and that you can do too and really help make a big difference, is go, okay, and in order to get to this, all we have to do is this. So she's going to need the luxury reward probably first. So I would do that and then do the second one. So just let's say 50 patients would be this, 100 patients a month would be this, 200 would be this. You could have this, this, this, and do this for your family. You could do this, this, and this, and have this for your family. So we can signal kind of our conversations about some of those details and come up with the plan, but one of the things, because she can switch so quickly between the modes, that that conversation will probably be more. powerful than anything else, because her energy is so volatile. In a good way. I'm like, too.
+00:55:06 - mark sweet (sweetlaw.com)
+I had a friend one time. She's like, oh, we can get her in and out of things quickly.
+00:55:09 - Tina Marie (profitdriversinc.com)
+I get. So many accused me of being bipolar. And I'm like, she's like, I was just waiting for you to cross. I'm like, I cross throughout the day. I'm high low throughout the day. I'm not bipolar. just, my energy is strong. And so if it swings, it swings big one way or the other. Like, I'm going to be super loving, but if you cross me, we don't fight real fast. So anyway. Good math for Jonah, though.
+00:55:42 - mark sweet (sweetlaw.com)
+Makes sense. So as updates were good, one thing he didn't say, which she found funny, that she was shy around him.
+00:55:55 - Tina Marie (profitdriversinc.com)
+Dr.
+00:55:56 - mark sweet (sweetlaw.com)
+E or who? Dr. E.
+00:55:58 - Tina Marie (profitdriversinc.com)
+How old is he?
+00:56:01 - mark sweet (sweetlaw.com)
+I don't know, I'm probably somewhat of our age, 40 to 45.
+00:56:08 - Tina Marie (profitdriversinc.com)
+Do you know what would have done that? Is it because he was, it's his company? Or is it something about his personality?
+00:56:17 - mark sweet (sweetlaw.com)
+He's got some very strong personalities that work with him. And so, you know, she's not going to, she's never going to yell at him. The way some of the other people do, so maybe that's partly why. But I didn't ask him why she was shy.
+00:56:32 - Tina Marie (profitdriversinc.com)
+No, not asking him. I'm asking you because you should learn how she responds to certain personality and energies.
+00:56:40 - mark sweet (sweetlaw.com)
+She just more doesn't want to rock the boat and she wants to do her job. And more, she doesn't want to rock the boat unless it's something really terrible.
+00:56:47 - Tina Marie (profitdriversinc.com)
+So the other thing that we teach her and this could not have happened in the beginning because she had to prove it first. this was the conversation we had in the beginning. She and I was that. When you know what you bring to the table, your confidence and your energy changes, but first you have to actually bring something to the table to be measured. And then when people see, you know, that's valuable and they want it, then you buy yourself access and you buy yourself freedom. And so that's, that's what she's getting started to do. And something for you to keep in mind is that's also an energy and a potency builder, but it is also something that can't be forced fast. It can be influenced quicker, right, but not forced fast. There's a natural rhythm and a compounding effect. So that compounding is what we really have to take into account. Um, we do have to wrap up because I don't have to get my daughter from school, but I did want to just talk about these. So one of the things I did with the guys was open up cloth.
+00:57:53 - mark sweet (sweetlaw.com)
+So yeah, I've been having around with cloth a lot. It's really different than chat GPT, which I was. but I definitely think it could be better to build out some of these automations, although it's it's harder and better at the same time. I don't know if that makes sense.
+00:58:10 - Tina Marie (profitdriversinc.com)
+Well, so make sure that you're you're using both and and seeing how they're different because they are having a head-to-head race and one pulls out in front of the other, but the nuance is what surprises me in how differently. So the thing that Claude is doing really well is logical planning. It has limitations that really annoy the heck out of me, but it's ability to reason what my intent is and then to figure out a strategy, an approach for it. It's much better than chat GBT 4.0 right now, but a few months ago, GBT 4.0 was way better. So anyway, I would suggest always, or at least frequently, maybe even once a month, make sure you're playing with of them for a second to see like how are you doing and just compare them head to head. But so I showed your guys how to use this and one of the things that we're going to do every week is have a little session with Claude or chat TBT depending like I'll probably run through it before I get on the call with them until we get some training. So part of the journal that they're doing is if we get some call control training and the reason I still want you to do that is because I only have access to these two people. Your whole company needs it. But if so what we're trying to do is come up with a list of things that needs to be addressed knowing that there's going to be other people in the company that could benefit from this particular type of thing. So like this so I didn't I didn't know this but they they told me that you lose more cases in the beginning. you explain the 40 percent then you do it in the I mean, to lower fees in the end, so that makes sense to me. Clients pushing back on why we are taking a 40% fee, even though they sign, yeah, so framing, declining injections on treatment that will agree. Okay, so what we helped them do, I probably need to take better notes so I can show you some of the things, or I guess I can show you the call notes, I don't know, because you probably don't want to go through all of that either. Sorry, I'm processing all of these things as we talk. But basically identifying different tactics, one of the things that I taught them is like broken record. So if you've made a statement and they don't like it, but there is nothing else to be said, no amount of conversation is going to change the outcome. We've explained why the settlement fee is what it is, or for example, why did you settle the case without me? And they explained, you know, that... we got the highest amount that's possible, we hit policy limits, or some other thing like that. So, basically you acknowledge this sucks, it's not necessarily great, at the end of the day, we got you everything that was available to get and broken record. You just don't keep trying to make it feel better. And the other thing I was teaching now was full stop. So, there's a lot of, you want to explain things, and we came up with some different scenarios, and I could see it click in their heads too, that like Lorenz especially wants to explain things to people and assuage them, and each of them have people on their teams that want to do that. I'm like, it doesn't work. So, there's learning how to, oh, actually one of the things that we were working on that I'm really a homework, where's the homework, that I think is going to be really useful for them, is trying to come up with, I think I said four to seven avatars. This is not the right one. gotta go up. So like Lorenz was saying like if he has the military guy and the military guy gets mad and wants to be like well they need to do this and they need to do that and they need to do this. Lorenz is like I just have to tell him that's not gonna happen. If you can ask for that all day long, you can want it all day long, you get mad about it all day long, that's not gonna happen. And he goes but I can't talk to you know my little ladies like that and they don't need to be taught to like that. So one of the things that we can do is come up with some avatars right and describe what do they look like? How do they communicate? What do they need to know? What do they not need to know? How do you tell it to them? How do you handle them? And so maybe we can have I say scripts. It's not really a script right? It's some examples of phrasing, examples of tactics. an approach for these, and this is going to take a while to kind of build out, but they're going to have meetings with their teams and try to create these, so Lorenz and his team, Patrick and his team, and they're going to bring it back to me, and I'm going to see what we can do to try to kind of create some kind of basically just psychological profiling and understanding that most of your team probably doesn't have, because they don't read people that well, and I know that because of where they have strengths and where they have weaknesses, whereas I'm not going to handle everybody perfectly, but I could talk to any kind of person, and I'll know how to approach them, right? But we can give them cues, we can give them your team cues to say, you know, if you're hearing this, or this, or this, and experience this, or this, then you're probably dealing with this avatar, and this is going to be the best approach to Um, telling them what they need to hear, making them happy, but not spending an hour doing it unnecessarily, right?
+01:04:09 - mark sweet (sweetlaw.com)
+So, anyway, something else too, because again, we have all this automation, we can potentially build in. so if we do make the avatar, let's call the over communicator.
+01:04:20 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:04:21 - mark sweet (sweetlaw.com)
+Or something else where we, okay, we select it. I was a drop down. It's an option. Now they get a text every day or two days of like, Hey, just quick update case looks great or whatever it is. It's just simple. Just to communicate. So we may be able to do that. And I know it's not a panacea for everything, but you know what I mean? We knock out 80% or 60% fantastic.
+01:04:49 - Tina Marie (profitdriversinc.com)
+Yeah, so there's actually that was the one of the pro, one of the avatars that they brought up is the person who's like, I want to hear from you every two days.
+01:04:57 - mark sweet (sweetlaw.com)
+So we could set that we're almost even every day and just. It's something more important or more major is a manual, you know, text or phone call, but just the, the placating text.
+01:05:12 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:05:14 - mark sweet (sweetlaw.com)
+The other thing before I forget this was more maybe this was good, but I just don't want to forget is some gatekeeping push for reviews, because one thing Magnetito did talk about a lot is that we are doing a piss poor job of getting reviews on the phone. On the end, we're okay on the back end, we're piss poor on the front end. Obviously not if we're going to be happy, but how can we keep to help push the reviews because I'm sure the more five star reviews we have the more we're going to convert the more clients going to convert we have a thousand five star reviews. For someone who even has, you know, hundred or 200 you're going to go with the one was a thousand five star reviews right.
+01:05:56 - Tina Marie (profitdriversinc.com)
+Okay, so, a lot more people and intake than we take. Okay. So, I think the fastest way to go about this would be to figure out where are the opportunities for that conversation. And then we figure out what are the words to use. But first, there has to be an opportunity, right? You did something. You made them feel some kind of way, helpful, like, okay, at least I understand what needs to happen better, even if nobody can help me. I understand why. And I've closed that loop in my head, whatever it is. So, if you do, or whether you get it from your team, but what are the opportunities where we served them well at
+01:07:03 - mark sweet (sweetlaw.com)
+can you work on that well really really really good thing about that one so I'm gonna let me do this where's my email I'm gonna email you because it's so deli cuz good turn well see that's the thing that I'm worried about is because if you don't get five stars are you better off having less reviews but they're all five stars I kind of think you might be yes but but okay if we can figure out a way to keep it properly then it should be less of an issue we'll understand gatekeeping as a reference to that if you're something first so if they give it two three four months or whatever it is remember the review filter thing I'd built out that broke like seven times yeah where if you're giving anything less than a five star it's like having to be showing for the feedback If the one star then it sends an email so we can take look at to see what's going on and you know is it just someone who's mad that he can't help them or something more happening. Five star then it goes into a separate tranche and here's where we failed I think before and where we could do better is if they're willing to give some sort of five star or even four star we reach out to them then personally because then they can definitely do that and say hey if you put the five star we're going to send you a $25 gift card whatever it is.
+01:08:28 - Tina Marie (profitdriversinc.com)
+Are you allowed to do that?
+01:08:31 - mark sweet (sweetlaw.com)
+Yeah, why not?
+01:08:32 - Tina Marie (profitdriversinc.com)
+don't know ethically but we're not paying them to sign up with me.
+01:08:40 - mark sweet (sweetlaw.com)
+I'm not giving them money to sign up with me. I'm paying them for their time of leaving a review.
+01:08:46 - Tina Marie (profitdriversinc.com)
+Yeah, yeah. I'm like with prostitutes I guess, right? You're paying them for their time. Oh my god, yes, whatever. I probably helped my father. I didn't mean he was her name of eight.
+01:08:57 - mark sweet (sweetlaw.com)
+Okay, that was just, oh, okay.
+01:09:03 - Tina Marie (profitdriversinc.com)
+Okay, anyway. I don't ever do that. You just caught me way off guard.
+01:09:10 - mark sweet (sweetlaw.com)
+Something that we, you know, would have to essentially build, but I could see a huge amount of value for us because we, you see how many people we talked to, you see me convert, but we go out of our way to try to give them other resources or other help. And there's definitely people who do appreciate it. And then if we've got a dedicated team or dedicated person who's following up and they can get paid by each one actually gets, you know, left. Great. In the absolute worst, the worst case, we'll try to mostly stick with Google. And if it is a bad review, we know the $800 a person thing is great at getting the Google reviews down, not as good as Yale, but good at Google. So even in the worst case, we eat 800 bucks, so be it business expense. That's where my thoughts. Um, it's going to take more things to build in. It's not. if we're not super simple but my new was pushing that really hard and I can very much see it because if you're going to try to make it so you see a lot of five stars it's the one that has more awesome maker who lads that are quite frankly yeah yeah yeah for sure there should be a correlation to that okay well I sent that email um so you start those last thing because i'm i don't know i'm a hamster on a wheel today and your quad gpt stuff got me thinking about how to build out math yeah i bought and i'm smart so yeah well unfortunately you have to talk to me again later or maybe you don't maybe just chon or does but anyway i will join it at some point but i have a five o'clock with that depth case so i will assume that i will jump on it all right well try not i had america make it into like a hardbound book we'll screw it up yesterday so i'm having your fix it
+01:11:00 - Tina Marie (profitdriversinc.com)
+today.
+01:11:02 - mark sweet (sweetlaw.com)
+Have fun with that.
+01:11:05 - Tina Marie (profitdriversinc.com)
+Okay, I'll talk to you later.
+01:11:07 - mark sweet (sweetlaw.com)
+Okay, bye.
+01:11:08 - Tina Marie (profitdriversinc.com)
+Bye.

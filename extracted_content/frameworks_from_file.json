@@ -1,0 +1,28 @@
+[
+  {
+    "text": "Anyway, that became a process. And now I just find it so much easier like. Last um Thanksgiving.",
+    "marker": "process",
+    "context": "Anyway, that became a process. And now I just find it so much easier like. Last um Thanksgiving.",
+    "types": [
+      "framework",
+      "model",
+      "methodology"
+    ],
+    "domains": [
+      "general"
+    ]
+  },
+  {
+    "text": "And it will say, Well, you could be more structured. I'm like, okay. But here's what happens when you try to get structured on these types of conversations is. The growth doesn't happen. It has to be organic.",
+    "marker": "types",
+    "context": "And it will say, Well, you could be more structured. I'm like, okay. But here's what happens when you try to get structured on these types of conversations is. The growth doesn't happen. It has to be organic.",
+    "types": [
+      "framework",
+      "model",
+      "methodology"
+    ],
+    "domains": [
+      "general"
+    ]
+  }
+]

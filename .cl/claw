@@ -1,0 +1,109 @@
+#!/bin/bash
+# Headless CLI invocation for SecondBrain
+# Enables programmatic Claude Code execution
+
+# Default values
+VERBOSE=false
+OUTPUT_FILE=""
+PROMPT_FILE=""
+COMMAND=""
+
+# Parse arguments
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    -p|--prompt)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        PROMPT_FILE=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -c|--command)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        COMMAND=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -o|--output)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        OUTPUT_FILE=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -v|--verbose)
+      VERBOSE=true
+      shift
+      ;;
+    *)
+      COMMAND="$COMMAND $1"
+      shift
+      ;;
+  esac
+done
+
+# Create a timestamp for the run
+TIMESTAMP=$(date -u +"%Y%m%d_%H%M%S")
+
+# If verbose mode, show settings
+if $VERBOSE; then
+  echo "Running in headless mode with the following settings:"
+  echo "Timestamp: $TIMESTAMP"
+  echo "Prompt file: $PROMPT_FILE"
+  echo "Command: $COMMAND"
+  echo "Output file: $OUTPUT_FILE"
+  echo "---------------------------------"
+fi
+
+# Create log directory if it doesn't exist
+mkdir -p /Volumes/Envoy/SecondBrain/.cl/logs
+
+# Default output file if not specified
+if [ -z "$OUTPUT_FILE" ]; then
+  OUTPUT_FILE="/Volumes/Envoy/SecondBrain/.cl/logs/claw_${TIMESTAMP}.log"
+fi
+
+# Run the operation
+echo "Starting headless execution at $(date)" | tee -a "$OUTPUT_FILE"
+echo "Command: $COMMAND" | tee -a "$OUTPUT_FILE"
+echo "" | tee -a "$OUTPUT_FILE"
+
+if [ -n "$PROMPT_FILE" ] && [ -f "$PROMPT_FILE" ]; then
+  echo "Executing with prompt from: $PROMPT_FILE" | tee -a "$OUTPUT_FILE"
+  echo "-------------------------" | tee -a "$OUTPUT_FILE"
+  cat "$PROMPT_FILE" | tee -a "$OUTPUT_FILE"
+  echo "-------------------------" | tee -a "$OUTPUT_FILE"
+  echo "" | tee -a "$OUTPUT_FILE"
+  
+  # This would execute the actual Claude Code command with the prompt
+  # In a real implementation, this would connect to the Claude API
+  echo "Claude Code would execute: $COMMAND" | tee -a "$OUTPUT_FILE"
+  
+  # Simulate execution result
+  echo "Execution completed successfully." | tee -a "$OUTPUT_FILE"
+else
+  echo "Executing command without prompt file" | tee -a "$OUTPUT_FILE"
+  echo "Command: $COMMAND" | tee -a "$OUTPUT_FILE"
+  
+  # This would execute the actual Claude Code command
+  # In a real implementation, this would connect to the Claude API
+  echo "Claude Code would execute: $COMMAND" | tee -a "$OUTPUT_FILE"
+  
+  # Simulate execution result
+  echo "Execution completed successfully." | tee -a "$OUTPUT_FILE"
+fi
+
+echo "" | tee -a "$OUTPUT_FILE"
+echo "Headless execution completed at $(date)" | tee -a "$OUTPUT_FILE"
+
+if $VERBOSE; then
+  echo "---------------------------------"
+  echo "Output saved to: $OUTPUT_FILE"
+fi

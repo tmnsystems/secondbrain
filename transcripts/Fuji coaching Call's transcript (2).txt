@@ -1,0 +1,1400 @@
+WEBVTT
+
+00:00:52.000 --> 00:00:54.000
+Fujinaka, M.D.: Hello!
+
+00:00:55.000 --> 00:00:57.000
+Tina Marie: Hey, Fuji! How are you?
+
+00:00:56.000 --> 00:00:58.000
+Fujinaka, M.D.: Good.
+
+00:00:59.000 --> 00:01:01.000
+Tina Marie: Good.
+
+00:00:59.000 --> 00:01:03.000
+Fujinaka, M.D.: Thank you for rearranging your thing for me. Appreciate it.
+
+00:01:05.000 --> 00:01:12.000
+Tina Marie: No problem. I mean, tired problem. But that's okay. That's life. What do you uh? What kind of progress?
+
+00:01:09.000 --> 00:01:15.000
+Fujinaka, M.D.: I know. I know you're not full. Capacity. That's my issue, though. It's okay.
+
+00:01:16.000 --> 00:01:27.000
+Tina Marie: Wow! It's it'll probably get there. Usually when I start talking to people, because I have awesome people. I wake up, but my body was like hit a wall big time.
+
+00:01:28.000 --> 00:01:31.000
+Fujinaka, M.D.: Alright, that's fair. Well, I.
+
+00:01:29.000 --> 00:01:31.000
+Tina Marie: Um.
+
+00:01:31.000 --> 00:01:41.000
+Fujinaka, M.D.: Reviewed my numbers. The Kpis so wanted to share what I've done. That here.
+
+00:01:40.000 --> 00:01:42.000
+Tina Marie: Okay.
+
+00:01:43.000 --> 00:01:56.000
+Fujinaka, M.D.: Okay. So what we did was. We left the the basic columns in these are the number of visits and number referrals. And you know, obviously, this is like the big number we're tracking.
+
+00:01:57.000 --> 00:02:06.000
+Fujinaka, M.D.: And what what I then did was well, not me. But I had. Paul do is we started to count. The individual refers.
+
+00:01:58.000 --> 00:02:00.000
+Tina Marie: Mhm.
+
+00:02:06.000 --> 00:02:17.000
+Fujinaka, M.D.: At 1st I was gonna do like the top 10 refers, but I was like, Nah, let's like, really watch. So um. 1st I put, like the the top, 4 or 5 law firms here.
+
+00:02:18.000 --> 00:02:26.000
+Fujinaka, M.D.: That are the biggest like group? I asked. Like. How many referrals do we get from all of them combined? No matter who the case manager is. Just tell me.
+
+00:02:26.000 --> 00:02:34.000
+Fujinaka, M.D.: So I'm able to see how many each big law firm referred to me, these guys and then I split it into um case managers here.
+
+00:02:30.000 --> 00:02:36.000
+Tina Marie: Mhm. Nice.
+
+00:02:35.000 --> 00:02:42.000
+Fujinaka, M.D.: Um. Yeah. So that's uh. That's what I did. Here. Um.
+
+00:02:43.000 --> 00:02:46.000
+Fujinaka, M.D.: Yeah, that's kind of how it went.
+
+00:02:45.000 --> 00:02:53.000
+Tina Marie: You know something else that we can do? Um. As we progress through this is some conditional formatting.
+
+00:02:53.000 --> 00:03:07.000
+Tina Marie: Right. So if we have a minimum threshold of, let's say it's 2 a month, or 5 a month, or whatever. If it's below the threshold, especially if it's 1 of our top performers, then it goes red.
+
+00:03:07.000 --> 00:03:11.000
+Tina Marie: Right or orange, or something like that, if it goes above.
+
+00:03:07.000 --> 00:03:09.000
+Fujinaka, M.D.: Oh!
+
+00:03:11.000 --> 00:03:28.000
+Tina Marie: Whatever our average is, maybe we want to put a that's the threshold so green. Right? So make it just easier for our brains to go. Ooh, this is good. Do I want to pay attention to this? Is this, you know. Um. I'd like.
+
+00:03:28.000 --> 00:03:38.000
+Tina Marie: The systems it like it seems like, you know, I can look at that. That's very simple, and it seems like, not that big of a deal, but all the little things that we can do to kind of flag things.
+
+00:03:38.000 --> 00:03:40.000
+Fujinaka, M.D.: Yeah.
+
+00:03:38.000 --> 00:03:47.000
+Tina Marie: When we're looking at stuff. Helps to make sure. So let's say you're reviewing your numbers on a day like I'm having. Actually, the day's been great. It's just like the hour.
+
+00:03:47.000 --> 00:03:57.000
+Tina Marie: Right now. But but let's say you're just not thinking at optimal optimal level. So you're ticking the box right? You're checking your numbers.
+
+00:03:54.000 --> 00:03:56.000
+Fujinaka, M.D.: No.
+
+00:03:57.000 --> 00:04:11.000
+Tina Marie: But maybe everything's not registering. As clearly and as beneficially as it could threshold numbers and conditional formatting. Just help make sure that.
+
+00:04:11.000 --> 00:04:23.000
+Tina Marie: You're keeping an eye on things, and it may be like, let's say, all of a sudden, everything's orange, or let's say, all of a sudden everything's green. So it alerts us to patterns a little bit faster.
+
+00:04:24.000 --> 00:04:34.000
+Tina Marie: Um to say is something declining, or is something accelerating all of a sudden in a particular area. Those patterns will pop out a little faster with things like this.
+
+00:04:34.000 --> 00:04:37.000
+Fujinaka, M.D.: Okay, yeah, that makes sense.
+
+00:04:39.000 --> 00:04:41.000
+Tina Marie: And you know how to do that right.
+
+00:04:39.000 --> 00:04:42.000
+Fujinaka, M.D.: I should actually put in a little column here, now that you mentioned it.
+
+00:04:44.000 --> 00:04:46.000
+Tina Marie: For.
+
+00:04:44.000 --> 00:04:56.000
+Fujinaka, M.D.: Total referrals from tracked Cms. I should say this equals some.
+
+00:04:58.000 --> 00:05:03.000
+Fujinaka, M.D.: Have all these. Oh, wait! Not those no, no, no, no.
+
+00:05:09.000 --> 00:05:17.000
+Fujinaka, M.D.: That way I could see how many are being accounted for by these people, and how many are like. Are not.
+
+00:05:18.000 --> 00:05:24.000
+Tina Marie: So our tracks. That your top performers like? Do you not track all of your case? Managers?
+
+00:05:24.000 --> 00:05:28.000
+Fujinaka, M.D.: I know this is the 1st time I've ever tried to track case managers.
+
+00:05:28.000 --> 00:05:30.000
+Tina Marie: Okay.
+
+00:05:29.000 --> 00:05:38.000
+Fujinaka, M.D.: See. So like, actually, when I compare 40 to 88. Half of my referrals came from case managers that I'm not tracking here.
+
+00:05:34.000 --> 00:05:40.000
+Tina Marie: Yeah. That's significant.
+
+00:05:41.000 --> 00:05:45.000
+Tina Marie: So good job. Boots.
+
+00:05:45.000 --> 00:05:54.000
+Fujinaka, M.D.: That's good. I I like it because that means, you know, there's a lot sending me a little. Which is good, but also means I'm not aware of who's sending me a lot.
+
+00:05:54.000 --> 00:06:08.000
+Tina Marie: But that further illustrates. So you just did a tiny little thing to add, Um. Like. Imagine it's a microscope, and you just dialed in a tiny bit. Look how revelatory that was!
+
+00:06:08.000 --> 00:06:10.000
+Fujinaka, M.D.: Yeah.
+
+00:06:09.000 --> 00:06:12.000
+Tina Marie: One tiny step took you. Seconds.
+
+00:06:13.000 --> 00:06:21.000
+Fujinaka, M.D.: Yep, and even the week before you could see only half of. Half of the people I thought were my top refers.
+
+00:06:21.000 --> 00:06:24.000
+Fujinaka, M.D.: The other half came from. I have no idea who they came from.
+
+00:06:23.000 --> 00:06:31.000
+Tina Marie: So here's another way to look at that you're not reaching out to potentially and massaging. Half of the source of your business.
+
+00:06:31.000 --> 00:06:33.000
+Fujinaka, M.D.: Fair.
+
+00:06:35.000 --> 00:06:44.000
+Tina Marie: What would happen if you were aware of them? So what you're just telling yourself right now is, I'm not even aware of where half of my business comes from, which means I'm not aware of.
+
+00:06:44.000 --> 00:06:48.000
+Tina Marie: Who half of my business, the people. That are giving you that business.
+
+00:06:48.000 --> 00:06:50.000
+Fujinaka, M.D.: Yep.
+
+00:06:50.000 --> 00:06:57.000
+Tina Marie: So. But that's an awesome insight. So now you you can identify.
+
+00:06:51.000 --> 00:06:53.000
+Fujinaka, M.D.: Yep.
+
+00:06:57.000 --> 00:07:10.000
+Tina Marie: And do some more work. So when we 1st started this. Months ago. Um, we were looking at like the top 20. And we noticed basically, that your top 10 or 20 were all within.
+
+00:07:10.000 --> 00:07:19.000
+Tina Marie: A very similar threshold, and it wasn't very much. It was maybe. Um 10 cases a month, or something like that, maybe 20, but I don't think it was very high.
+
+00:07:19.000 --> 00:07:31.000
+Tina Marie: And everyone else almost immediately dropped off. But there were like. There was a long number. I don't. I couldn't even tell you how many there were, but I know that there were at least 10 other people.
+
+00:07:31.000 --> 00:07:39.000
+Tina Marie: That cases were coming from. And it was probably 30% or more.
+
+00:07:39.000 --> 00:07:50.000
+Tina Marie: Right that that was there, but they didn't meet your threshold of well, let me, you know. Mark these people. But what that tells us is, we probably need to.
+
+00:07:50.000 --> 00:08:06.000
+Tina Marie: You want to know who your top performers are, so that you can, you know, really kind of treat them special. But you don't want to neglect everybody else. You want to know everybody who's sending you money because it's the singles that win the baseball game. It's not the grand slams.
+
+00:08:07.000 --> 00:08:09.000
+Fujinaka, M.D.: Yeah.
+
+00:08:09.000 --> 00:08:11.000
+Tina Marie: All right. What else did you want to show me.
+
+00:08:12.000 --> 00:08:20.000
+Fujinaka, M.D.: Uh! That's it for that, and then um. See why this is that, okay.
+
+00:08:22.000 --> 00:08:33.000
+Fujinaka, M.D.: This is like the monthly data. But the more I look at the monthly data, it's not as helpful because February, for instance, there are just less work days. So it's hard for me to.
+
+00:08:33.000 --> 00:08:41.000
+Fujinaka, M.D.: Know like, what. If this is important or not, and I do really like the week by week reports. Now.
+
+00:08:41.000 --> 00:08:46.000
+Fujinaka, M.D.: Because I I know that in a week there's usually 5 business days.
+
+00:08:42.000 --> 00:08:52.000
+Tina Marie: Well, sorry. So. But what you could do is a formula to um, maybe count the working days, and then.
+
+00:08:52.000 --> 00:08:58.000
+Tina Marie: Average the calls per day. So then you at least have something that is relatable across your months.
+
+00:08:55.000 --> 00:09:01.000
+Fujinaka, M.D.: Oh! Yeah, I could do that.
+
+00:09:00.000 --> 00:09:17.000
+Tina Marie: So like, let's say, you know, there's 2 holidays in any given month or one holiday whatever. Just do the calculations once a month you can have Paul do it. So you're not doing it to get an accurate count of how many working days there were, so that your average is true. So now you have a real.
+
+00:09:06.000 --> 00:09:08.000
+Fujinaka, M.D.: Yeah.
+
+00:09:17.000 --> 00:09:21.000
+Tina Marie: Metric that works across all months or weeks.
+
+00:09:53.000 --> 00:10:03.000
+Fujinaka, M.D.: 5, 1015, 20 0, there were 20 days, so I was lying. Were there any holidays in February?
+
+00:10:03.000 --> 00:10:05.000
+Tina Marie: Yes, President's Day.
+
+00:10:06.000 --> 00:10:08.000
+Fujinaka, M.D.: So it's 19.
+
+00:10:07.000 --> 00:10:09.000
+Tina Marie: Or Martin Luther King Day, or something. One of those.
+
+00:10:10.000 --> 00:10:12.000
+Fujinaka, M.D.: 19 so equals.
+
+00:10:10.000 --> 00:10:12.000
+Tina Marie: 1 15 days.
+
+00:10:13.000 --> 00:10:17.000
+Fujinaka, M.D.: This divided by this equals that. Okay.
+
+00:10:25.000 --> 00:10:28.000
+Tina Marie: Can you ask him to wait? So this is monthly.
+
+00:10:25.000 --> 00:10:32.000
+Fujinaka, M.D.: We're all. Yeah, where the hidden rows? How do I view the hidden rows.
+
+00:10:32.000 --> 00:10:37.000
+Tina Marie: Um like. View, more row actions, see.
+
+00:10:38.000 --> 00:10:47.000
+Tina Marie: Yeah, you just had it when you were selecting it. It said, view more row actions. And no.
+
+00:10:47.000 --> 00:10:50.000
+Fujinaka, M.D.: See. All of a sudden it starts at Row 24.
+
+00:10:49.000 --> 00:10:51.000
+Tina Marie: Yeah, go. To go to view.
+
+00:10:51.000 --> 00:10:56.000
+Fujinaka, M.D.: Oh, yeah. Show.
+
+00:10:54.000 --> 00:10:59.000
+Tina Marie: Um so. Protected ranges. It's not okay. It's hidden.
+
+00:11:00.000 --> 00:11:05.000
+Tina Marie: Um. View more row actions all the way down at the bottom.
+
+00:11:06.000 --> 00:11:08.000
+Tina Marie: Unfreeze Row, maybe.
+
+00:11:12.000 --> 00:11:14.000
+Fujinaka, M.D.: Huh!
+
+00:11:13.000 --> 00:11:15.000
+Tina Marie: Um.
+
+00:11:15.000 --> 00:11:17.000
+Fujinaka, M.D.: Oh! There it goes!
+
+00:11:15.000 --> 00:11:17.000
+Tina Marie: You shouldn't there? Okay.
+
+00:11:23.000 --> 00:11:25.000
+Fujinaka, M.D.: January was.
+
+00:11:27.000 --> 00:11:31.000
+Tina Marie: 23. Yeah, it was a holiday. So 22.
+
+00:11:27.000 --> 00:11:34.000
+Fujinaka, M.D.: Holiday, 1, 2. 7, 8, 9, 1011, 1213, 14.
+
+00:11:33.000 --> 00:11:40.000
+Tina Marie: Are you? Literally, you know, there's. 5. You could just do a little quick multiplication.
+
+00:11:41.000 --> 00:11:43.000
+Tina Marie: Hi esther.
+
+00:11:50.000 --> 00:11:53.000
+Fujinaka, M.D.: Yeah. Got brutalized.
+
+00:11:55.000 --> 00:11:57.000
+Tina Marie: Yeah.
+
+00:11:56.000 --> 00:12:02.000
+Fujinaka, M.D.: Okay. How do I make this? Let's see.
+
+00:12:01.000 --> 00:12:04.000
+Tina Marie: Drag it up. You can just drag it up.
+
+00:12:04.000 --> 00:12:09.000
+Fujinaka, M.D.: Oh, I mean, I need to make the format of the number. I just want it to be.
+
+00:12:08.000 --> 00:12:10.000
+Tina Marie: Um.
+
+00:12:10.000 --> 00:12:12.000
+Fujinaka, M.D.: Round it.
+
+00:12:13.000 --> 00:12:17.000
+Tina Marie: That'll percent. Oh. Yeah, number point 1 2.
+
+00:12:18.000 --> 00:12:28.000
+Fujinaka, M.D.: Yes, sir. Uh! There we go! Yeah, 18 a day, 13 a day. Yeah, that's what I figured. I guess I could track that on a weekly thing, too. Huh?
+
+00:12:21.000 --> 00:12:35.000
+Tina Marie: Oh, you want that r. You can. The the thing that you're noticing hopefully is that the more granular the get you get.
+
+00:12:35.000 --> 00:12:40.000
+Tina Marie: The faster you start to see the trajectory change.
+
+00:12:40.000 --> 00:12:57.000
+Fujinaka, M.D.: Yeah. Uh alright, and then the other. Only other piece of data that we updated from our call was, we added these 2 columns here, cancellations per month, and no shows per month.
+
+00:12:57.000 --> 00:12:59.000
+Tina Marie: Good, so.
+
+00:12:58.000 --> 00:13:01.000
+Fujinaka, M.D.: So, moving forward, we'll start watching.
+
+00:13:01.000 --> 00:13:05.000
+Tina Marie: You. You won't do that historically, cause I think you should.
+
+00:13:05.000 --> 00:13:07.000
+Fujinaka, M.D.: Yeah, that's a good idea.
+
+00:13:07.000 --> 00:13:14.000
+Tina Marie: You want to see the patterns. If you don't get historical data, you have to wait longer to see patterns.
+
+00:13:07.000 --> 00:13:15.000
+Fujinaka, M.D.: I think. That's fair.
+
+00:13:16.000 --> 00:13:18.000
+Fujinaka, M.D.: That is fair.
+
+00:13:20.000 --> 00:13:25.000
+Tina Marie: So I would have him update um row, CND, and J and K.
+
+00:13:25.000 --> 00:13:33.000
+Fujinaka, M.D.: Okay. Alright!
+
+00:13:35.000 --> 00:13:41.000
+Fujinaka, M.D.: So those are the kpis looking that I looked at. Um. For the call.
+
+00:13:43.000 --> 00:13:46.000
+Tina Marie: Yeah, okay, so.
+
+00:13:44.000 --> 00:14:00.000
+Fujinaka, M.D.: I am pleased to announce that I did this as well. So I started calling my list here, so I I pretty much called almost all these people here, and.
+
+00:14:03.000 --> 00:14:14.000
+Fujinaka, M.D.: I don't know I wasn't this list. Yeah. So I called all these.
+
+00:14:14.000 --> 00:14:22.000
+Fujinaka, M.D.: All these firms. These are all Washington firms. I should probably follow up on this today or so or tomorrow.
+
+00:14:22.000 --> 00:14:27.000
+Tina Marie: You should also put a contact date. On here.
+
+00:14:26.000 --> 00:14:28.000
+Fujinaka, M.D.: Oh, yeah. Good idea.
+
+00:14:28.000 --> 00:14:37.000
+Tina Marie: Um, and as many times as you contact them, so you can. Start to see the patterns so you could go back to.
+
+00:14:37.000 --> 00:14:46.000
+Tina Marie: Because you're tracking when the cases come in. Does it happen as soon as you make the 1st call with one person? Does it take 3 or 4 or 5 calls.
+
+00:14:46.000 --> 00:15:03.000
+Tina Marie: Do you call? 3, 4, 5, 6, 10 times, and you're not getting anything. So the more data you have. The more we can evaluate everything from your lead sources to your your systems in, in how you approach things to.
+
+00:15:03.000 --> 00:15:13.000
+Tina Marie: Your your staff, and and how they're doing things. The more granular you get, the the more you understand.
+
+00:15:13.000 --> 00:15:15.000
+Tina Marie: Everything.
+
+00:15:14.000 --> 00:15:16.000
+Fujinaka, M.D.: Okay.
+
+00:15:15.000 --> 00:15:17.000
+Tina Marie: And the better you can manage it.
+
+00:15:17.000 --> 00:15:21.000
+Fujinaka, M.D.: That's a good idea. But the date that I called them okay.
+
+00:15:21.000 --> 00:15:34.000
+Tina Marie: Mhm and then notate whether you know it was a live contact or message, whether it's email or voicemail. So you could just put like a quick dropdown menu. If you wanted, or. Something to make that easy.
+
+00:15:37.000 --> 00:15:40.000
+Fujinaka, M.D.: I have an upcoming coming meeting.
+
+00:15:41.000 --> 00:15:51.000
+Tina Marie: So the thing about doing it, the way that I'm saying like these notes. Um, like that. That's good. But if you have something that has a specific.
+
+00:15:51.000 --> 00:15:55.000
+Tina Marie: Data, set right, so like. Um spoke live.
+
+00:15:55.000 --> 00:16:03.000
+Tina Marie: Or voicemail, or email. Then we can start to do some crunches right. How calculations.
+
+00:16:03.000 --> 00:16:19.000
+Tina Marie: How many ended up being voicemail? How many were live contacts. And we can do that as an overall number, and then we could do that as a case manager number, and then we can do that as a company number. And again, we will start to realize that there are some things that do better than others. What are they? How do we shift that.
+
+00:16:22.000 --> 00:16:32.000
+Fujinaka, M.D.: Yeah, okay. I was just. I was so like against doing this for months, until I got freaked out by our numbers that.
+
+00:16:32.000 --> 00:16:34.000
+Fujinaka, M.D.: I and I.
+
+00:16:32.000 --> 00:16:35.000
+Tina Marie: That's called reactive management. Fuji.
+
+00:16:35.000 --> 00:16:42.000
+Fujinaka, M.D.: Yeah, I didn't want to create any barriers because I did have. I did have like a hubspot that I was trying to do.
+
+00:16:42.000 --> 00:16:44.000
+Tina Marie: Mhm.
+
+00:16:42.000 --> 00:16:48.000
+Fujinaka, M.D.: But it was so. It's so cumbersome to put the stuff in it. And like I get it like.
+
+00:16:49.000 --> 00:16:53.000
+Tina Marie: Did you try to use the make.com integration like I told you.
+
+00:16:49.000 --> 00:16:55.000
+Fujinaka, M.D.: We should be doing it. It's just. So, which? One.
+
+00:16:54.000 --> 00:16:56.000
+Tina Marie: make.com or zapier.
+
+00:16:58.000 --> 00:17:04.000
+Fujinaka, M.D.: To make Hubspot uh. Even to make like a Hubspot entry.
+
+00:17:02.000 --> 00:17:12.000
+Tina Marie: So. Yes, or to draw data from Hubspot into the spreadsheet, or vice versa. Whatever works better for you.
+
+00:17:14.000 --> 00:17:17.000
+Fujinaka, M.D.: Yeah, I I could uh.
+
+00:17:18.000 --> 00:17:24.000
+Tina Marie: We could spend a call doing it together if you wanted. Um, but.
+
+00:17:24.000 --> 00:17:35.000
+Tina Marie: Wherever you're. You interact with your clients. Your lead sources, like Hubspot is is a much better structure.
+
+00:17:35.000 --> 00:17:42.000
+Tina Marie: Um, and learning how to use this better would benefit you.
+
+00:17:42.000 --> 00:17:44.000
+Fujinaka, M.D.: Okay. Yeah.
+
+00:17:43.000 --> 00:17:50.000
+Tina Marie: It it really would, and. But there's there's progress, you know. It's it's kind of slow.
+
+00:17:51.000 --> 00:17:59.000
+Tina Marie: I don't know how much of your time do you really spend. On your business. Besides the calls that we have.
+
+00:18:01.000 --> 00:18:08.000
+Fujinaka, M.D.: Well, I have to check the notes in the evenings. But that's just I'm working in the business, not on the business.
+
+00:18:06.000 --> 00:18:08.000
+Tina Marie: Right. That's not on the business.
+
+00:18:08.000 --> 00:18:10.000
+Fujinaka, M.D.: Yeah, very little.
+
+00:18:09.000 --> 00:18:15.000
+Tina Marie: So are, do you? Would you consider yourself. Complacent or apathetic.
+
+00:18:15.000 --> 00:18:17.000
+Fujinaka, M.D.: Yeah.
+
+00:18:17.000 --> 00:18:21.000
+Tina Marie: Do you want to remain that way, and are you satisfied with those results?
+
+00:18:21.000 --> 00:18:29.000
+Fujinaka, M.D.: Well, until last week I was. Now I'm. Now I feel a an urgent, burning need to address this issue.
+
+00:18:25.000 --> 00:18:36.000
+Tina Marie: So. So that doesn't mean that you're not apathetic or complacent. That just means you are compelled.
+
+00:18:36.000 --> 00:18:38.000
+Fujinaka, M.D.: Compelled. Yeah.
+
+00:18:36.000 --> 00:18:45.000
+Tina Marie: To pay attention right? So. You. If you're reactive, you are apathetic.
+
+00:18:45.000 --> 00:18:48.000
+Tina Marie: Until compelled to be otherwise.
+
+00:18:48.000 --> 00:18:50.000
+Fujinaka, M.D.: That's fair.
+
+00:18:49.000 --> 00:18:57.000
+Tina Marie: It will be feast or famine. Um, and it may be more feast than famine because of the nature of the business.
+
+00:18:57.000 --> 00:19:05.000
+Tina Marie: But you put yourself in extreme risk. Um to the market, to competitors, to all kinds of other things.
+
+00:19:05.000 --> 00:19:10.000
+Tina Marie: If you are reactive. With just an hour.
+
+00:19:10.000 --> 00:19:20.000
+Tina Marie: Potentially 2. But even just an hour of more intentional effort. Working on the business, doing the things that I've asked you to do like.
+
+00:19:20.000 --> 00:19:25.000
+Tina Marie: I I told you about that when you got Hubspot, that you could do the integration to get it.
+
+00:19:22.000 --> 00:19:25.000
+Fujinaka, M.D.: Yeah.
+
+00:19:25.000 --> 00:19:40.000
+Tina Marie: If you spent. An hour, pushing yourself out of your resistance and telling yourself I don't really have to, and I don't even know where you get that if it's because you're making enough money or things look good enough and good enough is good enough.
+
+00:19:40.000 --> 00:19:47.000
+Tina Marie: Um, but. Good enough is not going to get you to 10 million dollars of net worth.
+
+00:19:48.000 --> 00:19:57.000
+Tina Marie: And so you really have to ask yourself again, what is your real. Number. What is your real driver? Is it that.
+
+00:19:57.000 --> 00:20:04.000
+Tina Marie: Is it a day to day how I feel in the moment is your real driver? Because when you're reactive, that is the real driver.
+
+00:20:04.000 --> 00:20:09.000
+Fujinaka, M.D.: Yeah. I mean, I think that's that sounds exactly like what's going on is what that.
+
+00:20:04.000 --> 00:20:07.000
+Tina Marie: When you're proactive, it's the bigger goals.
+
+00:20:09.000 --> 00:20:12.000
+Fujinaka, M.D.: I don't know why, like I can't.
+
+00:20:11.000 --> 00:20:13.000
+Tina Marie: Yeah.
+
+00:20:12.000 --> 00:20:21.000
+Fujinaka, M.D.: We've had several calls where you've asked me, you know. What's my, what's going on? Why aren't you making these calls? Right? It's like.
+
+00:20:22.000 --> 00:20:33.000
+Fujinaka, M.D.: You know, we've also compared. If I open another business and start at 0, how's that gonna make money versus? If I find one. Star case manager that sends me how much in business that's.
+
+00:20:33.000 --> 00:20:41.000
+Fujinaka, M.D.: $1,000 or more. From one. All Star case manager like, what's the easier way to make money here? Obviously, it's just making these calls.
+
+00:20:41.000 --> 00:20:51.000
+Fujinaka, M.D.: And it's still up until, like last week, it was still very difficult. So yeah, I would say, that reactive is. Exactly still, what's what's driving me.
+
+00:20:51.000 --> 00:20:58.000
+Tina Marie: Yeah, so comfort is. Your goal and your death at the same time.
+
+00:20:59.000 --> 00:21:01.000
+Fujinaka, M.D.: Sure.
+
+00:21:00.000 --> 00:21:09.000
+Tina Marie: Um. You're not doing bad. What I'm saying is for a little more effort. You could probably be doing stellar.
+
+00:21:10.000 --> 00:21:12.000
+Fujinaka, M.D.: Yeah.
+
+00:21:10.000 --> 00:21:17.000
+Tina Marie: And the thing that I want to give you is. Like every time.
+
+00:21:17.000 --> 00:21:28.000
+Tina Marie: If I'm asking you to do something, because Fuji. I like quiet time sitting time and relaxing, because when I work my brain is in overdrive.
+
+00:21:28.000 --> 00:21:38.000
+Tina Marie: My body's in overdrive. Everything I do. I'm doing full force. And it's fatiguing. But also there's a lot of power in quiet time.
+
+00:21:38.000 --> 00:22:01.000
+Tina Marie: And in the contemplation, and that subconscious in just being present, even if my kids aren't using me and aren't talking to me, them, seeing me as a fixture in this house, knowing that I'm available to them as well as them, seeing me work and going and doing the things that I do, and all of that, that's all. It's all beneficial. So we're not looking to.
+
+00:22:01.000 --> 00:22:10.000
+Tina Marie: Make you work crazy hard and grind and try to get there. You know all kinds of fast. If I'm asking you to do something, it's because.
+
+00:22:10.000 --> 00:22:32.000
+Tina Marie: It is specifically a strategy that will get you a lot out of a little. It's always going to be data related or system related, or teams related, or leverage through a pricing structure, or something like that. So. Um! I do want you to.
+
+00:22:32.000 --> 00:22:52.000
+Tina Marie: Do something, whether it's a conversation that you have with Esther, and maybe it's a mutual. Kind of accountability, or it's a sticky note like, I don't know how you get yourself to think about it frequently, but it is a thought that you need to have frequently, which is you want to drive to the 10 million dollars net worth.
+
+00:22:52.000 --> 00:23:09.000
+Tina Marie: And the reason that should also be a comfort, because it means, as soon as you get there. The opportunity. You have to be as much of a fixture as you want to for your children and for your wife, and for your family and your parents. Anything is given to you because you don't have to chase anything.
+
+00:23:10.000 --> 00:23:24.000
+Tina Marie: The other thing I need you to do is know that apathy is death to the soul and it grows. It's like a fungus. It will grow, it will perpetuate, it will multiply. So you need to guard yourself against it.
+
+00:23:25.000 --> 00:23:37.000
+Tina Marie: Actively, or it will seep into other things, and you will not like what it makes you, and the more money that you make, the more important it is. That you guard yourself against that.
+
+00:23:39.000 --> 00:23:41.000
+Fujinaka, M.D.: That's fair.
+
+00:23:40.000 --> 00:23:50.000
+Tina Marie: It is very easy to start to get a lot of money and become apathetic and. Um eccentric and all kinds of things, and to not be grounded. And that's toxic for families.
+
+00:23:50.000 --> 00:23:56.000
+Tina Marie: It's toxic to the human soul. And especially if you're not used to it.
+
+00:23:57.000 --> 00:24:03.000
+Tina Marie: You can make some really poor decisions. And I've seen that repeatedly. So um.
+
+00:24:04.000 --> 00:24:09.000
+Tina Marie: Think about that. This is not a you know. It's not a beat up session either. It's just a.
+
+00:24:09.000 --> 00:24:11.000
+Fujinaka, M.D.: Yeah.
+
+00:24:09.000 --> 00:24:16.000
+Tina Marie: Are you getting what you want to get? Are you going where you want to go? And if not, what do you want to do so. What I think that you need to do.
+
+00:24:12.000 --> 00:24:14.000
+Fujinaka, M.D.: Sure.
+
+00:24:16.000 --> 00:24:23.000
+Tina Marie: And if if it's just a timer. And you set it, and it's only 1 HA week.
+
+00:24:23.000 --> 00:24:32.000
+Tina Marie: I think you'd really benefit from 2 to get some momentum in the data. Um, but and I'd rather see you um.
+
+00:24:33.000 --> 00:24:37.000
+Tina Marie: Kind of sprint a little bit for. You know. March, April, May.
+
+00:24:37.000 --> 00:24:55.000
+Tina Marie: And then when it gets warmer. Take some chill time. Um, be be more with the family, you know. Play, enjoy the the best weather, whatever your schedule is kind of rhythm. But for me I barely do anything. In the summer I'm out in the pool. I'm at the lake. I'm fishing. I'm whatever like.
+
+00:24:47.000 --> 00:24:49.000
+Fujinaka, M.D.: Hmm.
+
+00:24:55.000 --> 00:25:05.000
+Tina Marie: I'm not doing hardly anything. Come summertime. The girls get back in school. Yours aren't there yet? And but there's always been for me some some kind of rhythm and energy that shifts around fall.
+
+00:25:05.000 --> 00:25:23.000
+Tina Marie: Um where people are naturally changing. Anyway, everybody's kind of migrating. And and there's this whole rhythm. It's not just me. That changes and I tap into that. And so I have 2 power creation periods in the year, and one is January and the other one is September.
+
+00:25:23.000 --> 00:25:35.000
+Tina Marie: And so there's surge energy during both of those times. That I'm like massive creating, building, growing. And then there's 2 periods. One is very long. One is very short where I'm like.
+
+00:25:35.000 --> 00:25:46.000
+Tina Marie: I can't be bothered, and one of them is November, December right, and then and then summertime. And that works out really well for me. So kind of figure out by.
+
+00:25:46.000 --> 00:25:51.000
+Tina Marie: Um. Vacation. Times. Or just how you like to spend your day.
+
+00:25:51.000 --> 00:25:59.000
+Tina Marie: Where those lulls and peaks are. And be okay with tapping into those and letting them exist. But you really want to maximize.
+
+00:25:59.000 --> 00:26:04.000
+Tina Marie: The the Peak periods. Um with systems.
+
+00:26:04.000 --> 00:26:11.000
+Tina Marie: Growth, strategy, that type of thing. But then you want to have tiny maintenance days.
+
+00:26:11.000 --> 00:26:16.000
+Tina Marie: Or even optimization days, right. During those other times, so.
+
+00:26:17.000 --> 00:26:24.000
+Tina Marie: You're not spending a lot of time on it, and like I said, for right now for you an hour a week. Would be sufficient.
+
+00:26:23.000 --> 00:26:27.000
+Fujinaka, M.D.: I agree it'd be a big change from nothing that I'm doing. Yeah.
+
+00:26:26.000 --> 00:26:35.000
+Tina Marie: Yeah. Um. So, Hubspot, which means you're going to have to learn some things about it.
+
+00:26:35.000 --> 00:26:37.000
+Fujinaka, M.D.: Yeah.
+
+00:26:36.000 --> 00:26:50.000
+Tina Marie: But really, what we want to be able to do is have a primary focus which hub right? That's the whole thing. Um where you've got the majority of your data about where your business.
+
+00:26:50.000 --> 00:27:03.000
+Tina Marie: Um where it comes from, where your money comes from, who it comes from, and that you're nurturing and taking care of where it's already coming from. And going out and getting the more that you can.
+
+00:27:03.000 --> 00:27:12.000
+Tina Marie: So if you spent an hour, your hour, one week on the data. And the hour the next week on acquisition.
+
+00:27:12.000 --> 00:27:24.000
+Tina Marie: It would be fantastic. It would be extra fantastic if you spent an hour on acquisition and an hour on data, and it's not going to be precise, right? It doesn't have to be. But roughly.
+
+00:27:14.000 --> 00:27:16.000
+Fujinaka, M.D.: Yeah.
+
+00:27:24.000 --> 00:27:40.000
+Tina Marie: You know that level long of an activity, and you just tell yourself at an hour I'm tapping out on whatever's done is done. If you want to be like, that's not complacent. That's also not specifically goal. Driven, but it is that I will spend this amount of focus time on it.
+
+00:27:40.000 --> 00:27:46.000
+Tina Marie: There will be a cumulative. There's that word again. Right benefits. To what you're doing.
+
+00:27:46.000 --> 00:27:53.000
+Tina Marie: But what we'll have a lot less of is the same conversation. Again, months, later.
+
+00:27:54.000 --> 00:27:59.000
+Tina Marie: But we talked about this, and I'm gonna miss, not done, and. Which means you will see it.
+
+00:27:59.000 --> 00:28:06.000
+Tina Marie: In how many appointments you have. Make, sense.
+
+00:28:04.000 --> 00:28:16.000
+Fujinaka, M.D.: That that's fair, you know. What's funny is I open this and I again. I I don't. I guess I feel like I dread. The disorganization. Well, 1st of all, I've never I never! I've never used a Crm. Truly.
+
+00:28:16.000 --> 00:28:18.000
+Tina Marie: Mhm.
+
+00:28:16.000 --> 00:28:36.000
+Fujinaka, M.D.: So it's like I'm nervous to open this because I I truly like you, said I don't. I haven't spent much time other than I found. Remember, I think you know, 6 months ago I learned how to like input. Data. And I learned how to add this column. But. That was the extent of how much I played with Hubspot, and so like. When I opened this, I was.
+
+00:28:33.000 --> 00:28:35.000
+Tina Marie: Yep.
+
+00:28:36.000 --> 00:28:54.000
+Fujinaka, M.D.: Feeling nervous. I say, Daniel, like it's gonna be all. It's gonna be very confusing to me, obviously outside my comfort. What's interesting is that like, I actually recognize some of these started sending me business since I made this call in December. Like, I know this law firm. Joseph, at Froggy, has actually sent me a bunch.
+
+00:28:47.000 --> 00:28:49.000
+Tina Marie: Yes.
+
+00:28:54.000 --> 00:29:02.000
+Fujinaka, M.D.: Pacific attorneys actually started sending me. I don't know which. I think it's Cindy, actually. And Courtney actually has a meeting with me next week.
+
+00:29:01.000 --> 00:29:03.000
+Tina Marie: All right. I like that.
+
+00:29:02.000 --> 00:29:13.000
+Fujinaka, M.D.: So I actually recognize some of these people that I did the work for in December. Which is interesting. Oh, yeah, West Coast trial lawyers like they've sent me a couple.
+
+00:29:09.000 --> 00:29:11.000
+Tina Marie: So.
+
+00:29:13.000 --> 00:29:15.000
+Fujinaka, M.D.: So.
+
+00:29:13.000 --> 00:29:38.000
+Tina Marie: That's another kind of nature of the beast of working remotely where you're not in proximity with these people. You're not seeing them face to face, and it's very easy to be disconnected. But if you are the person that is a connector. If you are the person that brings energy to a conversation, you will stand out. They'll want to do business with you because.
+
+00:29:38.000 --> 00:29:46.000
+Tina Marie: They feel that apathy from everyone else. They feel that, you know. You're just a number. You're just. A dollar bill. You're this. You're that.
+
+00:29:46.000 --> 00:29:50.000
+Tina Marie: Um so. And I get the.
+
+00:29:50.000 --> 00:29:57.000
+Tina Marie: Resistance to new things. But you have a brain for wrapping around. Stuff you you.
+
+00:29:58.000 --> 00:30:02.000
+Tina Marie: Resist it for sure. And um.
+
+00:30:02.000 --> 00:30:16.000
+Tina Marie: You want as little information as possible, whether it's our conversation, whether it's verbal, whether it's written or whether you're looking under on the screen. It is a pattern I recognize. You want less all the time you want less.
+
+00:30:17.000 --> 00:30:22.000
+Tina Marie: So that's okay. But you need enough.
+
+00:30:22.000 --> 00:30:29.000
+Tina Marie: In order to accomplish your goals. And your goals are. How do I increase what I have.
+
+00:30:29.000 --> 00:30:43.000
+Tina Marie: With as little time or effort as. Possible to the extent that I am on a path and trajectory towards 10 million dollars net worth, within, you know, 5 years tops.
+
+00:30:44.000 --> 00:30:51.000
+Tina Marie: Because you can do that. I think. Um. The other thing I would tell you, though, as much as I'm.
+
+00:30:52.000 --> 00:30:54.000
+Tina Marie: Beating you up about.
+
+00:30:53.000 --> 00:30:55.000
+Fujinaka, M.D.: Done.
+
+00:30:55.000 --> 00:31:07.000
+Tina Marie: Yeah, I'm I'm not. But but um, but as much as they're saying. And and even as you're recognizing that you're resisting it, and and not. Doing as much as you could.
+
+00:31:07.000 --> 00:31:14.000
+Tina Marie: I won't say should, because that's. Subjective. But you are on track.
+
+00:31:14.000 --> 00:31:21.000
+Tina Marie: For my people. Um. It takes a while to get ourselves. It's executive dysfunction.
+
+00:31:21.000 --> 00:31:26.000
+Tina Marie: We know what we should do. We don't do it. It is a trait.
+
+00:31:26.000 --> 00:31:36.000
+Tina Marie: In every business owner I've known. Um. The exceptions are when there's a partnership, and we've primarily got a.
+
+00:31:37.000 --> 00:31:50.000
+Tina Marie: Personality energy. Who's the sales? Who's. Greater in the visionary, and more the people person. And where you have another one who's what we call an integrator or the operations person.
+
+00:31:50.000 --> 00:32:02.000
+Tina Marie: Who does the day to day business when a person is primarily operations. They're wired that way. They want to do the things they want to look at the data they love spreadsheets. They're weirdos.
+
+00:32:03.000 --> 00:32:21.000
+Tina Marie: I'm right in the middle. And so I'm a really good liaison between the 2 types, because there's very few of me who are right in the middle. Right. And then and then we've got others who are just free spirits and want to do whatever. And it happens to also make money, and I think that you're kind of in that realm more.
+
+00:32:21.000 --> 00:32:35.000
+Tina Marie: And that takes a long time to get harnessed into this other side. The way around it is, you can buy your way out of it, but you have to pay somebody to be the Ops person for you.
+
+00:32:35.000 --> 00:32:46.000
+Tina Marie: And most people don't want to give up enough money to do that, and that's but you know there's wisdom in that, too. Because what happens rather than delegation is abdication.
+
+00:32:46.000 --> 00:32:56.000
+Tina Marie: Um unless it started out as a partnership. It's very hard to go find that person. Usually what you do is you create that person over time.
+
+00:32:56.000 --> 00:33:16.000
+Tina Marie: Or you create it in a few different people. So like, you've got Esther's billing company, and that helps a lot because you've got great eyes on the numbers. Um, you're probably not fully utilizing that there might be, you know, more. We can get out of that. Which is another conversation which I'll learn about when I'm talking to Esther. Probably.
+
+00:33:16.000 --> 00:33:22.000
+Tina Marie: Um. And then you've got Paul. And Paul is evolving.
+
+00:33:22.000 --> 00:33:40.000
+Tina Marie: And understanding more, and probably has no desire to go do his own thing as long as he's being properly compensated and. And that is a currency both of the money as well as the respect, the honor. You know, the things that people need intrinsically.
+
+00:33:41.000 --> 00:33:50.000
+Tina Marie: That's kind of being built. So if we can only get you just to do a couple of things. Um every week.
+
+00:33:50.000 --> 00:34:08.000
+Tina Marie: Or maybe you do it every other week. But you deep dive for a couple of hours right? And then you're like, I wanna look at that for 14 more days. That's okay. What we have to do is figure out what rhythm works best for you. Maybe it's once a month and you spend 5 h on it.
+
+00:34:08.000 --> 00:34:12.000
+Tina Marie: That's possible. But the problem with that is, you'll forget too much.
+
+00:34:12.000 --> 00:34:14.000
+Fujinaka, M.D.: Yeah.
+
+00:34:12.000 --> 00:34:19.000
+Tina Marie: It's also the problem with going every week or every other week. Is that there's a leakage of data.
+
+00:34:18.000 --> 00:34:23.000
+Fujinaka, M.D.: Yeah. And it takes me like a couple. Takes me time to catch back up.
+
+00:34:23.000 --> 00:34:34.000
+Tina Marie: Well, then, you're probably not going to catch fully backup. You will leak. It will happen so. Um, it's the consistency that really really wins.
+
+00:34:34.000 --> 00:34:46.000
+Tina Marie: You could get to the point where it only takes you half an hour a week. You could get to the point where you start to see the results and the compounding happening that you're like, I'll give it an hour and a half a week. I'll give it 2 HA week.
+
+00:34:46.000 --> 00:34:51.000
+Tina Marie: But either way, once it starts. There will be a revelation.
+
+00:34:52.000 --> 00:34:59.000
+Tina Marie: That will let us know like. Wherever we need to go, whatever's happening, we'll we'll get more data as you do. It.
+
+00:34:59.000 --> 00:35:13.000
+Tina Marie: So that was the point of the homework every week that. Most of the time. I mean, it wasn't even 50% of the time it was getting done. There's also been a lot going on. You did have a new baby. You did move into a new house.
+
+00:35:12.000 --> 00:35:15.000
+Fujinaka, M.D.: Wow! That's just got the baby.
+
+00:35:13.000 --> 00:35:23.000
+Tina Marie: You got? Yeah. But but these are, these are real things, and they having a new baby. Pulls people into a kind of a hibernation mode.
+
+00:35:23.000 --> 00:35:35.000
+Tina Marie: I think we're naturally wired to, just maybe slow down a little bit and take that time. And it's probably a gift that it happens that way, because it's such a small window. That kids are so little.
+
+00:35:35.000 --> 00:35:38.000
+Tina Marie: Um, you know. So so that's to take into account.
+
+00:35:38.000 --> 00:35:40.000
+Fujinaka, M.D.: Broke my wrist.
+
+00:35:40.000 --> 00:35:42.000
+Tina Marie: What did you do?
+
+00:35:41.000 --> 00:35:43.000
+Fujinaka, M.D.: Huh!
+
+00:35:42.000 --> 00:35:44.000
+Tina Marie: What'd you do?
+
+00:35:44.000 --> 00:35:46.000
+Fujinaka, M.D.: I was at Jujitsu, rolling to.
+
+00:35:45.000 --> 00:35:47.000
+Tina Marie: Oh, uh.
+
+00:35:46.000 --> 00:35:48.000
+Fujinaka, M.D.: Aggressively. I think.
+
+00:35:48.000 --> 00:35:53.000
+Tina Marie: Why can't you hit the numbers like that? Fuji?
+
+00:35:52.000 --> 00:35:54.000
+Fujinaka, M.D.: I know really.
+
+00:35:53.000 --> 00:35:59.000
+Tina Marie: That's funny, are you? Okay, though? This sucks.
+
+00:35:58.000 --> 00:36:11.000
+Fujinaka, M.D.: I it feels great. I just can't squeeze anything. Um. But my friend, who's a hand surgeon, was like you need to. You need to wear your brace because I was. I wasn't wearing it for like the last week. But he's like you need to let it set.
+
+00:36:11.000 --> 00:36:15.000
+Fujinaka, M.D.: Otherwise it's gonna stay broken, and it's never gonna heal. And I was like, Oh.
+
+00:36:11.000 --> 00:36:18.000
+Tina Marie: Yes. For real, yes.
+
+00:36:16.000 --> 00:36:18.000
+Fujinaka, M.D.: So.
+
+00:36:18.000 --> 00:36:21.000
+Tina Marie: Yeah. Be. Be a good patient, Fuji. There's a reason for it.
+
+00:36:21.000 --> 00:36:27.000
+Fujinaka, M.D.: I still had like this morning. I still had to type, so I was like screw it. But I'll try to wear it as much as possible.
+
+00:36:27.000 --> 00:36:32.000
+Tina Marie: Use, dictation, look. Okay, you gotta do the math.
+
+00:36:32.000 --> 00:36:44.000
+Tina Marie: Right. The the time that it takes you to allow yourself to heal properly is a lot less than the time it'll take you to compensate for an unhealed arm for the rest of your life.
+
+00:36:44.000 --> 00:36:46.000
+Fujinaka, M.D.: That's true, or a surgery. Yeah.
+
+00:36:47.000 --> 00:36:55.000
+Tina Marie: Well, yeah, but there's still healing time, and there's no guarantee that it doesn't get botched or something else go wrong, or there's nerve damage that causes other issues.
+
+00:36:55.000 --> 00:36:57.000
+Fujinaka, M.D.: Yeah, that's true.
+
+00:36:57.000 --> 00:37:02.000
+Tina Marie: Don't gamble that way. Don't play those off.
+
+00:37:00.000 --> 00:37:02.000
+Fujinaka, M.D.: That's a good point.
+
+00:37:02.000 --> 00:37:10.000
+Tina Marie: You have to do the Math Fuji, the math tells the truth. You just need to know what the right problem is to get the truth.
+
+00:37:11.000 --> 00:37:13.000
+Fujinaka, M.D.: That's fair.
+
+00:37:12.000 --> 00:37:17.000
+Tina Marie: Okay. Um. Alright, so let me go look.
+
+00:37:16.000 --> 00:37:27.000
+Fujinaka, M.D.: I think from you know the talk I. Yes, I think this was a good reminder, and it's even just the rudimentary notes I took on this hubspot here like.
+
+00:37:27.000 --> 00:37:38.000
+Fujinaka, M.D.: It's actually shocking like, when I look at, I'm like, Oh, yeah, I did call her. Yeah, there's actually sending me business. Now, you know, it's uh. Interesting. So um.
+
+00:37:38.000 --> 00:37:41.000
+Tina Marie: Oh, my, gosh! The stuff we're doing! Works! Wait! What.
+
+00:37:42.000 --> 00:37:48.000
+Fujinaka, M.D.: Yeah. Well, yeah, no. Actually, um. That's interesting. That, yeah.
+
+00:37:48.000 --> 00:38:06.000
+Fujinaka, M.D.: Okay. So yeah, I like the idea of using Hubspot. And I think, like you said if I could, if I could just get if I could spend just a little bit of time cleaning up that process, even if it's just an hour a week. Learning how to like. Use Hubspot better and make it work for me.
+
+00:38:06.000 --> 00:38:12.000
+Fujinaka, M.D.: Um. I think. Yeah, I mean, just looking at this. It's really interesting that all the.
+
+00:38:12.000 --> 00:38:17.000
+Fujinaka, M.D.: The notes I took they actually came to fruition couple of the times. That's cool.
+
+00:38:12.000 --> 00:38:23.000
+Tina Marie: So. So that's 1 thing, because that will be in your mind. But what seems to happen.
+
+00:38:23.000 --> 00:38:25.000
+Tina Marie: Is out of sight, out of mind.
+
+00:38:24.000 --> 00:38:26.000
+Fujinaka, M.D.: Yes.
+
+00:38:25.000 --> 00:38:40.000
+Tina Marie: We get off this call, and for the most part everything that we talked about. Goes away. How do we stop that? What do you do to bring this back? Because I've brought ideas, and I've said you should start your day starting.
+
+00:38:40.000 --> 00:38:46.000
+Tina Marie: Thinking about these things. That's not happening. How do we change this pattern of.
+
+00:38:46.000 --> 00:38:54.000
+Tina Marie: We get off the call you do a little thing, and then you don't touch it again till I talk to you. The next week. Which means we're starting over again.
+
+00:38:55.000 --> 00:38:57.000
+Fujinaka, M.D.: Yeah, it's like, groundhog day.
+
+00:38:56.000 --> 00:39:01.000
+Tina Marie: Because those epiphanies happen. Pretty much on a weekly basis.
+
+00:39:01.000 --> 00:39:06.000
+Tina Marie: And then nothing happens as a result, not nothing. But definitely, not the plan.
+
+00:39:07.000 --> 00:39:09.000
+Tina Marie: How do we change that in you?
+
+00:39:12.000 --> 00:39:29.000
+Fujinaka, M.D.: Yeah, you know, I I like the you know the reason. The only reason those spreadsheets got updated with the case manager columns is because after our call last week I had. I think we did it in the morning last week, and then I had like 3 h to just sit there until, like we got in me.
+
+00:39:29.000 --> 00:39:35.000
+Tina Marie: No, we didn't. Well, yeah, we did. We did that. But that was it you planned. You planned the work block after we talk.
+
+00:39:34.000 --> 00:39:41.000
+Fujinaka, M.D.: Yeah, right after a call. And then that's that was actually the time that I took the time to look at my case. Managers.
+
+00:39:36.000 --> 00:39:38.000
+Tina Marie: Mhm.
+
+00:39:41.000 --> 00:39:52.000
+Fujinaka, M.D.: Put them into columns. Set that up with Paul. I called Paul. I said, Hey, I need this data. He said, Okay, I get it. I'll do it. And that's how that happened. So um!
+
+00:39:53.000 --> 00:39:55.000
+Tina Marie: So then you still didn't touch it. After that day.
+
+00:39:53.000 --> 00:40:01.000
+Fujinaka, M.D.: Yeah. I didn't touch it after that day now, but I did. I did look at it before this call, because I had time.
+
+00:40:01.000 --> 00:40:11.000
+Fujinaka, M.D.: On my calendar that I was supposed to go over the Kpi, so I looked at the weekly numbers. I looked at it. I reminded myself. Oh, yeah, look at that. We did that. We've added those cool columns.
+
+00:40:12.000 --> 00:40:18.000
+Fujinaka, M.D.: But uh but yeah, it's uh. I don't know.
+
+00:40:18.000 --> 00:40:34.000
+Tina Marie: So. And that's okay. We can workshop that. So those are some of the things we've done. 1st of all. Every week. Approximately right. It's not. It's not every week. It's not going to be like that. But we add a little bit more to the data and to the systems, to extract.
+
+00:40:34.000 --> 00:41:02.000
+Tina Marie: That gives a clear vision. Paul continues to get more data as you give it to him, and so he becomes more valuable, easier for you to say, Go, get this, please get this, and he's willing, able. So that's great. So those are 2 really important things that have a cumulative effect, so that when you do spend time. You get more out of the time, because there's more data with more value.
+
+00:41:02.000 --> 00:41:13.000
+Tina Marie: It's been there longer. It's clearer because we keep refining it. And you have somebody else's eyes on it. Who's learning it with you besides me? You have Paul.
+
+00:41:13.000 --> 00:41:26.000
+Tina Marie: So all of those things are good. So whether it be building in time after our calls that you go do that, and it's only that time of the week. That would be something that would get you more momentum.
+
+00:41:26.000 --> 00:41:39.000
+Tina Marie: If you added another day in the week where you dove into it, and you say, Hey, Paul. You know, maybe Paul S. Or anybody who can get you some, maybe accountability or an activity.
+
+00:41:39.000 --> 00:41:55.000
+Tina Marie: Let's review X together, or. If it's Esther, say, hey, Esther, if we want that 10 million dollars net worth, I should probably spend one other day a week. What's a good day like whatever? So what's the 10 million dollars hour that we're going to have this week?
+
+00:41:55.000 --> 00:41:57.000
+Fujinaka, M.D.: Okay.
+
+00:41:55.000 --> 00:42:09.000
+Tina Marie: And you can help me be accountable like just. Try to figure out, and it could take you a while to figure this out. But if you can figure out the right carrot for you to get you fairly, consistently.
+
+00:42:09.000 --> 00:42:19.000
+Tina Marie: Showing up for a little bit extra work right in either acquisition or um. Optimization right.
+
+00:42:18.000 --> 00:42:20.000
+Fujinaka, M.D.: Yeah.
+
+00:42:20.000 --> 00:42:31.000
+Tina Marie: You'll get there faster. And I'm really talking on Max of an extra 2 HA week, one to 2 HA week. Fuji. You should be hitting that 500 number soon.
+
+00:42:31.000 --> 00:42:37.000
+Tina Marie: But not only that. Everything from that point should be easier to do.
+
+00:42:39.000 --> 00:42:43.000
+Fujinaka, M.D.: Yeah, yeah. I uh.
+
+00:42:45.000 --> 00:42:55.000
+Fujinaka, M.D.: I'm lucky that I have. Yeah, like, I have Paul, who's willing to take up slack in the places I don't want to do with operations. And so I'm lucky that.
+
+00:42:55.000 --> 00:43:07.000
+Fujinaka, M.D.: You know he's consistent like with the numbers like he does it. Every Friday, every Friday night he sends me the numbers, and every 29th or 30th day of the month. He sends me the monthly things so lucky that he's consistent.
+
+00:43:07.000 --> 00:43:19.000
+Fujinaka, M.D.: Um. And then, yeah, uh. Yeah, yeah, I mean, I'll be honest. I've never in my life done anything consistently. I think the most consistent I've ever done is like.
+
+00:43:21.000 --> 00:43:27.000
+Fujinaka, M.D.: Ah! I literally, it's hard for me to think of something I've done consistently like.
+
+00:43:31.000 --> 00:43:33.000
+Fujinaka, M.D.: Yeah, like on a daily basis. It's wild.
+
+00:43:31.000 --> 00:43:39.000
+Tina Marie: You want me to tell you the real trick, because consistency is a superpower for me. It's how I beat anybody. I want to beat.
+
+00:43:39.000 --> 00:43:41.000
+Fujinaka, M.D.: Yeah.
+
+00:43:39.000 --> 00:43:47.000
+Tina Marie: With way, less effort. Because it's so much easier to maintain than it is to increase momentum.
+
+00:43:45.000 --> 00:43:47.000
+Fujinaka, M.D.: Yeah.
+
+00:43:47.000 --> 00:43:58.000
+Tina Marie: And nobody shows up like I do. It's not a brag. I'm wired that way. So that's a benefit that I have. I don't. I don't really struggle with not doing it.
+
+00:43:58.000 --> 00:44:10.000
+Tina Marie: Other people do struggle with it, and I don't know I'm. I'd probably not be the way that I am if I wasn't wired that way. But because I am, I get to be able to testify truthfully that this.
+
+00:44:10.000 --> 00:44:21.000
+Tina Marie: Is the winning thing. So. But I do believe that when we're not wired a particular way, we can develop that habit. We can develop that skill.
+
+00:44:21.000 --> 00:44:34.000
+Tina Marie: We are wired in such a way that we can increase our IQ. Because every time we learn we increase our neural network and. The ability and the capacity to gain.
+
+00:44:34.000 --> 00:44:45.000
+Tina Marie: Process and retain new information simply by choosing to learn something. So our capacity is not fixed and determined.
+
+00:44:45.000 --> 00:44:57.000
+Tina Marie: So right? That's amazing. Like, that's that's a that's a great gift. And then there's also a huge equalizer. In time. We're all given the same 24 HA day. You could have.
+
+00:44:50.000 --> 00:44:52.000
+Fujinaka, M.D.: Yeah. Lucky.
+
+00:44:57.000 --> 00:45:04.000
+Tina Marie: All the money in the world. You can't buy more. 24 h. You could have no money in the world. You you couldn't give.
+
+00:45:04.000 --> 00:45:19.000
+Tina Marie: You. You couldn't. You can trade bread for it like you can't. It's just. It's the same. We all have it now with money, though we can leverage other people's 24 h. And so to to the point of that 10 million dollars net worth.
+
+00:45:19.000 --> 00:45:28.000
+Tina Marie: The resources that you have. Let's say you you're bedridden. Let's say you and Esther are bedridden. God forbid.
+
+00:45:28.000 --> 00:45:39.000
+Tina Marie: Right, but you still got children to take care of. If somebody is cleaning the house. Doing the groceries, taking care of the yard, taking care of all these different things, and you've got the money to be able to supply that.
+
+00:45:40.000 --> 00:45:43.000
+Tina Marie: Big, huge difference to having none of it.
+
+00:45:43.000 --> 00:45:45.000
+Fujinaka, M.D.: Yeah.
+
+00:45:43.000 --> 00:45:54.000
+Tina Marie: You know. So those resources are incredibly important that you're working to obtain. Um the resources that you have right now.
+
+00:45:54.000 --> 00:46:02.000
+Tina Marie: Is your time, your skill, your money, your energy, and your willingness. To do the work or not, do the work.
+
+00:46:02.000 --> 00:46:04.000
+Fujinaka, M.D.: Yep, there.
+
+00:46:02.000 --> 00:46:10.000
+Tina Marie: And we are also in a peak period, economically. Where you can really tap into these things.
+
+00:46:10.000 --> 00:46:19.000
+Tina Marie: We're we're at risk of. Socialism and capitalism, or not capitalism, but but um, really, really, Socialism.
+
+00:46:19.000 --> 00:46:25.000
+Tina Marie: Changing the whole face of everything right now. Potentially um.
+
+00:46:25.000 --> 00:46:34.000
+Tina Marie: But we're always at the risk of something that's just life. So, while things are good right now, an extra hour or 2 will will benefit you. We know that.
+
+00:46:34.000 --> 00:46:40.000
+Tina Marie: What we have to do is figure out how to change your Mo. And and.
+
+00:46:40.000 --> 00:46:50.000
+Tina Marie: Figure out what? What conversation? So we know. If the wolf is behind you, you're running. If the wolf is not behind you, and it's a fuzzy rabbit.
+
+00:46:51.000 --> 00:46:57.000
+Tina Marie: We're chilling. So how do we change that pattern.
+
+00:46:57.000 --> 00:47:04.000
+Tina Marie: And get you to sprint. A tiny bit from time to time, like.
+
+00:47:04.000 --> 00:47:12.000
+Tina Marie: On a weekly basis. How do we get you just to do a little spread? Have you ever done like hit? Did you? Have you ever liked sprinting.
+
+00:47:13.000 --> 00:47:18.000
+Fujinaka, M.D.: Oh, yeah, I mean, that's that's how I train jujitsu. It's like a full sprint. That's why I love it.
+
+00:47:17.000 --> 00:47:20.000
+Tina Marie: Right? Okay, so and.
+
+00:47:19.000 --> 00:47:24.000
+Fujinaka, M.D.: Because I'm afraid someone's gonna hurt me. If I don't.
+
+00:47:22.000 --> 00:47:28.000
+Tina Marie: Don't wolf on your butt. Right. So you're you're super motivated by that.
+
+00:47:28.000 --> 00:47:30.000
+Tina Marie: Um.
+
+00:47:30.000 --> 00:47:41.000
+Fujinaka, M.D.: Oh, no, I'm just saying like, in the moment I am. But yeah, around business. I'm motivated by failure. I don't want to lose. But obviously.
+
+00:47:33.000 --> 00:47:35.000
+Tina Marie: Stress adrenaline.
+
+00:47:42.000 --> 00:47:46.000
+Fujinaka, M.D.: I'm not that afraid of losing like I'm complacent at times, so.
+
+00:47:46.000 --> 00:47:48.000
+Tina Marie: You know what.
+
+00:47:46.000 --> 00:47:54.000
+Fujinaka, M.D.: I can't really even say that fear. But yeah, I mean, I did see those numbers in February, right? And then I was like, Oh, crap!
+
+00:47:52.000 --> 00:48:02.000
+Tina Marie: Yeah, yeah. So I heard something really interesting, because I was always under the premise that really, at the end of it, if you ask.
+
+00:48:02.000 --> 00:48:12.000
+Tina Marie: A person's. Why? Why? Why? Why? Why? The answer will be because they want to be happy. And then I heard something that blew my mind because I realized that this is true.
+
+00:48:12.000 --> 00:48:20.000
+Tina Marie: Most people don't actually want to be happy, like actively want to be happy. What they want most, what they think about most. Is to stop the pain.
+
+00:48:21.000 --> 00:48:25.000
+Tina Marie: If there's no pain. There's no anything.
+
+00:48:26.000 --> 00:48:38.000
+Tina Marie: Apathy, complacency. That's where most people are. I actively pursue happiness, I am driven towards it. I don't actively pursue stopping pain. I sit in pain.
+
+00:48:38.000 --> 00:48:44.000
+Tina Marie: I'm weird. I get that. So I have to figure out how to talk to people.
+
+00:48:44.000 --> 00:48:52.000
+Tina Marie: Who are not chasing. Joy, who are okay with just an absence of pain.
+
+00:48:54.000 --> 00:49:02.000
+Fujinaka, M.D.: Interesting. I don't know. Yeah, I I.
+
+00:49:06.000 --> 00:49:14.000
+Fujinaka, M.D.: Everything is pretty good. I wouldn't say that I'm uh. I don't know if I've ever necessarily chased.
+
+00:49:14.000 --> 00:49:25.000
+Fujinaka, M.D.: Joy interesting. I don't know. I usually feel like everything's good. I'm pretty happy, like, everything's comfortable. I'm really yeah. I'm really comfortable. I don't.
+
+00:49:19.000 --> 00:49:21.000
+Tina Marie: Or power.
+
+00:49:26.000 --> 00:49:32.000
+Fujinaka, M.D.: Everything's great. I'm really lucky I'm healthy, otherwise, you know. Good family and everything uh.
+
+00:49:33.000 --> 00:49:43.000
+Fujinaka, M.D.: So that's why, yeah, when pain does come up, I do react to that. But yeah, I don't. I don't know if I'm actively seeking.
+
+00:49:43.000 --> 00:49:50.000
+Fujinaka, M.D.: Joy like you said, that's interesting. I just. At a baseline. I feel pretty good about where I.
+
+00:49:50.000 --> 00:49:54.000
+Fujinaka, M.D.: What I'm at. Hmm. I'll think about that interesting.
+
+00:49:53.000 --> 00:50:02.000
+Tina Marie: And it's not even just joy like I'm actively seeking maximum joy and maximum energy every day all day long. I'm thinking about that.
+
+00:50:02.000 --> 00:50:04.000
+Fujinaka, M.D.: Interesting.
+
+00:50:03.000 --> 00:50:17.000
+Tina Marie: So that's me intrinsically, that that doesn't translate. Right. I can't. That doesn't go into somebody else, and you have to operate from where you are and what drives you. But I have learned.
+
+00:50:18.000 --> 00:50:27.000
+Tina Marie: That contemplating a thought like that. For the 1st time can breed other thoughts like that.
+
+00:50:27.000 --> 00:50:34.000
+Tina Marie: Can breed other energy, it can expand it like a neural network expanding because we learned something new.
+
+00:50:33.000 --> 00:50:35.000
+Fujinaka, M.D.: Yeah.
+
+00:50:35.000 --> 00:50:37.000
+Tina Marie: Right, so.
+
+00:50:36.000 --> 00:50:38.000
+Fujinaka, M.D.: I'll ponder about that. That is interesting.
+
+00:50:37.000 --> 00:50:39.000
+Tina Marie: Yeah.
+
+00:50:39.000 --> 00:50:42.000
+Fujinaka, M.D.: Yeah, never, never. Really considered it. Yeah.
+
+00:50:42.000 --> 00:50:47.000
+Tina Marie: But I will tell you that if you. If you find the thing that you want to chase.
+
+00:50:47.000 --> 00:50:54.000
+Tina Marie: For the sake of the thing. Not for the sake of avoiding something else, but for the sake of obtaining.
+
+00:50:55.000 --> 00:51:00.000
+Tina Marie: That's where your consistency will show up. Until you have that.
+
+00:51:00.000 --> 00:51:02.000
+Tina Marie: It probably won't.
+
+00:51:01.000 --> 00:51:11.000
+Fujinaka, M.D.: Yeah, that's fair. I've never, literally, never had consistency in anything. Everything's always come easy for me, or I get it, because it comes easy, and I'm afraid.
+
+00:51:14.000 --> 00:51:20.000
+Fujinaka, M.D.: Uh, Tina. I'm sorry. I gotta. I gotta take and pick up actually have to pick up her cousin. But.
+
+00:51:16.000 --> 00:51:20.000
+Tina Marie: Yeah. Yes.
+
+00:51:20.000 --> 00:51:22.000
+Fujinaka, M.D.: Thank you so much for.
+
+00:51:20.000 --> 00:51:23.000
+Tina Marie: Get to get to get to get to you, get to.
+
+00:51:22.000 --> 00:51:45.000
+Fujinaka, M.D.: Thank you for rescheduling, and I know you were tired. But this was incredibly helpful. Um! Just as a little comment, I think. What I'm gonna do is actually sit with Paul because he keeps begging me like since I promoted him. Um, he's like, give me something to do, and maybe if I just share and be open with him, that, like Paul, it's the hardest thing for me to be consistent like he knows.
+
+00:51:45.000 --> 00:51:56.000
+Fujinaka, M.D.: Last week I was like calling you saw it. I called like 50 people, and this week, like I just I can't. It's hard. It's it's another week like that. I'm just like. So, maybe if.
+
+00:51:56.000 --> 00:52:18.000
+Fujinaka, M.D.: If I just sit with him, be like, look! Can you help me like? Let's choose Hubspot. Help me in Hubspot, organize what I need to do. And and he signals me. And I do want to impress him because I'm his boss, and I do like when he text me. I respond, maybe I'll just be like, hey, can you just start by sending me just like one person every day, or you know 2.
+
+00:52:19.000 --> 00:52:30.000
+Fujinaka, M.D.: Just that I need to call. Make it easy. And I'll I'll pick it up and call them, you know, first, st I don't want to let him down if he does it um, and maybe I'll start there and let him.
+
+00:52:22.000 --> 00:52:24.000
+Tina Marie: Yeah.
+
+00:52:31.000 --> 00:52:37.000
+Fujinaka, M.D.: You know. Help me document the Hubspot, since it's a shared account. Um.
+
+00:52:36.000 --> 00:52:38.000
+Tina Marie: He will still respect you.
+
+00:52:38.000 --> 00:52:40.000
+Fujinaka, M.D.: Yeah.
+
+00:52:38.000 --> 00:52:44.000
+Tina Marie: Um, and and he will still follow you. He will feel honored.
+
+00:52:44.000 --> 00:52:48.000
+Tina Marie: To have you trust him that way. I just about guarantee you.
+
+00:52:46.000 --> 00:52:48.000
+Fujinaka, M.D.: Yeah, yeah.
+
+00:52:48.000 --> 00:52:58.000
+Tina Marie: Um, and and probably show up for you from everything that you've told me about him. So I would say, lean into that. Don't be afraid. I think you have an exceptional person there.
+
+00:52:52.000 --> 00:52:57.000
+Fujinaka, M.D.: Yeah. Okay.
+
+00:52:59.000 --> 00:53:04.000
+Tina Marie: Um. And and people need people. And you have. You seem to have an amazing one. So you go.
+
+00:53:00.000 --> 00:53:06.000
+Fujinaka, M.D.: Yeah. Okay.
+
+00:53:04.000 --> 00:53:09.000
+Tina Marie: We'll talk next week. Um, but feel free to keep me posted. You have something.
+
+00:53:07.000 --> 00:53:23.000
+Fujinaka, M.D.: So let me think about that hubspot thing, making literally that my hub, and then also think about like, what am I chasing? But. Yeah. Interesting uh, yeah. Never thought about that. Couldn't say that I'm ever chasing joy. Necessarily, I don't like. If I answered honestly, I don't think I could actually answer that.
+
+00:53:23.000 --> 00:53:33.000
+Fujinaka, M.D.: I'm just usually my my baseline is. I'm always pretty happy. My mood is good, I'm happy, I feel good. I don't really. Yeah, I don't really pursue like anything extra.
+
+00:53:33.000 --> 00:53:40.000
+Tina Marie: Well, then, maybe you can ask yourself, what are you doing to protect that? Because the odds are something is threatening it. You just haven't discovered it yet.
+
+00:53:33.000 --> 00:53:35.000
+Fujinaka, M.D.: So.
+
+00:53:40.000 --> 00:53:43.000
+Tina Marie: Because that happens in life to everybody.
+
+00:53:43.000 --> 00:53:45.000
+Fujinaka, M.D.: Hmm.
+
+00:53:44.000 --> 00:53:50.000
+Tina Marie: What are you doing to. Inoculate yourself against what happens, or.
+
+00:53:50.000 --> 00:53:52.000
+Fujinaka, M.D.: Probably it's the money.
+
+00:53:51.000 --> 00:54:05.000
+Tina Marie: The yeah, but you're that's not enough. That's that's not working so, anyway. Explore that thought, and I, would you have a brilliant wife? I would, you know, explore that with her a little bit, because she knows you best. Maybe she'll give you some insight, too.
+
+00:54:05.000 --> 00:54:07.000
+Fujinaka, M.D.: Yeah. I'll ask her.
+
+00:54:07.000 --> 00:54:10.000
+Tina Marie: Okay, I'll talk to you later. You go get some pretty girls.
+

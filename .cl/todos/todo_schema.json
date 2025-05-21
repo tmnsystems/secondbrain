@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2025-05-13T20:00:00Z",
+  "tasks": [
+    {
+      "id": "task-001",
+      "description": "Implement context management system with claude.md hierarchy",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2025-05-13T19:30:00Z",
+      "updated_at": "2025-05-13T19:45:00Z",
+      "dependencies": [],
+      "notes": "Follows the new approach to maintain persistent context between sessions",
+      "steps": [
+        {
+          "id": "step-001-1",
+          "description": "Update root CLAUDE.md with context management section",
+          "status": "completed"
+        },
+        {
+          "id": "step-001-2",
+          "description": "Create .cl directory structure for todos",
+          "status": "completed"
+        },
+        {
+          "id": "step-001-3",
+          "description": "Create per-directory claude.md files",
+          "status": "pending"
+        },
+        {
+          "id": "step-001-4",
+          "description": "Implement task persistence mechanism",
+          "status": "pending"
+        },
+        {
+          "id": "step-001-5",
+          "description": "Create memory compaction scripts",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "task-002",
+      "description": "Integrate headless CLI invocation",
+      "status": "pending",
+      "priority": "medium",
+      "created_at": "2025-05-13T19:30:00Z",
+      "updated_at": "2025-05-13T19:30:00Z",
+      "dependencies": ["task-001"],
+      "notes": "Enables CI/CD hooks and scripted agent runs without interactive sessions",
+      "steps": [
+        {
+          "id": "step-002-1",
+          "description": "Design command structure for claw -p",
+          "status": "pending"
+        },
+        {
+          "id": "step-002-2",
+          "description": "Implement secure credential handling",
+          "status": "pending"
+        },
+        {
+          "id": "step-002-3",
+          "description": "Create output formatting options",
+          "status": "pending"
+        },
+        {
+          "id": "step-002-4",
+          "description": "Develop example scripts for common operations",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "task-003",
+      "description": "Implement test-driven development integration",
+      "status": "pending",
+      "priority": "medium",
+      "created_at": "2025-05-13T19:30:00Z",
+      "updated_at": "2025-05-13T19:30:00Z",
+      "dependencies": ["task-001"],
+      "notes": "Auto-written tests provide a self-fixing feedback cycle and guardrails for fast iteration",
+      "steps": [
+        {
+          "id": "step-003-1",
+          "description": "Select appropriate test framework per component",
+          "status": "pending"
+        },
+        {
+          "id": "step-003-2",
+          "description": "Create test scaffolding templates",
+          "status": "pending"
+        },
+        {
+          "id": "step-003-3",
+          "description": "Implement auto-test generation capability",
+          "status": "pending"
+        },
+        {
+          "id": "step-003-4",
+          "description": "Develop test-fix-verify automation",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}

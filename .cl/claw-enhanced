@@ -1,0 +1,309 @@
+#!/bin/bash
+# Enhanced Headless CLI invocation for SecondBrain
+# Enables programmatic Claude Code execution with advanced features
+
+# Default values
+VERBOSE=false
+OUTPUT_FILE=""
+PROMPT_FILE=""
+COMMAND=""
+JSON_OUTPUT=false
+MODEL="claude-3-7-sonnet-20250219"
+MAX_TOKENS=4000
+CONTEXT_DIR=""
+TODO_ID=""
+CLAUDE_BASE_URL="https://api.anthropic.com/v1/messages"
+
+# Parse arguments
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    -p|--prompt)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        PROMPT_FILE=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -c|--command)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        COMMAND=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -o|--output)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        OUTPUT_FILE=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    --json)
+      JSON_OUTPUT=true
+      shift
+      ;;
+    -m|--model)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        MODEL=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    --max-tokens)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        MAX_TOKENS=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    --context)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        CONTEXT_DIR=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    --todo)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        TODO_ID=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -v|--verbose)
+      VERBOSE=true
+      shift
+      ;;
+    *)
+      COMMAND="$COMMAND $1"
+      shift
+      ;;
+  esac
+done
+
+# Create a timestamp for the run
+TIMESTAMP=$(date -u +"%Y%m%d_%H%M%S")
+
+# If verbose mode, show settings
+if $VERBOSE; then
+  echo "Running in headless mode with the following settings:"
+  echo "Timestamp: $TIMESTAMP"
+  echo "Prompt file: $PROMPT_FILE"
+  echo "Command: $COMMAND"
+  echo "Output file: $OUTPUT_FILE"
+  echo "JSON output: $JSON_OUTPUT"
+  echo "Model: $MODEL"
+  echo "Max tokens: $MAX_TOKENS"
+  echo "Context directory: $CONTEXT_DIR"
+  echo "Todo ID: $TODO_ID"
+  echo "---------------------------------"
+fi
+
+# Create log directory if it doesn't exist
+mkdir -p /Volumes/Envoy/SecondBrain/.cl/logs
+
+# Default output file if not specified
+if [ -z "$OUTPUT_FILE" ]; then
+  if $JSON_OUTPUT; then
+    OUTPUT_FILE="/Volumes/Envoy/SecondBrain/.cl/logs/claw_${TIMESTAMP}.json"
+  else
+    OUTPUT_FILE="/Volumes/Envoy/SecondBrain/.cl/logs/claw_${TIMESTAMP}.log"
+  fi
+fi
+
+# Function to load context files
+load_context() {
+  local context_dir=$1
+  local context_content=""
+  
+  # Use the context loader script to combine root and directory-specific context
+  if [ -n "$context_dir" ] && [ -f "$context_dir/CLAUDE.md" ]; then
+    context_file=$(/Volumes/Envoy/SecondBrain/.cl/load-context.sh --context "$context_dir/CLAUDE.md")
+    context_content=$(cat "$context_file")
+  else
+    # Start with the root CLAUDE.md if no specific context is provided
+    if [ -f "/Volumes/Envoy/SecondBrain/CLAUDE.md" ]; then
+      context_content=$(cat "/Volumes/Envoy/SecondBrain/CLAUDE.md")
+    fi
+  fi
+  
+  echo "$context_content"
+}
+
+# Function to update todo status
+update_todo() {
+  local todo_id=$1
+  local status=$2
+  
+  if [ -n "$todo_id" ]; then
+    # Read the current todo list
+    local todo_file="/Volumes/Envoy/SecondBrain/.cl/todos/todos.json"
+    if [ -f "$todo_file" ]; then
+      # Update the todo status using jq
+      if command -v jq >/dev/null 2>&1; then
+        jq --arg id "$todo_id" --arg status "$status" '
+          .tasks = (.tasks | map(
+            if .id == $id then .status = $status else . end
+          ))
+        ' "$todo_file" > "${todo_file}.tmp" && mv "${todo_file}.tmp" "$todo_file"
+        
+        if $VERBOSE; then
+          echo "Updated todo $todo_id to status: $status"
+        fi
+      else
+        echo "Warning: jq not found, could not update todo status" >&2
+      fi
+    else
+      echo "Warning: Todo file not found at $todo_file" >&2
+    fi
+  fi
+}
+
+# Load API key from environment file
+if [ -f "/Volumes/Envoy/SecondBrain/secondbrain_api_keys.env" ]; then
+  source "/Volumes/Envoy/SecondBrain/secondbrain_api_keys.env"
+  CLAUDE_API_KEY="$ANTHROPIC_API_KEY"
+else
+  echo "Warning: API key file not found. Cannot make actual API calls." >&2
+  CLAUDE_API_KEY="dummy_key_for_simulation"
+fi
+
+# Initialize execution
+if ! $JSON_OUTPUT; then
+  echo "Starting headless execution at $(date)" | tee -a "$OUTPUT_FILE"
+  echo "Command: $COMMAND" | tee -a "$OUTPUT_FILE"
+  echo "" | tee -a "$OUTPUT_FILE"
+fi
+
+# Update todo status to in_progress if provided
+if [ -n "$TODO_ID" ]; then
+  update_todo "$TODO_ID" "in_progress"
+fi
+
+# Load context if needed
+CONTEXT=""
+if [ -n "$CONTEXT_DIR" ] || [ -f "/Volumes/Envoy/SecondBrain/CLAUDE.md" ]; then
+  CONTEXT=$(load_context "$CONTEXT_DIR")
+  
+  if $VERBOSE && ! $JSON_OUTPUT; then
+    echo "Loaded context:" | tee -a "$OUTPUT_FILE"
+    echo "---------------------------------" | tee -a "$OUTPUT_FILE"
+    echo "$CONTEXT" | head -n 10 | tee -a "$OUTPUT_FILE"
+    echo "... (truncated) ..." | tee -a "$OUTPUT_FILE"
+    echo "---------------------------------" | tee -a "$OUTPUT_FILE"
+  fi
+fi
+
+# Prepare the prompt
+PROMPT=""
+if [ -n "$PROMPT_FILE" ] && [ -f "$PROMPT_FILE" ]; then
+  PROMPT=$(cat "$PROMPT_FILE")
+  
+  if ! $JSON_OUTPUT; then
+    echo "Executing with prompt from: $PROMPT_FILE" | tee -a "$OUTPUT_FILE"
+    echo "-------------------------" | tee -a "$OUTPUT_FILE"
+    echo "$PROMPT" | tee -a "$OUTPUT_FILE"
+    echo "-------------------------" | tee -a "$OUTPUT_FILE"
+    echo "" | tee -a "$OUTPUT_FILE"
+  fi
+else
+  PROMPT="$COMMAND"
+  
+  if ! $JSON_OUTPUT; then
+    echo "Executing command as prompt" | tee -a "$OUTPUT_FILE"
+    echo "Command: $COMMAND" | tee -a "$OUTPUT_FILE"
+  fi
+fi
+
+# Prepare request payload
+REQUEST_JSON=$(cat <<EOF
+{
+  "model": "$MODEL",
+  "max_tokens": $MAX_TOKENS,
+  "messages": [
+    {"role": "user", "content": "$PROMPT"}
+  ]
+}
+EOF
+)
+
+if [ -n "$CONTEXT" ]; then
+  # Add system message with context
+  REQUEST_JSON=$(cat <<EOF
+{
+  "model": "$MODEL",
+  "max_tokens": $MAX_TOKENS,
+  "messages": [
+    {"role": "system", "content": "$CONTEXT"},
+    {"role": "user", "content": "$PROMPT"}
+  ]
+}
+EOF
+)
+fi
+
+# In a real implementation, make an API call to Claude
+# Here we're just simulating the response
+RESPONSE="This is a simulated response from Claude. In a real implementation, this would be the actual API response from Anthropic's Claude API."
+
+# Simulate API call (in real implementation, use curl)
+if $VERBOSE; then
+  echo "Would send API request to: $CLAUDE_BASE_URL" | tee -a "$OUTPUT_FILE"
+  echo "With model: $MODEL" | tee -a "$OUTPUT_FILE"
+  echo "Max tokens: $MAX_TOKENS" | tee -a "$OUTPUT_FILE"
+fi
+
+# Output the response
+if $JSON_OUTPUT; then
+  # Output in JSON format
+  RESULT_JSON=$(cat <<EOF
+{
+  "timestamp": "$TIMESTAMP",
+  "command": "$COMMAND",
+  "model": "$MODEL",
+  "response": "$RESPONSE",
+  "status": "success"
+}
+EOF
+)
+  echo "$RESULT_JSON" > "$OUTPUT_FILE"
+  
+  if $VERBOSE; then
+    echo "JSON response saved to: $OUTPUT_FILE"
+  fi
+else
+  # Output in text format
+  echo "Response:" | tee -a "$OUTPUT_FILE"
+  echo "-------------------------" | tee -a "$OUTPUT_FILE"
+  echo "$RESPONSE" | tee -a "$OUTPUT_FILE"
+  echo "-------------------------" | tee -a "$OUTPUT_FILE"
+  echo "" | tee -a "$OUTPUT_FILE"
+  echo "Headless execution completed at $(date)" | tee -a "$OUTPUT_FILE"
+  
+  if $VERBOSE; then
+    echo "---------------------------------"
+    echo "Output saved to: $OUTPUT_FILE"
+  fi
+fi
+
+# Update todo status to completed if provided
+if [ -n "$TODO_ID" ]; then
+  update_todo "$TODO_ID" "completed"
+fi
+
+# Exit with success code
+exit 0

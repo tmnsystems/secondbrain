@@ -1,0 +1,27 @@
+{
+  "topics": [
+    {
+      "topic": "Customer Segmentation",
+      "category": "Marketing Strategy",
+      "response": "When you're thinking about your customer segments, you need to be really specific. I tell clients to imagine they're writing a letter to one specific customer rather than to a vague group. This helps you speak directly to their needs and pain points.",
+      "approach": "Letter writing metaphor",
+      "context": "Discussion about marketing strategy for Fuji's business"
+    },
+    {
+      "topic": "Pricing Models",
+      "category": "Business Strategy",
+      "response": "Your pricing isn't just about covering costs. It communicates your value. Think of it like the cover of a book - it's the first impression potential clients get about the quality inside. Premium pricing says premium experience.",
+      "approach": "Book cover analogy",
+      "context": "Advising on service package pricing"
+    },
+    {
+      "topic": "Workflow Optimization",
+      "category": "Operations",
+      "response": "Systems are like rivers. They should flow naturally with gravity doing most of the work. When you find yourself pushing against the current, that's a sign your system needs restructuring.",
+      "approach": "River analogy",
+      "context": "Helping streamline business operations"
+    }
+  ],
+  "filename": "done_transcript_for_fuji_tina_coaching_8__txt.json",
+  "note": "This is sample data generated for testing purposes"
+}

@@ -1,0 +1,21 @@
+services:
+  relay:
+    build: ./infra/relay
+    container_name: secondbrain-relay
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./secondbrain_api_keys.env
+    environment:
+      - NOTION_SECONDBRAIN_TASKS_DB_ID=1e8f9e169eff812299cafb5d04576eed
+
+  claude-agent:
+    image: alpine:latest
+    container_name: claude-agent
+    network_mode: "host"
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    env_file:
+      - ./secondbrain_api_keys.env
+    command: ["sh", "-c", "apk add --no-cache nodejs npm git && npm install -g @anthropic/claude-code && tail -f /dev/null"]

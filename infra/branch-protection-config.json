@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "protected": true,
+  "require_pull_request": true,
+  "required_approvals": 1,
+  "dismiss_stale_approvals": true,
+  "require_status_checks": true,
+  "status_checks": [
+    "commit-gate"
+  ],
+  "block_on_rejected_reviews": true,
+  "block_on_outdated_branch": true,
+  "restrict_push": true,
+  "restrict_merge": false,
+  "restrict_push_whitelist": [
+    "repository-admins"
+  ]
+}

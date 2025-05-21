@@ -1,0 +1,277 @@
+name: CD Pipeline
+
+on:
+  workflow_run:
+    workflows: ["CI Pipeline"]
+    branches: [main]
+    types: [completed]
+
+jobs:
+  deploy-dev:
+    name: Deploy to Development
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    environment: development
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Download build artifacts
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const artifacts = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: ${{ github.event.workflow_run.id }}
+            });
+            
+            const buildArtifact = artifacts.data.artifacts.find(artifact => {
+              return artifact.name === "build-artifacts";
+            });
+            
+            if (!buildArtifact) {
+              throw new Error("Could not find build artifacts");
+            }
+            
+            const download = await github.rest.actions.downloadArtifact({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              artifact_id: buildArtifact.id,
+              archive_format: 'zip'
+            });
+            
+            const fs = require('fs');
+            fs.writeFileSync('build-artifacts.zip', Buffer.from(download.data));
+
+      - name: Extract build artifacts
+        run: unzip build-artifacts.zip -d dist
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata for Docker
+        id: meta
+        uses: docker/metadata-action@v4
+        with:
+          images: ghcr.io/${{ github.repository }}
+          tags: |
+            type=ref,event=branch
+            type=sha,format=short
+            dev
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Deploy to Development environment
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.DEV_HOST }}
+          username: ${{ secrets.DEV_USERNAME }}
+          key: ${{ secrets.DEV_SSH_KEY }}
+          script: |
+            cd /srv/secondbrain
+            docker pull ghcr.io/${{ github.repository }}:dev
+            docker-compose down
+            docker-compose up -d
+            docker image prune -f
+
+      - name: Notify deployment status
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: deployments
+          SLACK_COLOR: good
+          SLACK_ICON: https://github.com/rtCamp.png?size=48
+          SLACK_MESSAGE: 'Development deployment completed successfully! :rocket:'
+          SLACK_TITLE: Development Deployment
+          SLACK_USERNAME: github-actions
+
+  deploy-staging:
+    name: Deploy to Staging
+    needs: deploy-dev
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata for Docker
+        id: meta
+        uses: docker/metadata-action@v4
+        with:
+          images: ghcr.io/${{ github.repository }}
+          tags: |
+            type=ref,event=branch
+            type=sha,format=short
+            staging
+
+      - name: Promote image to staging
+        run: |
+          docker pull ghcr.io/${{ github.repository }}:dev
+          docker tag ghcr.io/${{ github.repository }}:dev ghcr.io/${{ github.repository }}:staging
+          docker push ghcr.io/${{ github.repository }}:staging
+
+      - name: Deploy to Staging environment
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.STAGING_HOST }}
+          username: ${{ secrets.STAGING_USERNAME }}
+          key: ${{ secrets.STAGING_SSH_KEY }}
+          script: |
+            cd /srv/secondbrain
+            docker pull ghcr.io/${{ github.repository }}:staging
+            docker-compose down
+            docker-compose up -d
+            docker image prune -f
+
+      - name: Run integration tests
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.STAGING_HOST }}
+          username: ${{ secrets.STAGING_USERNAME }}
+          key: ${{ secrets.STAGING_SSH_KEY }}
+          script: |
+            cd /srv/secondbrain/tests
+            ./run-integration-tests.sh
+
+      - name: Notify deployment status
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: deployments
+          SLACK_COLOR: good
+          SLACK_ICON: https://github.com/rtCamp.png?size=48
+          SLACK_MESSAGE: 'Staging deployment completed successfully! :rocket:'
+          SLACK_TITLE: Staging Deployment
+          SLACK_USERNAME: github-actions
+
+  deploy-production:
+    name: Deploy to Production
+    needs: deploy-staging
+    runs-on: ubuntu-latest
+    environment: production
+    # This ensures manual approval is required before deploying to production
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata for Docker
+        id: meta
+        uses: docker/metadata-action@v4
+        with:
+          images: ghcr.io/${{ github.repository }}
+          tags: |
+            type=ref,event=branch
+            type=sha,format=short
+            latest
+
+      - name: Promote image to production
+        run: |
+          docker pull ghcr.io/${{ github.repository }}:staging
+          docker tag ghcr.io/${{ github.repository }}:staging ghcr.io/${{ github.repository }}:latest
+          docker push ghcr.io/${{ github.repository }}:latest
+
+      - name: Deploy to Production environment
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.PROD_HOST }}
+          username: ${{ secrets.PROD_USERNAME }}
+          key: ${{ secrets.PROD_SSH_KEY }}
+          script: |
+            cd /srv/secondbrain
+            # Perform a blue-green deployment
+            echo "Starting blue-green deployment..."
+            
+            # Pull the new image
+            docker pull ghcr.io/${{ github.repository }}:latest
+            
+            # Start the new instance (green)
+            docker-compose -f docker-compose.prod.yml -f docker-compose.green.yml up -d
+            
+            # Wait for the new instance to be healthy
+            echo "Waiting for new instance to be healthy..."
+            for i in {1..30}; do
+              if curl -s http://localhost:8081/health | grep -q "ok"; then
+                echo "New instance is healthy!"
+                break
+              fi
+              echo "Waiting for new instance to become healthy... $i/30"
+              sleep 5
+            done
+            
+            # Switch traffic to the new instance
+            echo "Switching traffic to new instance..."
+            docker-compose -f docker-compose.prod.yml -f docker-compose.proxy.yml up -d
+            
+            # Stop the old instance (blue)
+            echo "Stopping old instance..."
+            docker-compose -f docker-compose.prod.yml -f docker-compose.blue.yml down
+            
+            # Clean up
+            docker image prune -f
+
+      - name: Create release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          release_name: Release v1.0.${{ github.run_number }}
+          body: |
+            Automated release from GitHub Actions.
+            
+            ## Changes in this release
+            ${{ github.event.head_commit.message }}
+            
+            ## Deployment information
+            - Environment: Production
+            - Deployment time: ${{ steps.deploy.outputs.time }}
+            - Deployment ID: ${{ github.run_id }}
+          draft: false
+          prerelease: false
+
+      - name: Notify deployment status
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: deployments
+          SLACK_COLOR: good
+          SLACK_ICON: https://github.com/rtCamp.png?size=48
+          SLACK_MESSAGE: 'Production deployment completed successfully! :rocket:'
+          SLACK_TITLE: Production Deployment
+          SLACK_USERNAME: github-actions

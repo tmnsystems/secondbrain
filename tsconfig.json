@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "declaration": true,
+    "baseUrl": ".",
+    "paths": {
+      "@secondbrain/core/*": ["packages/core/src/*"],
+      "@secondbrain/shared/*": ["packages/shared/src/*"],
+      "@secondbrain/agents-build/*": ["packages/agents/build/src/*"],
+      "@secondbrain/agents-executor/*": ["packages/agents/executor/src/*"],
+      "@secondbrain/agents-notion/*": ["packages/agents/notion/src/*"],
+      "@secondbrain/agents-orchestrator/*": ["packages/agents/orchestrator/src/*"],
+      "@secondbrain/agents-planner/*": ["packages/agents/planner/src/*"],
+      "@secondbrain/agents-refactor/*": ["packages/agents/refactor/src/*"],
+      "@secondbrain/agents-reviewer/*": ["packages/agents/reviewer/src/*"]
+    },
+    "lib": ["ES2020"],
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["packages/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts"],
+  "references": [
+    { "path": "./packages/core" },
+    { "path": "./packages/shared" },
+    { "path": "./packages/agents/build" }
+  ]
+}

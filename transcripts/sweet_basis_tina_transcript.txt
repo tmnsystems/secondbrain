@@ -1,0 +1,2408 @@
+WEBVTT
+
+00:02:39.000 --> 00:02:41.000
+Tina Marie: Hello!
+
+00:02:42.000 --> 00:02:44.000
+mark sweet: Okay, hopefully, you can hear me.
+
+00:02:44.000 --> 00:02:50.000
+Tina Marie: I can hear you. How are you doing.
+
+00:02:50.000 --> 00:03:01.000
+mark sweet: Um, we're having some major tech issues with our Crm or like, we can't see any of our documents. So not awesome.
+
+00:03:01.000 --> 00:03:04.000
+Tina Marie: What Crm are you using.
+
+00:03:03.000 --> 00:03:05.000
+mark sweet: Salesforce.
+
+00:03:05.000 --> 00:03:07.000
+Tina Marie: That's what is like. Lidify.
+
+00:03:07.000 --> 00:03:09.000
+mark sweet: Yeah, yeah.
+
+00:03:09.000 --> 00:03:12.000
+Tina Marie: That's bad. How long has that been going on.
+
+00:03:12.000 --> 00:03:16.000
+mark sweet: It just happened today. It was fine yesterday, so I don't know what's happening with it.
+
+00:03:18.000 --> 00:03:20.000
+Tina Marie: Yikes! What a bottleneck.
+
+00:03:18.000 --> 00:03:23.000
+mark sweet: I mean Isaac's working on it, but, like. Yeah.
+
+00:03:22.000 --> 00:03:34.000
+Tina Marie: It's nothing like a situation like that to make you realize. I'm trying to think of better words. But basically, how certain things kind of have you? By the.
+
+00:03:35.000 --> 00:03:41.000
+Tina Marie: Cojones. When you need to work. And our dependency on certain things.
+
+00:03:45.000 --> 00:03:48.000
+Tina Marie: Anyway. Hello, Dan.
+
+00:03:48.000 --> 00:03:50.000
+Dan Ryan: Ready!
+
+00:03:50.000 --> 00:03:52.000
+Tina Marie: Solidify. Salesforce is down.
+
+00:03:53.000 --> 00:03:55.000
+Dan Ryan: Oh, wow!
+
+00:03:54.000 --> 00:03:56.000
+Tina Marie: Yes.
+
+00:03:56.000 --> 00:03:58.000
+Dan Ryan: That's a bitch.
+
+00:04:00.000 --> 00:04:03.000
+Tina Marie: Yeah, so I imagine.
+
+00:04:02.000 --> 00:04:05.000
+Dan Ryan: I blame Elon just because.
+
+00:04:05.000 --> 00:04:07.000
+mark sweet: Certainly could be.
+
+00:04:06.000 --> 00:04:08.000
+Dan Ryan: Yeah.
+
+00:04:09.000 --> 00:04:14.000
+Tina Marie: Um, anyway. Well, has that happened before.
+
+00:04:15.000 --> 00:04:17.000
+mark sweet: Not like this.
+
+00:04:17.000 --> 00:04:19.000
+Tina Marie: What did they respond with.
+
+00:04:19.000 --> 00:04:22.000
+mark sweet: I don't know. Isaac's working on at the moment.
+
+00:04:23.000 --> 00:04:29.000
+Tina Marie: Hmm. I would imagine that as big as they are, that they would.
+
+00:04:29.000 --> 00:04:31.000
+Tina Marie: It'd be all hands on deck and solved.
+
+00:04:32.000 --> 00:04:37.000
+mark sweet: I think it's more lidify issue because there's no report incidents with salesforce. So.
+
+00:04:32.000 --> 00:04:34.000
+Tina Marie: Pretty quickly.
+
+00:04:36.000 --> 00:04:39.000
+Dan Ryan: Yeah, I was gonna say, salesforce is not down.
+
+00:04:39.000 --> 00:04:42.000
+mark sweet: Yeah, so it's lidify.
+
+00:04:43.000 --> 00:04:45.000
+Tina Marie: Are, your.
+
+00:04:43.000 --> 00:04:49.000
+mark sweet: Who tried to push. Some update that broke everything, because.
+
+00:04:49.000 --> 00:04:52.000
+mark sweet: You know, when you push updates stuff breaks.
+
+00:04:52.000 --> 00:04:54.000
+Dan Ryan: Yeah, it does.
+
+00:04:54.000 --> 00:04:56.000
+Tina Marie: An update on their end.
+
+00:04:56.000 --> 00:04:58.000
+mark sweet: Yeah.
+
+00:04:59.000 --> 00:05:05.000
+Tina Marie: One. Feel a rollback coming in your future.
+
+00:05:06.000 --> 00:05:14.000
+Tina Marie: Um, let's see. Okay, so the leads are looking. I mean, retainers. Looking good for the month. So far.
+
+00:05:17.000 --> 00:05:23.000
+Tina Marie: Yeah. And axe. I know this one. It's.
+
+00:05:22.000 --> 00:05:25.000
+mark sweet: That was acting.com. We kind of took a risk on one.
+
+00:05:25.000 --> 00:05:34.000
+Tina Marie: Yeah. Um, what kind of case is it? You said risk on on that one. So it's not a great case, probably.
+
+00:05:35.000 --> 00:05:44.000
+mark sweet: And then. Yeah, let me look at the details. I just remember it was like one. It's kind of on the fence like it's not great, but it could be, okay.
+
+00:05:47.000 --> 00:05:53.000
+mark sweet: And there's a rib fracture which is decent. Um, but they said like.
+
+00:05:53.000 --> 00:06:00.000
+mark sweet: A car backed into them at full speed, which. Generally doesn't happen. Also, our.
+
+00:06:00.000 --> 00:06:04.000
+mark sweet: Client has no insurance. But the defendant was Dui.
+
+00:06:04.000 --> 00:06:11.000
+mark sweet: Apparently. So. We're hoping there's insurance on defendant. But it's not like the uh.
+
+00:06:11.000 --> 00:06:13.000
+mark sweet: Greatest case.
+
+00:06:16.000 --> 00:06:24.000
+Tina Marie: Okay, so Walker, total 7. 13.
+
+00:06:24.000 --> 00:06:29.000
+Tina Marie: Total, no. Yeah.
+
+00:06:31.000 --> 00:06:38.000
+Tina Marie: Where's the majority of them? 11 blue steel dots.
+
+00:06:38.000 --> 00:06:40.000
+Tina Marie: Devin right.
+
+00:06:39.000 --> 00:06:41.000
+mark sweet: No, that's quantify.
+
+00:06:40.000 --> 00:06:42.000
+Tina Marie: No! This! What?
+
+00:06:42.000 --> 00:06:44.000
+mark sweet: Quantify.
+
+00:06:44.000 --> 00:06:49.000
+Tina Marie: Oh, yeah. Sorry. Um wait. Oh, Devin's valiant, though.
+
+00:06:49.000 --> 00:06:55.000
+Tina Marie: Quantify nice. Um 5 returning clients. Cool.
+
+00:06:57.000 --> 00:07:02.000
+Tina Marie: It's looking good. I hope it keeps. Going.
+
+00:07:01.000 --> 00:07:06.000
+mark sweet: Yeah. The returning clients and the employee referrals are kind of big enough for lower doctor referrals.
+
+00:07:06.000 --> 00:07:10.000
+Tina Marie: Yeah. Oh, I wasn't even looking at the doctor referral. So it's good.
+
+00:07:09.000 --> 00:07:14.000
+mark sweet: We've gotten some referrals. Just the cases haven't been. Quality from them.
+
+00:07:14.000 --> 00:07:20.000
+Tina Marie: And do you feel like you've been on your doctor referral game like really reaching out to people.
+
+00:07:20.000 --> 00:07:23.000
+mark sweet: Yeah. And they all just got their gift boxes.
+
+00:07:23.000 --> 00:07:33.000
+Tina Marie: Oh, nice! Well, hopefully, that'll get some returns. So did you get the text reply. I sent you to the um touch bar. Um. Text.
+
+00:07:32.000 --> 00:07:36.000
+mark sweet: So yeah, there's like 4 problems with it.
+
+00:07:36.000 --> 00:07:38.000
+Tina Marie: Yeah.
+
+00:07:37.000 --> 00:07:41.000
+mark sweet: But it did go through. But there's like 4 problems.
+
+00:07:42.000 --> 00:07:45.000
+Tina Marie: Which ones are the ones. What problems do you see?
+
+00:07:45.000 --> 00:07:47.000
+mark sweet: Uh, it's coming from an 8, 3, 3 number.
+
+00:07:49.000 --> 00:07:51.000
+Tina Marie: Not your number?
+
+00:07:50.000 --> 00:07:57.000
+mark sweet: Nope. It's coming from 8, 3, 3, 6, 2, 8.
+
+00:07:53.000 --> 00:07:58.000
+Tina Marie: Okay. Oh, yeah, cause that would have, said Mark sweet, though.
+
+00:07:58.000 --> 00:08:04.000
+mark sweet: 1, 7, 2, 3. Um, and then it also has a reply. Stop to unsubscribe at the bottom.
+
+00:08:04.000 --> 00:08:08.000
+Tina Marie: Yeah, that was, I was like, that's not cool.
+
+00:08:07.000 --> 00:08:10.000
+mark sweet: And then it also just says, Sweet lowers under my name, which.
+
+00:08:10.000 --> 00:08:15.000
+Dan Ryan: Uh no, so the reply, stop is legal. Can't remove it.
+
+00:08:16.000 --> 00:08:20.000
+Tina Marie: So that kind of makes this a moot point, because that makes it not look personal.
+
+00:08:22.000 --> 00:08:25.000
+Dan Ryan: Or you want me to stop.
+
+00:08:26.000 --> 00:08:28.000
+mark sweet: Can we break the law and not have it.
+
+00:08:28.000 --> 00:08:32.000
+Dan Ryan: No, it's bake, it's baked in. You can't remove it.
+
+00:08:32.000 --> 00:08:41.000
+mark sweet: Okay. Oh!
+
+00:08:42.000 --> 00:08:44.000
+mark sweet: That's a problem.
+
+00:08:43.000 --> 00:08:45.000
+Tina Marie: Hmm.
+
+00:08:44.000 --> 00:08:50.000
+Dan Ryan: All right. Well. The the life and death of Touchbot was short.
+
+00:08:49.000 --> 00:08:53.000
+mark sweet: It was a long, glorious, short life.
+
+00:08:52.000 --> 00:08:54.000
+Dan Ryan: Yeah.
+
+00:08:53.000 --> 00:08:57.000
+mark sweet: It was a it was a bright candle. But yeah, that's gonna kill it for me.
+
+00:09:00.000 --> 00:09:02.000
+Tina Marie: Spill my water.
+
+00:09:02.000 --> 00:09:10.000
+Dan Ryan: Yeah, I mean, then the I don't know how you would do that. Then you would need like. I don't think.
+
+00:09:08.000 --> 00:09:11.000
+mark sweet: Didn't you check a box saying that they already subscribed to it?
+
+00:09:11.000 --> 00:09:13.000
+Dan Ryan: Camp.
+
+00:09:13.000 --> 00:09:15.000
+mark sweet: Okay.
+
+00:09:13.000 --> 00:09:19.000
+Dan Ryan: Yeah, it's literally like we don't. We can't even affect. What it says.
+
+00:09:20.000 --> 00:09:22.000
+mark sweet: Then I think this is.
+
+00:09:21.000 --> 00:09:27.000
+Dan Ryan: Now look into it, but I know I mean I know it's in every 1st message. And then it never shows up again.
+
+00:09:27.000 --> 00:09:29.000
+mark sweet: Yeah, no, I mean, I I.
+
+00:09:28.000 --> 00:09:30.000
+Dan Ryan: Okay.
+
+00:09:29.000 --> 00:09:33.000
+mark sweet: Understand, the. Normal way of doing it.
+
+00:09:34.000 --> 00:09:38.000
+mark sweet: I'm just wondering how we can. Not do it that way.
+
+00:09:36.000 --> 00:09:41.000
+Dan Ryan: I wonder? I wonder if Mm. Cause we're not. I mean we. We're.
+
+00:09:41.000 --> 00:09:50.000
+Dan Ryan: Because you're never really sending it from your phone. So you're always piggybacking on twilio. Uh! I'll I'll I'll dig into it.
+
+00:09:52.000 --> 00:09:57.000
+mark sweet: Unless there's some macro to make it go for my phone. But. I don't think so.
+
+00:09:57.000 --> 00:10:02.000
+Dan Ryan: Right, you'd have to do something like that. But Apple definitely would not allow that.
+
+00:10:01.000 --> 00:10:05.000
+mark sweet: I don't see Apple allowing that, and I'm not about to switch to Android.
+
+00:10:04.000 --> 00:10:06.000
+Dan Ryan: Yeah.
+
+00:10:11.000 --> 00:10:14.000
+mark sweet: Okay. Well, uh, that kills that one.
+
+00:10:14.000 --> 00:10:17.000
+Tina Marie: So neither one of you are looking at the screen right.
+
+00:10:23.000 --> 00:10:29.000
+mark sweet: I mean, that is totally right like, that's what you have to do. We're just trying to see if there's.
+
+00:10:25.000 --> 00:10:27.000
+Tina Marie: You know.
+
+00:10:29.000 --> 00:10:31.000
+mark sweet: Some way to cheat it.
+
+00:10:30.000 --> 00:10:36.000
+Tina Marie: That's weird. Well, so with before, yeah. But before I put an iphone.
+
+00:10:30.000 --> 00:10:33.000
+Dan Ryan: Oh, yeah, that's what we're doing. We're.
+
+00:10:36.000 --> 00:10:42.000
+Tina Marie: This is what the response was. Yeah. But anyway, so there's no.
+
+00:10:43.000 --> 00:10:50.000
+Tina Marie: Need a 3rd party. Toyo. Bye-bye.
+
+00:10:51.000 --> 00:10:58.000
+Tina Marie: Well, uh! You can hire a monkey.
+
+00:10:58.000 --> 00:11:00.000
+Dan Ryan: Uh! You know what you could do.
+
+00:11:00.000 --> 00:11:02.000
+Tina Marie: Hmm.
+
+00:11:00.000 --> 00:11:02.000
+mark sweet: And my phone to America.
+
+00:11:00.000 --> 00:11:08.000
+Dan Ryan: You would send everyone a message from sweet Law. And then they all would have gotten the 1st message.
+
+00:11:09.000 --> 00:11:12.000
+Dan Ryan: And then you start doing it as mark.
+
+00:11:12.000 --> 00:11:19.000
+Tina Marie: I like that. But are you sure every subsequent message doesn't have to have a opt out.
+
+00:11:20.000 --> 00:11:24.000
+Dan Ryan: I I literally got the message today. I don't have it.
+
+00:11:24.000 --> 00:11:26.000
+mark sweet: No, it's just not the 1st one.
+
+00:11:24.000 --> 00:11:26.000
+Dan Ryan: Because I was the. I was the test case.
+
+00:11:26.000 --> 00:11:28.000
+mark sweet: Yeah.
+
+00:11:28.000 --> 00:11:32.000
+Dan Ryan: That's why, when you guys said it, I'm like, what are you talking about? That isn't in there. But that's because I've already been messaged.
+
+00:11:28.000 --> 00:11:34.000
+Tina Marie: Oh! Oh!
+
+00:11:37.000 --> 00:11:42.000
+Tina Marie: So we just need to think of a message that they would not opt out of.
+
+00:11:43.000 --> 00:11:45.000
+Dan Ryan: Well, if they opt out, they opt out, but.
+
+00:11:45.000 --> 00:11:53.000
+Tina Marie: Well, yeah, but. We also probably don't want a big percentage of opting out.
+
+00:11:53.000 --> 00:12:01.000
+Tina Marie: For 2 reasons. Number one, we want it to work. Number 2. I would imagine that there's. Um something.
+
+00:12:01.000 --> 00:12:05.000
+Tina Marie: Relatable to a sender score for texting.
+
+00:12:05.000 --> 00:12:15.000
+Dan Ryan: Well, I guess the other bit would be. Can we send a message and then switch it to Mark's phone number? So the 1st message goes out from the 8. Whatever.
+
+00:12:15.000 --> 00:12:27.000
+Dan Ryan: And then you switch you switch the bot inside the thing to start using a different number. Will that. It should. I think it will, because it's really sending it through the original number.
+
+00:12:21.000 --> 00:12:23.000
+Tina Marie: Trigger.
+
+00:12:27.000 --> 00:12:31.000
+Dan Ryan: And it's just printing Mark's number as the return number.
+
+00:12:30.000 --> 00:12:33.000
+Tina Marie: So do you need a reminder to go try that.
+
+00:12:36.000 --> 00:12:38.000
+Dan Ryan: Yeah.
+
+00:12:37.000 --> 00:12:39.000
+Tina Marie: Okay, let me send that to you.
+
+00:12:39.000 --> 00:12:41.000
+Dan Ryan: Why?
+
+00:12:39.000 --> 00:12:41.000
+Tina Marie: Oh, CC. Stacy.
+
+00:12:44.000 --> 00:12:55.000
+Dan Ryan: Yeah. And you would just send like a general message that's like, Hey, this is a text from sweet law. You know. Uh, it's just a way for us to communicate with you in the future in case of emergency, or whatever.
+
+00:12:56.000 --> 00:13:02.000
+Dan Ryan: You know we we won't be texting you normally. Something like that. To get them to, not update.
+
+00:13:06.000 --> 00:13:08.000
+mark sweet: Or for events and parties, or something like that.
+
+00:13:08.000 --> 00:13:10.000
+Dan Ryan: Yeah, like, yeah, yeah, totally.
+
+00:13:10.000 --> 00:13:12.000
+mark sweet: So it makes more fun.
+
+00:13:14.000 --> 00:13:22.000
+Dan Ryan: If you want your gift basket in the future, don't opt out. Bitches.
+
+00:13:21.000 --> 00:13:24.000
+mark sweet: I don't think we should say that in writing, but um.
+
+00:13:23.000 --> 00:13:25.000
+Tina Marie: Yeah, I was gonna say.
+
+00:13:24.000 --> 00:13:27.000
+Dan Ryan: I mean, that's the that's the tone we're looking for.
+
+00:13:31.000 --> 00:13:36.000
+Tina Marie: Yeah, so. You're gonna craft that message, mark.
+
+00:13:37.000 --> 00:13:39.000
+mark sweet: Yeah, I can do that.
+
+00:13:38.000 --> 00:13:40.000
+Tina Marie: Do you need a reminder.
+
+00:13:40.000 --> 00:13:42.000
+mark sweet: Probably.
+
+00:13:41.000 --> 00:13:48.000
+Tina Marie: Alright! I'm a CC. Dan. So when you reply it will go to him.
+
+00:13:48.000 --> 00:13:50.000
+Tina Marie: Oh!
+
+00:14:02.000 --> 00:14:04.000
+mark sweet: So I got a new toy for Dan.
+
+00:14:04.000 --> 00:14:06.000
+Dan Ryan: New? What.
+
+00:14:05.000 --> 00:14:07.000
+mark sweet: Toy.
+
+00:14:06.000 --> 00:14:08.000
+Dan Ryan: Oh, what's that?
+
+00:14:07.000 --> 00:14:18.000
+mark sweet: So selco. Forced. I don't know. Anyway, we are doing this thing where we get the back page of a magazine don't really care that much about it. It would be great if it turned into something from that alone.
+
+00:14:18.000 --> 00:14:32.000
+mark sweet: But we can push whatever we want to their website. The reason it's good. It's called city lifestyle. Um, so it's 1 of those magazines they like hand out.
+
+00:14:32.000 --> 00:14:36.000
+mark sweet: To businesses and. Waiting rooms, and whatever else.
+
+00:14:38.000 --> 00:14:44.000
+mark sweet: But from an SEO standpoint we can push whatever we want, ie. Death blogs onto their.
+
+00:14:38.000 --> 00:14:40.000
+Dan Ryan: Uh-huh.
+
+00:14:44.000 --> 00:14:48.000
+mark sweet: Website which is recognized by Google as a legitimate journal source.
+
+00:14:49.000 --> 00:14:51.000
+Dan Ryan: Who? Who is this?
+
+00:14:52.000 --> 00:15:01.000
+mark sweet: Dude's name is Brandon Farmer um. But it's the nationwide thing is called city lifestyle.
+
+00:14:57.000 --> 00:15:04.000
+Dan Ryan: What? Yeah. So this is like the Steve.
+
+00:15:05.000 --> 00:15:07.000
+Dan Ryan: No, the canvas.
+
+00:15:05.000 --> 00:15:07.000
+mark sweet: This is just like that. Yeah.
+
+00:15:07.000 --> 00:15:09.000
+Dan Ryan: Yeah.
+
+00:15:08.000 --> 00:15:11.000
+mark sweet: Yes, this is la weekly, but.
+
+00:15:10.000 --> 00:15:12.000
+Dan Ryan: Yeah.
+
+00:15:11.000 --> 00:15:18.000
+mark sweet: Whatever it is. But this one is nationwide instead of just local. Um, the newspaper.
+
+00:15:18.000 --> 00:15:20.000
+mark sweet: Back that we bought is local.
+
+00:15:21.000 --> 00:15:23.000
+Dan Ryan: Yeah.
+
+00:15:22.000 --> 00:15:30.000
+mark sweet: But what I'm saying is overall that their website is nationwide. So theoretically, if we see. Somehow from an SEO perspective.
+
+00:15:30.000 --> 00:15:35.000
+mark sweet: It's literally like. 3 grand a month. It's not a huge amount.
+
+00:15:35.000 --> 00:15:43.000
+mark sweet: For their printed stuff on the back. We don't have to buy an entire back cover. We can just buy like a quarter of a page or something moving forward as long as we still have access to.
+
+00:15:44.000 --> 00:15:55.000
+mark sweet: Posting on their online. Portals uh. So this could be something that would be kind of cool if it works to be able to do on multiple of these smaller publications.
+
+00:15:47.000 --> 00:15:59.000
+Dan Ryan: Yeah. Gotcha.
+
+00:15:57.000 --> 00:16:05.000
+mark sweet: Especially if we start finding ones that are. Let's just say, you know, Colorado specific or Washington specific. To push those.
+
+00:16:05.000 --> 00:16:10.000
+mark sweet: Death blogs for those States. To those channels.
+
+00:16:10.000 --> 00:16:13.000
+mark sweet: And should give us a nice pop locally.
+
+00:16:14.000 --> 00:16:17.000
+Tina Marie: Did you say how much it cost? I forgot.
+
+00:16:16.000 --> 00:16:25.000
+mark sweet: It was like 3 grand a month. But that was to buy the whole back page. So if we're only buying, let's say, like a quarter of a page, I think it's like.
+
+00:16:26.000 --> 00:16:28.000
+mark sweet: 1,500 1,800, something like that.
+
+00:16:32.000 --> 00:16:37.000
+Dan Ryan: And then you can push stuff to that like, did they say, how.
+
+00:16:38.000 --> 00:16:47.000
+mark sweet: Uh, I just forward you, the you guys, the email we used to log in. But I'm not a thousand percent sure. And I'm sure each one's gonna have a little bit of a different.
+
+00:16:47.000 --> 00:16:49.000
+Dan Ryan: Yeah.
+
+00:16:48.000 --> 00:16:52.000
+mark sweet: In my experience. It's mostly been you log in, and you can like post whatever blog you want.
+
+00:16:58.000 --> 00:17:00.000
+Dan Ryan: I'll look at it.
+
+00:17:01.000 --> 00:17:06.000
+mark sweet: Uh! But if that works it could be. Super cool.
+
+00:17:08.000 --> 00:17:15.000
+Tina Marie: Well, it definitely falls in line with diversification. Uh, so that we can.
+
+00:17:16.000 --> 00:17:27.000
+Tina Marie: Not be reliant on any one, or 2, or 3, or whatever amount of sources, because they all. Vacillate. I guess that's not the word, really. But you know what I mean.
+
+00:17:27.000 --> 00:17:29.000
+mark sweet: Yes, yes, it.
+
+00:17:28.000 --> 00:17:34.000
+Tina Marie: Evan blow. So when does that go live?
+
+00:17:34.000 --> 00:17:43.000
+mark sweet: Uh now, Ish, we have to give them our. Uh creatives, I think, either by the 20th or 25.th
+
+00:17:43.000 --> 00:17:56.000
+mark sweet: Um pay like $50 a month to have them help us with it. I again I don't really care what's on the back. I don't see the magazine driving a lot of business now that I don't want to give something that looks half decent, but.
+
+00:17:56.000 --> 00:18:00.000
+mark sweet: Um to me. This is way more of an SEO play.
+
+00:18:00.000 --> 00:18:08.000
+Tina Marie: You don't have any. People on staff to create creatives? Do they have people? You can hire.
+
+00:18:09.000 --> 00:18:15.000
+mark sweet: For like $50 a month, they'll put it together. But. You know honestly a chat. Gbt. Which.
+
+00:18:15.000 --> 00:18:20.000
+mark sweet: Is probably just as good as a basic. Creative agency. At this point.
+
+00:18:22.000 --> 00:18:31.000
+Tina Marie: Yeah. Uh. The only thing, maybe, is just like a good, the good, a good image. Um, but having it.
+
+00:18:32.000 --> 00:18:42.000
+Tina Marie: Uh, if you have it, say, if you say you know, what would Jean Schwartz say? I should have as an image for this. Or some of the other advertisers, but.
+
+00:18:42.000 --> 00:18:59.000
+Tina Marie: Gene's a good start for it, except for his stuff, wasn't. Internet based. Dan, do you have like? What could we use as a reference to say, Chat Gbt, help me choose um the image. I should go look for like in a, you know, adobe images, or whatever stock images.
+
+00:18:59.000 --> 00:19:04.000
+Tina Marie: Based off of. Um modern like current.
+
+00:19:04.000 --> 00:19:14.000
+Tina Marie: Data, on. Because, like statistically, the latest that I know of is basically, if there's 1st of all, there should be smiling faces.
+
+00:19:14.000 --> 00:19:20.000
+Tina Marie: They should be looking at you, but then. Within the context of what's actually happening.
+
+00:19:20.000 --> 00:19:28.000
+Tina Marie: Um. And and then we how do? You can't even really split test that. So you really want to get it good from the beginning.
+
+00:19:29.000 --> 00:19:32.000
+mark sweet: Cause. We have a bunch of photos and stuff we took when we made the.
+
+00:19:29.000 --> 00:19:31.000
+Tina Marie: Dear.
+
+00:19:33.000 --> 00:19:42.000
+mark sweet: How is it the Led Gorilla lighting people. So we've got a lot of like Sam and Tyler, and whatever else that we can cycle through.
+
+00:19:44.000 --> 00:19:54.000
+Tina Marie: Yeah. I'd really be interested in finding a way that we could run a internal test on.
+
+00:19:54.000 --> 00:20:07.000
+Tina Marie: In engagement between pictures of you guys smiling and not smiling. Because that conversation that we had about your hero image. I don't want to make assumptions, but.
+
+00:20:07.000 --> 00:20:21.000
+Tina Marie: Anything where we're using images. And it's on your website. I don't know what ads are done. If anything that has pictures. But it would be good to know what gets more clicks, smiling or not smiling. Every other niche.
+
+00:20:21.000 --> 00:20:26.000
+Tina Marie: Pretty, much smiling. But it may not hold true for law.
+
+00:20:28.000 --> 00:20:30.000
+mark sweet: And.
+
+00:20:30.000 --> 00:20:38.000
+Tina Marie: Could we run some kind of. Low, cost, simple thing, only just really for that test.
+
+00:20:38.000 --> 00:20:45.000
+Tina Marie: Um. Trying to think what what we can do.
+
+00:20:49.000 --> 00:20:56.000
+Tina Marie: Cause. Um? Do we run any visual ads.
+
+00:20:57.000 --> 00:21:01.000
+Dan Ryan: Don't run any ads. I mean, we just run.
+
+00:21:00.000 --> 00:21:02.000
+Tina Marie: Well, yeah.
+
+00:21:01.000 --> 00:21:05.000
+Dan Ryan: We just run brand ads on. Google.
+
+00:21:03.000 --> 00:21:05.000
+Tina Marie: Yeah.
+
+00:21:06.000 --> 00:21:09.000
+Dan Ryan: No images, no banners, no nothing.
+
+00:21:11.000 --> 00:21:16.000
+Tina Marie: Could we do something? That is. Relatively low enough budget just to get this data.
+
+00:21:18.000 --> 00:21:24.000
+Dan Ryan: Uh, I'm not sure what we're testing here. What are we testing. Date on.
+
+00:21:22.000 --> 00:21:29.000
+Tina Marie: Imagery? Does it. Does like, whether it be for the website or any creative, that he goes and creates out.
+
+00:21:29.000 --> 00:21:45.000
+Tina Marie: Creates like like this to go put in a magazine that's just going to live there, and we can't really split. Test. It. Does do people interact better with the smiling version of Sweetlaw or the, you know, we look tough and nobody's smiling.
+
+00:21:47.000 --> 00:21:56.000
+Dan Ryan: Um. I mean, I don't know how you would necessarily.
+
+00:21:57.000 --> 00:21:59.000
+Dan Ryan: Test, that.
+
+00:21:59.000 --> 00:22:12.000
+Tina Marie: Can we just do a. So we don't actually need it to give us quality leads. We just need to know what gets engaged with more. But could we do some kind of display ad. For a month, and just the only split test is.
+
+00:22:12.000 --> 00:22:17.000
+Tina Marie: Between the images, and see what gets more engagement.
+
+00:22:18.000 --> 00:22:20.000
+Dan Ryan: What's engagement?
+
+00:22:20.000 --> 00:22:26.000
+Tina Marie: Well, maybe it's filling out a form, something that would. Validate the test to a degree.
+
+00:22:26.000 --> 00:22:32.000
+Tina Marie: Because it's not really going to be. I don't know.
+
+00:22:31.000 --> 00:22:39.000
+Dan Ryan: Yeah, that's what I'm saying. It's like the. The like. If it's a magazine ad, right? There is no click. So it's like, how would you.
+
+00:22:40.000 --> 00:22:51.000
+Tina Marie: Could we go like handpick? Maybe there are. Blogs that would be relevant, and we could say, Hey, we want to run, display ads, but only on these blogs.
+
+00:22:51.000 --> 00:22:56.000
+Tina Marie: And only on these sites. That maybe are.
+
+00:22:56.000 --> 00:23:02.000
+Tina Marie: Indirectly related. Um.
+
+00:23:04.000 --> 00:23:11.000
+Tina Marie: Like I don't know. Someplace where families would congregate.
+
+00:23:12.000 --> 00:23:16.000
+Tina Marie: Like maybe a genealogy blog, or like a.
+
+00:23:15.000 --> 00:23:19.000
+Dan Ryan: So what is the pitch? What are we even pitching right? So like.
+
+00:23:18.000 --> 00:23:24.000
+Tina Marie: It. It could just be got injured. It could be in a literal actual ad for um.
+
+00:23:23.000 --> 00:23:31.000
+Dan Ryan: No, I mean in the magazine like, is there? What is the pay? What is the is the magazine? Just a brand play, is it a.
+
+00:23:25.000 --> 00:23:27.000
+Tina Marie: Oh!
+
+00:23:31.000 --> 00:23:37.000
+Dan Ryan: Got injured like? What? What is the. What was the proposed pitch? If any.
+
+00:23:37.000 --> 00:23:39.000
+Tina Marie: Mhm.
+
+00:23:40.000 --> 00:23:46.000
+Dan Ryan: And then what did they say? I mean the other. Why, why this magazine? Why did you pick this.
+
+00:23:46.000 --> 00:23:48.000
+mark sweet: Okay.
+
+00:23:48.000 --> 00:23:52.000
+Dan Ryan: Selco. I thought I heard his name earlier. How is Selco?
+
+00:23:50.000 --> 00:23:59.000
+mark sweet: Yeah, it's like one of his buddies, and it's not an insane expense to try for a year. But I was more excited from the SEO perspective than anything else.
+
+00:24:00.000 --> 00:24:06.000
+Dan Ryan: Alright. I need to go. Look at the. But it's it's a literally a physical magazine.
+
+00:24:06.000 --> 00:24:08.000
+mark sweet: Yeah.
+
+00:24:06.000 --> 00:24:08.000
+Dan Ryan: As well as these websites.
+
+00:24:10.000 --> 00:24:16.000
+mark sweet: So there's 2 things. There's a physical magazine. Like if you've ever been in a doctor room right or.
+
+00:24:16.000 --> 00:24:18.000
+Tina Marie: Mhm.
+
+00:24:16.000 --> 00:24:27.000
+mark sweet: Whatever where they're like the local magazine of mostly ads, and like. Here's the top 10 realtors, and whatever um like, they're lifestyle magazines for lack of a better term.
+
+00:24:27.000 --> 00:24:31.000
+Dan Ryan: Yeah, I went to. I mean, did I go to the wrong website? There is no website.
+
+00:24:33.000 --> 00:24:35.000
+mark sweet: For city life.
+
+00:24:35.000 --> 00:24:42.000
+Dan Ryan: Yeah, I mean, maybe I typed it in wrong. I was like. Yeah, no, there's no website like, there's a.
+
+00:24:42.000 --> 00:24:45.000
+Dan Ryan: Find local content like am I supposed to freaking? Go in.
+
+00:24:45.000 --> 00:24:47.000
+mark sweet: All right. City lifestyle.
+
+00:24:47.000 --> 00:24:49.000
+Tina Marie: Yeah.
+
+00:24:47.000 --> 00:24:53.000
+Dan Ryan: Oh, yeah, I went. I got it. Good grief.
+
+00:24:53.000 --> 00:24:55.000
+mark sweet: Uh-huh.
+
+00:24:55.000 --> 00:24:57.000
+Dan Ryan: Okay. Yeah.
+
+00:25:01.000 --> 00:25:03.000
+Tina Marie: Wait? Why does it.
+
+00:25:01.000 --> 00:25:03.000
+Dan Ryan: Sure.
+
+00:25:03.000 --> 00:25:08.000
+Tina Marie: It comes up when I click on it. But not when I.
+
+00:25:09.000 --> 00:25:13.000
+Tina Marie: Oh, I spelled city with a I that's right.
+
+00:25:12.000 --> 00:25:20.000
+Dan Ryan: Oh, Lord! This thing's a shit show. None of it worked.
+
+00:25:18.000 --> 00:25:24.000
+Tina Marie: So what kind of stats did they give you? And why was Saco interested in it? How didn't he suggest it?
+
+00:25:23.000 --> 00:25:25.000
+mark sweet: It's 1 of his buddies.
+
+00:25:23.000 --> 00:25:26.000
+Dan Ryan: Program. It's program. That's all. This.
+
+00:25:25.000 --> 00:25:28.000
+Tina Marie: One of his buddies.
+
+00:25:27.000 --> 00:25:35.000
+mark sweet: One of his buddies just bought it because they sell nice to like local people. Oh, like hey! Look how much more you can get.
+
+00:25:36.000 --> 00:25:38.000
+mark sweet: By running your own newspaper company.
+
+00:25:37.000 --> 00:25:39.000
+Dan Ryan: This doesn't work.
+
+00:25:41.000 --> 00:25:43.000
+Tina Marie: What Dan?
+
+00:25:42.000 --> 00:25:50.000
+Dan Ryan: It doesn't work. I'm like in Chula Vista, and I click on everything, and every page is blank. It wants to load something, but it won't.
+
+00:25:51.000 --> 00:25:59.000
+Dan Ryan: It's got some janky ass, Jquery, content thing. It looks like. Oh, boy!
+
+00:25:58.000 --> 00:26:03.000
+Tina Marie: Newport Beach, California. No results found, no publications found.
+
+00:26:03.000 --> 00:26:14.000
+mark sweet: I mean Arizona. They got Chandler, Gilbert, Mesa, Scottsdale, Surprise, Tempe, Tucson. Got bend Oregon.
+
+00:26:15.000 --> 00:26:19.000
+Dan Ryan: Oh, yeah, no. It looks like they just have a. Uh um.
+
+00:26:20.000 --> 00:26:26.000
+Dan Ryan: Dynamic like. You look up your zip code here, we're gonna see.
+
+00:26:26.000 --> 00:26:30.000
+mark sweet: Or if you go down the bottom, you can look at the magazines. You can see every.
+
+00:26:30.000 --> 00:26:32.000
+Dan Ryan: The site is fucked.
+
+00:26:33.000 --> 00:26:36.000
+mark sweet: Want to start a publication, you can.
+
+00:26:36.000 --> 00:26:38.000
+Dan Ryan: It's not indexed in Google.
+
+00:26:39.000 --> 00:26:41.000
+mark sweet: What?
+
+00:26:40.000 --> 00:26:42.000
+Dan Ryan: Yeah. Don't give them any money.
+
+00:26:42.000 --> 00:26:45.000
+mark sweet: Well, it's a little late for that, but.
+
+00:26:43.000 --> 00:26:45.000
+Dan Ryan: Uh.
+
+00:26:45.000 --> 00:26:47.000
+mark sweet: Here we are!
+
+00:26:45.000 --> 00:26:55.000
+Dan Ryan: Uh, literally. It. The only page that's indexed is their homepage. There is no sub pages indexed in Google, none. So this has 0 reach.
+
+00:26:56.000 --> 00:27:02.000
+Tina Marie: These are issue. Um. Magazines.
+
+00:27:02.000 --> 00:27:04.000
+Tina Marie: Which is its own publication.
+
+00:27:10.000 --> 00:27:12.000
+Dan Ryan: Oh, Selco.
+
+00:27:11.000 --> 00:27:13.000
+Tina Marie: Digital magazine, store.
+
+00:27:12.000 --> 00:27:14.000
+Dan Ryan: How did you let your buddy buy this.
+
+00:27:15.000 --> 00:27:17.000
+mark sweet: Yay!
+
+00:27:18.000 --> 00:27:23.000
+Dan Ryan: Yeah, so this is. Their their blogs are not. Yeah, their blogs are not indexed.
+
+00:27:20.000 --> 00:27:22.000
+Tina Marie: Cookie Bot sorry.
+
+00:27:23.000 --> 00:27:30.000
+mark sweet: I mean, if I look up city lifestyle.com and see everything that's been posted in the last. Month. There's a lot of.
+
+00:27:30.000 --> 00:27:32.000
+mark sweet: Tough.
+
+00:27:32.000 --> 00:27:35.000
+Dan Ryan: Right if you do a Google Dork, search my new favorite term.
+
+00:27:36.000 --> 00:27:38.000
+mark sweet: Okay.
+
+00:27:36.000 --> 00:27:42.000
+Dan Ryan: For in URL Colon city lifestyle.com. There's nothing indexed. So while they have content.
+
+00:27:42.000 --> 00:27:55.000
+Dan Ryan: On the site. It's not on Google doesn't know about it. So like you want. Slash chula vista, slash Newport slash blah blah!
+
+00:27:55.000 --> 00:28:01.000
+Dan Ryan: Like none of that's indexed. Yeah, it's good stuff.
+
+00:28:01.000 --> 00:28:06.000
+mark sweet: Okay, well, let's figure out to make the most of it. Or it's just another cycle of paper.
+
+00:28:06.000 --> 00:28:11.000
+Dan Ryan: Or or tell Salka's buddy. How to get a site indexed.
+
+00:28:11.000 --> 00:28:14.000
+Dan Ryan: Because it dexable. Sure, it's indexable.
+
+00:28:11.000 --> 00:28:18.000
+Tina Marie: Yeah. Go teach him how to make money so he can make you money and be like.
+
+00:28:17.000 --> 00:28:19.000
+Dan Ryan: I thought crazy.
+
+00:28:19.000 --> 00:28:21.000
+Tina Marie: Huh!
+
+00:28:20.000 --> 00:28:23.000
+Dan Ryan: Let's not talk crazy. Let's just get it indexed like, Hey.
+
+00:28:22.000 --> 00:28:24.000
+Tina Marie: Alright!
+
+00:28:24.000 --> 00:28:29.000
+Dan Ryan: Let's go see if they have a robot text file. Let's get. It's get all nerdy.
+
+00:28:30.000 --> 00:28:35.000
+Dan Ryan: Well, it's not text. Nope, oh, boy!
+
+00:28:35.000 --> 00:28:42.000
+Tina Marie: Well, that's a basic SEO thing. So. Yeah.
+
+00:28:41.000 --> 00:28:47.000
+Dan Ryan: Here. You want me to draft an email that you can send Mark, and you'll look like a fucking genius. You'll be like the.
+
+00:28:46.000 --> 00:28:48.000
+mark sweet: Okay. I'm I'm good with that.
+
+00:28:48.000 --> 00:28:51.000
+Dan Ryan: Okay. I'll do.
+
+00:28:50.000 --> 00:28:52.000
+mark sweet: Then I can tone it down to.
+
+00:28:52.000 --> 00:28:55.000
+Dan Ryan: Yeah, you can run it through. Chat, b, chat, gpt, and say, D Dan, this.
+
+00:28:52.000 --> 00:28:54.000
+mark sweet: So.
+
+00:28:55.000 --> 00:28:59.000
+Tina Marie: Ah!
+
+00:28:58.000 --> 00:29:01.000
+Dan Ryan: It will be like all this sarcasm and swearing, got it.
+
+00:28:58.000 --> 00:29:00.000
+mark sweet: That would be cool.
+
+00:29:01.000 --> 00:29:07.000
+Tina Marie: Did you just say what would be cool? That's funny.
+
+00:29:07.000 --> 00:29:14.000
+Dan Ryan: Now I the print magazine looks nice. Is it real? Though I'm not even sure it's real. Look like a thrill.
+
+00:29:12.000 --> 00:29:14.000
+mark sweet: No, it is real, but.
+
+00:29:15.000 --> 00:29:19.000
+Dan Ryan: They're putting out an issue in all of these cities.
+
+00:29:15.000 --> 00:29:17.000
+mark sweet: I don't expect to generate a lot.
+
+00:29:15.000 --> 00:29:17.000
+Tina Marie: Well.
+
+00:29:20.000 --> 00:29:29.000
+Dan Ryan: That can't. That's crazy or no, probably not. They're probably just putting a new cover on the Pdf. Yeah, yeah, okay, yeah, sure.
+
+00:29:28.000 --> 00:29:30.000
+mark sweet: Oh, yeah.
+
+00:29:30.000 --> 00:29:32.000
+Dan Ryan: Yeah, yeah.
+
+00:29:31.000 --> 00:29:34.000
+mark sweet: Look, these are not hard to do.
+
+00:29:34.000 --> 00:29:39.000
+Dan Ryan: No, no, no, not now. It's easier than ever.
+
+00:29:42.000 --> 00:29:47.000
+Dan Ryan: Alright! But yeah, I'll log into their thing, too. And.
+
+00:29:47.000 --> 00:29:52.000
+Dan Ryan: Poke around. And then we can tell them how broken their shit is.
+
+00:29:50.000 --> 00:29:52.000
+Tina Marie: Hmm.
+
+00:29:52.000 --> 00:29:54.000
+mark sweet: Okay.
+
+00:29:52.000 --> 00:29:54.000
+Dan Ryan: Mhm.
+
+00:29:58.000 --> 00:30:00.000
+Tina Marie: Dan has owned the case.
+
+00:30:00.000 --> 00:30:02.000
+mark sweet: This is Dan's favorite thing to do.
+
+00:30:02.000 --> 00:30:04.000
+Dan Ryan: It is. Let me tell you how you do.
+
+00:30:02.000 --> 00:30:07.000
+Tina Marie: Tell. Call bullshit on people is Dan's favorite thing to do, and then prove why it's bullshit.
+
+00:30:05.000 --> 00:30:11.000
+mark sweet: And tell them they're idiots and doing everything. Yep, this is Dan's thing.
+
+00:30:12.000 --> 00:30:17.000
+Tina Marie: Yeah, I'm gonna say. But.
+
+00:30:21.000 --> 00:30:23.000
+Dan Ryan: Is Andrea.
+
+00:30:21.000 --> 00:30:27.000
+mark sweet: Uh, the broker is working on the get paid, not played. So I'll keep you updated on that. But I haven't heard anything back.
+
+00:30:28.000 --> 00:30:30.000
+Tina Marie: Let me go update that.
+
+00:30:33.000 --> 00:30:39.000
+mark sweet: But the more I see it the more I talk about, the more I like it. So good job, Dan.
+
+00:30:39.000 --> 00:30:46.000
+Dan Ryan: I really didn't do much, but sure. I just bought. I just got Greg Greg. Everyone loves Greg.
+
+00:30:48.000 --> 00:30:54.000
+Dan Ryan: I love Greg. I want to go visit Greg in Poland. I need to make that like a business trip. I need to approve this logo in person.
+
+00:30:56.000 --> 00:31:01.000
+mark sweet: But the question, then is. So Colorado I had.
+
+00:31:01.000 --> 00:31:13.000
+mark sweet: Way too long of a discussion with the attorney. Um, we're getting closer to be able to launch it. We're not quite clear yet. But probably 2, 3 weeks away. Um, just some changes. We gotta make.
+
+00:31:13.000 --> 00:31:15.000
+mark sweet: Uh.
+
+00:31:15.000 --> 00:31:20.000
+Tina Marie: What was that about a Colorado, though. I missed the 1st part.
+
+00:31:18.000 --> 00:31:20.000
+mark sweet: Colorado is our new State.
+
+00:31:20.000 --> 00:31:23.000
+Tina Marie: Yeah, because.
+
+00:31:25.000 --> 00:31:31.000
+mark sweet: Uh, we have to go through ethics attorneys 1st to make sure everything looks good. Like, we have to change one thing on our website.
+
+00:31:29.000 --> 00:31:31.000
+Tina Marie: Who's.
+
+00:31:31.000 --> 00:31:35.000
+mark sweet: We can't put success rate. We have to put 99% of cases.
+
+00:31:32.000 --> 00:31:34.000
+Dan Ryan: Yeah.
+
+00:31:35.000 --> 00:31:37.000
+mark sweet: Settled or won a trial.
+
+00:31:42.000 --> 00:31:45.000
+Dan Ryan: That. Did you already send that over, or we're doing this right now?
+
+00:31:45.000 --> 00:31:48.000
+mark sweet: Uh, I'll send it over. But we just had a conversation like.
+
+00:31:46.000 --> 00:31:48.000
+Dan Ryan: Okay.
+
+00:31:48.000 --> 00:31:50.000
+mark sweet: Not very long ago.
+
+00:31:49.000 --> 00:31:51.000
+Dan Ryan: Got it. Got it.
+
+00:31:51.000 --> 00:31:55.000
+Tina Marie: Um! Hold on! Great did I put this in here.
+
+00:31:56.000 --> 00:31:58.000
+Tina Marie: Who's working in Colorado.
+
+00:32:00.000 --> 00:32:05.000
+mark sweet: I me. Sam.
+
+00:32:04.000 --> 00:32:07.000
+Tina Marie: I don't know. That's why I'm asking. I don't remember who.
+
+00:32:05.000 --> 00:32:09.000
+mark sweet: Yeah, both of us are licensed there.
+
+00:32:07.000 --> 00:32:15.000
+Tina Marie: Can. That's in my a different. I should just put that in this document. So I don't have to ask that question.
+
+00:32:15.000 --> 00:32:21.000
+Tina Marie: Where. I do?
+
+00:32:21.000 --> 00:32:26.000
+Tina Marie: It's just over here. Mark and Samantha.
+
+00:32:26.000 --> 00:32:28.000
+Tina Marie: Okay, so.
+
+00:32:27.000 --> 00:32:30.000
+mark sweet: But you gotta go through like all the process stuff.
+
+00:32:30.000 --> 00:32:32.000
+Tina Marie: Right, first.st
+
+00:32:31.000 --> 00:32:39.000
+mark sweet: First, st which is always a pain in the ass, but. You know it's fine. I'd rather make sure everything's done right. And this is a decent, decent ethics. Attorney.
+
+00:32:39.000 --> 00:32:45.000
+mark sweet: Um, so he kinda he gets it. At least.
+
+00:32:43.000 --> 00:32:48.000
+Tina Marie: You hired the ethics attorney. Now. You've got that one here.
+
+00:32:46.000 --> 00:32:52.000
+mark sweet: We hired him last week. But yeah, or 2 weeks ago, whatever he cause, he's got to review the retainer. The website.
+
+00:32:48.000 --> 00:32:53.000
+Tina Marie: Okay. Yeah. Right.
+
+00:32:52.000 --> 00:32:54.000
+mark sweet: Uh all that kind of stuff.
+
+00:32:57.000 --> 00:33:03.000
+Tina Marie: And then, once once that's done, you'll start ads or. You know whatever with vendors. Okay.
+
+00:33:01.000 --> 00:33:05.000
+mark sweet: Yeah. Well, we'll start with Walker and go from there.
+
+00:33:06.000 --> 00:33:08.000
+Tina Marie: Okay.
+
+00:33:08.000 --> 00:33:11.000
+mark sweet: So yeah, we'll be, look at that going.
+
+00:33:13.000 --> 00:33:18.000
+Tina Marie: Nice. Okay, where are we at with the Devin conversation, then? And.
+
+00:33:17.000 --> 00:33:20.000
+mark sweet: No, but sorry, so the reason I was bringing that up is.
+
+00:33:18.000 --> 00:33:20.000
+Tina Marie: Alright!
+
+00:33:20.000 --> 00:33:31.000
+mark sweet: The winner. It's free. We may want to. Um. 2 traditional billboards and stuff in Colorado, because it's a new state. Sweet James, isn't there at all?
+
+00:33:31.000 --> 00:33:36.000
+mark sweet: Um. Not that that matters, but.
+
+00:33:36.000 --> 00:33:38.000
+mark sweet: Yeah, to make any sense.
+
+00:33:39.000 --> 00:33:41.000
+Dan Ryan: No.
+
+00:33:40.000 --> 00:33:46.000
+mark sweet: Okay, uh, it may just be one that we would want to start with the smaller state.
+
+00:33:45.000 --> 00:33:47.000
+Dan Ryan: Proving ground.
+
+00:33:46.000 --> 00:33:50.000
+mark sweet: That we can try billboards and bus benches with this winner. It's free.
+
+00:33:51.000 --> 00:33:53.000
+Dan Ryan: Gotcha.
+
+00:33:52.000 --> 00:33:56.000
+mark sweet: But any people able to find it when they Google it still. So yeah.
+
+00:33:57.000 --> 00:34:04.000
+Dan Ryan: Ah, right? So you need. We need to get the site built and then indexed. Indexing is this thing you do with Google? Oh.
+
+00:34:04.000 --> 00:34:06.000
+mark sweet: I don't know what this is.
+
+00:34:04.000 --> 00:34:07.000
+Dan Ryan: I'll show you all. I'll show you all about it later.
+
+00:34:07.000 --> 00:34:13.000
+mark sweet: Okay. But am I saying.
+
+00:34:11.000 --> 00:34:13.000
+Tina Marie: But it's not even built yet.
+
+00:34:14.000 --> 00:34:17.000
+Dan Ryan: No, we got the design, and then.
+
+00:34:14.000 --> 00:34:16.000
+mark sweet: No.
+
+00:34:17.000 --> 00:34:29.000
+Dan Ryan: And if there's any other feedback that you guys have, if not, I'm just gonna go back to and be like, Hey, get rid of the images and. Then we need to start writing content, basically around those blocks or.
+
+00:34:30.000 --> 00:34:36.000
+Dan Ryan: I can write some initial contact with Grok or Gpt, or whatever. Send it over, and then.
+
+00:34:34.000 --> 00:34:36.000
+Tina Marie: Yeah.
+
+00:34:36.000 --> 00:34:41.000
+Dan Ryan: Will roll, and he's. I don't think he's busy right now.
+
+00:34:42.000 --> 00:34:44.000
+Tina Marie: Who Greg.
+
+00:34:43.000 --> 00:34:45.000
+Dan Ryan: Yeah.
+
+00:34:44.000 --> 00:34:48.000
+Tina Marie: Wait, so are we finished with the design.
+
+00:34:49.000 --> 00:34:55.000
+Dan Ryan: That's what I just asked. Yeah. So if you guys have additional. Design feedback. I'm going back and saying, Get rid of the images.
+
+00:34:55.000 --> 00:34:57.000
+Dan Ryan: That's the only thing that I didn't like.
+
+00:34:57.000 --> 00:35:01.000
+Tina Marie: Right. You said that last week. Um.
+
+00:35:01.000 --> 00:35:09.000
+Tina Marie: The thing I reply to is. So you don't wanna like, do you want to get rid of them completely? Do we need to replace them.
+
+00:35:09.000 --> 00:35:30.000
+Tina Marie: Uh! One of the things I said is like you could just do like a filter overlay to put the like. I don't know. Make them fall within the color parameters, or we could cartoonize those images, or do we just get rid of them? And then I didn't see a reply. But that's where we need to finish the conversation. Are we just getting rid of them or replacing them? And how are we replacing them.
+
+00:35:31.000 --> 00:35:33.000
+Dan Ryan: Replacing.
+
+00:35:32.000 --> 00:35:34.000
+Tina Marie: Okay.
+
+00:35:33.000 --> 00:35:35.000
+Dan Ryan: We need the click through and the.
+
+00:35:34.000 --> 00:35:36.000
+Tina Marie: Right.
+
+00:35:35.000 --> 00:35:44.000
+Dan Ryan: Whatever, so I can have him, I can say, Hey, give me these options. And then we can pick the options so we can do an overlay of a current image with.
+
+00:35:44.000 --> 00:35:50.000
+Dan Ryan: Colors that are from the thing. We can do my thing, which I can't really describe, but he'll get it when I describe it to him.
+
+00:35:51.000 --> 00:35:58.000
+Dan Ryan: And I'll send them screenshots. And then whatever, if there's another option, mine's kind of like a.
+
+00:35:58.000 --> 00:36:06.000
+Dan Ryan: Or and we could do like an icon thing. So there's there's sort of. Which would be like your cartoonization right? So it would be like, try to come up with.
+
+00:36:05.000 --> 00:36:07.000
+Tina Marie: Mhm.
+
+00:36:06.000 --> 00:36:10.000
+Dan Ryan: A unique icon for each one. Which he he can definitely do.
+
+00:36:11.000 --> 00:36:18.000
+Dan Ryan: Uh, but I'll just be like, Hey, do 1 1, 1 do one of an overlay, one of my thing, one of an icon.
+
+00:36:17.000 --> 00:36:19.000
+Tina Marie: Yeah.
+
+00:36:18.000 --> 00:36:25.000
+Dan Ryan: And then we just pick from one of the 3. And then I'll be like, Hey, if you could come up with something, throw in a 4th one. Then, whatever.
+
+00:36:27.000 --> 00:36:29.000
+Tina Marie: Okay.
+
+00:36:28.000 --> 00:36:38.000
+Dan Ryan: But if there's nothing other than that. Then we'll do that, and then but we, if the general blocks layout is fine, then we can start doing content around that layout.
+
+00:36:40.000 --> 00:36:43.000
+Dan Ryan: That was our goal was to say, yes, that's the right blocks.
+
+00:36:44.000 --> 00:36:59.000
+Tina Marie: Um. Okay, so Mark, can you pull that up and see if you have any other things to say? Hello, sir!
+
+00:36:58.000 --> 00:37:00.000
+mark sweet: Okay, hold on. Sorry.
+
+00:37:00.000 --> 00:37:12.000
+Tina Marie: Okay. I think, because there's so much black in those images. The overlay won't really work well.
+
+00:37:16.000 --> 00:37:21.000
+Dan Ryan: I just don't think the images work. In in general with the Vibe.
+
+00:37:21.000 --> 00:37:23.000
+Tina Marie: Yeah.
+
+00:37:21.000 --> 00:37:27.000
+Dan Ryan: Like a clash. It's like me. But he just did what I said.
+
+00:37:27.000 --> 00:37:33.000
+Dan Ryan: Put pull it right from the site, and then I just want to see. That if the flow worked, flow works just not that.
+
+00:37:45.000 --> 00:37:50.000
+mark sweet: I mean, it looks a lot like our. Current site. Obvious. I'm not gonna get into like.
+
+00:37:51.000 --> 00:37:54.000
+Tina Marie: Right, but you don't want. If.
+
+00:37:51.000 --> 00:37:54.000
+mark sweet: I don't know. Some of these would.
+
+00:37:54.000 --> 00:38:04.000
+Tina Marie: So his issue is that it doesn't work with the vibe of the rest of the energy right? This is, this is like. I don't know. It's it's shock.
+
+00:38:04.000 --> 00:38:10.000
+Tina Marie: You know, whereas winners free is almost like lighthearted. It's. A completely different energy.
+
+00:38:14.000 --> 00:38:20.000
+Tina Marie: Like you're focusing on. Um, the.
+
+00:38:20.000 --> 00:38:28.000
+Tina Marie: I don't have to pay for this. Versus um. Just the pain of what you've been through. I don't know.
+
+00:38:31.000 --> 00:38:38.000
+Tina Marie: They feel differently. Let me do this.
+
+00:38:39.000 --> 00:38:44.000
+Tina Marie: I wonder! It's probably too much. But oh, wait.
+
+00:38:44.000 --> 00:38:52.000
+Tina Marie: See what Chatgp can do. Gpt can do. If I screenshot all of those images.
+
+00:38:53.000 --> 00:38:59.000
+Tina Marie: Like the whole section. There. Let's see. Hang on!
+
+00:39:00.000 --> 00:39:09.000
+Tina Marie: File. And actually, I wanna give it the whole.
+
+00:39:12.000 --> 00:39:17.000
+Tina Marie: The whole thing. Scrolling.
+
+00:39:37.000 --> 00:39:39.000
+Tina Marie: You still looking at it, Mark.
+
+00:39:39.000 --> 00:39:41.000
+mark sweet: Mhm.
+
+00:39:41.000 --> 00:39:43.000
+Tina Marie: I'll work on this while you do that.
+
+00:39:43.000 --> 00:39:49.000
+mark sweet: I mean for me. The whole thing is really. About what's above the fold. If you will.
+
+00:39:49.000 --> 00:39:53.000
+mark sweet: Because that's really where people are. Looking and spending time.
+
+00:39:53.000 --> 00:39:56.000
+Tina Marie: You still want continuity through the whole thing, or.
+
+00:39:55.000 --> 00:39:59.000
+mark sweet: Correct. No, no, it goes dark very quickly.
+
+00:39:56.000 --> 00:40:04.000
+Tina Marie: Because if don't you create friction. Yeah, well, there's also, just psychologically.
+
+00:40:04.000 --> 00:40:08.000
+Tina Marie: If there isn't continuity there. Becomes this internal.
+
+00:40:09.000 --> 00:40:15.000
+Tina Marie: Conflict mentally, whether it's conscious or subconscious. And that stops people.
+
+00:40:15.000 --> 00:40:27.000
+Tina Marie: And creates friction, and anytime you do that, you conversions drop. Quickly, because even if they can't figure out why they feel a disconnect, they feel a disconnect, and they can bounce.
+
+00:40:27.000 --> 00:40:38.000
+mark sweet: Got it also. Um, well, we're not really at that stage yet. But photos, I mean, I would just do checks money like our big settlements way up on top.
+
+00:40:42.000 --> 00:40:44.000
+Dan Ryan: So, yeah, but.
+
+00:40:45.000 --> 00:40:51.000
+mark sweet: You gave me like 10 million dollar check, 10 million dollar check. 11 million dollar check.
+
+00:40:49.000 --> 00:40:51.000
+Dan Ryan: But do that? Where.
+
+00:40:52.000 --> 00:40:59.000
+mark sweet: Somewhere above a fold. Right. We're going the whole lottery like, hey? You want a lottery like, here's your big ass check.
+
+00:41:01.000 --> 00:41:08.000
+Dan Ryan: Uh and use. But what are the what are. These are literal photographs. What? What are we gonna.
+
+00:41:07.000 --> 00:41:12.000
+mark sweet: No, we're we're making checks. If you will, because these are cases that we've.
+
+00:41:10.000 --> 00:41:12.000
+Dan Ryan: Okay.
+
+00:41:13.000 --> 00:41:18.000
+mark sweet: Settled like we've we've gotten these. They're not. Yes.
+
+00:41:26.000 --> 00:41:29.000
+Dan Ryan: Well, when you say above the folder you're looking at on Mobile.
+
+00:41:29.000 --> 00:41:32.000
+mark sweet: No, I'm looking at it on desktop.
+
+00:41:32.000 --> 00:41:35.000
+Dan Ryan: It should be. You gotta go mobile first.st Yeah.
+
+00:41:35.000 --> 00:41:37.000
+Tina Marie: Yeah, cause it's the majority of your traffic.
+
+00:41:36.000 --> 00:41:40.000
+Dan Ryan: If they're on a billboard, or whatever. Their mobile.
+
+00:41:40.000 --> 00:41:42.000
+mark sweet: Okay.
+
+00:41:41.000 --> 00:41:44.000
+Dan Ryan: So it's like, okay.
+
+00:41:46.000 --> 00:41:51.000
+Tina Marie: Oh! Ah! These are not.
+
+00:41:52.000 --> 00:42:00.000
+Tina Marie: Oh, one of those is good! The only one that's good is ride, share.
+
+00:42:01.000 --> 00:42:06.000
+Tina Marie: Um the rest. Alright!
+
+00:42:06.000 --> 00:42:28.000
+Tina Marie: I thought. Wanna screen share again.
+
+00:42:28.000 --> 00:42:38.000
+Tina Marie: Share. What do you call it?
+
+00:42:55.000 --> 00:42:57.000
+Tina Marie: These are so lame.
+
+00:43:14.000 --> 00:43:21.000
+mark sweet: Yeah. The general concept is good. But we definitely need to lean into the.
+
+00:43:21.000 --> 00:43:31.000
+mark sweet: When it's free. Also I need an exclamation or not. Exclamation, um! A star! Next to it. Because we have to explain that it's our attorney's fees. Are.
+
+00:43:31.000 --> 00:43:34.000
+mark sweet: Free if we don't win uh.
+
+00:43:33.000 --> 00:43:36.000
+Dan Ryan: Star next to the logo.
+
+00:43:34.000 --> 00:43:38.000
+mark sweet: But. Yeah, unfortunately.
+
+00:43:37.000 --> 00:43:44.000
+Dan Ryan: Okay. Wonder if we could just bake it into the Logos.
+
+00:43:45.000 --> 00:43:53.000
+Dan Ryan: Make one of the dots an asterisk. Or no, I guess we could just put it right above it.
+
+00:43:53.000 --> 00:43:55.000
+Tina Marie: This is the 1st version.
+
+00:43:53.000 --> 00:43:55.000
+Dan Ryan: That's fine!
+
+00:43:55.000 --> 00:44:03.000
+Tina Marie: It's terrible. But I do like this part right here. Kind of it's a cop car. So not that. But.
+
+00:44:03.000 --> 00:44:08.000
+Tina Marie: Anyway. But we could get if we could get.
+
+00:44:08.000 --> 00:44:18.000
+Tina Marie: And it probably work better with single ones, and a much better prompt which could be engineered. But we could get some images that work that match the color scheme.
+
+00:44:25.000 --> 00:44:37.000
+Tina Marie: These are so bad. But I do think, I I think that with some good prompting we could get images that that do work.
+
+00:44:37.000 --> 00:44:39.000
+mark sweet: Yeah.
+
+00:44:37.000 --> 00:44:49.000
+Tina Marie: I think what we would do is break it down kind of one at a time. Then to. Create the the pattern of the prompt, and then say, Okay, now do it for this. Now do it for this, and so on.
+
+00:44:50.000 --> 00:45:01.000
+Tina Marie: And tell it what components we like out of it. It would take a little bit, but it would. Um. It's going to take a little bit, anyway, going to find any images that actually work.
+
+00:45:01.000 --> 00:45:05.000
+Tina Marie: Well. Take some time.
+
+00:45:06.000 --> 00:45:11.000
+Tina Marie: If you've ever tried to search for stock photos, there's just. A lot of garbage.
+
+00:45:12.000 --> 00:45:19.000
+Dan Ryan: What we should do is just go get a stock photo of someone holding a big check. And then turn it into a winner. It's free check and use that.
+
+00:45:19.000 --> 00:45:24.000
+Dan Ryan: So put one. Put that in the hero.
+
+00:45:24.000 --> 00:45:30.000
+Dan Ryan: Which there's tons of those. And then Greg can just stylize the check to be.
+
+00:45:30.000 --> 00:45:32.000
+Tina Marie: Mhm.
+
+00:45:31.000 --> 00:45:33.000
+Dan Ryan: Winter. It's free colors.
+
+00:45:32.000 --> 00:45:40.000
+mark sweet: Cause you can. We can do some like, see some of our recent winners or. Wins something like that. Does that make any sense.
+
+00:45:40.000 --> 00:45:45.000
+Dan Ryan: Well in the hero image. You're gonna have one big one, right? So it's almost like.
+
+00:45:45.000 --> 00:45:53.000
+Dan Ryan: It's almost like what could you? I mean? I guess you could. They can hold a check, or they can just be holding a white card.
+
+00:45:53.000 --> 00:45:59.000
+Dan Ryan: But it's like. If that were the image on the billboard, and then they go right. You have to.
+
+00:45:59.000 --> 00:46:07.000
+Dan Ryan: From an adsent perspective. It's like on the billboard they're holding the big check. And then on the website, it's the same image.
+
+00:46:07.000 --> 00:46:17.000
+Dan Ryan: And then just more right. But. On the billboard. You have limited real estate and call to action. Right? So you have the logo, and then you have the tagline. Then you have the check.
+
+00:46:17.000 --> 00:46:25.000
+Dan Ryan: And then maybe it's like, you know, car accident victim, whatever you you're calling out like the. The pain.
+
+00:46:25.000 --> 00:46:30.000
+Dan Ryan: Then they go to the website. It's like they see that again. Which is what Fung does.
+
+00:46:30.000 --> 00:46:37.000
+Dan Ryan: And then but and then they look. It's then the rest of the website is like, Learn more. So then you could have. Other other winners, and.
+
+00:46:37.000 --> 00:46:43.000
+Dan Ryan: Whatever, and then how it works, and then what else we do, and then. The practice areas.
+
+00:46:43.000 --> 00:46:51.000
+Dan Ryan: Totally, so I'll see if I can get. I'll have him do that, and then. See what that looks like, and then.
+
+00:46:51.000 --> 00:46:59.000
+Dan Ryan: He could. Then you're going to create more of those. And then eventually they'd be real people, real clients.
+
+00:46:59.000 --> 00:47:02.000
+Dan Ryan: Cause. Then you'll have to asterisk that and say not a real client, I'm sure.
+
+00:47:05.000 --> 00:47:10.000
+mark sweet: Or we could just have pictures that checks themselves, maybe not even have a person that way. We don't run into any issue.
+
+00:47:12.000 --> 00:47:19.000
+Dan Ryan: Do that. Yeah. I mean, we can come up with the check. That's a standalone thing. Yep, totally. But and but then you have to probably like.
+
+00:47:17.000 --> 00:47:19.000
+mark sweet: Blue team.
+
+00:47:19.000 --> 00:47:23.000
+Dan Ryan: It's all fake names. So you're gonna have to probably be like this is not a.
+
+00:47:22.000 --> 00:47:27.000
+mark sweet: No, we just do like pedestrian versus auto, or whatever it may be. We don't actually put a person's name.
+
+00:47:25.000 --> 00:47:34.000
+Dan Ryan: Oh, okay. Okay, so I'll have him work on both. So the check would be a standalone thing that he then overlays onto a.
+
+00:47:34.000 --> 00:47:37.000
+Dan Ryan: Stock photo, or later, a future real photo.
+
+00:47:38.000 --> 00:47:40.000
+Tina Marie: You guys still are not looking at the screen right?
+
+00:47:38.000 --> 00:47:40.000
+mark sweet: Yeah.
+
+00:47:38.000 --> 00:47:42.000
+Dan Ryan: And then we'll have a giant check printed out to put on the wall behind your desk.
+
+00:47:44.000 --> 00:47:48.000
+mark sweet: We've had a giant one at 1 point just no one ever comes in.
+
+00:47:48.000 --> 00:47:52.000
+Dan Ryan: Oh, well. Wasn't purple and yellow, though.
+
+00:47:54.000 --> 00:47:57.000
+Tina Marie: They got a big old yellow check right here.
+
+00:47:57.000 --> 00:48:02.000
+Dan Ryan: I was gonna cancel my stock photo account today, but it looks like I'll be using it one more time.
+
+00:48:04.000 --> 00:48:06.000
+mark sweet: One last time.
+
+00:48:06.000 --> 00:48:09.000
+Dan Ryan: Yeah, big checks are us.
+
+00:48:08.000 --> 00:48:13.000
+Tina Marie: Mhm. Big bright yellow check.
+
+00:48:15.000 --> 00:48:21.000
+Tina Marie: Okay. Um. Where are we at? Okay? So when arts free.
+
+00:48:24.000 --> 00:48:28.000
+Tina Marie: Content SEO. Whoops. Okay?
+
+00:48:28.000 --> 00:48:35.000
+Tina Marie: Need to replace the images. 1, 2, face, images.
+
+00:48:35.000 --> 00:48:42.000
+Tina Marie: Today's the 17.th Dan is going to.
+
+00:48:45.000 --> 00:48:53.000
+Tina Marie: Give great feedback. Or next revision.
+
+00:48:55.000 --> 00:49:01.000
+Tina Marie: Alright um for the content. Who's working? Who who should be working on that.
+
+00:49:02.000 --> 00:49:04.000
+Dan Ryan: I'll do it.
+
+00:49:04.000 --> 00:49:09.000
+Tina Marie: Okay. Content. Mr. Dan.
+
+00:49:13.000 --> 00:49:15.000
+Tina Marie: When do you want to have something back to show us.
+
+00:49:16.000 --> 00:49:22.000
+Dan Ryan: There really isn't a lot of content if you scroll through the page. So. I would just need Mark's help with like.
+
+00:49:22.000 --> 00:49:33.000
+Dan Ryan: Ah! The old way versus new way, like. Can we define those steps? Granted, the number of steps might be wrong, and I know the 9 months is sort of the target.
+
+00:49:34.000 --> 00:49:42.000
+Dan Ryan: But the idea is that there is an old way that. Or a way, not with suite law that's going to take longer and then get a.
+
+00:49:42.000 --> 00:49:55.000
+Dan Ryan: Less of a good result. And then the sweet law way is whatever, and you could, or the win over 3 way is. Whether it's 6, 5, 4, whatever, however many steps it is, and then we just define those steps for each.
+
+00:49:57.000 --> 00:50:02.000
+Dan Ryan: That's probably the most. Difficult part of the whole page, the rest is.
+
+00:50:02.000 --> 00:50:04.000
+Dan Ryan: It's a couple paragraphs.
+
+00:50:04.000 --> 00:50:10.000
+mark sweet: Yeah, I mean, I think the old way we talk about like you go into a law office. You sit there and wait for an attorney to show up.
+
+00:50:09.000 --> 00:50:11.000
+Dan Ryan: Exactly.
+
+00:50:10.000 --> 00:50:27.000
+mark sweet: Is ready to send you paperwork in the mail, you know, just basically like Old Man Law firm looking. Because I learned the largest advertiser. And Colorado is apparently Dick. According to the ethics, Dude is Frank Azar, A. ZAR.
+
+00:50:27.000 --> 00:50:31.000
+mark sweet: Who's known as the Strong arm you can trust.
+
+00:50:33.000 --> 00:50:37.000
+Dan Ryan: Oh, God! He's the double chin! You can't miss.
+
+00:50:37.000 --> 00:50:39.000
+mark sweet: He's got a big ass freaking firm.
+
+00:50:39.000 --> 00:50:41.000
+Dan Ryan: He's got a big ass frigging face.
+
+00:50:42.000 --> 00:50:44.000
+Tina Marie: Whoa!
+
+00:50:44.000 --> 00:50:48.000
+Dan Ryan: Oh, my God! Frank.
+
+00:50:47.000 --> 00:50:49.000
+mark sweet: That's 33 attorneys.
+
+00:50:50.000 --> 00:50:52.000
+Dan Ryan: Dang! That's a lot.
+
+00:50:50.000 --> 00:50:52.000
+mark sweet: That's a lot.
+
+00:50:54.000 --> 00:50:56.000
+Dan Ryan: For pre-lit right. I don't see any.
+
+00:50:55.000 --> 00:50:58.000
+mark sweet: I don't know. He's a billboard firm, so like.
+
+00:50:58.000 --> 00:51:02.000
+Dan Ryan: Yeah, I mean, this site is definitely pre-lit. But.
+
+00:50:59.000 --> 00:51:06.000
+mark sweet: Who the knows but. Also just assume this photo is about 1520 years old. So just.
+
+00:51:05.000 --> 00:51:07.000
+Dan Ryan: Of course. Yeah.
+
+00:51:06.000 --> 00:51:08.000
+mark sweet: Yeah.
+
+00:51:08.000 --> 00:51:13.000
+Dan Ryan: I love how he throws class action in there. It's like, Do you really do, class? Oh, he does do class act.
+
+00:51:12.000 --> 00:51:20.000
+mark sweet: Yeah, everyone does class action. But if you Google, his name and go to images, I mean, you can see what some of his billboards look like.
+
+00:51:22.000 --> 00:51:24.000
+mark sweet: They're nothing special.
+
+00:51:24.000 --> 00:51:30.000
+Dan Ryan: Now, Omar, I could see as the strong arm Frank. Not so much.
+
+00:51:30.000 --> 00:51:32.000
+mark sweet: But I do like.
+
+00:51:33.000 --> 00:51:35.000
+Tina Marie: So judgy.
+
+00:51:35.000 --> 00:51:38.000
+Dan Ryan: No. Have you seen Omar?
+
+00:51:37.000 --> 00:51:39.000
+Tina Marie: No.
+
+00:51:38.000 --> 00:51:41.000
+Dan Ryan: Omar's jacked.
+
+00:51:40.000 --> 00:51:46.000
+mark sweet: No, Omar's like bodybuilder dude who's still at I don't know. 60. Something can compete.
+
+00:51:43.000 --> 00:51:45.000
+Dan Ryan: Ridiculous.
+
+00:51:46.000 --> 00:51:49.000
+Tina Marie: What's his last name now? I wanna see.
+
+00:51:47.000 --> 00:51:49.000
+Dan Ryan: Yeah, harves.
+
+00:51:49.000 --> 00:51:51.000
+Tina Marie: Oh!
+
+00:51:50.000 --> 00:51:55.000
+Dan Ryan: His suits have to be made for him, because his biceps are so big.
+
+00:51:52.000 --> 00:51:54.000
+Tina Marie: That's not.
+
+00:51:55.000 --> 00:52:01.000
+Dan Ryan: They're like, ridiculously big. They're like. They're like a small man's thighs.
+
+00:52:03.000 --> 00:52:08.000
+Tina Marie: Ajs are bigger. I think.
+
+00:52:07.000 --> 00:52:09.000
+Dan Ryan: Aj.
+
+00:52:09.000 --> 00:52:15.000
+mark sweet: Okay, regardless. He's a big ass. Dude. I I think we're on the same page. Don't spend a ton of time on this.
+
+00:52:13.000 --> 00:52:15.000
+Tina Marie: Uh.
+
+00:52:15.000 --> 00:52:17.000
+Dan Ryan: Yeah, yeah, moving on.
+
+00:52:15.000 --> 00:52:17.000
+mark sweet: But.
+
+00:52:16.000 --> 00:52:20.000
+Tina Marie: Yeah, okay. Yes, so um.
+
+00:52:19.000 --> 00:52:22.000
+Dan Ryan: Yeah. Frank's just got yeah, totally.
+
+00:52:21.000 --> 00:52:30.000
+Tina Marie: Winner. It's free content. So you need to get with Mark. Um about this. So my question was.
+
+00:52:30.000 --> 00:52:38.000
+Tina Marie: And you said Big Face, and my brain just went. Anyway. Due date. Um. Do, will you? Do you want to have something to show us next week week after.
+
+00:52:38.000 --> 00:52:48.000
+Dan Ryan: Well, I kind of like Frank's billboard here. Ah, it's not up to me. I submitted to Greg, and then but we can ask you if you ask him for.
+
+00:52:48.000 --> 00:52:50.000
+Dan Ryan: But when?
+
+00:52:48.000 --> 00:52:53.000
+mark sweet: If you want to watch the video of him, I just sent it to you. He's doing a. Billboard, Design, Contest.
+
+00:52:54.000 --> 00:52:56.000
+Dan Ryan: Really.
+
+00:52:54.000 --> 00:52:59.000
+mark sweet: And this is plus in 2023. So you can see what he looks like in 2023.
+
+00:52:58.000 --> 00:53:02.000
+Dan Ryan: Crowdsourcing design. I love it.
+
+00:52:59.000 --> 00:53:01.000
+mark sweet: As he's lustfully staring at the girl.
+
+00:53:04.000 --> 00:53:06.000
+Tina Marie: Um.
+
+00:53:07.000 --> 00:53:14.000
+Dan Ryan: Uh, but yeah, so I'll send that stuff, Greg or Stacy will, and I'll just tell her to say, ask him when he thinks he'll be done. He's usually very accurate.
+
+00:53:14.000 --> 00:53:16.000
+Tina Marie: Did you send it to me, too.
+
+00:53:19.000 --> 00:53:21.000
+mark sweet: It's in the group. Chat.
+
+00:53:22.000 --> 00:53:24.000
+Dan Ryan: She did the chat.
+
+00:53:22.000 --> 00:53:24.000
+Tina Marie: Oh, like in zoom.
+
+00:53:24.000 --> 00:53:26.000
+mark sweet: Yeah.
+
+00:53:25.000 --> 00:53:27.000
+Tina Marie: Oh, okay.
+
+00:53:30.000 --> 00:53:32.000
+Dan Ryan: I think we can.
+
+00:53:30.000 --> 00:53:34.000
+Tina Marie: Why is he having? Oh, designing his billboard.
+
+00:53:32.000 --> 00:53:37.000
+Dan Ryan: I think we can borrow from Frank's billboard. Actually. I like it.
+
+00:53:42.000 --> 00:53:44.000
+mark sweet: This is the swag that you can buy.
+
+00:53:44.000 --> 00:53:53.000
+Dan Ryan: So what's so interesting is then his website is not those colors. I'm like, Frank, what are you doing. Come on, Buddy, tie it together.
+
+00:54:09.000 --> 00:54:15.000
+Dan Ryan: Getting a little better call Saul Vibe often, too, so. I'm a big fan.
+
+00:54:14.000 --> 00:54:21.000
+mark sweet: Oh, and he sued a former employee. Cool. Okay. Anyway. Um, he's apparently the big fish there, so we gotta take him out.
+
+00:54:18.000 --> 00:54:20.000
+Tina Marie: Huh!
+
+00:54:22.000 --> 00:54:24.000
+Dan Ryan: Oh, yeah.
+
+00:54:22.000 --> 00:54:24.000
+Tina Marie: Where's where is this? Where is he? At?
+
+00:54:25.000 --> 00:54:27.000
+Dan Ryan: All of Colorado.
+
+00:54:26.000 --> 00:54:28.000
+Tina Marie: Oh!
+
+00:54:28.000 --> 00:54:30.000
+mark sweet: Yeah.
+
+00:54:28.000 --> 00:54:34.000
+Tina Marie: That's that's a Colorado is very much a good old boy, kind of. Territory, though.
+
+00:54:32.000 --> 00:54:45.000
+mark sweet: Yeah, I was worried about that one a little bit, too. So we're gonna piss off some people. Uh, which means we don't launch anything until ethics training for using gives me a thumbs up because I'm gonna need a shield because I can almost guarantee you, someone is gonna.
+
+00:54:44.000 --> 00:54:46.000
+Dan Ryan: Oh, yeah.
+
+00:54:45.000 --> 00:54:47.000
+mark sweet: Kind of complain against us.
+
+00:54:46.000 --> 00:54:48.000
+Dan Ryan: No. Yeah.
+
+00:54:47.000 --> 00:54:57.000
+Tina Marie: You need to go, be there physically and find somebody who has roots outside of Colorado. That like has.
+
+00:54:57.000 --> 00:55:03.000
+Tina Marie: I don't know is not anti-california. And get your toe in the door that way.
+
+00:55:03.000 --> 00:55:05.000
+mark sweet: It doesn't matter, because.
+
+00:55:03.000 --> 00:55:05.000
+Tina Marie: Because.
+
+00:55:05.000 --> 00:55:13.000
+mark sweet: It. Unless I'm taking over a large billboard firm which generally most people in Colorado aren't gonna like what.
+
+00:55:14.000 --> 00:55:18.000
+mark sweet: It doesn't matter because anyone who it's a crime mentality in these smaller states.
+
+00:55:20.000 --> 00:55:23.000
+Tina Marie: Yeah. It's not just that.
+
+00:55:22.000 --> 00:55:27.000
+mark sweet: We've seen it in New Mexico. We've seen it in. Missouri to some level.
+
+00:55:27.000 --> 00:55:34.000
+Tina Marie: Everybody hates California, especially in the Midwest or the South. So.
+
+00:55:34.000 --> 00:55:40.000
+Tina Marie: Is there? Yeah, just. Them, not knowing that you're a California farmer.
+
+00:55:40.000 --> 00:55:45.000
+mark sweet: I mean, they're gonna see it when they go onto our website. But they wanna ask them from the East coast.
+
+00:55:47.000 --> 00:55:49.000
+Tina Marie: Are you from the east coast.
+
+00:55:48.000 --> 00:55:50.000
+mark sweet: Yeah. From Jersey.
+
+00:55:52.000 --> 00:55:57.000
+Tina Marie: You. How long have you been in California? Though? Because that accent is barely there.
+
+00:55:57.000 --> 00:56:02.000
+mark sweet: A long time. You'll hear on forest.
+
+00:56:02.000 --> 00:56:04.000
+mark sweet: Orange, chocolate.
+
+00:56:03.000 --> 00:56:17.000
+Tina Marie: Yes, I've always been trying to be like, what is this? But California people are harder because a lot of them are imports from other places living in a melting pot, probably from a melting pot. So it's never super.
+
+00:56:17.000 --> 00:56:19.000
+Tina Marie: Clear. You've been there a long time.
+
+00:56:20.000 --> 00:56:23.000
+mark sweet: Yeah, yeah.
+
+00:56:20.000 --> 00:56:30.000
+Tina Marie: Anyway. Okay. So you guys are, gonna get together and create the content. When will you get together on that.
+
+00:56:31.000 --> 00:56:33.000
+Dan Ryan: Email.
+
+00:56:33.000 --> 00:56:37.000
+Tina Marie: Email. Okay. So I'm gonna say, you have something to report next week.
+
+00:56:33.000 --> 00:56:35.000
+mark sweet: Yeah.
+
+00:56:41.000 --> 00:56:50.000
+Tina Marie: Week. What would be that like the 23, rd or something. Calendar, 24.th
+
+00:56:51.000 --> 00:56:55.000
+Tina Marie: 3, 24. 25.
+
+00:56:53.000 --> 00:57:03.000
+mark sweet: Remember Bill Houser introduced me some dude in Colorado who didn't want to work, you know. Spend half his time in Italy. He was doing some.
+
+00:57:07.000 --> 00:57:11.000
+mark sweet: Some billboards there, but I can't. Find him in my text messages.
+
+00:57:12.000 --> 00:57:17.000
+Tina Marie: Um. Dan has to bounce in a few minutes, so.
+
+00:57:17.000 --> 00:57:19.000
+mark sweet: No.
+
+00:57:17.000 --> 00:57:19.000
+Tina Marie: Devon Conversation.
+
+00:57:19.000 --> 00:57:22.000
+mark sweet: Oh, yeah. When do you wanna have them come in.
+
+00:57:23.000 --> 00:57:28.000
+Dan Ryan: Did he send you the leads? Cause. We never got him.
+
+00:57:27.000 --> 00:57:31.000
+mark sweet: He said. Everything's on air table.
+
+00:57:31.000 --> 00:57:33.000
+Dan Ryan: That's great!
+
+00:57:31.000 --> 00:57:34.000
+Tina Marie: Yeah. But did he give you access to air table.
+
+00:57:33.000 --> 00:57:37.000
+Dan Ryan: No, I don't need that. Oh.
+
+00:57:34.000 --> 00:57:36.000
+mark sweet: Yeah.
+
+00:57:37.000 --> 00:57:41.000
+Dan Ryan: But we so I can. Can you dump all the leave, every lead he's ever sent with the state.
+
+00:57:43.000 --> 00:57:47.000
+mark sweet: Uh, he said, it's all on air table, so I'm assuming. Yes.
+
+00:57:47.000 --> 00:57:49.000
+Tina Marie: Can you share the air table with us.
+
+00:57:47.000 --> 00:57:49.000
+Dan Ryan: I've never used.
+
+00:57:49.000 --> 00:57:52.000
+mark sweet: Okay. Sorry. Uh.
+
+00:57:57.000 --> 00:58:04.000
+Dan Ryan: But uh. Yeah. So I mean, I'm going out of town on Friday.
+
+00:58:00.000 --> 00:58:02.000
+Tina Marie: Yeah, let's good.
+
+00:58:04.000 --> 00:58:09.000
+Dan Ryan: Um. I'll be here on Monday, but I don't get back until Sunday night.
+
+00:58:10.000 --> 00:58:12.000
+Dan Ryan: So, yeah.
+
+00:58:10.000 --> 00:58:12.000
+mark sweet: Nearly.
+
+00:58:12.000 --> 00:58:14.000
+Tina Marie: So are we not meeting next week.
+
+00:58:14.000 --> 00:58:18.000
+Dan Ryan: No, we are. I'll be back Sunday night. But.
+
+00:58:17.000 --> 00:58:19.000
+Tina Marie: Oh, this. Sunday. Okay.
+
+00:58:18.000 --> 00:58:26.000
+Dan Ryan: Yeah, I but I probably so I don't know. We'll we'll look at this air table stuff and see. It should be pretty straightforward, but I gotta get a dump, and then.
+
+00:58:26.000 --> 00:58:28.000
+Dan Ryan: Eric and I will look at it tomorrow.
+
+00:58:29.000 --> 00:58:36.000
+mark sweet: Oh, yeah, before I forget on the other people to help China with her project that I'm gonna regret helping with.
+
+00:58:36.000 --> 00:58:38.000
+Dan Ryan: Yeah, and we both.
+
+00:58:38.000 --> 00:58:41.000
+mark sweet: Okay, where are we on that.
+
+00:58:42.000 --> 00:58:47.000
+Dan Ryan: So they said they'd do it. Um.
+
+00:58:45.000 --> 00:58:47.000
+mark sweet: Cool.
+
+00:58:47.000 --> 00:58:54.000
+Dan Ryan: So we have to scope out. What it is, so.
+
+00:58:54.000 --> 00:59:04.000
+Dan Ryan: So you know, what's so funny is that like I was telling someone today, they should use air table with. Part of lead flow or fan flowy, I was like, oh, we gotta go look at air table.
+
+00:59:05.000 --> 00:59:14.000
+Dan Ryan: Um. I don't know if that's better or worse. I've. It's might be better, because I think you can like do reporting off it.
+
+00:59:14.000 --> 00:59:17.000
+Dan Ryan: So maybe that would be beneficial to Chona. I don't really know.
+
+00:59:17.000 --> 00:59:23.000
+Tina Marie: You've looked at it for a little while right before we found Melissa, who did the dashboards.
+
+00:59:21.000 --> 00:59:29.000
+Dan Ryan: Yeah, totally long as time ago. So I'm gonna revisit it in the context of the call I had this morning.
+
+00:59:25.000 --> 00:59:27.000
+Tina Marie: Yeah.
+
+00:59:29.000 --> 00:59:33.000
+Dan Ryan: Um. So basically, it boiled down to. They can do.
+
+00:59:33.000 --> 00:59:41.000
+Dan Ryan: Automations and whatnot? Which was my question. I know they can code. So it would be a matter of like.
+
+00:59:41.000 --> 00:59:49.000
+Dan Ryan: Scoping it all out, which goes back to like our original conversation. Where if Chona like.
+
+00:59:50.000 --> 00:59:56.000
+Dan Ryan: Sent. Anything that like they fill out, or any like.
+
+00:59:56.000 --> 01:00:01.000
+Dan Ryan: I assume it's a doctor's office, so they're they're filling out paperwork. Right? So this is what.
+
+01:00:00.000 --> 01:00:02.000
+mark sweet: So they.
+
+01:00:01.000 --> 01:00:03.000
+Dan Ryan: Yeah.
+
+01:00:02.000 --> 01:00:10.000
+mark sweet: You have to sign a lien. And then from there they're having a call and setting up a schedule appointment, because most of these clients are terrible historians.
+
+01:00:04.000 --> 01:00:06.000
+Dan Ryan: Yeah.
+
+01:00:10.000 --> 01:00:22.000
+mark sweet: So a nurse will call them, gather basic information, and then put all that information in a system. So that way. When Jonah does her initial call, it can be much faster, because she doesn't have to go over the history.
+
+01:00:22.000 --> 01:00:29.000
+mark sweet: And it can just go over. What are they feeling right now? Have them. Do you know. Bend over, twist that kind of.
+
+01:00:27.000 --> 01:00:31.000
+Dan Ryan: So would that system be this system.
+
+01:00:33.000 --> 01:00:35.000
+mark sweet: Yeah, that would be amazing.
+
+01:00:34.000 --> 01:00:42.000
+Dan Ryan: Okay, so we need that paperwork so that we can. Define the custom fields or custom values. It's gonna be one or the other.
+
+01:00:42.000 --> 01:00:47.000
+Dan Ryan: So basically, the the goal is that I scope it out.
+
+01:00:47.000 --> 01:00:49.000
+mark sweet: Mhm.
+
+01:00:47.000 --> 01:00:50.000
+Dan Ryan: And send it to them. And then they're going to quote the build.
+
+01:00:50.000 --> 01:00:52.000
+mark sweet: Cool.
+
+01:00:51.000 --> 01:00:59.000
+Dan Ryan: Yeah. But I need like to understand these are all the potential fields. The data related to a contact.
+
+01:01:00.000 --> 01:01:10.000
+Dan Ryan: Period. That's it. And then from there I can say, Oh, okay. And then I'll look at her spreadsheet, which I have. And then go. Okay. Maybe we should move this to air table. Maybe this should, or it can stay in Google sheets. And then.
+
+01:01:10.000 --> 01:01:20.000
+Dan Ryan: Then I would say, Hey, we want. A text follow up automation for appointments. We want a appointment booking automation. Whatever the hell it is.
+
+01:01:20.000 --> 01:01:25.000
+Dan Ryan: But the defining the data set is the the 1st step. It's the biggest step.
+
+01:01:26.000 --> 01:01:28.000
+mark sweet: Okay. Cool.
+
+01:01:27.000 --> 01:01:30.000
+Dan Ryan: Of course you miss Shit, and you can add shit, but I mean we wanna.
+
+01:01:30.000 --> 01:01:39.000
+mark sweet: No, I'd rather get most of there, and we can always tweak one or 2 things if we need to. But, like I, I'd like to have the majority of it. Correct.
+
+01:01:37.000 --> 01:01:40.000
+Dan Ryan: Yeah. And then there's like one source of truth.
+
+01:01:41.000 --> 01:01:43.000
+mark sweet: Cool.
+
+01:01:44.000 --> 01:01:46.000
+Dan Ryan: Is it.
+
+01:01:45.000 --> 01:01:52.000
+mark sweet: And that way you're not super involved. Someone else is building it out. But you still make it actually work. So that makes total sense to me.
+
+01:01:52.000 --> 01:01:54.000
+Dan Ryan: Yeah. Cause you cannot trust.
+
+01:01:52.000 --> 01:01:54.000
+Tina Marie: Okay.
+
+01:01:54.000 --> 01:01:56.000
+Dan Ryan: Other people to make your ideas work.
+
+01:01:56.000 --> 01:01:59.000
+mark sweet: Ah, yeah, I've learned that the hard way multiple times.
+
+01:01:56.000 --> 01:01:58.000
+Dan Ryan: Okay.
+
+01:01:59.000 --> 01:02:04.000
+Tina Marie: Dan, it is 1 0 1. That's the Jd funnel right.
+
+01:02:03.000 --> 01:02:07.000
+Dan Ryan: Bye, bye. But in Dubai. Yes.
+
+01:02:06.000 --> 01:02:08.000
+Tina Marie: Okay, thank you. Bye, bye.
+
+01:02:08.000 --> 01:02:09.000
+Dan Ryan: You.
+
+01:02:10.000 --> 01:02:12.000
+Tina Marie: Okay.
+
+01:02:11.000 --> 01:02:13.000
+mark sweet: Okay.
+
+01:02:13.000 --> 01:02:15.000
+Tina Marie: Do you have anything else you want to go over.
+
+01:02:16.000 --> 01:02:18.000
+mark sweet: Um.
+
+01:02:21.000 --> 01:02:23.000
+Tina Marie: Oh, I forgot.
+
+01:02:21.000 --> 01:02:30.000
+mark sweet: You know, feel better with the china thing. Oh, her. Finally, finally, finally, text messages will start working with grasshopper. It finally got approved. So that's a positive.
+
+01:02:32.000 --> 01:02:41.000
+mark sweet: Just to finish the Patrona conversation. Um on my side. No, I'm excited for Colorado. I'm excited for this winter. It's free thing.
+
+01:02:41.000 --> 01:02:49.000
+mark sweet: Again. I think it could. Help build a brand for us, which makes the form more valuable, and should help us also in Ppc.
+
+01:02:50.000 --> 01:02:53.000
+mark sweet: And distinguishes us from sweet James quite frankly.
+
+01:02:54.000 --> 01:03:02.000
+Tina Marie: Yes, um and it. And it's just at the very least, it's more data about what could work.
+
+01:02:57.000 --> 01:02:59.000
+mark sweet: Oh, most of it!
+
+01:03:02.000 --> 01:03:08.000
+Tina Marie: Or doesn't work hopefully. That's not what we learned, but. Um.
+
+01:03:07.000 --> 01:03:18.000
+mark sweet: This will work. The question is just how long and how much it's gonna take, because. Way, too many people doing the same goddamn thing, and if it didn't work at all, people wouldn't do it.
+
+01:03:18.000 --> 01:03:35.000
+Tina Marie: Yeah, yes, um. But what I was also saying is that it should give us relational data for other things that we're doing, and more insight, and that's usually. It's almost as good as the 1st benefit of it working because.
+
+01:03:35.000 --> 01:03:46.000
+Tina Marie: It, or or better, because um, that information will inform future decisions and iterations across the board. For acquisition, so.
+
+01:03:46.000 --> 01:03:54.000
+Tina Marie: I like that. We're going down this route. Even if it doesn't, you know. Be a home run.
+
+01:03:54.000 --> 01:04:08.000
+Tina Marie: All. You know, the games are won by the singles, and every time we stack another single we just get that much further ahead. I was really surprised to see 52 retainers already on, and it's the 17.th
+
+01:04:03.000 --> 01:04:10.000
+mark sweet: Yeah. I've brought down our.
+
+01:04:10.000 --> 01:04:12.000
+mark sweet: Criteria of it.
+
+01:04:11.000 --> 01:04:17.000
+Tina Marie: So, okay, that was information we need to have. What'd you do?
+
+01:04:16.000 --> 01:04:21.000
+mark sweet: Yeah, I just loosened up my criteria. I'm saying yes, more often.
+
+01:04:19.000 --> 01:04:24.000
+Tina Marie: Hold on! I understand that.
+
+01:04:24.000 --> 01:04:26.000
+Tina Marie: What specific criteria did you modify.
+
+01:04:27.000 --> 01:04:36.000
+mark sweet: Um whether they have to have like um, so insurance are a little bit more questionable. That's probably the biggest thing.
+
+01:04:37.000 --> 01:04:45.000
+Tina Marie: So are you tracking. How many more cases were taken specifically because of.
+
+01:04:45.000 --> 01:04:47.000
+Tina Marie: The reduced criteria.
+
+01:04:47.000 --> 01:04:54.000
+mark sweet: No, because we'll be able to see how many we drop. And that's gonna be a very direct indication. It's it's just gonna be the easiest way to see how many we dropped.
+
+01:04:54.000 --> 01:05:03.000
+Tina Marie: It is, but not necessarily because you might find that you're not dropping anymore because of it. I doubt it. But. You should also.
+
+01:05:02.000 --> 01:05:04.000
+mark sweet: If that's the case, then I should have done this a long time ago.
+
+01:05:04.000 --> 01:05:17.000
+Tina Marie: Exactly. But here's my point. You really should be tracking. Just have somebody like create a tick box or something, put it in slack. This is something we wouldn't have take. But we're taking it. Now let's tally that number up.
+
+01:05:15.000 --> 01:05:17.000
+mark sweet: No.
+
+01:05:17.000 --> 01:05:40.000
+Tina Marie: And compare it to the drops, because, let's say you do have more drop cases. But you're still taking more cases, and it's offset. It's not even that means you. Still, you should have done it a while ago, or maybe not, because how much time are we spending on these cases that we eventually drop. There's a lot of data that that one decision is going to affect. And if you're not tracking.
+
+01:05:40.000 --> 01:05:52.000
+Tina Marie: How many cases came in because of it. You're not going to be able to track the rest of the impact. And I thought, I've taught you about tracking and the impact and all the other things.
+
+01:05:54.000 --> 01:05:56.000
+Tina Marie: Sir.
+
+01:05:56.000 --> 01:06:02.000
+mark sweet: Okay, I will figure out a way to do it. That doesn't discourage people. But yes.
+
+01:06:01.000 --> 01:06:12.000
+Tina Marie: Make it as simple as possible. It could just literally be chat just like in a in a slack, and then we go. Do a zap or something to tabulate it, or whatever we just.
+
+01:06:12.000 --> 01:06:17.000
+Tina Marie: Copy and paste the whole chat after a month, and run it through Chatgpt, and say, Count these.
+
+01:06:17.000 --> 01:06:19.000
+mark sweet: Okay.
+
+01:06:19.000 --> 01:06:23.000
+Tina Marie: It doesn't have to be difficult, but it does need to happen.
+
+01:06:23.000 --> 01:06:26.000
+mark sweet: Okay, then let me figure out the best way.
+
+01:06:24.000 --> 01:06:30.000
+Tina Marie: Please. Look it.
+
+01:06:29.000 --> 01:06:38.000
+mark sweet: No, it's just. I need to manually do it. It's not. There's not a. This is an obvious criteria, and I don't want intake to think this through more, and I especially don't want.
+
+01:06:37.000 --> 01:06:39.000
+Tina Marie: Yeah.
+
+01:06:38.000 --> 01:06:51.000
+mark sweet: Attorneys to be looking at and be like. Oh, this is one mark doesn't think is as good, and either instantly discourage or don't do a very good job. So between those 2 things, I've got to be very cognizant of it. So I just have to name it something else.
+
+01:06:51.000 --> 01:06:55.000
+mark sweet: So we can track it. I get it. I just need to be very, very, very cognizant of what it is.
+
+01:06:55.000 --> 01:07:09.000
+Tina Marie: Okay. What I'm saying is, I would be happy to help you brainstorm and work through this. It doesn't have to be something you figure out by yourself, like. Is it something uh America or somebody else could just go through? I don't know who has access to it right.
+
+01:07:09.000 --> 01:07:19.000
+Tina Marie: But at the end of the day do a little tabulation on what came through intake. And look for is, did we take something with um without, with or without uninsured motorists? Probably without.
+
+01:07:21.000 --> 01:07:26.000
+mark sweet: Yeah, it's more than just that. But that's 1 of. Key criteria, so.
+
+01:07:25.000 --> 01:07:31.000
+Tina Marie: Okay. Well. Anything that I can do to help you come up with a simple solution.
+
+01:07:27.000 --> 01:07:29.000
+mark sweet: We'll get it figured.
+
+01:07:31.000 --> 01:07:34.000
+Tina Marie: I'd be happy to help you workshop that.
+
+01:07:34.000 --> 01:07:43.000
+mark sweet: Okay, well, right now, I gotta figure out what the hell is going on outside because it's super loud. So let me figure that out first, st and then go yell at Isaac to finish getting this fixed up.
+
+01:07:43.000 --> 01:07:45.000
+Tina Marie: Okay, I'll talk to you later.
+

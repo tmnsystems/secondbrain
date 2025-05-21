@@ -1,0 +1,754 @@
+00:00:02 - Tina Marie (profitdriversinc.com)
+Hello, Dolly.
+00:00:04 - mariagudelis (Maria Gudelis)
+Hey, hey. What's wrong? How are you? Good. Hi. There. My voice is from the proper mic. I attempted to use that scribe. How? I know unless I have to buy the pro. It just doesn't create something.
+00:00:21 - Tina Marie (profitdriversinc.com)
+I like the pro and it was crap.
+00:00:24 - mariagudelis (Maria Gudelis)
+I don't know if you remember.
+00:00:25 - Tina Marie (profitdriversinc.com)
+I wrote that last week that I tried scribe and it was garbage.
+00:00:29 - mariagudelis (Maria Gudelis)
+Yeah. And you said so much for that. Yeah. How disappointing.
+00:00:34 - Tina Marie (profitdriversinc.com)
+But that'll tell you how the marketers are.
+00:00:38 - mariagudelis (Maria Gudelis)
+Yeah. That's true. That's true. It's true. Yeah. So I just wanted to add into the training how to create a YouTube thumbnail. Like mimic like the video that we're modeling. And yeah, I was like stupid. So I just thought I'll just create a quick video. I used to use zoom or loom to record video. So I used to have screencast or. all that jazz and Camtasia. But I just find Loom sometimes just easier because I can download the video from Loom and the quality is pretty good.
+00:01:08 - Tina Marie (profitdriversinc.com)
+Yeah. I have all the things. have screencast or a text smith and screencast, whatever. And Camtasia, but Loom is pretty easy and does a really good job without so much. But I text smith, the Snagit is actually text this version of Loom. And it has the little video circle and everything too. so I've paid for that. I'm still paying for Loom and I even I don't use it.
+00:01:39 - mariagudelis (Maria Gudelis)
+Oh, that's funny. I didn't realize Snagit has a video portion because I love text smith stuff.
+00:01:47 - Tina Marie (profitdriversinc.com)
+And I used to run paint for the Snagit version for images and putting in arrows for tutorials. Yes.
+00:01:52 - mariagudelis (Maria Gudelis)
+Yeah.
+00:01:54 - Tina Marie (profitdriversinc.com)
+Do video.
+00:01:55 - mariagudelis (Maria Gudelis)
+That's even better than Loom.
+00:01:57 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. it's not a monthly thing.
+00:02:00 - mariagudelis (Maria Gudelis)
+Yeah, that's true. That's true.
+00:02:03 - Tina Marie (profitdriversinc.com)
+I need to go cancel my loom. Oh my God. just got that stupid bill. like, what? thought I canceled it. I'm so bad.
+00:02:09 - mariagudelis (Maria Gudelis)
+Yeah. There's a few things I need to cancel too. I'm looking at actually just on the weekend. Oh my God. Let's do it. I'm paying for this. And I think once we get started to, I think I'm going to stop my active campaign unless we feel. We'll need it. don't think we do. If we just go high level, right?
+00:02:28 - Tina Marie (profitdriversinc.com)
+Right. Right.
+00:02:30 - mariagudelis (Maria Gudelis)
+And for the little list I have, because I have Sistine.io as well, that's actually good to be good, especially for the make money online from crowd. And it's unlimited email, like no cost.
+00:02:44 - Tina Marie (profitdriversinc.com)
+Oh, wait. Wasn't there some issues with them?
+00:02:48 - mariagudelis (Maria Gudelis)
+I'm not having any so far with Sistine. I mean, you're not going to be able to have as robust if then automations as active campaign could do, but it's got pretty good basic stuff on it, actually. So any deal with their deliverability is well, it's probably not a fair comparison, because I haven't really done all the warm up of a new domain, the fast digital wealth. So, you know, I think, you know, deliverability is about 30% for the small list that probably should be higher, but I can't really, let's put it this way, I think you can make no matter what system you're using deliverability pretty decent to do all the right things for the domain and get people to reply to you and, you know, we get some stats on just inbox placement, but I have, that's the only thing that I would look is just to see if we can get any kind of reputation for their IP blocks.
+00:03:48 - Tina Marie (profitdriversinc.com)
+Yeah, because so like, there are some providers that will combine bad senders with good senders, even though everybody knows better, and I think that they're starting to get a clue. But if they don't manage their IP blocks well, it doesn't matter how good you are, but I guess if you have a dedicated IP, it probably doesn't matter who's sending it, it would be probably just up to you.
+00:04:18 - mariagudelis (Maria Gudelis)
+Yeah, back in the day I had a dedicated IP.
+00:04:23 - Tina Marie (profitdriversinc.com)
+They have system IO dedicated IP.
+00:04:30 - mariagudelis (Maria Gudelis)
+I would say I have all of them, even though I don't use it as much anymore. I actually think of her kids the best.
+00:04:37 - Tina Marie (profitdriversinc.com)
+Dan loves that too. So I don't really use it, but figuring out our tech stack is because today was really mostly supposed to be about reviewing what you did and tech stack, right? Picking something, moving it, and let's just get started and put these things together. Do you get taxed on those?
+00:05:00 - mariagudelis (Maria Gudelis)
+services, taxed, like GST, GST, taxes, like sales tax on services like that. starting to. Yeah. Yeah. Like even Upwork now has done that in fiber. But you think you're buying someone for 10 bucks and before I know it.
+00:05:17 - Tina Marie (profitdriversinc.com)
+So I've been in Oregon and Oregon has no sales tax. So if I purchase anything, it doesn't matter where I purchase it from because I'm in Oregon, I don't pay sales tax.
+00:05:30 - mariagudelis (Maria Gudelis)
+That's nice.
+00:05:31 - Tina Marie (profitdriversinc.com)
+I can get these things, right? So we talked about the money coming into my account, but I can also take the bills and then we can do our reconciling from there. that we're not just paying taxes on stuff like that also. Yeah. you want it. So would you I would love to see if we could just kind of go through you showing me what you made. And if there's Okay, here's what's next, like clear steps that you have, and then we get into the text stuff. What do you think?
+00:06:10 - mariagudelis (Maria Gudelis)
+Yeah. Yeah, let's do that. Let's do that. So let me share a screen, so let me close all this stuff. All right, so, hmm, you're so cute. Yeah, yeah, yeah, so yeah, so what, you know, like really, this is the thing even to, I really thought about stuff as well, the flower astute, and you know, from the mass class, the simple thing that I gave them, like, so I thought, oh, maybe I'll make a quick link, you know, here, I mean, we can download this and upload this to wherever, fam, of how do a thumbnail in Canva. I did create the video here, record, edit, upload, that's in here. we go under, this is the e-book, right? If we go under Quick Start Guide, so if we come over here, you know, this is like the quick start here for 10 minutes. I have the companion video how to do that. The next one is create your framework. decided not to do the companion video on here because I need to think about how I'm going to teach them how to do a transcript, whether they know right there for that. Well, will you make a notation there for me so I can, because I wanted to get started on formatting this? Okay.
+00:07:41 - Tina Marie (profitdriversinc.com)
+Just comment here. Yeah, what you're thinking.
+00:07:48 - mariagudelis (Maria Gudelis)
+Yeah, my thought was to create a companion video for each phase. The three phases create. Great. And this is outside of the masterclass video, right?
+00:07:59 - Tina Marie (profitdriversinc.com)
+that.
+00:07:59 - mariagudelis (Maria Gudelis)
+can. into three pieces. So the next 20 minutes is creating the framework of how to use the transcript. It's basically coming up with transcript. the thing. They get your customized outline and your personal examples. So I'm just going to insert a note here just so you know this.
+00:08:22 - Tina Marie (profitdriversinc.com)
+Mm-hmm. Thank you.
+00:08:25 - mariagudelis (Maria Gudelis)
+Well, say student. Student has two ways to create video. One is take the example, let's say example video, right? call it golden video. Yeah, so let's start using the convention. Take golden video. Trend transcripts and go to Google Doc and Modify to them, like their expertise, right? It's not going to be exact copy, but expert expertise and upload to Big View or any teleprompter. Teleprompter, is why I didn't record it on the weekends like, wait a minute. Or, because this is not what I do too. Take golden video book, create similar hook. It's not word for word, create similar hook. And then decide three key points you'll teach and then hit record. Like, it's more ad lib, right? the three points, this is what I do. on like a sticky note note say on your monitor even floor so you don't forget you know what I mean so it's like you're not using yeah cuz you know people are expert themselves right like the video I want to do like probably tomorrow you know how to do what a funnel looks like I'm not gonna use a script but I will use the hook cuz obviously the works you know so I'll use a similar hook to what a viral video got right but then I'll just go on my own teach three points so so so do I do a video for each one or I just do a video showing the transcript thing my last video I did use more the transcript thing so I drastically I basically changed the hook a little bit and then the rest is really changed to mine but I literally kind of went over what she said and then I just deleted whatever she said to what I wanted to say. I truly had my own transcript, utilizing AI little bit with it as well.
+00:11:10 - Tina Marie (profitdriversinc.com)
+So you know what I think is that that can be supplemental material that like, so maybe once a month you add a couple new videos that's a little deeper dive. Okay. this is complete without that because you've covered a lot of things. Maybe it can be like a weekly training session and you do it, whatever, but I don't think you have to do that now. think we should, but not before it's released.
+00:11:41 - mariagudelis (Maria Gudelis)
+Yeah. Okay. So is that then final set up for success, prep your tools out? So this is all done with everything. And I have a companion video for this. This one, I think I ended up being like 11 minutes or so, but that's still good because this was like 25 minutes allocation. And then I... you know, I think this is still fine to keep. This is what makes us different. Like down the road, if they want to get more professional, they can hire the expensive cameras and all that stuff, but like this is like just, you know, strap, you know, stuff that works. And then required.
+00:12:17 - Tina Marie (profitdriversinc.com)
+So what one sec big view TV is different than big view teleprompter?
+00:12:23 - mariagudelis (Maria Gudelis)
+No, same thing.
+00:12:25 - Tina Marie (profitdriversinc.com)
+Because you spelled it B-I-G-V-U earlier.
+00:12:29 - mariagudelis (Maria Gudelis)
+yeah, I was just wondering. Yeah.
+00:12:35 - Tina Marie (profitdriversinc.com)
+I just wanted to make sure we're talking about the same thing because I don't.
+00:12:39 - mariagudelis (Maria Gudelis)
+Yeah, yeah, no, no, get it. And yeah, Veed or CapCut on her $20 a month. There is a lot of people recommending Riverside recently, and I used it once and it is pretty good, but I just want to learn a new technology, right?
+00:12:57 - Tina Marie (profitdriversinc.com)
+So I just make a little Blurb that say of course there are other tools and equipment you can buy and spend more money But this is bootstrap and this will get an amazing job done Like because people you know, they'll have those questions. what about and so we can preemptively address those questions And I might put that in a like Maria wisdom kind of block like yeah I Say that Tools required really it's key was anywhere.
+00:13:40 - mariagudelis (Maria Gudelis)
+don't have to have Google trends are in the public So I could take that out. did show it in the masterclass, but it's not required.
+00:13:47 - Tina Marie (profitdriversinc.com)
+Why don't you just take that out? Or just put not required but also helpful About those two
+00:14:15 - mariagudelis (Maria Gudelis)
+I know you'll fix all the capitalization stuff.
+00:14:18 - Tina Marie (profitdriversinc.com)
+Yeah, I'll do all the formatting. You've done lots of work.
+00:14:26 - mariagudelis (Maria Gudelis)
+That's the case. We could also say vidIQ. And that's like what that is like maybe I don't know exact amount. I just started using it. It's actually not bad. Speed up the research process. Why didn't I have you fix that because I don't want to worry about it. Yeah.
+00:14:52 - Tina Marie (profitdriversinc.com)
+All you have do is tap back to the next line and hit return. it'll automatically bullet point it properly.
+00:14:57 - mariagudelis (Maria Gudelis)
+I don't know. Okay. So some of this optional. Let's take that out since vidIQ is already there.
+00:15:02 - Tina Marie (profitdriversinc.com)
+Yep.
+00:15:03 - mariagudelis (Maria Gudelis)
+I didn't. No. Free templates and resources. So yeah, so this is, I kind of put the links in here because this is like, you know, the be all and all, you know what I mean? So yeah, I've got everything here, yeah. And then I'll put YouTube planner. So this is good too. This is the template. don't really use this a lot, but, you know, if we want to go gangbusters on Tina, we could do a challenge and we give away this planner for free or charge five bucks for a three day challenge and we have them just start filling this out. And oh, by the way, you need to get our YouTube course. You know, I don't think in 10 steps ahead, but just say, I think this is the time of year for challenges.
+00:15:49 - Tina Marie (profitdriversinc.com)
+Okay. People need a little extra oomph. And I'm here to support that and work like I have a very minimal schedule in a lot of ways. I have a ton going on, but I've built lots of room into it and with in the summer time is different because I'm outside all the time, but in the winter, I'm just like, I really need to be full. So if you want to do that, I'm down for that and supporting it because I think it will lead to a lot more cells, but I also think it's good service. I think people need structure and support and challenges are very structured and they get some amazing results and can be that fire that people need.
+00:16:31 - mariagudelis (Maria Gudelis)
+Okay, awesome. And then I took out a lot of stuff that was down here because I just wanted to keep it simple and like, you just kind of had this best practices. So yeah.
+00:16:46 - Tina Marie (profitdriversinc.com)
+So what do you think about having an immediate upsell to, I know we have talked about this and not wanting to do a monthly thing, but since you're all always working YouTube anyway. And I don't know if you want to keep doing that, but I would imagine at least for another year, you would easily commit to that, because it's going to keep bringing us traffic for whatever we're selling. But if we upsell immediately to business accelerator, whatever we want to call it, but something to that from a mind, than pocket the OOCMO, it's business accelerator, right? it starts with, and the first module of training class is going to be YouTube. And so, for the next couple of months, we're going to be mostly focusing, and we'll tell them, right, for the next couple of months, we're mostly focusing just on YouTube. Or let's say the next three months, and you bump up for 90 days of being a member of that course, which would then we in 90 days, we could have the target of having the other for a business accelerator, ready, six months, whatever the timeframe is, right? Anyway, and we could try to upsell them then into, okay, now you've been growing YouTube, you should be making sales, how's the rest of your operations? How are you managing your finances? How are you managing your time? Are you starting to feel like you're a little overwhelmed because you've got all these sales?
+00:18:20 - mariagudelis (Maria Gudelis)
+Because that's what happens, right?
+00:18:21 - Tina Marie (profitdriversinc.com)
+People start making money and have like, oh, this, I built a monster.
+00:18:26 - mariagudelis (Maria Gudelis)
+Yeah.
+00:18:27 - Tina Marie (profitdriversinc.com)
+Anyway, so that gives us an upsell now, but what it also does is create a place where you're paid to be creating those supplemental videos that we can then roll back into the product, potentially raise the price, you know, ten dollars, twenty dollars, whatever, because it's new and improved. But that way, you get also some live energy showing up while you're creating the supplemental videos, improving the product, getting paid to improve the product.
+00:18:56 - mariagudelis (Maria Gudelis)
+Does that make sense? Yes. What's, Um, just so I kind of can envision it. I don't know if I can do a whiteboard here. Look at that. Um, look, I can do whiteboard. Okay. So, so like, is it going to be like $5 a month in like school?
+00:19:17 - Tina Marie (profitdriversinc.com)
+I'm thinking like $97 a month and they can post questions which we can get on the list of potential, you know, videos that we answer or we can just reply there. And I will learn as we go. So, once I see your answer, one of the things I can do is build a frequent ask questions so I can help respond to questions also. but also then we just have an FAQ section. Um, and so they get access to that. They get access to the live training and they get community. So, let's say only five people do it. So, let's say, um, five people do that and you, there's only, there's $500. Well, let's say 10 people do it because I know that we'll get at least at and you get $500 a month for creating supplemental videos. Like, I know more will say yes than that. But when I look at effective hourly rate, right, you were going to create probably supplemental videos anyway because you know that that's some of the stuff people going to have questions about and it needs to happen. But this way, again, we're going to pay to do it. Meanwhile, also building community, also building kind of raving fans and getting to work together while building the community so it serves lots of purposes. And it should be affordable because you know people are talking about like they spent $1400 on YouTube course. This one's peanuts compared to that. And even when you add in the business accelerator, it's still it's it's nothing. And anyway, I think it's a great though.
+00:20:53 - mariagudelis (Maria Gudelis)
+Yeah. where does that leave though?
+00:20:56 - Tina Marie (profitdriversinc.com)
+Like originally we were thinking like the YouTube fast track.
+00:21:00 - mariagudelis (Maria Gudelis)
+Um, and then we would do a VA automatic growth stack, right? So teaching them how to outsource this to a VA.
+00:21:08 - Tina Marie (profitdriversinc.com)
+basically everything that's in, um, what if the offer is, um, VA automated growth stack for 77 or, um, or, or it's the same price and like you get it free in the business accelerator. Like basically try to create it as a middle offer that is the, the higher offers a no brainer because it includes it.
+00:21:33 - mariagudelis (Maria Gudelis)
+You know what I mean? So okay. Now, there's only one thing caution I have, because I'm almost rather make it to 97.
+00:21:41 - Tina Marie (profitdriversinc.com)
+I'll go, but maybe I'm wrong.
+00:21:44 - mariagudelis (Maria Gudelis)
+I've never had the greatest success on selling to call traffic continuity, like 97 at time. on a low ticket funnel, like typically if it were like 77 or 97 or even 197. For everything, you get it. But a lot of people don't want to say yes to a recurring thing. Okay.
+00:22:06 - Tina Marie (profitdriversinc.com)
+How would you tell about 47 a month?
+00:22:13 - mariagudelis (Maria Gudelis)
+Yeah, so yes, I think 47.
+00:22:17 - Tina Marie (profitdriversinc.com)
+mean necessarily just conversions, but I also mean, how would you feel about serving people paying 47 a month?
+00:22:25 - mariagudelis (Maria Gudelis)
+Yeah, when we're getting the community going, I feel better about that than 97 because even I might behavior. I'll stop at 97 a month after one, two, months max because it's like, okay, already got what I need. It's very rare that I'll be hooked for longer, you know.
+00:22:44 - Tina Marie (profitdriversinc.com)
+And if it's, but under the $50 threshold, I feel like somebody's making money, they're going to want to stay. And if they're not making money, that's not really who we want. Anyway, we need people who are making money for business accelerator.
+00:22:56 - mariagudelis (Maria Gudelis)
+Yeah. But we're just, brainstorming here, what if business accelerator and VA automated growth cycle, that was one stop, shop $500 or $1,000 course that we absolutely can be.
+00:23:10 - Tina Marie (profitdriversinc.com)
+And so I like having limited options, basically like two options, because when you get buyer infusion and that production creates a pause. So I think they should both be great sales and I think one should be monthly, lower price and one should be larger all at once. I've seen test over test over test where those work out really well and almost always people choose the monthly lower price. Now do they cancel? Yes, but the average rate of cancellation for anything even when it's crap is two and a half months. So that's $250 per buyer versus how many people will actually convert at a thousand, right? Or how many people will say for 10 months worth of 97, that type of math. Yeah. other is though if we're serving really well and targeting well, then I think we can have more an average of six to seven months with some people staying for years. If we were still doing it, like, but business accelerating is what I've been doing for 22 years, you know, and you you've been in marketing for all this time. So this should be able to be a home base that we're very happy to serve and serving well, no matter what kind of nuance and and slight changes we make to it, whether it be in the price or how we stack it or offer it or whatever, the the foundation of it should remain pretty fixed. So let's say, you know, we could say you get what, like, let's think about it in a monthly or, you know, you get the whole year. Access or lifetime like so let's just do some dirty math and make some choices that we narrow down two choices that we put on a sales page so if they were to do 97 a month and Get everything that we create for the year that be $1,200 a month. I mean $1,200 for the year So what if we make it like you know it could be a thousand dollars and it could be lifetime like some of the product whatever or Maybe it's like I Don't know some version like that for the next 90 days or six months or something like that pricing and But you can pay monthly So I got I like seeing this yes me too.
+00:25:52 - mariagudelis (Maria Gudelis)
+Yeah, so Very visual.
+00:25:56 - Tina Marie (profitdriversinc.com)
+I like mind maps a lot for fun You
+00:26:00 - mariagudelis (Maria Gudelis)
+So I'm just gonna throw this out there because it's kind of what I was thinking. Yeah, for sure And we should bring everything to the table because I think we get there faster that way So if I were creating scratch like a little ticket offer for this and I would kind of do Okay, you to have something showing on my screen that pause share. You're seeing the screen, right? Yeah So we can make you too fast-track $27 30 day challenge $19 and so one I was thinking would be the we could do like scripts or scripts and more scripts and templates for 77 because we're probably attracting also women here too and women tend to like under $100 here and this is to satisfy Don't know what to say Say Say Originally, I thought the VA outsourcing here like if you're writing stuff. I'm not seeing new things show up Yeah, that's what I'm saying. Something's really weird. OK, let me just stop sure and sure again. OK. There we go. So you see it now?
+00:27:07 - Tina Marie (profitdriversinc.com)
+Oh, wow. That is not what I was looking at. I was seeing the first where you were drawing the blocks with the YouTube Accelerator.
+00:27:14 - mariagudelis (Maria Gudelis)
+yeah, so the whiteboard was stuck there.
+00:27:17 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:27:18 - mariagudelis (Maria Gudelis)
+So then I'll just delete like this is like just delete, delete, delete, So, and then scripts and templates, and then this one upsell2 would be the VA, whatever you want to call it, be outsourcing system slash. I like automated growth stack as a name. Because I know Josh has a little ticket offer where he teaches people here out of. Get organic Facebook groups and is up. So one actually is outsourced into a VA to manage your Facebook group Because that's the next pain, right? But I think in here potentially the next pain is more Still not knowing what to say even though my fast-track method kind of share Yeah, I know another guy that has a YouTube little ticket offer and hit up so one is like 100 Scripts or something that he gives out or the hooks right 100 hooks at the beginning or ideas Etc.
+00:28:28 - Tina Marie (profitdriversinc.com)
+So like you could put thumbnail ideas and Like subject lines what do you put and video titles things like that in there?
+00:28:39 - mariagudelis (Maria Gudelis)
+Yeah, let me see if I can pull up This other guy that has a YouTube course Keep notes all on This is bad I obviously there's lot of YouTube courses. I haven't bought that. I know this one guy has a little ticket offer That's it. I bought his front end. No, that's faceless. I'm sorry. No, this guy's making an 8K a month with this faceless Instagram. Stop that. I guess.
+00:29:14 - Tina Marie (profitdriversinc.com)
+And I think that one of the things that we should commit to doing together is is that diving into faceless, but I'll do the work and the case study. And then we can teach it because a lot of people want to do that. I want to do that. And so in our, but that has to be, it can ultimately be, you know, a standalone offer that we make, but the first people who would get access to it would be our members. And so we could tell them that that's a coming soon thing. we wouldn't be careful about the wording because, you know, like, well, don't know if we're using stripe or whatever, but FTC is cracking down on So we could say any future trainings, for example, here's a list of things on the docket, whatever, but you're paying for this right now.
+00:30:13 - mariagudelis (Maria Gudelis)
+Yeah, yeah. I can't find it. I might be able to find it later, the YouTube course I was thinking about. But yeah, in it, he had like, I took a snag of it or whatever, but he had like, yeah, like he had like a hundred scripts and yeah, a lot more thumbnails. Yeah, yeah, he had a lot more. Yeah, just things you can. Oh, here is his. This what he was selling as his front end for $27 100 dump for you plug and play YouTube video idea templates. So which I thought, Oh my God, this was just AI generated.
+00:30:58 - Tina Marie (profitdriversinc.com)
+Right.
+00:30:59 - mariagudelis (Maria Gudelis)
+Oh, yeah. Exactly. I was like, Oh my God. Um, uh, but his upsell Let's see. Here's a sales page. I'll find his upsell page. I just bought this one He has lots of testimonials because he runs a YouTube agency So he does done for you content and stuff for people so he's got tons of testimonials on it But it's just 100 done for you YouTube video ID templates, but he says this Because he's got an agency, but people don't buy this course and have that success, right? Because this is right just the list, right? And again, these are all his testimonials of people hired him one-on-one Like he's one-on-one growing their channel for them.
+00:31:41 - Tina Marie (profitdriversinc.com)
+I'd be really interested in going and seeing what his reviews are Like if you go type in tick scale dot net reviews and see if like there's a trust pilot or any of those types of things You But it's four, let's, can we, this one, oh no, I didn't want to click on that. just want to scroll down and see what else it is. Because only three could be pretty good.
+00:32:15 - mariagudelis (Maria Gudelis)
+That's the guy's name, amen, Aaron.
+00:32:19 - Tina Marie (profitdriversinc.com)
+Spam score, 1%. Let's see. Spam score, 6%. 1%. Yeah. I would just be really careful about patterning after hypermarketers.
+00:32:37 - mariagudelis (Maria Gudelis)
+Oh, we're not. That's why our friend is so different.
+00:32:39 - Tina Marie (profitdriversinc.com)
+Yeah, yeah, yeah.
+00:32:41 - mariagudelis (Maria Gudelis)
+But I just went, his OTO was a little kind of included stuff. think he called it. He has a content calendar template. And I thought it would mean it's just your screen. So, here it is. So, I don't know what it was in the OTO, but if you want to buy it separately, it's $197, it's like $20 for you to plug and play YouTube scripts, a secret store, something insulting. offers to kill to help him. Smart phone career, AI script writer, script anatomy.
+00:33:17 - Tina Marie (profitdriversinc.com)
+have seen so many bundles like this through learning how to market on TikTok, learning how to market on Instagram, all of these different things. I'm doing Etsy stores, which, you know, those sell for $2,000, those offers, learning how to day trade. this stock is very similar. It'll go and sell, you know, for $200 to $2,000 pretty easily, especially when they're coaching built in. And they convert well, and the teachers that do well get amazing reviews. Like, we, know marketing. And the thing is, there is this whole new wave and generation of people. who are learning how to make money online and they want the whole stack right and but they do want to divide it up because they're not already to spend all the money so that's the great thing as much as people get annoyed by all the upsells and one-time hours and things like that is it gives you an option to dip your toe in without making a huge financial investment and that's one of the things that we can say as we're going through the upsell idea is look so why are we offering things that you know if all you need is this it's because you can only learn so much at one time everybody's got a different pace also you can only be able to invest so much at one time so we want to make sure that you can get started that you can grow that you can get benefit and when you're ready for the next step if you can't afford it or don't have the mental capacity for it right now because you're just stretched then you can come back and get this later so we're trying to make
+00:35:00 - mariagudelis (Maria Gudelis)
+you where you're at yeah so um so scripts and templates um let's just go back and look at that guys thing just just to trigger some some thoughts real quick because yeah it's pretty common stack yeah i just want to place that here for the step five could be like you know gen x c o pocket c m o c o and that's like what do we say two thousand a month or something anyway i'll just keep a hundred thousand on their foot because it looks damn good um no that was six thousand a month okay got it okay because we don't we don't want that that offer needs to be somebody who's making a lot of money to capitalize and isn't going to be like well i don't know if we should do that or or whatever who's just like ready to go go home i don't insider's club whatever call it. I think more in the emails nurture was they know you. I always believe a membership works better there. And maybe I'm wrong. just, yeah.
+00:36:15 - Tina Marie (profitdriversinc.com)
+I think the, again, because I was studying basis marketing last year for several months. My friend and Samantha and I both, we bought lots of the courses. People are cold converting two monthly coaching very quickly, cold. Okay, long as the copy is good and the proof is good.
+00:36:40 - mariagudelis (Maria Gudelis)
+So maybe this becomes upsell too, like, because this is it as well, potentially.
+00:36:47 - Tina Marie (profitdriversinc.com)
+Well, so I would say step four is business accelerator includes all of the above. Hold on before you move.
+00:36:55 - mariagudelis (Maria Gudelis)
+My brain gets distracted.
+00:36:57 - Tina Marie (profitdriversinc.com)
+Okay, business accelerator includes build two and three. And so like if they already were charged for that, we'd have to set it up so it credits them or or something because I've seen that happen, right?
+00:37:12 - mariagudelis (Maria Gudelis)
+Oh, okay.
+00:37:13 - Tina Marie (profitdriversinc.com)
+Okay. Or it doesn't charge until the very end. Something like that. We have to figure out the technology for that and Dan could help us with that or Jason and Kendall could help us with that. But so if we get to business seller, you say includes all of the above, YouTube fast track, step two, step three, know, whatever those are. And they get everything, but it's a monthly fee. And but maybe it's paid quarterly. And so it's 197 and you get everything that would have cost you whatever.
+00:37:49 - mariagudelis (Maria Gudelis)
+You know what I'm saying? Like, I have to actually do the math and see the numbers. Yeah. Like for me, I was sort of thinking that. the thing that I just draw along here, this, the fun actually ends here of Ascension, like, immediately, like, then they get taken to a thank you page, really step four is a thank you page. And this is more sold, like, and maybe, you know, we change around and it's different, but this is more sold in the emails, text messages, getting to know them, etc. That's sort of what I was thinking, like, so.
+00:38:33 - Tina Marie (profitdriversinc.com)
+Say that again, please.
+00:38:35 - mariagudelis (Maria Gudelis)
+Yeah, let me just draw it out. Thanks, Paige. Right, so, so really. So this step, this is really like step six. My thought process was that this would be more sold to these people than are all in the customer database, right?
+00:39:24 - Tina Marie (profitdriversinc.com)
+That was something I was thinking about too, is like who buys this and because that will also help us with the copy, like who is this for, who is this not for, and how do we qualify them?
+00:39:53 - mariagudelis (Maria Gudelis)
+So I I kind of thought this was in the postpart thought in postpart this. But again, I've just never done much funnels to something that's recurring on the upsell one or upsell two. So, if you're saying you saw a lot converting to a monthly, then I'm certainly open to it.
+00:40:18 - Tina Marie (profitdriversinc.com)
+Well, and we can split test everything and we can, so having providing our traffic 20% to one particular offer that we're really not very sure about and see how it converts. Yeah, yeah.
+00:40:33 - mariagudelis (Maria Gudelis)
+So, yeah, yeah, I mean, because you're right. What I do know is that most eyeballs will see upsell one, decide the air name. won't, so it won't get as many eyeballs on upsell two. Now, of course, in the post purchase nurture sequence, you can bring them back to this on a separate sales page, which, you know, I do a lot on low ticket funnels too. But I'm just saying more sales will happen of this one here. I was up cell one.
+00:41:04 - Tina Marie (profitdriversinc.com)
+Um. Uh, let's see. Oh, my daughter and my guy are like one called one texted. Okay. Say it one more time, please.
+00:41:19 - mariagudelis (Maria Gudelis)
+Oh, sure. Uh, most people just see up cell one after they buy a YouTube fast truck. A lot of people don't continue to upsell to kind of just get out of there or they're in their mind by the time they see up to sell to some will still buy it. Don't get me wrong, right? But the thing that they'll buy more of cell one.
+00:41:43 - Tina Marie (profitdriversinc.com)
+Cause I'm so I don't know what the statistics are of who clicks away. Have you and I don't know how many funnels you've done this on, but have you done heat map data and like look at ban on rights and how long people on these pages to see what the. the actual statistics are because I would love to just measure it for this off or specifically in the future.
+00:42:07 - mariagudelis (Maria Gudelis)
+What happens? Yeah, I only use... Sorry, go ahead.
+00:42:11 - Tina Marie (profitdriversinc.com)
+And really, I would like to really pay attention to the data and look at the bounce rates. And then one of the things I've done before is flipped up cells as a split test. I've done that with Brian Kurtz and stuff and the flipping them did really, really well. So I think we don't know what we don't know and that we just start somewhere, check the numbers, if they're not ideal, and even if they are ideal, still there should be a split test. Well, what happens if we do this? And so do something that goes, you know what, I know an avatar who would say yes to all of this. I know lots of avatars who would say yes to all of this. So let's start with this. Let's insert a split test on every single page, right? And the price could be the offer, it could be the price, it could be the call to action.
+00:43:00 - mariagudelis (Maria Gudelis)
+could be the headline, right?
+00:43:01 - Tina Marie (profitdriversinc.com)
+All these things, those main things that make a big difference on the conversion rates. let's go from there, because here's what we do know. People need all of this. These are worthy prices. Yeah. We can teach it well. So all that being said, we don't know anything until the customers sell us.
+00:43:24 - mariagudelis (Maria Gudelis)
+No, you're right. You're right. And like, originally, I had this one as upsell one, right? My gut was thinking, oh, they want, they don't want to edit the videos, have someone else do that and upload because Greg Miller, you know, the real estate guy, he even said, I do want to start a YouTube channel in January. I love what you're posting, but I'm just telling you right now, I just want to hit record. I want someone else to log into YouTube, upload it, do all the editing. got to want to touch one part of that. So to me, I'm like, oh, this one probably should be up to one. But yeah, I agree with what you just said. I do not know. And I guess that's where you I mean, with Dan or your experts here on that, when it comes to like click funnels that I have an idea.
+00:44:08 - Tina Marie (profitdriversinc.com)
+OK, so we just we just use downsells instead. So so one is both of them. Downsell is no thanks. I only want the scripts or no things I only want the VA outsourcing.
+00:44:21 - mariagudelis (Maria Gudelis)
+Ooh, like that. I do like that, yeah. You know what? Let's just make a copy. Yeah, I do.
+00:44:44 - Tina Marie (profitdriversinc.com)
+Here's the thing when we do the no thanks. The map is. It costs way more to get them separately.
+00:45:03 - mariagudelis (Maria Gudelis)
+Not way more, but significantly enough more.
+00:45:06 - Tina Marie (profitdriversinc.com)
+Maria, I need to take a break. I need to prepare my daughter. So I'm going to mute, but I don't know. I'll just continue drawing. It's OK. You I'm back are you there?
+00:54:52 - mariagudelis (Maria Gudelis)
+Yeah, I'm here Okay.
+00:55:02 - Tina Marie (profitdriversinc.com)
+Oh, I think I'm muted. Can you hear me?
+00:55:06 - mariagudelis (Maria Gudelis)
+Yeah, I can hear you.
+00:55:07 - Tina Marie (profitdriversinc.com)
+Can you hear me? Yes, sorry.
+00:55:08 - mariagudelis (Maria Gudelis)
+Oh, yeah, no worries. No worries. So, um, I was trying to figure out, pull out my calculators. This calculator is based more on, um, it's based more on like, hey, average order values. Let's say we're going after $80 average order value, right? And this is called, you know, the whole YouTube low ticket funnel, right? And, and, and then selling them something else like $297 or $1000 and then something else like $6000, right, for the pocket CMO. So, um, I don't know if this is the best calculator, therefore, you know what I mean? Yeah. Unless we just make this based on the low ticket funnel. So, we can say 27 is the front end.
+00:57:00 - Tina Marie (profitdriversinc.com)
+seven.
+00:57:01 - mariagudelis (Maria Gudelis)
+That would be interesting to do, I agree.
+00:57:04 - Tina Marie (profitdriversinc.com)
+Now, also, how, so you're not delivering it live, so nobody can really say that this is, you know, this offer is the same as the one that you made, but I also don't want to upset people that did buy from you.
+00:57:18 - mariagudelis (Maria Gudelis)
+How do you feel about that?
+00:57:19 - Tina Marie (profitdriversinc.com)
+Oh, well, people who bought from me, they have one-year lifetime access, I told you to one down so long, like, oh, that's all they're going to get, yeah. Okay, cool. Yeah, okay. So, we could split test 47, yeah, I would love to do 47, 67, and then play with the prices in between depending on how they convert, because sometimes it's just weird. Sometimes, let's say, let's say, 67 loses or wins over 97. 47 loses. you know what I mean? Like, it's really a few tests to find out what it is, but it needs volume to be able to declare a winner. So, you know, that could take us months to get to the bottom of that. But I think any of those prices are reasonable and not going to, like, cost this major sales. But I think that will maximize the profits by split testing those different versions. Okay. And then I think that those prices for the upsells are, you know, within standard parameters.
+00:58:34 - mariagudelis (Maria Gudelis)
+Yeah.
+00:58:35 - Tina Marie (profitdriversinc.com)
+shouldn't be any kind of issue. But I, yeah, I like that a lot.
+00:58:44 - mariagudelis (Maria Gudelis)
+Okay. Cool.
+00:58:45 - Tina Marie (profitdriversinc.com)
+Cool. How do you feel about it?
+00:58:48 - mariagudelis (Maria Gudelis)
+Yeah. No, I feel good. I feel good. mean, because there's a lot of good stuff in this fast track, right?
+00:58:53 - Tina Marie (profitdriversinc.com)
+That they get. So I think, I think that's good. Should split test 47 and 80?
+00:58:59 - mariagudelis (Maria Gudelis)
+Like,
+00:59:00 - Tina Marie (profitdriversinc.com)
+Yeah, let's just try a 477 just I'm thinking like is people that love numbers, people that love hairs like that and I've just I'd be fascinated to see but I also want to see a higher number be offered because I think it's worth it and I think that we are probably selling ourselves short and I want to know sooner rather than later.
+00:59:26 - mariagudelis (Maria Gudelis)
+Okay. Yeah, I mean, especially when Peter said this was easier and faster than Sean canals like $1,000 course, right? yeah.
+00:59:38 - Tina Marie (profitdriversinc.com)
+for the 30-day challenge, now is that a downsell? Use this order bump. So for what if we made it a downsell instead? you don't buy it, join the challenge because your logic to me was like it can feed people into everything else.
+01:00:03 - mariagudelis (Maria Gudelis)
+Wait, what's the third day challenge? Where would that go as a downsell?
+01:00:09 - Tina Marie (profitdriversinc.com)
+If they don't buy YouTube fast track.
+01:00:12 - mariagudelis (Maria Gudelis)
+But they just leave the page.
+01:00:16 - Tina Marie (profitdriversinc.com)
+Well, it doesn't have to be that way. It can be a like a pop-up if you put it.
+01:00:24 - mariagudelis (Maria Gudelis)
+So what do you want to do the bump then? Because I usually always have an order bump cut. Always adds a lot more revenue to the funnel.
+01:00:30 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:00:31 - mariagudelis (Maria Gudelis)
+So yeah, I hear you.
+01:00:33 - Tina Marie (profitdriversinc.com)
+I mean, that's an interesting idea.
+01:00:36 - mariagudelis (Maria Gudelis)
+then the people...
+01:00:37 - Tina Marie (profitdriversinc.com)
+they won't see it.
+01:00:38 - mariagudelis (Maria Gudelis)
+So it can be the order bump. You're right. You're right. exit pop offer.
+01:00:44 - Tina Marie (profitdriversinc.com)
+How's that that? Yep. For exit pop, I'd like it at 19 for an order bump. I don't want to see it be a little bit more.
+01:00:56 - mariagudelis (Maria Gudelis)
+Yeah. It was 19 when this was going to be 27. So... Um, so maybe 27? Mm hmm. Okay. That's not created yet, just so you know, but I just figured, I was kind of thinking that that could be a good order bump because, I mean, a lot of people like to know what to do every day for three days in a row, you know.
+01:01:22 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:01:33 - mariagudelis (Maria Gudelis)
+I have this from Josh, but I don't know really how to use it. I don't know if it really works because I don't know you want me to send your copy if you want to figure it out. Because it has everything front and take rate front and price order bump conversions. I love that. Two, OTO one, OTO two. The problem thing is what didn't make sense is I just changed the front end price here to say 47 and it didn't change. Inch the daily revenue monthly revenue number. So something's jacked up about it.
+01:02:06 - Tina Marie (profitdriversinc.com)
+Okay.
+01:02:07 - mariagudelis (Maria Gudelis)
+So I have some other ones I could find too. Usually like when I use this one, it's because I kind of know, well, I want my funnel to be like $80 average order value, $100. And I know that I also offer like $1,000 course on the backend or you know, this could be like a $6,000 thing.
+01:02:27 - Tina Marie (profitdriversinc.com)
+So that's where this comes from. You know what it is and can look at it.
+01:02:31 - mariagudelis (Maria Gudelis)
+Yeah.
+01:02:32 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. like the calculus. So I do calculate or say this is much neater, more compact than mine.
+01:02:40 - mariagudelis (Maria Gudelis)
+This one here, even? Yeah.
+01:02:41 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:02:42 - mariagudelis (Maria Gudelis)
+Um, but it's not working because David.
+01:02:45 - Tina Marie (profitdriversinc.com)
+Well, I could fix the formulas.
+01:02:47 - mariagudelis (Maria Gudelis)
+Yeah. F 20.
+01:02:50 - Tina Marie (profitdriversinc.com)
+If you want to share or make a copy and share the copy.
+01:02:53 - mariagudelis (Maria Gudelis)
+Yeah. Yeah. Let me, yeah. This I already had made a copy. yeah. This is like a new blank, and it's properdrivers.com, yeah, there you go, sure, Yeah, something's jacked up here.
+01:03:16 - Tina Marie (profitdriversinc.com)
+Yeah, there's just no formula in there, but I don't think there should be a formula in that so.
+01:03:21 - mariagudelis (Maria Gudelis)
+No, like I should be able to, these are things you can change, so yeah, I can change the price. Oh, maybe front end average, or maybe I need to change that, then also the 47, so for whatever reason, so maybe that should change it, maybe they're, you just do.
+01:03:36 - Tina Marie (profitdriversinc.com)
+Oh, yeah, that changes.
+01:03:37 - mariagudelis (Maria Gudelis)
+There you go. So if we have five percent take rate, order from one conversion to two, that's really high. mean, I'm used to the how I'm happy, usually you get 45 to 40%, so I'll just say 40.
+01:03:52 - Tina Marie (profitdriversinc.com)
+Okay, now the other one price, we're going to make 27.
+01:04:00 - mariagudelis (Maria Gudelis)
+Uh, and I got, I'm going to add, uh, F seven times F8, F seven times F8. Okay. that's pretty intense calculator. So we don't have order bump two, we can always add that down the road. So I think I might just say zero that change anything. Yeah. So I'll just say zero there, you can always add that in. You know what we, I mean by two order bumps, right?
+01:04:27 - Tina Marie (profitdriversinc.com)
+What do you mean?
+01:04:28 - mariagudelis (Maria Gudelis)
+I what do I, uh, well, I like, like two order bumps, meaning like, get instant access and see how he's got two options. You can, yeah. So that's all about testing too, because sometimes if we had two order bumps, then people abandoned cart.
+01:04:43 - Tina Marie (profitdriversinc.com)
+No, I'm too confused, right?
+01:04:45 - mariagudelis (Maria Gudelis)
+Sometimes, you know what I mean?
+01:04:47 - Tina Marie (profitdriversinc.com)
+So too many options is not.
+01:04:49 - mariagudelis (Maria Gudelis)
+Yeah. Yeah. So I don't know how well that really works.
+01:04:52 - Tina Marie (profitdriversinc.com)
+I, I've never seen anybody do a second order bump.
+01:04:55 - mariagudelis (Maria Gudelis)
+So I, I wouldn't it's become quite popular. Like I used to use it when I had same. are as well and it's just I'm never convinced it helps you make more money I'm more also kind of going hmm there's a cannibalize your overall conversions but well that's what split tests are for and most people just don't do them well enough or thoroughly enough and look at their data like you know most people do not thoroughly analyze their data oh god yeah so all we have to do to get that yeah yeah yeah um so I've got OTO average or a very comfortable okay so what it does it's actually like that that'll take the conversion of 20 percent times 147 your price points or is that an OTO 2 is now more like a downsell one right because we're not going to do an O right yeah we don't plan to do an OTO.
+01:06:01 - Tina Marie (profitdriversinc.com)
+I'd up cell two. Do we after they see down cell one? I don't think we need it right now.
+01:06:09 - mariagudelis (Maria Gudelis)
+Well, so okay, customer database, we go to a business accelerant. Yeah. That makes sense. Yeah.
+01:06:16 - Tina Marie (profitdriversinc.com)
+Down the road, we could. for product boss, how I got the average value up is we did have up to one down cell one. So two down cell two. Well, so the one thing I do like about the business accelerant and I would love to see like what's the worst case scenario? They say no is paid for a year of business accelerator in such a club for a big chunk. And it can even be you get all of these other things for free or it's discounted because you bought this, know, it normally sells for whatever. And when we say normally, it means when it's a standalone offer, that's what the price will be. Yeah.
+01:06:53 - mariagudelis (Maria Gudelis)
+But as a YouTube fast tracker, you get it for this price. Yeah. Because somebody will say yes. No, you're right. Yeah. Well, that's why some people are even testing out putting a thousand dollar offer here and right away.
+01:07:09 - Tina Marie (profitdriversinc.com)
+And technically, that's all one step anyway.
+01:07:13 - mariagudelis (Maria Gudelis)
+two.
+01:07:15 - Tina Marie (profitdriversinc.com)
+Yep, because it's going to be on the same page. No things. I just want X. No things. I just want whatever. So technically that's still just one step.
+01:07:26 - mariagudelis (Maria Gudelis)
+So this would really only be step three. Yeah. Okay. So come back here.
+01:07:42 - Tina Marie (profitdriversinc.com)
+So we could do for one large price of $4.97 because it'd be $5.64 if they paid for a monthly. So they get two months free. Okay. hold on, let me. 47. So four 70 would be getting too. That's right.
+01:08:01 - mariagudelis (Maria Gudelis)
+Okay. And by the way, I just put seven, could be nine, it could be 49, 499, so I'm not, I don't care whether it's seven or nine, so I'll just say no. Okay. So to one conversion, 147, oh, okay, so he doesn't have that baked in the downsells in here.
+01:08:23 - Tina Marie (profitdriversinc.com)
+So we just change the language and you already have a copy of this, right? So, or we could just copy the page, like duplicate the page and call this the YouTube fast track. No. In here, go down at the bottom, this here, yeah, go here, down at the bottom, I'm sorry, where it says ROI calc duplicate.
+01:08:44 - mariagudelis (Maria Gudelis)
+Got it.
+01:08:45 - Tina Marie (profitdriversinc.com)
+Okay. And then rename it to YouTube fast track.
+01:08:55 - mariagudelis (Maria Gudelis)
+Okay. So. Okay. So, do you want me to change this OTO2 version to downsell one conversion or just skip the downsell and just go to one conversion of the 497 here for now?
+01:09:25 - Tina Marie (profitdriversinc.com)
+Okay. So, hold on. OB2 conversion. What's OB? Order bump. Sorry. So, we have OB1, order bump 1. There is, we don't have an OB2, do we?
+01:09:45 - mariagudelis (Maria Gudelis)
+No, that's why I made it zero, see that.
+01:09:46 - Tina Marie (profitdriversinc.com)
+But yeah, but above that, there's a 52%.
+01:09:49 - mariagudelis (Maria Gudelis)
+Yeah, but it doesn't do anything because it times 52 times the price.
+01:09:53 - Tina Marie (profitdriversinc.com)
+Okay, you got to go.
+01:09:54 - mariagudelis (Maria Gudelis)
+But I can leave it as zero, just to go.
+01:09:57 - Tina Marie (profitdriversinc.com)
+That's you. Okay, so OTO 1, can we do OTO 1 down, so we know that there's a downsell and label that properly, which is the 97%, the $97. But as in here, we could rename things that aren't being used, or we could insert cells, which should adjust the formula, don't know. Maybe not. We could work that part out later, because this gives us rough data, which is what we're looking for.
+01:10:45 - mariagudelis (Maria Gudelis)
+So I don't know what the downsell 1 conversion will be, I guess we can guess at 10%, but it So, saying if we invest, I mean, obviously this is all variable, saying cost per click is two bucks and we're saying a front-end taker at 7%, or sorry 5%, this could be 2%, this could be 7%, like we don't know, the test and tweak, but it's basically saying for every 3,000, 7,000 comes out, typically on low ticket funnels, you're just looking to break even, so I'm sure something will be adjusted here, because where a lot of the money's made is on the other things you're selling, right, like the high ticket thing, or, you know, unless you've seen low ticket funnels that do really well, but kind of that's why I was leaning towards...
+01:11:47 - Tina Marie (profitdriversinc.com)
+Well, I don't even think we're going to spend anywhere near that. I think our numbers are going to be way better because your videos do better than most ads do.
+01:11:56 - mariagudelis (Maria Gudelis)
+Okay.
+01:11:59 - Tina Marie (profitdriversinc.com)
+So...
+01:12:00 - mariagudelis (Maria Gudelis)
+Cool.
+01:12:00 - Tina Marie (profitdriversinc.com)
+I would look more at the monthly revenue potential, and day-to-day visits and driving that with YouTube, but then also having some ads to, and maybe the only other, the only ads we do are to YouTube videos.
+01:12:18 - mariagudelis (Maria Gudelis)
+Yeah.
+01:12:20 - Tina Marie (profitdriversinc.com)
+Rather than to the offer itself, and let the video do its work.
+01:12:24 - mariagudelis (Maria Gudelis)
+Yeah. Okay. like that. I'm going to throw this out there. There's the other side of it where we just send like Graham Cochran style. He sends people to a 20 minute video sales letter from his YouTube traffic, and sells a $500 course, and everything's in the $500 course.
+01:12:54 - Tina Marie (profitdriversinc.com)
+I think that, so I don't think that. that allows people to ascend properly. think he misses out on a lot of things. What about doing that? I've got a lot of historical data to back that up. I think that's a very specific avatar and I think that there are several avatars that we can be serving.
+01:13:19 - mariagudelis (Maria Gudelis)
+Yeah, this gets us access to that. And I would love to split test ST to be 297 and then this becomes 197 each. That would be interesting to split test that down the road.
+01:13:41 - Tina Marie (profitdriversinc.com)
+I think we could just do a divide sign between the two so that we know that that split test, so 147 or 97. If we say a divide, that means we're testing this against that.
+01:14:09 - mariagudelis (Maria Gudelis)
+I know I like to see love so one typically 97 or 77, but I see if they're paying 47 here, I could see 297 being psychologically reasonable, know, if they're paying 88, you know?
+01:14:25 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:14:31 - mariagudelis (Maria Gudelis)
+That's a good start.
+01:14:36 - Tina Marie (profitdriversinc.com)
+Yeah, I think it is. So then we have to create these pages, landing pages, right, in wherever we're going to be housing, so high-level and we could do a high-level community or we could do it in school.
+01:14:51 - mariagudelis (Maria Gudelis)
+don't know if didn't. I mean if we didn't. School see this is where school gets interesting because if we did school everyone who buys this Gets gets in it and then they get a community then already right cuz it's cool Yeah, so But they can have a community in high-level too because they have that there No, I mean do we want to give them a community for only 47 or 88 versus no not really cuz then they're gonna ask Questions and they're gonna feel entitled to answer. Yeah, we're whereas step three here is where we're selling a community Where that would be then school or whatever. So this could be straight up Jugo high-level does it? I Had to figure it out for grant meal or last week Uh, you know just when they buy they get access to the members area and go high level I mean system IO does it too They get access to you know, this can be created as courses and system IO, but if we did this all Go high level. Everyone's in one spot as well.
+01:16:03 - Tina Marie (profitdriversinc.com)
+Yep. We can do upsells and downsells from there. We can email from there. So I'm asking is because I could be working on that this week and building it and high level. Did you go ahead, sorry? Well, we finished also actually making the course or PDF. However, we want to do it. I think I would I would call it a course. And I think the content can be on pages, but it can also be a downloadable PDF. I don't know. We've got links to videos. I know how we fulfill it. So we haven't answered that question yet either.
+01:16:42 - mariagudelis (Maria Gudelis)
+Yeah. So typically like it's hard to steal if it's not in a PDF.
+01:16:49 - Tina Marie (profitdriversinc.com)
+So it's hard to steal if it's not in a PDF.
+01:16:53 - mariagudelis (Maria Gudelis)
+Yeah. typically I would give it to them in like think if it or like school or. Um, you know, uh, Sistine IO has a course thing. So, I mean, and so does high level.
+01:17:05 - Tina Marie (profitdriversinc.com)
+It's just content pages.
+01:17:06 - mariagudelis (Maria Gudelis)
+They're modules. Yeah.
+01:17:08 - Tina Marie (profitdriversinc.com)
+Yeah.
+01:17:09 - mariagudelis (Maria Gudelis)
+So I guess if we are definitely going to build this and go high level, because I mean, I do like their SMS texting functionalities, then we should then just deliver it as the content library that the courses should be in go high level as well.
+01:17:25 - Tina Marie (profitdriversinc.com)
+Okay. So I can take that assignment and, um, if you will mark for me, like any pages that are not complete as is, I can just start inputting stuff and then I'll make a map as to where they exist so that if we want to go edit that content, we'll know exactly. Okay. This is where in high level, we would access it to go modify it.
+01:17:51 - mariagudelis (Maria Gudelis)
+Okay.
+01:17:52 - Tina Marie (profitdriversinc.com)
+Repeat what you just said, like you mean the sales page or sales page, training, any of it. So I create link maps. So that if we ever like, you know what, we need to change this information.
+01:18:04 - mariagudelis (Maria Gudelis)
+Okay.
+01:18:04 - Tina Marie (profitdriversinc.com)
+This is where it physically resides inside of our CRM.
+01:18:09 - mariagudelis (Maria Gudelis)
+Okay, so what do you need for me then?
+01:18:13 - Tina Marie (profitdriversinc.com)
+So when you're done with the training, but let's say you're done with everything, but maybe a couple of things. Just mark what those couple of things are that you want to change so that I can say, okay, this is where they're at and whether I go change it, where it resides in high level or whether you do, we'll know that that's where we go, make those updates that are impending.
+01:18:35 - mariagudelis (Maria Gudelis)
+Okay. Okay.
+01:18:37 - Tina Marie (profitdriversinc.com)
+Does that make sense?
+01:18:39 - mariagudelis (Maria Gudelis)
+Um, yeah, yeah, I guess, um, like, I'll just, yeah, I'll just, I'll just create like a running document to just for my sanity of where each video is and everything so that it's easy. you're to add in to go high level once you have it ready to add.
+01:19:02 - Tina Marie (profitdriversinc.com)
+that sort of what you're saying? Yeah, yeah, okay.
+01:19:09 - mariagudelis (Maria Gudelis)
+In the meantime go high level Are you Are you so you're paying what?
+01:19:18 - Tina Marie (profitdriversinc.com)
+Turn on seven a month Yeah, I can cancel that because I have a free account and Dan but at the moment I do still have agency level access You know because we don't really need.
+01:19:31 - mariagudelis (Maria Gudelis)
+Okay, so let me let me Annie I do you want a template? guess maybe let me start high level. Do you want a template whether it's the AC style or ticket funnel template that people use?
+01:19:46 - Tina Marie (profitdriversinc.com)
+I mean snap shots like yeah, I have several but I'm happy to see what you have because maybe something smarter Yeah, um because apply Like if You asked snapshot links to import.
+01:20:04 - mariagudelis (Maria Gudelis)
+Yeah, yeah. Just. Yeah, let's talk share for a second. Me. OK. I just wanted to show you some examples of funnels. Sorry, my brain because it's like two forty six my time. know you got to go in a few minutes.
+01:20:27 - Tina Marie (profitdriversinc.com)
+No, I don't actually. My client will cancel.
+01:20:30 - mariagudelis (Maria Gudelis)
+He's sick. OK. So. So this is Alan Sotenix templates like obviously colors can change everything but like it's like head. Oh, sorry.
+01:21:10 - Tina Marie (profitdriversinc.com)
+Sorry. I just it sounded like you were showing me but I can't.
+01:21:15 - mariagudelis (Maria Gudelis)
+I was.
+01:21:15 - Tina Marie (profitdriversinc.com)
+I was.
+01:21:16 - mariagudelis (Maria Gudelis)
+Okay. So I mean this is Alan Sotenix style, right?
+01:21:20 - Tina Marie (profitdriversinc.com)
+Oh, yeah.
+01:21:21 - mariagudelis (Maria Gudelis)
+I like that. know, yeah. So it's kind of much dark, you know, there's this, this, this, which is good. And then if I go to another dude's on. this is a little guy on Sotenix thing. He's got my well priming. I I actually messaged him saying, hey, how's this converting for you? I'm actually thinking of buying it. thought that really good. But that's obviously the female. So let's see how it's a little more, you know, white space and stuff. So that this kind of style, I can get you a snapshot. Or I also have a go high level account as well that is included in that mastermind that about while ago anyway. So it has a lot of snapshots already uploaded in it that you can just like take over because I never connected a swipe account or any done email or doing nothing. So there's that too because it's a free go high level account as well with the snapshot sort of again. So it doesn't matter to me either way.
+01:22:39 - Tina Marie (profitdriversinc.com)
+Well, if you can share the first two snapshots that you showed and if you want to send log into your high level account, we'll see if we can put them all in one because the account, whether it's the one I paid for the one Dan gave me, like Dan will give us that forever plus his team would have access to it. So for like, hey, can you just go get Eric to go
+01:23:00 - mariagudelis (Maria Gudelis)
+it is for us.
+01:23:00 - Tina Marie (profitdriversinc.com)
+Yep, then we have access to that.
+01:23:02 - mariagudelis (Maria Gudelis)
+So it's pretty powerful. Okay. So all right, let me do that. I'll get you the snapshots to those. And because you're right, because once my, I don't know what this guy's going to do, once my, you know, pay for the first kind of thing is over, is he then I still want you to pay $197 a month. And he's got you because you might have about that time, five funds on right. I get it. Okay.
+01:23:27 - Tina Marie (profitdriversinc.com)
+So Dan, Dan's is just free for her.
+01:23:30 - mariagudelis (Maria Gudelis)
+Well, so all right. So I'll give you a couple snapshots. And yeah, and we go from there, what we want to do. And only reason why I asking, you know, which snapshots you want, blah, blah, blah, is because at the same time, you know, I know that your content, this is on clip funnels ages ago, but this style also works for a woman, which is totally different style than what I showed you. Totally different style, but Um, yeah, I wouldn't want to have to build it and go high-leveled all the clickables is easier. Just because I know it, but yeah, maybe we just use the snapshots. I'm going to give you. Yeah.
+01:24:12 - Tina Marie (profitdriversinc.com)
+Okay. So, um, I will work on the housing and building all of the, the tech stuff out and, um, just ask questions as they come up and then you will work on whatever remaining updates or videos that you might have.
+01:24:31 - mariagudelis (Maria Gudelis)
+Yes. And, um, I'm going to share screen one more time.
+01:24:36 - Tina Marie (profitdriversinc.com)
+Okay.
+01:24:37 - mariagudelis (Maria Gudelis)
+Because I could just give you this PDF. Uh, this is from NHB because, you know, I was in that for Allen's. I, I stopped it, you know, because yeah, I literally stopped it just on the weekend, but, you know, this is all the brand kits and they have a Figma file as well, which I don't use and back, you know, but it'll, he'll have, because he's done it also for WordPress. I don't know if Figma at all. tried to use it about a month ago. so here's this whole thing. Like, just that. Anyway, so they recommend to make a copy of this, I guess, duplicated or something. We work with it. And then if we come back to the PDF, though, if you don't want Figma file or anything, here's all this funnel design. These colors are, here's ClickFunnels, just go high level. So you just click the Go High Level, bring it in. ClickFunnels 2.0, WF elevator. And then it'll have all the different other styles. Here's Pulse Style, if you prefer these colors. There's, I don't, I don't prefer these other colors. There's one with red that's not bad. That's good for woman pink. So here's this red, it's not bad because if you change this more to white or gray at the top, then you still have lot of the red accents, which are kind of good for YouTube. Yeah, so you could use, and I like those fonts. That's new and Barlow. So you could go with that. And then the other. So yeah, I'll just email this to you as well. And then you have that. And then there's one more. I'll give you one more snapshot. It's a guy that's similar to Alan Sotanic. His name is Khrush. I forgot his last name. And he has similar funnel templates that I bought that is pretty cool, very similar, Alan's, but a little bit more use of white space, which is kind of nice. Um, yeah.
+01:27:25 - Tina Marie (profitdriversinc.com)
+Anyway, awesome. I feel like we're going to get a well, so the only thing is it's Thanksgiving week, but also my family's trying to be torn apart right now. So I might have legal battles on that.
+01:27:39 - mariagudelis (Maria Gudelis)
+I just don't know what's hard.
+01:27:40 - Tina Marie (profitdriversinc.com)
+So yeah. So but but work is good and helpful and useful. And so I'll be spending a lot of time on the mission work to help my soul, but I'll this because it'll help my brain. So I'll keep you updated every. As I get through things and ask questions, I and yeah, so when can I expect you to send all those things? Oh, right now I'll like go get a drink and go to the washroom, but then I'll just send it to you email to you. me go to Voxer real quick and just put a list of what I remember.
+01:28:19 - mariagudelis (Maria Gudelis)
+can I do it now just so that I don't forget?
+01:28:22 - Tina Marie (profitdriversinc.com)
+Yeah, um, hold on, send. And, um, easy PDF for a brand kit. Snapshots for go high level login for your detail account. Um, did you share? think you already did.
+01:28:51 - mariagudelis (Maria Gudelis)
+You shared the calculator with me the Yep.
+01:28:54 - Tina Marie (profitdriversinc.com)
+And I'll calculate and that'll remind me though that you sent it. To be looking for all of that sure You like that might be it I don't know I also And we decided on the domain YouTube fast track or something YT fast track I like YT fast track is that a little safer? Yes, and so cuz I'll need to know which one to Attach the domain to in go-high level So let me put this in here also really should go in Trello, but this is where I started so Lot of gonna start it anyway, so if you can send me those and then I'll just be working probably in our chunks throughout the a probably every single day and be reporting. Okay, here's what I did.
+01:30:33 - mariagudelis (Maria Gudelis)
+So, uh, you see all this here. So I've got the brand kits there, the PDF. And then here's the Google Slides, that low ticket customer journey. Okay. So slides. And then here is, uh, sheet, Google, funnel profile on stuff. And then I'll also add here is crochets, which is very similar to Ashby, so maybe I don't want, maybe I might cloud up, cloud you up if I send that.
+01:31:18 - Tina Marie (profitdriversinc.com)
+No, it's fine. Okay. Everything is useful.
+01:31:23 - mariagudelis (Maria Gudelis)
+Okay.
+01:31:23 - Tina Marie (profitdriversinc.com)
+Something sparked the ad and I don't get distracted easily.
+01:31:27 - mariagudelis (Maria Gudelis)
+Okay. Good. The opposite of me.
+01:31:36 - Tina Marie (profitdriversinc.com)
+I mean, I have my times, but for the most part, especially when I know like I have to protect my focus. Nope. Nope.
+01:31:47 - mariagudelis (Maria Gudelis)
+Yeah. Yeah. There was like, I saw a this morning, this guy talking about using TikTok shop and people in TikTok, but what he was showing us working really now is faceless stuff on TikTok. But not to sell ecom products, but to sell micro SaaS, like micro apps. if you could an app on what colors look good on you, like, you know, maybe sell for 99 cents a month. this one person is making like a million just with all free organic traffic. I'm like, oh, but then I'm like, oh, no, I can't watch the whole video.
+01:32:18 - Tina Marie (profitdriversinc.com)
+I really want to.
+01:32:20 - mariagudelis (Maria Gudelis)
+Yeah.
+01:32:22 - Tina Marie (profitdriversinc.com)
+So the thing is though, once we have something growing that kind of works on autopilot, which potentially a few hours a week that we commit to it, but everything else being autopilot, then we can go look at, okay, what's the next most leveraged thing that we can do?
+01:32:40 - mariagudelis (Maria Gudelis)
+And we'll have funds to be able to invest in something, right, and hire most of it out. So it's not taking more of our time, but our money starts working for us.
+01:32:48 - Tina Marie (profitdriversinc.com)
+Yeah. Potentially creating, you know, having those apps. Because you and I can come up with app ideas for four days. I have to already. And so it just depends on how. they can get executed and then building something like that. But that's it. Like whatever there's leverage, but we need to create this to be as leveraged as possible from the beginning. So it's making the most amount of money from the least amount of time. And it's future-proofed in that YouTube isn't going anywhere. People are going to keep coming into the marketplace from 15, 16, and up, right? Wanting to make money from home, wanting to create videos and monetize it. And so this has a lot of long-term potential to be massaged really well, to be mostly autopilot. And feeding higher level stuff, which then feeds us, because when we attract high level customers, high level customers have great ideas. And they have their own tools and connections and templates, and they pay for themselves.
+01:34:00 - mariagudelis (Maria Gudelis)
+But they still pay us, you know, yeah Almost done I just I'll find his go-ahead level share URL, but Here's a funnel checklist. That's not like mine, but it's very high and He this guy was selling a cross. sells faceless funnels. That's why he said says pen name in here He he builds funnels gets traffic to it start selling it then Proves that it works and then he sells it to other people for like 25 grand.
+01:34:37 - Tina Marie (profitdriversinc.com)
+But anyways, I I love the flipping idea that yeah That's also a good Model that works when you're really good at building something that works. Yeah, so so anyways, I'll show that with you too Yeah, and so just to reiterate and feed the focus if we stay focused on this It will it will give you do the all the resources that you want to be able to go chase other things and and have fun with them this can be the home base that provides everything that you need to take care of yourself to pay for retirement to have freedom and to fund everything else that you want to do while not taking a lot of time.
+01:35:21 - mariagudelis (Maria Gudelis)
+Yeah, like that.
+01:35:24 - Tina Marie (profitdriversinc.com)
+Yeah, this has great potential and you you you started it with your distractions and that's the thing that like well because we we get very wrist sloppy yeah and we judge ourselves but the thing is our greatness and our weakness is the same coin two sides of the same coin so it's just how we fight it your greatness is tied to how your curiosity and all the things that you've learned
+01:36:00 - mariagudelis (Maria Gudelis)
+and research.
+01:36:01 - Tina Marie (profitdriversinc.com)
+It can also be your weakness.
+01:36:03 - mariagudelis (Maria Gudelis)
+Sometimes I buy stuff for speed, because remember while ago when I sold Don For You Funnels for 2K, know, when he was selling, the courage of selling all of this stuff, I'm like, don't buy it. So that's why I have this template stuff of his, right? and it all looks good. So like here, go up to go high level. So I'll share this with Yeah, see that also. Yeah, yeah. And, uh, and I like him, crushes like an Alistetanic in way, but doesn't charge nearly as much.
+01:36:34 - Tina Marie (profitdriversinc.com)
+So. Well, and that's the thing. And this is what Dan is amazing at finding is talent like that, who just doesn't charge an arm and a leg. Yeah. those are people I end up like doing business with, because they're not, they're not, I don't know, they're just not trying to get everything out of everyone and just wham, bam. you, ma'am. Like they're, they have business, you know, in their minds rather than just money generation.
+01:37:03 - mariagudelis (Maria Gudelis)
+And to me, they have a very big difference. Yeah, well, I respect Alan a lot, but when I did drop out on Friday, I said, you know, I just need to remove myself. just don't have, also don't have to watch all of his stuff. It was funny because his right hand man, kind of Alvin said, are you sure? Cause he's gonna raise his rates, you know, you know, Alan, for you to jump back in, it's gonna be a lot more expensive. I'm like, no, okay.
+01:37:26 - Tina Marie (profitdriversinc.com)
+So.
+01:37:27 - mariagudelis (Maria Gudelis)
+Yeah.
+01:37:28 - Tina Marie (profitdriversinc.com)
+Yeah. No, thanks for all the money you've spent with us. Thanks for being here. Thanks for all you contributed, but are you sure you don't want to keep any more money with us?
+01:37:36 - mariagudelis (Maria Gudelis)
+Yeah, actually that's, that's a good point. You're right. You're right. Yeah. So there's that that's.
+01:37:43 - Tina Marie (profitdriversinc.com)
+That's respecting the dollar and not the person.
+01:37:45 - mariagudelis (Maria Gudelis)
+And I don't appreciate that. Yeah, lots of, yeah, they're in this like, I think they're in this little legal thing right now where everyone's turning to him, Alan's authentic. Like a lot of big players are turning to him as well. But honestly, some of the advice he gave me on some stuff. like he helped me on some things, but other things, my stuff converted better, you know?
+01:38:04 - Tina Marie (profitdriversinc.com)
+Yes, yes. That's the thing is he's growing an echo chamber and he says, you know, like, it's not about ego.
+01:38:10 - mariagudelis (Maria Gudelis)
+He says a lot about it's not.
+01:38:12 - Tina Marie (profitdriversinc.com)
+But if you stay in that world long enough where everybody's lips are attached to your butt, which they are big time out world, it gets to the best of people. But also some of his stuff is like, you know, he references using for ads and things like that. I'm just like, I don't, I don't want to be around that.
+01:38:30 - mariagudelis (Maria Gudelis)
+don't even see that conversation. Yeah. And so this is what I have access to from Corosh, like this is the whole dumpy template. I found him through a low ticket offer. He was selling faceless funnels and brands for like 27 bucks.
+01:38:42 - Tina Marie (profitdriversinc.com)
+I'll buy it in a case so much.
+01:38:44 - mariagudelis (Maria Gudelis)
+So if he ever want access to this, let me know. Oh, he's got a flowing calculator too.
+01:38:51 - Tina Marie (profitdriversinc.com)
+Look at that. After we build, unless you think that this would help us build what we build, I would be really interested in. So the thing that I is I want to have multiple engines. would like to have a few offers that are kind of timeless, right, in their concepts and principles, and they can be low ticket feeders with a ascension that either all funnel into something business accelerator-wise, but something like that. I would love to be able to have multiple businesses and then we eventually have, you know, a good operations manager who helps us run all of them, who's paid well and who also has an amazing brain and brings a lot to the table, but isn't going to, you know, create their own stuff or whatever. But yeah, I think that there's so much potential, but we get there faster by concentrating all of our energy on building this one thing out first and the model
+01:40:00 - mariagudelis (Maria Gudelis)
+Everything after that so Tina actually croche is better than the Allen's funnel calculator cuz look at this This is croche's yeah, he actually built in back and optional recommended variable pay community That's pay community take rate new community members like this is really good. So I already sure see please share all of his stuff because yep I I love when I know that it there's not ego involved, and this is just by the numbers Yes, he's really I like I like croche a lot.
+01:40:30 - Tina Marie (profitdriversinc.com)
+Um, yeah, I will I'll give you these already password for this I'll put it in Actually, I'll put it in a second email. It says corrosion access, right? Well, no, if you put it on brand kit plus NHB plus croche or whatever so that way I've got one source for everything And then because when we can model something like that our people have a better Opportunity of modeling after somebody like what croche is doing, right? It's more. It's less intimidating when they're lower prices and So when it's like, you don't have to be a guru and that whole faceless thing. think if we incorporate that, because especially with YouTube, if we can incorporate facelessness into what you're teaching already, that will only increase the conversion rate, especially if it's a bullet point on the sales page. We also have, you know, you can do it faceless and whatever.
+01:41:21 - mariagudelis (Maria Gudelis)
+Yeah.
+01:41:22 - Tina Marie (profitdriversinc.com)
+Yeah. yeah.
+01:41:25 - mariagudelis (Maria Gudelis)
+Okay. Let's do this. So, let's be here. Copy. Yeah. like him. actually like this good guy. And then what's that?
+01:41:42 - Tina Marie (profitdriversinc.com)
+It's good. Yeah.
+01:41:46 - mariagudelis (Maria Gudelis)
+Yeah.
+01:41:51 - Tina Marie (profitdriversinc.com)
+Yeah. You know, what if profit accelerates instead of business accelerates? I like business accelerator, but whatever, just thinking, I mean, well, profit is a very specific word that people are looking for, money, revenue.
+01:42:18 - mariagudelis (Maria Gudelis)
+Um, yeah.
+01:42:20 - Tina Marie (profitdriversinc.com)
+And also that's the reason I have profit drivers because the profits are, it's a, a it, it has an immediate picture in people's minds. There's business involved, there's revenue involved, there's expense involved, you know, I, yeah, business is good.
+01:42:44 - mariagudelis (Maria Gudelis)
+It's a little broader.
+01:42:45 - Tina Marie (profitdriversinc.com)
+It's a little more alternatives, don't you think? Yes, but to me, so profits is a qualifier because lots of people have business that aren't Okay. That's the reason I like that word specifically because it insinuates business. And profits whereas business does not insinuate profits. It just insinuates business and people know the statistics that lots of businesses fail whereas if it's profitable, it's profitable.
+01:43:13 - mariagudelis (Maria Gudelis)
+know what I mean? Yeah, that's true.
+01:43:15 - Tina Marie (profitdriversinc.com)
+Anyway, just just a thought. We're not we're not there yet so we don't have to worry about it. Well, if we're we're up selling business accelerator, but it could be profit accelerator. Well, I'll look at the domains and see what's available.
+01:43:30 - mariagudelis (Maria Gudelis)
+Yeah, I'm sure this with you too, because you can up sort up in port this into this is what me and Mia had with flying possible when we used to do my microphone magic course and then we had five funnels. So this can be insert insert into a sauna or whatever, but this is the grand cahuna of a project plan for doing a full on low ticket funnel.
+01:43:52 - Tina Marie (profitdriversinc.com)
+Yeah. I love that. I wonder if you can insert into Trello also.
+01:43:56 - mariagudelis (Maria Gudelis)
+Maybe. Yeah.
+01:43:58 - Tina Marie (profitdriversinc.com)
+But we could just. Create like it would be great if we had teamwork Asana Trello and Monday because those are I think the main Or at least four of the main project management suites.
+01:44:09 - mariagudelis (Maria Gudelis)
+Did you say teamwork?
+01:44:11 - Tina Marie (profitdriversinc.com)
+Yeah, what's teamwork? Um lots of businesses uses it Dan Dan uses it. It's been around before Monday. I think okay Yeah, it's it was big runner up to base camp. I wouldn't even worry about base camp I don't think that they have a very big market share. Okay, I think they're in the top five Okay Um, let's see other one It looks like notes What is it called? That ocean Yeah, yeah a lot of people using those okay, so I think this is everything you're gonna you're gonna Have fun We are we are gonna have and this is gonna be so good. We're just Not very far away from being able to relate at least to get people in. And then everything that we do to create will just add value to existing clients and add bonus, but also make it more easily to sell. And it will add to our system and SOPs for whatever we build next.
+01:45:18 - mariagudelis (Maria Gudelis)
+OK. I love it, I love it. I love This is the fun stuff. Yeah. And I don't know if this is coming up.
+01:45:29 - Tina Marie (profitdriversinc.com)
+It's you didn't have funnels and brands, I think.
+01:45:33 - mariagudelis (Maria Gudelis)
+Yeah. So this is his go-high level version because I bought his courses in a circle. So I got the go-high level of free, know, and included. Uh-huh. How much was this? Well, nothing because it's free.
+01:45:49 - Tina Marie (profitdriversinc.com)
+He decided to throw it in for everyone. But it's under his. Whatever price that he throw to then, what was that?
+01:45:56 - mariagudelis (Maria Gudelis)
+$1.07 a month for 12 months. Yeah. So, but I'm just opening up to show you what his templates do look slightly different than Alan Sotenik's, so I just want to share.
+01:46:13 - Tina Marie (profitdriversinc.com)
+Well, and also the reason I was asking is because we were talking about potentially doing something similar to that with high level, which is giving people a high level account, but they're paying for it through their monthly fee.
+01:46:25 - mariagudelis (Maria Gudelis)
+Yeah, so he loaded it all up for me here. Like, so instead of having, here's one funnel, like the snapshot you're going to do is the whole funnel. Right. here, like, he's got all the different sales pages. could have a, the typical offer page, it's laid via style offer, avatarial offer, one page offer. But like, so I thought that was pretty cool. the one page offer. So this is, this is how his is a little different than Alan's 10x style. Like the ones I just showed you earlier.
+01:47:00 - Tina Marie (profitdriversinc.com)
+Oh, this is a little different. Oh, yeah, just got this and there's very easier on the eyes. Those work very well.
+01:47:06 - mariagudelis (Maria Gudelis)
+Yeah, so I kind of like this more. Those convert very well.
+01:47:11 - Tina Marie (profitdriversinc.com)
+Yeah. So, and then we come back.
+01:47:16 - mariagudelis (Maria Gudelis)
+we see the advertorial? Because advertorials work very well for cold traffic. It's funny you say that because that's the one I was most excited about when I saw that and I'm like, whoa, you had an advertorial.
+01:47:26 - Tina Marie (profitdriversinc.com)
+I told you about that we built to millions within a couple years and then they sold it.
+01:47:33 - mariagudelis (Maria Gudelis)
+Ryan Moran sold it for 10 million. It was built off of advertorials. Wow. Yeah. This isn't really that great of a framework advertorial. No, and the advertorials I'm used to using don't have this here for timer. It's more like look like a real blog post and yeah, yeah, yeah.
+01:47:56 - Tina Marie (profitdriversinc.com)
+but it looks like a magazine like like that's where they originally started was like you see it in readers digest. It has a tiny word advertisement in the beginning, it looks like an article like everything else.
+01:48:04 - mariagudelis (Maria Gudelis)
+Yeah, yeah, so uh, yeah, anyway, so so the funnels you'll embed from it. This is stuff will be a little different upsell pages. There we go. So he's got dual view upsell, which is kind of interesting. So it's step one, start ours three, and then he's got this. Anyways, you'll see once you upload the snapshot into your go high level. But if you want me to give you access to this go high level too, I mean, because again, it's like I've done squat with it.
+01:48:36 - Tina Marie (profitdriversinc.com)
+there's nothing. Yes, that if you if you can, because then I can get help either from Dan or Jason and Shondale and say, okay, how do we get everything out of here?
+01:48:46 - mariagudelis (Maria Gudelis)
+Because it's been paid for, you know, and oh, well, you sort of have it already by the this, like in your go high level, you can just click this and you'll get the whole final space check out, you know,
+01:49:00 - Tina Marie (profitdriversinc.com)
+I mean, okay. Well, it's a preview link. So down with the green funnel template. Okay, I didn't know that that's what what was there.
+01:49:08 - mariagudelis (Maria Gudelis)
+Yeah, I was just sort of showing that like, Hey, already have this here if you Yeah, but if I think we decided because Dan's not going to charge you your later, like, I don't know what crush is going to do a year later.
+01:49:20 - Tina Marie (profitdriversinc.com)
+He might say, Marie, got to be another two grand, you know, so Yeah. Okay.
+01:49:26 - mariagudelis (Maria Gudelis)
+Well, I feel like I've got my marching orders. I want you Yes, I do. It's just past three here. I've been at it for a while in the morning. I don't know how much more I got to meet tonight. But Yep, I got to get all that done. And you mentioned last week to put a sale on of the mess class for Brock Friday. So I'll send that out tomorrow. I told him 12 noon. I'll send it out.
+01:49:50 - Tina Marie (profitdriversinc.com)
+Um, and that's it. just doing my thing. Heck yeah, well, I've got to deal with all of these things. So I'll be back and forth between work and mission staff and taking care family, but I'll probably up to like 10 or 11 tonight doing all of that. And that's usually just the hours I keep anyway. So now that I have something to really sink my teeth into and get busy, I would imagine you're going to see stuff, some significant things at the end of the week. I mean, before then, I'll keep you updated as we go. But generally, when I get busy, I get busy, like producing quickly.
+01:50:29 - mariagudelis (Maria Gudelis)
+If you need help of graphics, camera graphics, A, I can do some, but B, there's a couple people I know that might be able to do graphics. There's one guy even charges 500 a month and you have unlimited graphics for AC style funnels, you know, so do you have a link for that?
+01:50:50 - Tina Marie (profitdriversinc.com)
+Because I'm I would love to see it. You did mention that just so I know that as a resource.
+01:50:54 - mariagudelis (Maria Gudelis)
+Yes, I don't know where it is right now, but I'll find it because actually he messaged me this morning. Hey, going to buy this from me. I'm like, yeah, and then I looked at his profile. don't see the link. let me just, I'm going to, before I I'm going to message him or now say, what's the link to the website again? Perfect.
+01:51:10 - Tina Marie (profitdriversinc.com)
+Because it was weird.
+01:51:11 - mariagudelis (Maria Gudelis)
+He wanted to book a call of me. I'm like, no, I'm just interested in your 500 a month. Because I think you want to sell me a funnel service thing.
+01:51:19 - Tina Marie (profitdriversinc.com)
+Oh, so what we can do is place holder graphics for now. And then we can figure out how we want to get them filled later, whether we create something simple or outsource them, if there's anything that I'm doing where there needs to be a graphic.
+01:51:32 - mariagudelis (Maria Gudelis)
+Yeah, yeah. also, because one of my best friends is an Evelyn Weiss's mastermind, all that stuff. Sometimes some of her people do off the cuff graphics for cheap, like 50 bucks for a really good power graphic. So there's that resource too. But I found the guy's site. did message me back on this stuff. So here's the website now wave.
+01:51:54 - Tina Marie (profitdriversinc.com)
+And he wants to do for a slap.
+01:51:57 - mariagudelis (Maria Gudelis)
+He's like, don't know, he must be.
+01:52:00 - Tina Marie (profitdriversinc.com)
+I don't know how to sell me something because it's desperate to get me on call.
+01:52:04 - mariagudelis (Maria Gudelis)
+Yeah, so unlimited design, it says 995 here. Where do you see that?
+01:52:12 - Tina Marie (profitdriversinc.com)
+What a pricing.
+01:52:14 - mariagudelis (Maria Gudelis)
+Where's pricing?
+01:52:15 - Tina Marie (profitdriversinc.com)
+Where'd you see at the top?
+01:52:17 - mariagudelis (Maria Gudelis)
+Oh, you already went to the site.
+01:52:19 - Tina Marie (profitdriversinc.com)
+Yep.
+01:52:21 - mariagudelis (Maria Gudelis)
+Yeah, I thought it was 500 a month. We just asked him. Great. Thanks. I thought in the NHB job board post, the and then it says 95. There we go. That's why he's trying to get me on call.
+01:52:53 - Tina Marie (profitdriversinc.com)
+So that's not difference. Yeah.
+01:52:58 - mariagudelis (Maria Gudelis)
+Okay. So. Um, there you have it, but there's a lot of, uh, stable moms that I have a nice stuff and I'm sure they would, um, I'm good at hiring and expensive and good and it's just not going to be Maui.
+01:53:13 - Tina Marie (profitdriversinc.com)
+Maui's not great. I loyal. I'm loyal, but it just, yeah.
+01:53:18 - mariagudelis (Maria Gudelis)
+Yeah.
+01:53:19 - Tina Marie (profitdriversinc.com)
+It's for around its course.
+01:53:21 - mariagudelis (Maria Gudelis)
+All right, Tina.
+01:53:23 - Tina Marie (profitdriversinc.com)
+Thank you. Good to meet. Yeah, it was, it was really good call. I'm really excited about everything and thanks for your time and your energy and your awesomeness.
+01:53:31 - mariagudelis (Maria Gudelis)
+You bet.
+01:53:32 - Tina Marie (profitdriversinc.com)
+Thanks, Doctor. Bye.

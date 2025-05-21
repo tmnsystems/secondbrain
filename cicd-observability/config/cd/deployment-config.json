@@ -1,0 +1,90 @@
+{
+  "environments": {
+    "development": {
+      "strategy": "direct",
+      "host": "dev.secondbrain.ai",
+      "username": "deploy",
+      "deploymentDir": "/srv/secondbrain",
+      "composeFile": "docker-compose.yml",
+      "healthCheckUrl": "http://localhost:3000/health",
+      "healthCheckTimeout": 60,
+      "rollbackEnabled": true,
+      "postDeploymentCommands": [
+        "docker-compose exec -T app npm run migrate",
+        "./scripts/notify-team.sh development"
+      ],
+      "envVars": {
+        "NODE_ENV": "development",
+        "LOG_LEVEL": "debug"
+      },
+      "dockerRegistry": "ghcr.io/your-org/secondbrain"
+    },
+    "staging": {
+      "strategy": "blue_green",
+      "host": "staging.secondbrain.ai",
+      "username": "deploy",
+      "deploymentDir": "/srv/secondbrain",
+      "composeFile": "docker-compose.prod.yml",
+      "healthCheckUrl": "http://localhost:8080/health",
+      "healthCheckTimeout": 120,
+      "rollbackEnabled": true,
+      "postDeploymentCommands": [
+        "docker-compose exec -T app npm run migrate",
+        "./scripts/run-smoke-tests.sh",
+        "./scripts/notify-team.sh staging"
+      ],
+      "envVars": {
+        "NODE_ENV": "staging",
+        "LOG_LEVEL": "info"
+      },
+      "dockerRegistry": "ghcr.io/your-org/secondbrain"
+    },
+    "production": {
+      "strategy": "blue_green",
+      "host": "api.secondbrain.ai",
+      "username": "deploy",
+      "deploymentDir": "/srv/secondbrain",
+      "composeFile": "docker-compose.prod.yml",
+      "healthCheckUrl": "http://localhost:8080/health",
+      "healthCheckTimeout": 300,
+      "rollbackEnabled": true,
+      "postDeploymentCommands": [
+        "docker-compose exec -T app npm run migrate",
+        "./scripts/run-smoke-tests.sh",
+        "./scripts/notify-team.sh production"
+      ],
+      "envVars": {
+        "NODE_ENV": "production",
+        "LOG_LEVEL": "warn"
+      },
+      "dockerRegistry": "ghcr.io/your-org/secondbrain"
+    }
+  },
+  "default": {
+    "strategy": "direct",
+    "deploymentDir": "/srv/secondbrain",
+    "composeFile": "docker-compose.yml",
+    "healthCheckTimeout": 60,
+    "rollbackEnabled": true,
+    "envVars": {
+      "NODE_ENV": "development",
+      "LOG_LEVEL": "debug"
+    }
+  },
+  "deploymentHistory": {
+    "maxEntries": 50,
+    "historyFile": "./deployment-history.json"
+  },
+  "notifications": {
+    "slack": {
+      "enabled": true,
+      "webhook": "https://hooks.slack.com/services/EXAMPLE/WEBHOOK"
+    },
+    "email": {
+      "enabled": false,
+      "recipients": [
+        "devops@secondbrain.ai"
+      ]
+    }
+  }
+}

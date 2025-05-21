@@ -1,0 +1,35 @@
+[
+  {
+    "Topic": "Customer Segmentation",
+    "Category": "Marketing Strategy",
+    "Sources": "done_transcript_for_fuji_tina_coaching_8__txt.json",
+    "Approaches": [
+      "Letter writing metaphor"
+    ],
+    "Responses": [
+      "When you're thinking about your customer segments, you need to be really specific. I tell clients to imagine they're writing a letter to one specific customer rather than to a vague group. This helps you speak directly to their needs and pain points.\n\nContext: Discussion about marketing strategy for Fuji's business\nSource: done_transcript_for_fuji_tina_coaching_8__txt.json"
+    ]
+  },
+  {
+    "Topic": "Pricing Models",
+    "Category": "Business Strategy",
+    "Sources": "done_transcript_for_fuji_tina_coaching_8__txt.json",
+    "Approaches": [
+      "Book cover analogy"
+    ],
+    "Responses": [
+      "Your pricing isn't just about covering costs. It communicates your value. Think of it like the cover of a book - it's the first impression potential clients get about the quality inside. Premium pricing says premium experience.\n\nContext: Advising on service package pricing\nSource: done_transcript_for_fuji_tina_coaching_8__txt.json"
+    ]
+  },
+  {
+    "Topic": "Workflow Optimization",
+    "Category": "Operations",
+    "Sources": "done_transcript_for_fuji_tina_coaching_8__txt.json",
+    "Approaches": [
+      "River analogy"
+    ],
+    "Responses": [
+      "Systems are like rivers. They should flow naturally with gravity doing most of the work. When you find yourself pushing against the current, that's a sign your system needs restructuring.\n\nContext: Helping streamline business operations\nSource: done_transcript_for_fuji_tina_coaching_8__txt.json"
+    ]
+  }
+]

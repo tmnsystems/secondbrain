@@ -1,0 +1,1609 @@
+{
+  "timestamp": "2025-05-15T02:14:36.701Z",
+  "dir": "/Volumes/Envoy/SecondBrain/ai_content",
+  "processedCount": 80,
+  "processedFiles": [
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.DS_Store",
+      "entryId": "1f3f9e16-9eff-8184-9a74-ea2e01d1b6fa",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.DS_Store",
+        "size": 20484,
+        "lastModified": "2025-05-14T22:52:49.355Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.claude/settings.local.json",
+      "entryId": "1f3f9e16-9eff-810b-8c07-e1985089b05b",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.claude/settings.local.json",
+        "size": 3227,
+        "lastModified": "2025-05-14T08:17:19.532Z",
+        "type": "JSON",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.env",
+      "entryId": "1f3f9e16-9eff-810e-9413-f055d549c191",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.env",
+        "size": 1576,
+        "lastModified": "2025-05-04T03:01:00.000Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.env.complete",
+      "entryId": "1f3f9e16-9eff-812f-9788-d2a4a0db9fb8",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.env.complete",
+        "size": 1179,
+        "lastModified": "2025-05-04T01:10:00.000Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.env.example",
+      "entryId": "1f3f9e16-9eff-8109-8586-c536d5ae5d4a",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.env.example",
+        "size": 502,
+        "lastModified": "2025-05-03T06:12:53.000Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.env.unified",
+      "entryId": "1f3f9e16-9eff-817f-b1e1-c5b8a8b0b79f",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.env.unified",
+        "size": 1276,
+        "lastModified": "2025-05-04T01:13:16.000Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.gitignore",
+      "entryId": "1f3f9e16-9eff-81d5-a0e2-d29e577bffd0",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.gitignore",
+        "size": 491,
+        "lastModified": "2025-05-03T05:51:38.000Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.keys/api_keys.sh",
+      "entryId": "1f3f9e16-9eff-81e7-88d8-cedb642df41a",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.keys/api_keys.sh",
+        "size": 385,
+        "lastModified": "2025-05-03T22:27:09.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "API Integration",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/README.md",
+      "entryId": "1f3f9e16-9eff-8130-9508-e4c0e192d81b",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/README.md",
+        "size": 1411,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "Memory System",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/decrypt.sh",
+      "entryId": "1f3f9e16-9eff-810f-8bb9-c14cb6e14fbe",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/decrypt.sh",
+        "size": 551,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/encrypt.sh",
+      "entryId": "1f3f9e16-9eff-81b2-bf03-dc8d4c8b5a49",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/encrypt.sh",
+        "size": 569,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/env/aliases.sh",
+      "entryId": "1f3f9e16-9eff-8119-9a00-f3d98c311024",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/env/aliases.sh",
+        "size": 747,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/list-keys.sh",
+      "entryId": "1f3f9e16-9eff-8114-bf29-eecaae212b51",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/list-keys.sh",
+        "size": 490,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/.secretstore/load-env.sh",
+      "entryId": "1f3f9e16-9eff-81e9-8adc-eec87aeebd3d",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/.secretstore/load-env.sh",
+        "size": 948,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CLAUDE.md",
+      "entryId": "1f3f9e16-9eff-8174-8910-cce464f28cfb",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CLAUDE.md",
+        "size": 25006,
+        "lastModified": "2025-05-14T23:15:32.978Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "Prompt Template",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Knowledge"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CLAUDE_SESSION_NOTES.md",
+      "entryId": "1f3f9e16-9eff-81cb-9df0-db0ac6d78be7",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CLAUDE_SESSION_NOTES.md",
+        "size": 8453,
+        "lastModified": "2025-05-14T05:27:15.578Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CLI_CONVERSATION_LOG.md",
+      "entryId": "1f3f9e16-9eff-8121-8f23-e8d6eb554f05",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CLI_CONVERSATION_LOG.md",
+        "size": 48528,
+        "lastModified": "2025-05-13T02:52:02.305Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CONTEXT_LOADING.md",
+      "entryId": "1f3f9e16-9eff-8127-a153-f2ca74038861",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CONTEXT_LOADING.md",
+        "size": 3406,
+        "lastModified": "2025-05-14T06:40:44.829Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "Prompt Template",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Knowledge"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CONTEXT_PERSISTENCE_IMPLEMENTATION_PLAN.md",
+      "entryId": "1f3f9e16-9eff-81fb-99ee-f97c7c08d32d",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CONTEXT_PERSISTENCE_IMPLEMENTATION_PLAN.md",
+        "size": 38113,
+        "lastModified": "2025-05-14T00:19:24.121Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CONTEXT_RICH_METAPHORS_CATALOG.md",
+      "entryId": "1f3f9e16-9eff-8190-8bbf-fa12c8ccfe73",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CONTEXT_RICH_METAPHORS_CATALOG.md",
+        "size": 15710,
+        "lastModified": "2025-05-13T18:52:02.511Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CONTEXT_RICH_VALUES_CATALOG.md",
+      "entryId": "1f3f9e16-9eff-8121-905b-cb0e94272e46",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CONTEXT_RICH_VALUES_CATALOG.md",
+        "size": 20559,
+        "lastModified": "2025-05-13T18:49:51.213Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/CONTEXT_SYSTEM.md",
+      "entryId": "1f3f9e16-9eff-81b0-a00c-db6bdc2d17ee",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/CONTEXT_SYSTEM.md",
+        "size": 5326,
+        "lastModified": "2025-05-14T00:21:40.095Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/DOCUMENT_UPLOAD_GUIDE.md",
+      "entryId": "1f3f9e16-9eff-8120-8fd8-f1e919e5bdb5",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/DOCUMENT_UPLOAD_GUIDE.md",
+        "size": 2888,
+        "lastModified": "2025-05-04T02:33:48.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/FINAL_IMPLEMENTATION_SUMMARY.md",
+      "entryId": "1f3f9e16-9eff-8118-a5cc-faf8c8a0b956",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/FINAL_IMPLEMENTATION_SUMMARY.md",
+        "size": 14557,
+        "lastModified": "2025-05-08T21:47:54.689Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/FINAL_SECONDBRAIN_PLAN.md",
+      "entryId": "1f3f9e16-9eff-818d-9a96-ec67639aea18",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/FINAL_SECONDBRAIN_PLAN.md",
+        "size": 20487,
+        "lastModified": "2025-05-13T07:03:20.401Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Database Layer",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_ISSUES.md",
+      "entryId": "1f3f9e16-9eff-81a5-ad7b-de8d213e6c82",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_ISSUES.md",
+        "size": 10238,
+        "lastModified": "2025-05-14T06:31:38.312Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_PLAN.md",
+      "entryId": "1f3f9e16-9eff-8193-9a5f-de4cd1999724",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_PLAN.md",
+        "size": 9140,
+        "lastModified": "2025-05-03T17:53:25.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_PLAN_LANGRAPH.md",
+      "entryId": "1f3f9e16-9eff-8101-8f92-ee100103d513",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_PLAN_LANGRAPH.md",
+        "size": 31062,
+        "lastModified": "2025-05-05T03:13:48.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Filesystem",
+          "Vercel"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_RECOMMENDATIONS.md",
+      "entryId": "1f3f9e16-9eff-8117-907b-e3db21c5f538",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_RECOMMENDATIONS.md",
+        "size": 22721,
+        "lastModified": "2025-05-14T06:33:19.086Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "Context Loader",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_STEPS.md",
+      "entryId": "1f3f9e16-9eff-8164-8ab7-f4243411d8e6",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_STEPS.md",
+        "size": 54544,
+        "lastModified": "2025-05-13T07:14:38.347Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_SUMMARY.md",
+      "entryId": "1f3f9e16-9eff-8110-bf65-f5a0ea59d710",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/IMPLEMENTATION_SUMMARY.md",
+        "size": 3375,
+        "lastModified": "2025-05-03T19:36:09.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/INCREDAGENT_BOLT_INTEGRATION.md",
+      "entryId": "1f3f9e16-9eff-8196-995e-fcc2291a8196",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/INCREDAGENT_BOLT_INTEGRATION.md",
+        "size": 40961,
+        "lastModified": "2025-05-05T04:00:11.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Vercel"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/INTEGRATION_PROGRESS.md",
+      "entryId": "1f3f9e16-9eff-819e-a56e-c5f3bdd6ded4",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/INTEGRATION_PROGRESS.md",
+        "size": 4670,
+        "lastModified": "2025-05-03T19:06:36.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/MASTER_PLAN.md",
+      "entryId": "1f3f9e16-9eff-8137-853c-dde6659b53ba",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/MASTER_PLAN.md",
+        "size": 19738,
+        "lastModified": "2025-05-14T08:12:09.239Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "Context Loader",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/MASTER_PLAN_ALIGNMENT.md",
+      "entryId": "1f3f9e16-9eff-814a-b550-c770b55ff7a1",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/MASTER_PLAN_ALIGNMENT.md",
+        "size": 5812,
+        "lastModified": "2025-05-14T06:30:47.591Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/METAPHOR_VALUES_IMPLEMENTATION.md",
+      "entryId": "1f3f9e16-9eff-8122-92f5-f8dd14d05e43",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/METAPHOR_VALUES_IMPLEMENTATION.md",
+        "size": 4217,
+        "lastModified": "2025-05-13T18:25:12.871Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/NEXT_STEPS.md",
+      "entryId": "1f3f9e16-9eff-8148-8960-d437ffe8213a",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/NEXT_STEPS.md",
+        "size": 1537,
+        "lastModified": "2025-04-27T01:08:07.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Vercel"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/PORTABLE_SETUP.md",
+      "entryId": "1f3f9e16-9eff-8135-b591-ef0883fc34de",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/PORTABLE_SETUP.md",
+        "size": 737,
+        "lastModified": "2025-05-05T04:31:30.496Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/PRESERVATION_REQUIREMENTS.md",
+      "entryId": "1f3f9e16-9eff-8128-b5a9-c08d0ffa4279",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/PRESERVATION_REQUIREMENTS.md",
+        "size": 4662,
+        "lastModified": "2025-05-14T00:07:07.387Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/PRIORITY_OPTIMIZATIONS.md",
+      "entryId": "1f3f9e16-9eff-81e5-b48d-de165571840e",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/PRIORITY_OPTIMIZATIONS.md",
+        "size": 23274,
+        "lastModified": "2025-05-14T06:35:11.310Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "Context Loader",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/PROGRESS_LOG.md",
+      "entryId": "1f3f9e16-9eff-8153-adf6-f0e4d5f67b3d",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/PROGRESS_LOG.md",
+        "size": 4010,
+        "lastModified": "2025-05-04T02:21:10.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone",
+          "Notion",
+          "Vercel"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/PROJECT_CONTEXT.md",
+      "entryId": "1f3f9e16-9eff-81a5-b9f0-e39fdb7b0dba",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/PROJECT_CONTEXT.md",
+        "size": 1556,
+        "lastModified": "2025-05-03T21:46:07.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/README-CONTEXT-SYSTEM.md",
+      "entryId": "1f3f9e16-9eff-814f-af84-f638bb306b68",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/README-CONTEXT-SYSTEM.md",
+        "size": 6121,
+        "lastModified": "2025-05-14T05:27:44.251Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/README-EXTRACTION.md",
+      "entryId": "1f3f9e16-9eff-81c5-b51b-f27246d1601d",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/README-EXTRACTION.md",
+        "size": 3680,
+        "lastModified": "2025-05-13T21:57:43.348Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/README-FULL-PROCESSING.md",
+      "entryId": "1f3f9e16-9eff-818d-a52d-f3db7ccc8f7b",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/README-FULL-PROCESSING.md",
+        "size": 4000,
+        "lastModified": "2025-05-04T04:15:57.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/README-PLANNER.md",
+      "entryId": "1f3f9e16-9eff-81cf-a7ae-d8b3871973ad",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/README-PLANNER.md",
+        "size": 3844,
+        "lastModified": "2025-05-03T06:15:40.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/README.md",
+      "entryId": "1f3f9e16-9eff-8139-906b-dcdb0536862e",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/README.md",
+        "size": 7025,
+        "lastModified": "2025-05-13T18:22:28.575Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_APPS_CATALOG.md",
+      "entryId": "1f3f9e16-9eff-81ec-ac25-cf43e3d57848",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_APPS_CATALOG.md",
+        "size": 5970,
+        "lastModified": "2025-05-13T05:51:54.937Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Database Layer",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_FAILURE_ANALYSIS.md",
+      "entryId": "1f3f9e16-9eff-819c-b9b8-df6b2ab80c78",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_FAILURE_ANALYSIS.md",
+        "size": 3793,
+        "lastModified": "2025-05-14T00:06:32.752Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Database Layer",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_FINAL_REVIEW.md",
+      "entryId": "1f3f9e16-9eff-81a3-9b69-f2c46208fe3a",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SECONDBRAIN_FINAL_REVIEW.md",
+        "size": 5021,
+        "lastModified": "2025-05-13T07:15:40.224Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Database Layer",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Pinecone"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SLACK_NOTION_CONTEXT_INTEGRATION_PLAN.md",
+      "entryId": "1f3f9e16-9eff-81e5-8543-efa336bd252f",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SLACK_NOTION_CONTEXT_INTEGRATION_PLAN.md",
+        "size": 32760,
+        "lastModified": "2025-05-14T05:37:12.757Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Context System",
+        "claudeIntegration": "Prompt Template",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Knowledge"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SLACK_NOTION_IMPLEMENTATION_LOG.md",
+      "entryId": "1f3f9e16-9eff-81cc-864c-efb7fd968686",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SLACK_NOTION_IMPLEMENTATION_LOG.md",
+        "size": 16263,
+        "lastModified": "2025-05-13T03:22:31.508Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "API Integration",
+        "claudeIntegration": "Context Loader",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone",
+          "Notion",
+          "Vercel",
+          "Linode",
+          "Slack"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/STATUS_AND_NEXT_STEPS.md",
+      "entryId": "1f3f9e16-9eff-8139-8516-e23e58d71089",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/STATUS_AND_NEXT_STEPS.md",
+        "size": 3322,
+        "lastModified": "2025-05-03T19:47:52.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion",
+          "Vercel"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/STRATEGIC_INSIGHTS_IMPLEMENTATION_PLAN.md",
+      "entryId": "1f3f9e16-9eff-815d-ac7f-f33c9097ff60",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/STRATEGIC_INSIGHTS_IMPLEMENTATION_PLAN.md",
+        "size": 44767,
+        "lastModified": "2025-05-14T06:49:31.387Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "Prompt Template",
+        "storageIntegration": [
+          "Notion",
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Knowledge"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/STYLE_SYSTEM.md",
+      "entryId": "1f3f9e16-9eff-81e6-941d-f2a955e929eb",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/STYLE_SYSTEM.md",
+        "size": 3814,
+        "lastModified": "2025-05-04T03:57:21.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SYSTEM_DOCUMENTATION.md",
+      "entryId": "1f3f9e16-9eff-8104-8047-d8d8f214a8c0",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SYSTEM_DOCUMENTATION.md",
+        "size": 14599,
+        "lastModified": "2025-05-03T19:35:43.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SYSTEM_IMPROVEMENT.md",
+      "entryId": "1f3f9e16-9eff-81b5-a4d7-f44bda527ee9",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SYSTEM_IMPROVEMENT.md",
+        "size": 5720,
+        "lastModified": "2025-05-13T06:47:54.012Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Redis",
+          "PostgreSQL",
+          "Pinecone"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SYSTEM_OPTIMIZATIONS.md",
+      "entryId": "1f3f9e16-9eff-813a-820f-f2e56ae3e805",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SYSTEM_OPTIMIZATIONS.md",
+        "size": 5862,
+        "lastModified": "2025-05-03T19:34:42.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/SYSTEM_SUMMARY.md",
+      "entryId": "1f3f9e16-9eff-81b7-9bf3-c5c9f4870cf8",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/SYSTEM_SUMMARY.md",
+        "size": 4204,
+        "lastModified": "2025-05-04T02:21:34.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/TESTING_PLAN.md",
+      "entryId": "1f3f9e16-9eff-8195-b5fe-f075233f90f1",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/TESTING_PLAN.md",
+        "size": 13690,
+        "lastModified": "2025-05-03T17:54:22.000Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Notion",
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/TINA_METAPHORS_CATALOG.md",
+      "entryId": "1f3f9e16-9eff-814b-ab7c-dee21c293beb",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/TINA_METAPHORS_CATALOG.md",
+        "size": 9342,
+        "lastModified": "2025-05-13T18:33:42.470Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/TINA_VALUES_CATALOG.md",
+      "entryId": "1f3f9e16-9eff-8141-8354-cac6ed2800cb",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/TINA_VALUES_CATALOG.md",
+        "size": 9461,
+        "lastModified": "2025-05-13T18:32:54.815Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/activate-env.sh",
+      "entryId": "1f3f9e16-9eff-810b-83d1-cc5dc8636686",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/activate-env.sh",
+        "size": 182,
+        "lastModified": "2025-05-03T22:14:33.000Z",
+        "type": "Script",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Infrastructure",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_communication.js",
+      "entryId": "1f3f9e16-9eff-811c-912b-e45fdf3cc108",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_communication.js",
+        "size": 5499,
+        "lastModified": "2025-05-08T03:44:42.966Z",
+        "type": "TypeScript/JavaScript",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [
+          "🧪 Test"
+        ],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_context_integration.py",
+      "entryId": "1f3f9e16-9eff-810a-a595-e34c755c65d5",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_context_integration.py",
+        "size": 17571,
+        "lastModified": "2025-05-14T01:53:15.531Z",
+        "type": "Python",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Redis",
+          "Pinecone",
+          "Notion"
+        ],
+        "actionsNeeded": [
+          "🧪 Test",
+          "🧩 Refactor"
+        ],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/.DS_Store",
+      "entryId": "1f3f9e16-9eff-81ef-a96c-c381a4f2a877",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/.DS_Store",
+        "size": 6148,
+        "lastModified": "2025-05-08T06:36:13.556Z",
+        "type": "Other",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/design_qa_report.md",
+      "entryId": "1f3f9e16-9eff-81b5-8e5a-f5faa73fb64e",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/design_qa_report.md",
+        "size": 8903,
+        "lastModified": "2025-05-08T06:18:27.035Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/executor_plan.md",
+      "entryId": "1f3f9e16-9eff-8108-8858-cc2c74846ef8",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/executor_plan.md",
+        "size": 5660,
+        "lastModified": "2025-05-08T03:54:45.518Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/implementation_plan.md",
+      "entryId": "1f3f9e16-9eff-81f2-81a9-e5037af6fc3a",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/implementation_plan.md",
+        "size": 8100,
+        "lastModified": "2025-05-08T06:20:28.495Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/notion_documentation.md",
+      "entryId": "1f3f9e16-9eff-8141-8e2d-e59489f502b2",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/notion_documentation.md",
+        "size": 9643,
+        "lastModified": "2025-05-08T06:19:50.778Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "API Integration",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "PostgreSQL",
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/planner_analysis.md",
+      "entryId": "1f3f9e16-9eff-8180-9597-d1a07de5a830",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/planner_analysis.md",
+        "size": 3560,
+        "lastModified": "2025-05-08T03:54:18.252Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "PostgreSQL"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/release_agent_report.md",
+      "entryId": "1f3f9e16-9eff-8188-b04f-c45e8724d2ab",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/release_agent_report.md",
+        "size": 10299,
+        "lastModified": "2025-05-08T06:19:09.645Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "PostgreSQL"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/test_agent_report.md",
+      "entryId": "1f3f9e16-9eff-813a-9ca2-e2bf83fc57fa",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/TubeToTask/test_agent_report.md",
+        "size": 4855,
+        "lastModified": "2025-05-08T06:17:47.737Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/communication_log_2025-05-08T03-45-59.528Z.json",
+      "entryId": "1f3f9e16-9eff-817b-9881-f85359d67958",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/communication_log_2025-05-08T03-45-59.528Z.json",
+        "size": 37553,
+        "lastModified": "2025-05-08T03:46:21.572Z",
+        "type": "JSON",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Other",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agent_logs/communication_report_2025-05-08T03-46-21.575Z.md",
+      "entryId": "1f3f9e16-9eff-81a7-bb74-f088ac08c2af",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agent_logs/communication_report_2025-05-08T03-46-21.575Z.md",
+        "size": 30371,
+        "lastModified": "2025-05-08T03:46:21.576Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "Agent Logic",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/agents/CLAUDE.md",
+      "entryId": "1f3f9e16-9eff-8133-a5a7-e3f272d9f876",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/agents/CLAUDE.md",
+        "size": 3762,
+        "lastModified": "2025-05-14T06:23:28.053Z",
+        "type": "Markdown",
+        "project": "IncredAgents",
+        "status": "✅ Active",
+        "strategicRelevance": "Agent Logic",
+        "claudeIntegration": "Prompt Template",
+        "storageIntegration": [
+          "Notion"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Knowledge"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_one_principles_and_priorities.md",
+      "entryId": "1f3f9e16-9eff-8175-8e72-e37226bfaf46",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_one_principles_and_priorities.md",
+        "size": 18231,
+        "lastModified": "2025-05-13T06:20:31.099Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Claude Prompt",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_section_rewrite.md",
+      "entryId": "1f3f9e16-9eff-814a-8b2b-c0011af00c30",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_section_rewrite.md",
+        "size": 3319,
+        "lastModified": "2025-05-13T06:36:04.905Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_simple_finance_systems.md",
+      "entryId": "1f3f9e16-9eff-8161-b169-ced64e994a35",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_simple_finance_systems.md",
+        "size": 19807,
+        "lastModified": "2025-05-13T06:23:37.155Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_simple_finance_systems_expanded.md",
+      "entryId": "1f3f9e16-9eff-8173-a82c-e4626d3cbe0e",
+      "fileInfo": {
+        "path": "/Volumes/Envoy/SecondBrain/ai_content/chapter_two_simple_finance_systems_expanded.md",
+        "size": 48872,
+        "lastModified": "2025-05-13T06:31:37.766Z",
+        "type": "Markdown",
+        "project": "SecondBrain",
+        "status": "✅ Active",
+        "strategicRelevance": "Documentation",
+        "claudeIntegration": "None",
+        "storageIntegration": [
+          "Filesystem"
+        ],
+        "actionsNeeded": [],
+        "businessAlignment": "Infrastructure"
+      }
+    }
+  ],
+  "pendingPaths": []
+}

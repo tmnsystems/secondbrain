@@ -1,0 +1,138 @@
+00:00:00 - Laura L
+Hi, Tina.
+00:00:01 - Tina Marie (profitdriversinc.com)
+Hi. How are you?
+00:00:03 - Laura L
+Oh, good yourself.
+00:00:05 - Tina Marie (profitdriversinc.com)
+Good. Good. Let me, I was just opening Trello. Well, I've not done nothing, but I'm so glad that we're doing these calls because right now, this feels like really the only traction. But the fact that it's here every week is really good for me for getting started with traction. And we'll definitely get more as we get into school time when my girls are back in school and summertime, playtime and just soaking up the sunshine time is over.
+00:00:39 - Laura L
+Yeah, no problem.
+00:00:40 - Tina Marie (profitdriversinc.com)
+But I did, I did work out something with a friend of mine that I'm going to hire who's going to, because my issue I told you before is just sitting down and focusing and getting things done. And so she's just going to come in and sit with me and hold me accountable. Well, I do it and I'm hiring her for that. So. Hopefully that will be helpful. Yeah, so let's just I will screen share and we'll go through Trello together and just have little conversation and then also if you have any questions about the stuff that you're working on and want to make any progress on that we can save some time for you because our stuff isn't going to take that long.
+00:01:26 - Laura L
+Yeah, right now I don't have much progress yet because I'm actually sorry just to see elementers to explore elementers but I haven't really I mean didn't have the chance to look at the cubic yet because I don't have the login. Oh, like it went to the wrong side.
+00:01:51 - Tina Marie (profitdriversinc.com)
+Alright, okay, so this is actually what it should be so let me edit. it. That is so weird.
+00:02:00 - Laura L
+Look at that. Yeah, I tried to type in that link, but it would ask me to enter the code.
+00:02:12 - Tina Marie (profitdriversinc.com)
+It's so weird. Okay, let's see what we can do now.
+00:02:15 - Laura L
+Okay, let's go ahead and try to log in. I'm going to turn the brush. Mm-hmm. So it's still the same URL. Maybe it takes a while to update it.
+00:02:50 - Tina Marie (profitdriversinc.com)
+Oh, um, well, I mean, I wonder what would happen if I just drop a link for you in the chats. Chit-chur, Chit-chur.
+00:03:17 - Laura L
+Chit-chur. Yeah, it asks for the verification code.
+00:03:39 - Tina Marie (profitdriversinc.com)
+That is so weird because it doesn't do that for me. don't remember it ever.
+00:03:44 - Laura L
+What the heck?
+00:03:46 - Tina Marie (profitdriversinc.com)
+Okay. Okie dokie. Well, let's just go check. I'll show you. I don't have to factor authentication even enabled. So... So, your code is 617 808, again, okay, works, 617 then, yep, 808, yeah, I'm in. Sweet, okay, then I will get in and then around. So, do you have your browser settings to, like, clear cache regularly or anything like that?
+00:04:32 - Laura L
+No, I have to manually do it. Yeah, I am going to.
+00:04:37 - Tina Marie (profitdriversinc.com)
+So, that's not going to be an issue. So, this is all a few years still, but I can't add the one too. Everything's fine. Okay, let's see. So, let's see settings should be under there. Oh, code it now. I'm trying to think where I saw 2FA, maybe it's a count, it should be count management. Well, I'm just going to have an upgrade. I'm going to stop sharing for sec. Okay, we'll do this. what, what, what, what's one of my doing? Basic, I don't want basic actually. I mean, I guess we could start with... Hold on second. Think of it. Like, uh, planes, press N on it. I'm the planning a little for you, do, do, do, do, one of courses, administrator. I'm pretty sure that was the one that I needed, which is $100 a month, because I'm not paying it annually. I did, I don't need that, so that's just more like expand and not different features, okay. So, let me go back here real quick, um, upgrade now, subscription plans, that's what I want to click on, because that will give me options, okay, there we go, wait a minute, oh yeah, okay. That's cool. I'll start. I'm afraid. See that works. Okay, we'll go back to screen share, let's see the right window, share, okay, let's go to account management. If you have an issue with it, you can ping me on Slack or Upwork and I'll just get a code for you if you need to get in with it. Okay, and just forward it to you, so don't let that stop you. I do want to change the domain.
+00:08:31 - Laura L
+Maybe I could go to like in the setting and add in like a code generator, so.
+00:08:41 - Tina Marie (profitdriversinc.com)
+Oh, like a Chrome extension? Yeah, that would be good, we could try to figure that out. What was I doing? thought I was setting some other settings, part of of it is just going to be learning to navigate like where everything's at. your site name appears in the title, except just how do I change that? Okay, Add custom URL, sorry, must be, okay, and we will also, wait, so is a full domain or just, oh yeah, you could it in it. There we go, that's what I wanted. Okay, you know it's okay, we didn't use it. All right, cool. So then when you log in, we'll just change this edit item. Okay, so you're going to look into Elementor, but I got, what did I call it, okay, no, that's not, and I shared a login with you, you should have that, yep, okay, so I don't know, like I wonder if to use it. I don't know how great it is as landing page builder, but that is, let's see. So this is why I got it, a funnel builder optimized checkout pages. So the sales pages really need to be fast and they need to be eye-catching and I mean, we might be able to do that here, don't know, funnels, automation, oh, Elementor, what it is. Okay, perfect, okay, so we, okay, can connect this, okay, so this is going to be your job. So we gave you the example of James Wedmore on his homepage and we're not really like trying to model after him, but looking at some of the core elements. So it's clean, so I don't have any as featured on kind of thing, we don't have this, but sections like this where I can put types of content intentionally and about section, I do have testimonials, I do have podcast episodes. Okay, so part of it is that there are, it's parallax, well I don't know that this is really parallax, but it's the big chunks of content and it's obviously responsive, very responsive, so that's good, so I don't want anything that's not fully responsive on any device because that will lose people. And then it was the movement, the animation. like just a reminder that popped out, this slid over. That popped, you know, that slid. Pop slide, pop slide, pop slide basically. So if we can get those features on a simple page on Elementor, that's it. Otherwise it's very clean. rest of it is the power of the images. These are really great images. Yeah, anyway. So we could spend time if you wanted looking into that together, but really that's the assignment is picking our stack. So for checking out, it'll be PayPal or Stripe. And then we're building on Thinkific. And there is already, you know, I don't remember communities, like community, trying remember what the draft was like. So I would want to have two communities, and one is free, okay, and one is paid, that's it just too, because any more than that, and it's problematic. And I will probably hire a community manager to help out with that. So two communities, one free, one paid. They should really look pretty much identical other than the background or whatever, so similar branding, but just showing there's this one paid, this one's higher level, whatever. And then for the products, Let's go back to the settings and try to remember, because they had that AI that's like, hey, tell us about product, community's digital download courses, that's what it was, right? accelerate your course creation with AI. don't remember that one being there before, was it there?
+00:15:31 - Laura L
+I think it's not with the 3-1.
+00:15:34 - Tina Marie (profitdriversinc.com)
+Oh, yeah, yeah, yeah. Okay, well now I want to see this, because now I'm curious. Let's try it out. Let's see if it does the same thing. How many? Three to five sentences. Well, I'm just curious to see what it does. Because we already had chat GBT. Oops. right. right. Oh, you need it. Okay. Wait a minute. Oh, I sent you the wrong account. That's fine. Okay. Okay. Yeah. Yeah. I'm just curious if this does anything different. I don't know what we had before, because I used AI before, okay, no content, no content. Hey there, in this video, I'm going to- Okey-dokey, I don't remember that in the other one, so it would go to courses. this. Yeah. Um, preview. Hey, there. Okay. It did. must have just not clicked on that before. Okay. Anyway, before we begin, test your morning question. Oh, my goodness. This isn't the right thing to pick. Okay. So anyway, I've got a framework so I can plug things into that and I can work on that. And formatting, whatever. I don't really care about trying to do anything with that. So we want to have. Let's go in the Trello. That's not Trello. What does Trello's icon look like? There it is. Okay. So choose domain. We're going to go ahead and go with. I think that's for the go high level before, yeah, so open card, that's it by the dot IO. So and then that's, what's the check off, like do it, is that it? Complete, okay, so let's set up new guy, we're not doing this and Laura set up new domain, so we're going to change this at, we're going to just, just edit it, open card, okay, so set up, oh my gosh, I owe to the, Let's see. Yeah, I want members that profit drivers. Or alone. we'll do this profit drivers. owe to the homepage to sell the course. So. Let's just have rough draft version next week. And that's already sent to you. We're creating opt-in for the environment. Oh, that was supposed to be a page. this for like a couple weeks down and we'll create sales page for a little ticket offer with order bomb so that's kind of well so that's setting it up under sales page yeah um that's they're kind of the same i don't know can i make this like i need that what do you call it um a dependency like one's the domain one is the the the page and basically it could just be the whole thing integrate stripe and paypal we'll probably need to do that together yeah because it's in the time yeah and um and this is going to be with perfect slash funnel tips And that's me, and we'll just change that. So some goals are great goals. start off with what you like to create. Oh, that's for you for your.
+00:22:12 - Laura L
+Yeah.
+00:22:14 - Tina Marie (profitdriversinc.com)
+Okay, so this is. Done. Just archive. Wait, I don't want to archive. Yeah, that selected card. Okay. response.
+00:22:28 - Laura L
+You can get into that now, right? Yeah. It's now okay.
+00:22:33 - Tina Marie (profitdriversinc.com)
+Yeah. Okay. So that's it. It's not a lot, but it's really just getting familiar with Elementor to be able to pick a page or a template. So it's mostly kind of research, I guess. That will allow us to have the similar features of what I'm looking at. animations. Parallax. Just nice clean, but also easy. asked and then anything just poking around in Thinkethics so you know how to create a product just go ahead and create a sample product you should make that a thing create sample okay so actually few things create sample can I just maybe play around and do some tests if that's okay yes it's just believe it yes but I'm gonna I'm gonna have some specific tests that I want done and this is one of them so sample product $97 and we'll give that to you and then make one community three and one is $297 a month and so you can go ahead and like just get that set up in terms of once free and one one one to pay gate.
+00:24:05 - Laura L
+Yep.
+00:24:07 - Tina Marie (profitdriversinc.com)
+And then just test opt-in, place on we'll call it profit drivers dot i o slash free. We'll do that one. Let's see. I'm a gift. I'll be gift. Yep. Whatever. So we just want to make sure that you've used all of the things and you see how they're work and you know how to navigate through it because even though I know that you're going to be able to figure it out, I don't want to have to wait for it when the time comes and we're ready to build. I'd rather you learn the platforms now and learn the navigation now. So when I go, hey, can you go do this? You're like, yeah, I know exactly where it's at. I know how long it's going to take me roughly, you know, it's going to take 10 minutes, 15 minutes and now, whatever. So and I'm happy to pay for that time where you're learning it and getting familiar with it because the way that I generally am is that there's a lot of laying the groundwork, laying the groundwork, laying the groundwork and then it's like, okay, let's go, let's go, let's go. Now, no, I need to be scared about that because my pace is my pace and who I'm working with, you know, we'll find what's compatible, but I will be like having all of this stuff. if you weren't able to do things, I'd probably be like, okay, where's that all we're doing? So yeah, I'm I get excited and I I definitely have seasoned and where like there's surges, we're having like super busy doing lots and then I'm not doing a lot for a while and so we can create just kind of a something where it's more even for you if that works best for you and where that kind of pace is still available to me. So we will figure all of that out. So don't want you to be scared about that. I was just saying week. That's how I am.
+00:26:35 - Laura L
+And by the way, Tina, I tried to check in last bus to make sure I actually don't have yet the access to funnel kit.
+00:26:45 - Tina Marie (profitdriversinc.com)
+It's probably that you shared last time and yeah. Oh, marketing kit, what saving a lot of money. That's not it, okay, so let me log out, log out, log in, that did not have one, and let me check my e-mail and see where it went, what a long tune of my systems. Alright, well I guess we're going to figure this out, lots of password. And hopefully that's what it was. go. Please save that password because I forgot to copy it. Yay. Okay. Let's check on that. Okay. And then share with Miss Laura. All right. You want to check it?
+00:28:35 - Laura L
+Make sure you can get in. Okay. Yeah. I'll make sure to do that now. Okay. Yup, I'm in.
+00:29:13 - Tina Marie (profitdriversinc.com)
+Perfect. So, and can you get into the element or account?
+00:29:21 - Laura L
+Elementor. Thank you. Thank you. What's that? Sorry. Is it in final builder? like the account?
+00:30:04 - Tina Marie (profitdriversinc.com)
+What do you mean is it in funnel builder?
+00:30:07 - Laura L
+I'm sorry, actually on the account tab and I could see from here like your downloads.
+00:30:16 - Tina Marie (profitdriversinc.com)
+Oh, I see. Well, let's say, well, I don't know because I haven't used it.
+00:30:28 - Laura L
+Okay, yeah, not it, products. Yeah, I can, yeah, access it.
+00:30:41 - Tina Marie (profitdriversinc.com)
+Yeah, okay, cool. Let me elements are making me confirm from other it is. Email. Okay, so then I think I shared that. with you. Or maybe I shared the wrong one because I've got two in here. Oh yeah, they're both shared, so I don't know which one is right.
+00:31:27 - Laura L
+Okay, I would pick you right up.
+00:31:30 - Tina Marie (profitdriversinc.com)
+Okay, but let's make sure that you can get in there before we get off.
+00:31:45 - Laura L
+Nice screen. Thank you. Yeah, just take me to the login options, like in Google and Facebook. Yeah, it's a sign-in to Elementor, it didn't take me to where the user name was. And password being built on both of them, for the others, it takes me directly to the correct one, but for the other one, it directed me to the sign-in option.
+00:32:55 - Tina Marie (profitdriversinc.com)
+So I guess my question is, do either one of them work for you at all?
+00:33:00 - Laura L
+Yeah, let me share my screen so you could see what I need.
+00:33:03 - Tina Marie (profitdriversinc.com)
+so sure. Okay.
+00:33:07 - Laura L
+Share screen. Okay, sharing now. Let me close that one first and go back to here. So this one, the profit drivers. Okay, there's two. So if I launch, click launch. Yeah, it takes me to this.
+00:33:39 - Tina Marie (profitdriversinc.com)
+So scroll down where it says sign in with your email.
+00:33:44 - Laura L
+Okay.
+00:33:45 - Tina Marie (profitdriversinc.com)
+And now it's asking for the six digit code. Let me get that for you. Okay. There it goes. 415 483.
+00:34:24 - Laura L
+Okay, now I'm in.
+00:34:26 - Tina Marie (profitdriversinc.com)
+Okay, great.
+00:34:30 - Laura L
+Is it the same with this one here?
+00:34:33 - Tina Marie (profitdriversinc.com)
+I don't know. You'd have to look at the password side by side.
+00:34:37 - Laura L
+Okay, let me check this one.
+00:34:43 - Tina Marie (profitdriversinc.com)
+Oh, wait, you can't see the password side by side, Yeah, I can't.
+00:34:49 - Laura L
+Yeah, it's the same thing. It's the same elementary account.
+00:34:54 - Tina Marie (profitdriversinc.com)
+Okay, yeah, so I will just delete this one. And now there should only be one, but you should still have it.
+00:35:06 - Laura L
+Yeah.
+00:35:08 - Tina Marie (profitdriversinc.com)
+Okay. So you've got for CDM where I toasted, the only thing that you don't have is name cheap. So if you need to change any C name records or anything like that, then I can do that.
+00:35:28 - Laura L
+Okay.
+00:35:34 - Tina Marie (profitdriversinc.com)
+And so you've got CDM, you've got Thinkific, Elementor and funnel kit and get response. That should cover everything.
+00:35:46 - Laura L
+Yep. Okay. for sorry, just one last thing for the Canva account.
+00:35:53 - Tina Marie (profitdriversinc.com)
+Yeah, I haven't received the notification or invite to the team yet. Oh yeah, I think the thing was I needed to work on that and I forgot about it. See, where's my four people sending these people. Oh, she doesn't need to be there. Oops, I made a quick learn more. I don't need to learn more. Okay, and then. Oh, that's weird. What was the number?
+00:36:55 - Laura L
+I'm sorry, LRL two, five, eight. And she nailed that calm.
+00:37:03 - Tina Marie (profitdriversinc.com)
+And now let's check the teams of the five people for no extra cost, okay, and by people it's for the team, there we go. Okay, so that, just let me know if you're able to, what you call it, maybe in the email, okay, there we go. Yeah, and then projects, what we have, so I would invite, let's see, who has access to So that way, my logo is in there and my colors are in there and fonts, so that should, you'd be able to use that.
+00:38:14 - Laura L
+Okay.
+00:38:16 - Tina Marie (profitdriversinc.com)
+Yeah. Okay. Good question. else?
+00:38:20 - Laura L
+I think this all covers with all what I need for now.
+00:38:30 - Tina Marie (profitdriversinc.com)
+You can send me a question on anything and then we'll just meet up next week and I would love it if those, if you can have those, like the sample products created by next week and just, if we could know what element or themes that there are like or templates have sent to review, if you want to try something, play around with it and see what it looks like. like so because the way that I I'm a visual person and until I like actually see it and there I'm like oh yeah okay that's it that's not it we can do that and I'm happy to pay for that time to make sure that we've really got it locked down okay this is this is what's gonna work for us this is gonna give us the features that we want and this is how it's gonna work together so yeah okay yeah I'll try to plot the I mean sales I mean the page and then yeah you could we could so we could also see the visual thing and Jeff put all the content there when ready okay awesome thank you thank you Tina I'm so excited okay have a great day I had to think about what time it is there yeah it's about yeah it's almost that was it 30 p.m. here so it's it's wind down time. Okay well then I will talk to you next week unless you have any questions.
+00:40:08 - Laura L
+Alright yeah see you next week have a great night. You too.

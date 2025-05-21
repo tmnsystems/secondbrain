@@ -1,0 +1,338 @@
+"use strict";
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc);
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.initGenerationAgent = exports.GenerationAgent = void 0;
+const langgraph_1 = require("@langchain/langgraph");
+const anthropic_1 = require("@langchain/anthropic");
+const openai_1 = require("@langchain/openai");
+const fs = __importStar(require("fs/promises"));
+const path = __importStar(require("path"));
+const messages_1 = require("@langchain/core/messages");
+const tools_1 = require("@langchain/core/tools");
+// Tool for loading style profiles
+class LoadStyleProfileTool extends tools_1.StructuredTool {
+    constructor() {
+        super(...arguments);
+        this.name = "load_style_profile";
+        this.description = "Load a style profile from the file system";
+        this.schema = {
+            type: "object",
+            properties: {
+                profilePath: {
+                    type: "string",
+                    description: "Path to the style profile JSON file"
+                }
+            },
+            required: ["profilePath"]
+        };
+    }
+    async _call({ profilePath }) {
+        try {
+            const profileData = await fs.readFile(profilePath, 'utf-8');
+            return profileData;
+        }
+        catch (error) {
+            throw new Error(`Failed to load style profile: ${error.message}`);
+        }
+    }
+}
+// Node functions for the GenerationAgent graph
+async function loadStyleProfile(state) {
+    try {
+        const messages = [...state.messages];
+        const config = state;
+        if (!config.styleProfilePath) {
+            return {
+                ...state,
+                error: "No style profile path specified"
+            };
+        }
+        const loadTool = new LoadStyleProfileTool();
+        const profileData = await loadTool.call({ profilePath: config.styleProfilePath });
+        const styleProfile = JSON.parse(profileData);
+        messages.push(new messages_1.AIMessage(`Loaded style profile with ${Object.keys(styleProfile).length} attributes`));
+        return {
+            ...state,
+            messages,
+            style_profile: styleProfile
+        };
+    }
+    catch (error) {
+        return {
+            ...state,
+            error: `Error loading style profile: ${error.message}`
+        };
+    }
+}
+async function createContentBrief(state) {
+    try {
+        const messages = [...state.messages];
+        const llm = initializeLLM(state);
+        const topic = state.topic;
+        const styleProfile = state.style_profile;
+        if (!topic) {
+            return {
+                ...state,
+                error: "No topic specified for content generation"
+            };
+        }
+        if (!styleProfile) {
+            return {
+                ...state,
+                error: "No style profile available for generation"
+            };
+        }
+        // Create a prompt for the content brief
+        messages.push(new messages_1.HumanMessage(`Create a detailed content brief for a piece about "${topic}". Use the style profile's characteristics to inform the structure, tone, language patterns, and approach. The brief should include key points to cover, structure, tone guidance, and specific style elements to incorporate.`));
+        const response = await llm.invoke(messages);
+        messages.push(response);
+        return {
+            ...state,
+            messages,
+            content_brief: response.content.toString()
+        };
+    }
+    catch (error) {
+        return {
+            ...state,
+            error: `Error creating content brief: ${error.message}`
+        };
+    }
+}
+async function generateInitialDraft(state) {
+    try {
+        const messages = [...state.messages];
+        const llm = initializeLLM(state);
+        const topic = state.topic;
+        const styleProfile = state.style_profile;
+        const contentBrief = state.content_brief;
+        const outputFormat = state.output_format || "markdown";
+        // Comprehensive system message with style profile details
+        let stylePrompt = "Generate content that exactly matches this style profile:\n\n";
+        // Add style profile details
+        Object.entries(styleProfile).forEach(([key, value]) => {
+            if (key !== 'raw_profile') {
+                stylePrompt += `${key}: ${JSON.stringify(value)}\n`;
+            }
+        });
+        // Add content brief
+        stylePrompt += `\nContent Brief:\n${contentBrief}\n\n`;
+        // Add output format instructions
+        stylePrompt += `Generate the content in ${outputFormat} format. Focus on perfectly matching the voice, tone, pacing, word choice, and sentence structures described in the style profile.`;
+        messages.push(new messages_1.HumanMessage(stylePrompt));
+        const response = await llm.invoke(messages);
+        messages.push(response);
+        return {
+            ...state,
+            messages,
+            draft: response.content.toString()
+        };
+    }
+    catch (error) {
+        return {
+            ...state,
+            error: `Error generating initial draft: ${error.message}`
+        };
+    }
+}
+async function refineContent(state) {
+    try {
+        const messages = [...state.messages];
+        const llm = initializeLLM(state);
+        const draft = state.draft;
+        const styleProfile = state.style_profile;
+        if (!draft) {
+            return {
+                ...state,
+                error: "No draft available to refine"
+            };
+        }
+        // Create a prompt for refining the content
+        let refinePrompt = "Refine the draft to perfect the style match. Specifically:\n\n";
+        // Add specific refinement instructions based on style profile
+        if (styleProfile.tone) {
+            refinePrompt += `1. Adjust the tone to more precisely match: ${JSON.stringify(styleProfile.tone)}\n`;
+        }
+        if (styleProfile.sentence_structure) {
+            refinePrompt += `2. Revise sentence structures to match: ${JSON.stringify(styleProfile.sentence_structure)}\n`;
+        }
+        if (styleProfile.word_choice) {
+            refinePrompt += `3. Replace words/phrases to better align with: ${JSON.stringify(styleProfile.word_choice)}\n`;
+        }
+        refinePrompt += "\nDon't explain your changes - just provide the refined content in the same format as the original.";
+        messages.push(new messages_1.HumanMessage(refinePrompt));
+        const response = await llm.invoke(messages);
+        messages.push(response);
+        return {
+            ...state,
+            messages,
+            revised_draft: response.content.toString()
+        };
+    }
+    catch (error) {
+        return {
+            ...state,
+            error: `Error refining content: ${error.message}`
+        };
+    }
+}
+async function saveGeneratedContent(state) {
+    try {
+        const messages = [...state.messages];
+        const revisedDraft = state.revised_draft || state.draft;
+        const topic = state.topic;
+        const outputFormat = state.output_format || "markdown";
+        const config = state;
+        if (!revisedDraft) {
+            return {
+                ...state,
+                error: "No content available to save"
+            };
+        }
+        // Create a safe filename from the topic
+        const safeFilename = topic
+            .toLowerCase()
+            .replace(/[^a-z0-9]/g, '_')
+            .replace(/_+/g, '_')
+            .substring(0, 50);
+        // Determine file extension based on format
+        const fileExtension = outputFormat === 'markdown' ? 'md' :
+            outputFormat === 'html' ? 'html' : 'txt';
+        const outputDir = config.outputDir || './generated_content';
+        // Ensure directory exists
+        await fs.mkdir(outputDir, { recursive: true });
+        // Create timestamped filename
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+        const outputPath = path.join(outputDir, `${safeFilename}_${timestamp}.${fileExtension}`);
+        // Save content
+        await fs.writeFile(outputPath, revisedDraft);
+        return {
+            ...state,
+            messages: [
+                ...messages,
+                new messages_1.AIMessage(`Content saved to ${outputPath}`)
+            ]
+        };
+    }
+    catch (error) {
+        return {
+            ...state,
+            error: `Error saving content: ${error.message}`
+        };
+    }
+}
+// Helper functions
+function initializeLLM(state) {
+    const config = state;
+    // Default to Claude if available, otherwise OpenAI
+    if (config.model.includes('claude') || process.env.CLAUDE_API_KEY) {
+        return new anthropic_1.ChatAnthropic({
+            apiKey: process.env.CLAUDE_API_KEY,
+            model: "claude-3-opus-20240229",
+            temperature: 0.7 // Higher temperature for creativity
+        });
+    }
+    else {
+        return new openai_1.ChatOpenAI({
+            apiKey: process.env.OPENAI_API_KEY,
+            model: "gpt-4o",
+            temperature: 0.7 // Higher temperature for creativity
+        });
+    }
+}
+// GenerationAgent class
+class GenerationAgent {
+    constructor(config = {}) {
+        this.config = {
+            model: config.model || 'claude',
+            apiKey: config.apiKey || process.env.CLAUDE_API_KEY || process.env.OPENAI_API_KEY,
+            styleProfilePath: config.styleProfilePath,
+            outputDir: config.outputDir || './generated_content',
+            formatOptions: config.formatOptions || ['markdown', 'html', 'text'],
+            ...config
+        };
+        // Initialize the StateGraph
+        this.graph = new langgraph_1.StateGraph({
+            channels: { messages: messages_1.BaseMessage }
+        });
+        // Add nodes
+        this.graph.addNode("load_style_profile", loadStyleProfile);
+        this.graph.addNode("create_content_brief", createContentBrief);
+        this.graph.addNode("generate_initial_draft", generateInitialDraft);
+        this.graph.addNode("refine_content", refineContent);
+        this.graph.addNode("save_generated_content", saveGeneratedContent);
+        // Define the edges
+        this.graph.addEdge("load_style_profile", "create_content_brief");
+        this.graph.addEdge("create_content_brief", "generate_initial_draft");
+        this.graph.addEdge("generate_initial_draft", "refine_content");
+        this.graph.addEdge("refine_content", "save_generated_content");
+        // Compile the graph
+        this.graph.compile();
+    }
+    async generateContent(topic, options = {}) {
+        // Override config with options if provided
+        const styleProfilePath = options.styleProfilePath || this.config.styleProfilePath;
+        if (!styleProfilePath) {
+            return {
+                success: false,
+                error: "No style profile path specified"
+            };
+        }
+        const initialState = {
+            messages: [
+                new messages_1.HumanMessage("You are a content generation agent specialized in mimicking specific writing styles and voices. Your goal is to create content that's indistinguishable from the original author's style.")
+            ],
+            topic,
+            output_format: options.outputFormat || "markdown"
+        };
+        // Add config properties to state to make them available in node functions
+        const stateWithConfig = {
+            ...initialState,
+            styleProfilePath
+        };
+        try {
+            const result = await this.graph.invoke(stateWithConfig);
+            return {
+                success: !result.error,
+                content_brief: result.content_brief,
+                draft: result.draft,
+                revised_draft: result.revised_draft,
+                error: result.error
+            };
+        }
+        catch (error) {
+            return {
+                success: false,
+                error: error.message
+            };
+        }
+    }
+}
+exports.GenerationAgent = GenerationAgent;
+// Factory function to initialize the GenerationAgent
+async function initGenerationAgent(config = {}) {
+    return new GenerationAgent(config);
+}
+exports.initGenerationAgent = initGenerationAgent;

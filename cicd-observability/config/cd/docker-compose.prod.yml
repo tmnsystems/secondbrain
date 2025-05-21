@@ -1,0 +1,110 @@
+version: '3.8'
+
+services:
+  app:
+    image: ${IMAGE_TAG}
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+    ports:
+      - "127.0.0.1:8080:3000"
+    healthcheck:
+      test: ["CMD", "wget", "-O-", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+    depends_on:
+      - redis
+      - postgres
+    networks:
+      - app_network
+      - monitoring_network
+
+  redis:
+    image: redis:alpine
+    volumes:
+      - redis_data:/data
+    command: ["redis-server", "--appendonly", "yes"]
+    restart: always
+    networks:
+      - app_network
+
+  postgres:
+    image: postgres:14-alpine
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER:-secondbrain}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-password}
+      - POSTGRES_DB=${POSTGRES_DB:-secondbrain}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: always
+    networks:
+      - app_network
+
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./config/monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+      - '--web.console.templates=/usr/share/prometheus/consoles'
+    restart: always
+    networks:
+      - monitoring_network
+
+  grafana:
+    image: grafana/grafana:latest
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_USER:-admin}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./config/monitoring/grafana-datasources.yml:/etc/grafana/provisioning/datasources/datasources.yml
+      - ./config/monitoring/grafana-dashboards.yml:/etc/grafana/provisioning/dashboards/dashboards.yml
+      - ./config/monitoring/dashboards:/var/lib/grafana/dashboards
+    restart: always
+    networks:
+      - monitoring_network
+
+  jaeger:
+    image: jaegertracing/all-in-one:latest
+    restart: always
+    networks:
+      - monitoring_network
+
+  loki:
+    image: grafana/loki:latest
+    command: -config.file=/etc/loki/local-config.yaml
+    volumes:
+      - ./config/monitoring/loki-config.yaml:/etc/loki/local-config.yaml
+      - loki_data:/loki
+    restart: always
+    networks:
+      - monitoring_network
+
+  promtail:
+    image: grafana/promtail:latest
+    volumes:
+      - ./config/monitoring/promtail-config.yaml:/etc/promtail/config.yaml
+      - /var/log:/var/log
+    command: -config.file=/etc/promtail/config.yaml
+    restart: always
+    networks:
+      - monitoring_network
+
+volumes:
+  redis_data:
+  postgres_data:
+  prometheus_data:
+  grafana_data:
+  loki_data:
+
+networks:
+  app_network:
+  monitoring_network:

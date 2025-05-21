@@ -1,0 +1,1823 @@
+WEBVTT
+
+00:00:27.000 --> 00:00:28.000
+Michael Fujinaka: Good morning!
+
+00:00:28.000 --> 00:00:30.000
+Tina Marie: Morning. Fuji, how are you?
+
+00:00:30.000 --> 00:00:30.000
+Michael Fujinaka: Good.
+
+00:00:31.000 --> 00:00:37.000
+Tina Marie: Good. I hate when this happens doesn't happen very much. My computers don't hardly crash.
+
+00:00:38.000 --> 00:00:41.000
+Tina Marie: But it did. Um.
+
+00:00:42.000 --> 00:00:46.000
+Tina Marie: How was your weekend? Did you spoil your wifey and your mommy.
+
+00:00:43.000 --> 00:00:48.000
+Michael Fujinaka: Good. I got Esther some hydrangeas.
+
+00:00:49.000 --> 00:00:51.000
+Tina Marie: Oh, beautiful! I love.
+
+00:00:50.000 --> 00:00:55.000
+Michael Fujinaka: Not the dead kinds that you cut. We got her ones that she we could plant afterwards.
+
+00:00:54.000 --> 00:01:04.000
+Tina Marie: Yes, that is my thing. I feel abusive cutting flowers. I'm bad, but also I hate the waste. They just throw them away.
+
+00:01:04.000 --> 00:01:05.000
+Michael Fujinaka: No.
+
+00:01:05.000 --> 00:01:11.000
+Tina Marie: But I also like getting them. It's a thing, you know. Get in your head, but they're beautiful.
+
+00:01:12.000 --> 00:01:17.000
+Tina Marie: Um! How did your reporting work go last week?
+
+00:01:18.000 --> 00:01:26.000
+Michael Fujinaka: Yeah. So we're just reviewing that with Paul. Um. Let me share my screen.
+
+00:01:26.000 --> 00:01:27.000
+Tina Marie: That's it.
+
+00:01:45.000 --> 00:01:57.000
+Michael Fujinaka: So there were 2 different kind of projects. One is, we wanted to do the weekend emails to case managers. So we're able to generate these reports now.
+
+00:01:57.000 --> 00:02:07.000
+Michael Fujinaka: Um for the the case. Managers that refer to us. And what this report does is it takes their email and finds all of their.
+
+00:02:07.000 --> 00:02:11.000
+Michael Fujinaka: The people they sent to us. So this case manager's name is Andres.
+
+00:02:11.000 --> 00:02:13.000
+Tina Marie: Mhm.
+
+00:02:11.000 --> 00:02:18.000
+Michael Fujinaka: And he sent us these these cases in that in that week, ending. In uh. I think this is April, the end of April.
+
+00:02:20.000 --> 00:02:31.000
+Michael Fujinaka: So now we could turn this into a Pdf or copy paste it. I'm gonna change this. I don't like this black logo. But we can copy and paste it into an email. Now to that case, manager.
+
+00:02:32.000 --> 00:02:34.000
+Tina Marie: Oh, I love that perfect.
+
+00:02:34.000 --> 00:02:49.000
+Michael Fujinaka: And then we could say, Thank you so much for your referrals. Here's the cases that you referred to us. This is monthly. So. These are the 5 cases you referred to us this month. We really appreciate it. By the way, we've already delivered the reports to you. That's this column here.
+
+00:02:49.000 --> 00:02:55.000
+Michael Fujinaka: Um, and you signed all the agreements uh, or you signed all the liens. So everything's done. Basically.
+
+00:02:56.000 --> 00:03:07.000
+Tina Marie: One of the things that we talked about was showing them how quickly the reports were done. And maybe we did it on average um, because we make a claim of being really quick.
+
+00:03:07.000 --> 00:03:21.000
+Michael Fujinaka: Yeah. So that's what. Yeah, maybe we, I can clear. That's great. We actually have that here. I just maybe we could retitle the column. But this is the date. Maybe we. Since this is for the case manager, we can make it more clear. We'll say date.
+
+00:03:08.000 --> 00:03:09.000
+Tina Marie: You.
+
+00:03:21.000 --> 00:03:27.000
+Michael Fujinaka: You sent us the referral right? And then this is this, instead of status, we'll say.
+
+00:03:27.000 --> 00:03:33.000
+Michael Fujinaka: Date. We saw the patient right? So that would. That would show the correlation how quick we are.
+
+00:03:35.000 --> 00:03:36.000
+Tina Marie: Yeah, so what you could do.
+
+00:03:35.000 --> 00:03:37.000
+Michael Fujinaka: And then, instead of saying.
+
+00:03:37.000 --> 00:03:45.000
+Tina Marie: Sorry a. Actually, instead of so like, you can see that column C is very wide. Visit completed on.
+
+00:03:45.000 --> 00:03:46.000
+Michael Fujinaka: Yeah.
+
+00:03:45.000 --> 00:03:50.000
+Tina Marie: But you would cut that in half if you change that to the status right.
+
+00:03:49.000 --> 00:03:51.000
+Michael Fujinaka: Oh, yeah.
+
+00:03:50.000 --> 00:04:00.000
+Tina Marie: And then. Now you have the date underneath. So now it's less wide. And you've actually said. What you want to say. You've said all the same things right.
+
+00:04:00.000 --> 00:04:09.000
+Tina Marie: You just change the way that you organized it there. And the other thing is, remember that. When you have numbers.
+
+00:04:09.000 --> 00:04:15.000
+Tina Marie: Or important important kinds of information. You don't combine them.
+
+00:04:15.000 --> 00:04:21.000
+Tina Marie: On a single cell. So numbers, dates. Should not have things like completed on in the same column.
+
+00:04:22.000 --> 00:04:26.000
+Tina Marie: So that's a thing that you right? Because.
+
+00:04:25.000 --> 00:04:27.000
+Michael Fujinaka: Oh, the type of variable, you mean.
+
+00:04:28.000 --> 00:04:36.000
+Tina Marie: Uh, it's not about the variable. It's. If you're looking at it in a formula.
+
+00:04:36.000 --> 00:04:40.000
+Tina Marie: But that's basically what it is. It's extractable. So um.
+
+00:04:39.000 --> 00:04:43.000
+Michael Fujinaka: Yeah, extractable. So you want just numbers in this column. Essentially.
+
+00:04:42.000 --> 00:04:44.000
+Tina Marie: Yes, date.
+
+00:04:43.000 --> 00:04:45.000
+Michael Fujinaka: I see. Okay.
+
+00:04:44.000 --> 00:04:46.000
+Tina Marie: Specifically, yes.
+
+00:04:46.000 --> 00:04:55.000
+Michael Fujinaka: So should this should be. Oh, 4. Well, I don't wanna change it. But yeah, but this should be uh um. Change calling, made a visit.
+
+00:04:58.000 --> 00:05:07.000
+Michael Fujinaka: Only have the date. Okay, got it, and then this one should be. Since this is 4 Cms.
+
+00:05:07.000 --> 00:05:12.000
+Michael Fujinaka: It should say. Date you set.
+
+00:05:12.000 --> 00:05:20.000
+Michael Fujinaka: It's the referral. Or similar, something like that.
+
+00:05:20.000 --> 00:05:21.000
+Tina Marie: Mhm.
+
+00:05:23.000 --> 00:05:31.000
+Michael Fujinaka: Okay. Um. And then this one since.
+
+00:05:32.000 --> 00:05:41.000
+Michael Fujinaka: Um. I guess this one could be. Medical report, status or something.
+
+00:05:42.000 --> 00:05:43.000
+Tina Marie: Yeah.
+
+00:05:43.000 --> 00:05:44.000
+Michael Fujinaka: Um.
+
+00:05:47.000 --> 00:05:53.000
+Tina Marie: So. I mean.
+
+00:05:53.000 --> 00:05:59.000
+Michael Fujinaka: This isn't necessary. Oh, it is. Oh, okay, so.
+
+00:06:00.000 --> 00:06:05.000
+Michael Fujinaka: This one is necessary, because sometimes. We're waiting on um.
+
+00:06:06.000 --> 00:06:13.000
+Michael Fujinaka: We're waiting on like the reports. Like, we're not sending the reports yet, and then we wanted to have a reason.
+
+00:06:11.000 --> 00:06:12.000
+Tina Marie: Yeah.
+
+00:06:14.000 --> 00:06:18.000
+Michael Fujinaka: Lien has not been signed by the patient.
+
+00:06:14.000 --> 00:06:16.000
+Tina Marie: Yes.
+
+00:06:19.000 --> 00:06:21.000
+Michael Fujinaka: Like that, or like.
+
+00:06:19.000 --> 00:06:32.000
+Tina Marie: And you actually might um. You probably have standardized notes for the most part. And using color coding, there will also help them. As you establish a longer relationship.
+
+00:06:32.000 --> 00:06:40.000
+Tina Marie: Um, they'll get to know. So like if um waiting for the patient a particular color right? Waiting for.
+
+00:06:39.000 --> 00:06:40.000
+Michael Fujinaka: Oh!
+
+00:06:40.000 --> 00:06:47.000
+Tina Marie: Insurance, or whatever I don't, I don't. Know what you would wait for, or what kind of issues would come up.
+
+00:06:47.000 --> 00:06:58.000
+Tina Marie: But it's probably pretty standard when it's not, you can manually put it in. Um, but I would try to do something where you can do color coding like that, and so.
+
+00:06:58.000 --> 00:07:06.000
+Tina Marie: Over time, they just know. Oh, this is what Green means. This is what yellow means. It makes everything go faster, mentally.
+
+00:07:06.000 --> 00:07:07.000
+Michael Fujinaka: Okay.
+
+00:07:06.000 --> 00:07:13.000
+Tina Marie: And they will appreciate that the way that you send information. Is easy to process.
+
+00:07:15.000 --> 00:07:16.000
+Michael Fujinaka: Okay.
+
+00:07:18.000 --> 00:07:23.000
+Tina Marie: Subconsciously. They'll fall in love with you, and they won't know why. But that's why. I was kidding.
+
+00:07:23.000 --> 00:07:26.000
+Michael Fujinaka: Okay, no, that makes sense. So color code essentially.
+
+00:07:26.000 --> 00:07:37.000
+Tina Marie: Yeah. And when you talk to Paul, make sure that you both understand and always understand, because we have gone over this. A few times, keep.
+
+00:07:37.000 --> 00:07:45.000
+Tina Marie: Types of data, clean and consistent. So we went through this exercise last week, right? With. Um. I explained it to you, and then.
+
+00:07:45.000 --> 00:07:53.000
+Tina Marie: Chat, Gpt explained it, which is that you want to. It was a kind of segregate.
+
+00:07:53.000 --> 00:08:03.000
+Tina Marie: Data and and um standardize. Right? So the names and emails and. All of the things is always formatted. The same.
+
+00:08:03.000 --> 00:08:08.000
+Tina Marie: Um like if it's last name comma 1st name that type of thing.
+
+00:08:07.000 --> 00:08:09.000
+Michael Fujinaka: That's right.
+
+00:08:08.000 --> 00:08:18.000
+Tina Marie: Always the same, so that when you want to run a report. You don't have to go reprep data, or if you want to do an extraction across a sheet.
+
+00:08:18.000 --> 00:08:20.000
+Michael Fujinaka: Yeah.
+
+00:08:18.000 --> 00:08:23.000
+Tina Marie: A workbook, or even sheets and workbooks inside of a folder.
+
+00:08:23.000 --> 00:08:24.000
+Michael Fujinaka: No.
+
+00:08:24.000 --> 00:08:38.000
+Tina Marie: All of the data is standardized. There are formulas you can run to extract inside of a folder. That multiplies your.
+
+00:08:39.000 --> 00:08:45.000
+Tina Marie: Reporting power which applies your understanding of your business exponentially.
+
+00:08:45.000 --> 00:08:59.000
+Michael Fujinaka: Okay, yeah. And this this right now, obviously, we're starting it kind of manually, just to make sure, because we're we're we're having the formula, generate these, but then we're still double checking. These items. But uh.
+
+00:08:57.000 --> 00:08:58.000
+Tina Marie: Oh, yeah.
+
+00:08:59.000 --> 00:09:12.000
+Michael Fujinaka: Yeah, we've already identified because we have 9 people working with us. So we've already identified people that kind of have spare time. Um, and that they could be doing this on like, you know, Monday and Tuesday.
+
+00:09:12.000 --> 00:09:16.000
+Michael Fujinaka: Um when they're not doing our their other core tasks.
+
+00:09:16.000 --> 00:09:29.000
+Tina Marie: I love this, I'm gonna restate the benefit of what you just said, not because you don't understand it, but just to hear it a different way. So this is one of those ways that we are delegating, not abdicating, so formulas.
+
+00:09:29.000 --> 00:09:39.000
+Tina Marie: Is delegation of data processing. But by keeping a human in the loop and double checking it. You are not abdicating your data to the formula.
+
+00:09:39.000 --> 00:09:48.000
+Tina Marie: You're just delegating and using it. And so with that, it is really important. Once you get everything correct. Then you can do.
+
+00:09:48.000 --> 00:09:58.000
+Tina Marie: Um, not inventory, but a quality check, you know. Just make sure, hey? All of this looks like it's reporting correctly at the very least quarterly.
+
+00:09:58.000 --> 00:10:08.000
+Tina Marie: Potentially once a month, just and somebody not you. Going through and looking at this look, does all of these numbers add up the way? The formula says they are.
+
+00:10:09.000 --> 00:10:11.000
+Tina Marie: Is this correct? You know what I mean.
+
+00:10:11.000 --> 00:10:12.000
+Michael Fujinaka: Yep, that makes sense.
+
+00:10:13.000 --> 00:10:27.000
+Tina Marie: I love this, though. Progress. Progress. Fuji are moving way faster than you used to, and I love it. And it's because you're using your team. There's a few things that you've done.
+
+00:10:27.000 --> 00:10:37.000
+Tina Marie: So we moved the call earlier so that you could have the block of time, because you realize that. You had a specific kind of energy, right, and motivation. After we talked.
+
+00:10:37.000 --> 00:10:49.000
+Tina Marie: So aligned the day so that you could tap into that energy. Um! And then really using Paul, who had been bugging you, bugging you, bugging you.
+
+00:10:50.000 --> 00:11:02.000
+Tina Marie: And now using AI and the combination of that time block right after. And then all those other things makes it so much easier for you to get more momentum.
+
+00:11:02.000 --> 00:11:05.000
+Tina Marie: Faster. So that's great.
+
+00:11:05.000 --> 00:11:08.000
+Michael Fujinaka: Yep, no. I appreciate that. Yeah.
+
+00:11:10.000 --> 00:11:13.000
+Tina Marie: Alright. So what else did you guys work on.
+
+00:11:13.000 --> 00:11:25.000
+Michael Fujinaka: So I put all our talk into this Google Sheet here, gave it to Paul. Um, I went over with Paul. And the 1st thing that we ran into, and this is.
+
+00:11:26.000 --> 00:11:37.000
+Michael Fujinaka: So this is what we got so far. We created a new Google document, a Google Google Sheet. It's a mirror image of Master leans. So this is something we could essentially play with here.
+
+00:11:37.000 --> 00:11:44.000
+Michael Fujinaka: We don't mind if it gets messed up or anything. But we use the import range. So this is a live update of master liens.
+
+00:11:44.000 --> 00:11:45.000
+Tina Marie: Hmm.
+
+00:11:44.000 --> 00:11:51.000
+Michael Fujinaka: Has all our data in it. Uh, 1st thing we did was we created a column called Week, ending.
+
+00:11:51.000 --> 00:12:02.000
+Michael Fujinaka: So now we could see so like, for instance, the referral that came in on the 24.th There's a Friday, anyways. But it shows us the week ending that date, so it'll count how many referrals I got, not count.
+
+00:12:02.000 --> 00:12:08.000
+Michael Fujinaka: It lets us see visually when that referral came in which week we're associating it with.
+
+00:12:09.000 --> 00:12:11.000
+Tina Marie: Okay.
+
+00:12:10.000 --> 00:12:20.000
+Michael Fujinaka: Okay. So like, if we go down here to like last week. All the referrals that we got up to the 9, th which was Friday, should have been counted for that Friday's referral.
+
+00:12:20.000 --> 00:12:26.000
+Michael Fujinaka: Any referral that we got on like the 6th of last week. We counted it in that week because we're trying to count everything week by week.
+
+00:12:20.000 --> 00:12:28.000
+Tina Marie: Yeah. Okay.
+
+00:12:27.000 --> 00:12:40.000
+Michael Fujinaka: And so this one column allows us to pivot the data. So now we could say. Any, essentially any referral that came that said 5, 9. It should be associated with this week.
+
+00:12:40.000 --> 00:12:42.000
+Michael Fujinaka: So that's what we're counting here.
+
+00:12:42.000 --> 00:12:44.000
+Tina Marie: Mhm.
+
+00:12:43.000 --> 00:12:47.000
+Michael Fujinaka: So now we're able to count like we got 69 referrals that week.
+
+00:12:47.000 --> 00:12:49.000
+Tina Marie: Nice.
+
+00:12:48.000 --> 00:12:55.000
+Michael Fujinaka: Yeah. Now, where it was struggling with was uh. Um.
+
+00:12:57.000 --> 00:13:09.000
+Michael Fujinaka: We're we're we couldn't figure out how to break it down by case manage because the next. So now, once we had that based on our little flow chart here. The next thing we wanted to be able to do.
+
+00:13:09.000 --> 00:13:15.000
+Michael Fujinaka: Is we wanted to pull out, which case Manager sent us that referral in that week right? And give us account of that.
+
+00:13:15.000 --> 00:13:17.000
+Tina Marie: Yeah.
+
+00:13:15.000 --> 00:13:18.000
+Michael Fujinaka: And that's what we're struggling with. Um.
+
+00:13:20.000 --> 00:13:31.000
+Michael Fujinaka: Chat. Gpt was saying that to do that you 1st need to to break up the data. And by case manage, organize it by case manager and.
+
+00:13:30.000 --> 00:13:32.000
+Tina Marie: Mhm.
+
+00:13:32.000 --> 00:13:43.000
+Michael Fujinaka: It just wasn't it? It's it just hasn't been working. How we thought. Um. So we've been playing around with this. This is actually what I was working on with Paul before our call.
+
+00:13:39.000 --> 00:13:47.000
+Tina Marie: It's. Which chat gpt model did you use.
+
+00:13:43.000 --> 00:13:49.000
+Michael Fujinaka: But uh. 4! Oh.
+
+00:13:49.000 --> 00:13:53.000
+Tina Marie: So you might try either 3 or 4.1 Mini.
+
+00:13:53.000 --> 00:13:54.000
+Michael Fujinaka: Okay.
+
+00:13:54.000 --> 00:14:02.000
+Tina Marie: Is there better at logic and reasoning? The other thing is, did you screenshot. As well as describe what happened.
+
+00:14:03.000 --> 00:14:05.000
+Michael Fujinaka: No actually.
+
+00:14:05.000 --> 00:14:09.000
+Tina Marie: Okay. So remember, you want to give it as many data points as.
+
+00:14:08.000 --> 00:14:10.000
+Michael Fujinaka: Oh, yeah. Okay.
+
+00:14:09.000 --> 00:14:17.000
+Tina Marie: And and so. There may be a gap just like with the human being where it's going. Uh.
+
+00:14:17.000 --> 00:14:21.000
+Tina Marie: Well, I don't know why you would have any problems. So.
+
+00:14:22.000 --> 00:14:28.000
+Tina Marie: Where did it? What? What did this diamond? I so I saw it in the formula. But.
+
+00:14:22.000 --> 00:14:24.000
+Michael Fujinaka: Okay.
+
+00:14:28.000 --> 00:14:30.000
+Tina Marie: What is it supposed to do? Is that a delimiter.
+
+00:14:33.000 --> 00:14:40.000
+Michael Fujinaka: For some reason, yeah, chat gpt was wanted. Wanted the data.
+
+00:14:40.000 --> 00:14:46.000
+Michael Fujinaka: Organized in a different. Oh, oh, that's what happened. We're trying to do one row per case manager.
+
+00:14:47.000 --> 00:14:55.000
+Michael Fujinaka: And I was trying to pull out the referrals that that one case manager gave us. In one cell.
+
+00:14:56.000 --> 00:14:58.000
+Tina Marie: Why?
+
+00:14:58.000 --> 00:15:14.000
+Michael Fujinaka: So that when I make my marketing calls um. Like. If if let's say I call what I was having trouble with. It was like when Alma, for instance, the name name his name's Alma. She refers a client to me. I couldn't remember which client she sent to me.
+
+00:15:14.000 --> 00:15:25.000
+Michael Fujinaka: So we had this. Okay. So like, if if law, if if Alma calls me and it was like, Hey, Fuji, how are you? Good.
+
+00:15:25.000 --> 00:15:40.000
+Michael Fujinaka: I could pull this up and be like, Oh, yeah, your patient, Mr. Carrillo. Right? I I don't have to search. I could just have this one. So I wanted it. I wanted this to be Alma, and then have the names of the patients that she referred to me.
+
+00:15:41.000 --> 00:15:43.000
+Michael Fujinaka: In an easy way.
+
+00:15:41.000 --> 00:15:46.000
+Tina Marie: Okay. So a pivot table would do that really well. Also.
+
+00:15:48.000 --> 00:15:51.000
+Michael Fujinaka: Yeah, this is a. This is a pivot table. But.
+
+00:15:51.000 --> 00:15:51.000
+Tina Marie: Okay.
+
+00:15:51.000 --> 00:15:56.000
+Michael Fujinaka: We just we we called it the name that um Chatgpt wanted us to call it.
+
+00:15:57.000 --> 00:16:06.000
+Tina Marie: Yeah, but that's not do. Have you? Where do you see the pivot table? Then? Because that's not what this is.
+
+00:16:06.000 --> 00:16:11.000
+Michael Fujinaka: Oh! But I don't know.
+
+00:16:11.000 --> 00:16:14.000
+Tina Marie: Okay. Um.
+
+00:16:15.000 --> 00:16:17.000
+Michael Fujinaka: Oh, I see this is a pivot table. This is not.
+
+00:16:15.000 --> 00:16:20.000
+Tina Marie: Yeah. Okay, go back to the pivot table and scroll up to the top.
+
+00:16:23.000 --> 00:16:26.000
+Tina Marie: Um it. That's also still not a pivot table.
+
+00:16:26.000 --> 00:16:28.000
+Michael Fujinaka: This is not.
+
+00:16:27.000 --> 00:16:33.000
+Tina Marie: No, and I'll tell you how you know. It will have an icon that looks sort of like a funnel next to it.
+
+00:16:33.000 --> 00:16:34.000
+Michael Fujinaka: Uh oh.
+
+00:16:36.000 --> 00:16:42.000
+Tina Marie: So um. Let's get! Go ahead!
+
+00:16:40.000 --> 00:16:47.000
+Michael Fujinaka: Where is this like this? Is it? Let me just make a new one. So like? Where is the.
+
+00:16:48.000 --> 00:16:51.000
+Michael Fujinaka: Pivot table drop in. Do I insert, or something.
+
+00:16:51.000 --> 00:16:55.000
+Tina Marie: Yeah. See that underneath timeline chart, pivot table.
+
+00:16:55.000 --> 00:16:57.000
+Michael Fujinaka: Oh!
+
+00:17:03.000 --> 00:17:10.000
+Tina Marie: Um go existing sheet. Go to um. Yeah, this whole thing is messed up, though. So hold on a second.
+
+00:17:11.000 --> 00:17:21.000
+Tina Marie: So we've got the raw data. Let's let's look at the raw data again. Um. I don't. I need to see the the headers, the labels, please.
+
+00:17:21.000 --> 00:17:22.000
+Michael Fujinaka: Oh!
+
+00:17:33.000 --> 00:17:35.000
+Tina Marie: Okay.
+
+00:17:39.000 --> 00:17:40.000
+Michael Fujinaka: Okay.
+
+00:17:40.000 --> 00:17:44.000
+Tina Marie: Alright. Will you bold that top for me also? Please.
+
+00:17:44.000 --> 00:17:46.000
+Michael Fujinaka: Bold, yes.
+
+00:17:45.000 --> 00:17:48.000
+Tina Marie: Yeah, it just makes it a little easier on the.
+
+00:17:48.000 --> 00:17:49.000
+Michael Fujinaka: Yep.
+
+00:17:49.000 --> 00:17:56.000
+Tina Marie: Okay. So you got patient's name law firm and the case manager. Okay, so.
+
+00:17:57.000 --> 00:18:08.000
+Tina Marie: Here's what I want you to do. I want you to screenshot this. Okay? And then we're gonna go take it to chat, gpt.
+
+00:18:10.000 --> 00:18:13.000
+Michael Fujinaka: Oh, should I get the whole thing in because we made that new column.
+
+00:18:13.000 --> 00:18:17.000
+Tina Marie: Uh is, yeah, whatever the columns are. Uh-huh.
+
+00:18:19.000 --> 00:18:21.000
+Michael Fujinaka: Okay.
+
+00:18:21.000 --> 00:18:29.000
+Tina Marie: Alright just screenshot that. Okay and go to chat. Gpt right? And then um.
+
+00:18:30.000 --> 00:18:40.000
+Tina Marie: Drop. Ah, that image in there! Okay. And now I want to create a pivot table of this data so that I can sort.
+
+00:18:40.000 --> 00:18:49.000
+Tina Marie: By case managers, and see what patients they sent me. During the week during any particular work week.
+
+00:19:11.000 --> 00:19:14.000
+Michael Fujinaka: Column. I, cm, one. Okay.
+
+00:19:18.000 --> 00:19:38.000
+Tina Marie: Hudson. Hold on! My puppy's going nuts. It shouldn't stop.
+
+00:19:40.000 --> 00:19:44.000
+Tina Marie: Sure. Thank you.
+
+00:19:50.000 --> 00:19:52.000
+Michael Fujinaka: Oh, what a cute little cat.
+
+00:19:52.000 --> 00:20:00.000
+Tina Marie: He called you a cat. How rude. He's a Yorkie. Poo.
+
+00:20:03.000 --> 00:20:05.000
+Michael Fujinaka: Makes my nose run.
+
+00:20:06.000 --> 00:20:14.000
+Tina Marie: He does not bother me. I have dog allergies. And well, I cannot have cats. Cats kill me.
+
+00:20:15.000 --> 00:20:21.000
+Tina Marie: Um, but he does not bother me at all. Most dogs do.
+
+00:20:22.000 --> 00:20:25.000
+Tina Marie: Bichons, Poodles, and Yorkies don't bother me.
+
+00:20:31.000 --> 00:20:39.000
+Michael Fujinaka: I've never done this before. So what do I do? I select? What does this mean? Click and drag the highlight? How do you do that?
+
+00:20:39.000 --> 00:20:43.000
+Tina Marie: It it you you do it all the time. It's um what you.
+
+00:20:42.000 --> 00:20:44.000
+Michael Fujinaka: You mean like that.
+
+00:20:44.000 --> 00:20:54.000
+Tina Marie: Yes, but no, because you're getting the column header. And you want to get so hold on a second click and drag to highlight all columns that include.
+
+00:20:54.000 --> 00:20:59.000
+Tina Marie: Email, patient's name. And Week ending column S.
+
+00:20:59.000 --> 00:21:01.000
+Michael Fujinaka: Okay, like that.
+
+00:21:00.000 --> 00:21:12.000
+Tina Marie: Just a second. I have to process this. Insert. Okay? So actually, what we're gonna do instead of taking multiple steps, we're gonna screenshot and show it.
+
+00:21:12.000 --> 00:21:26.000
+Tina Marie: Um. Is this what you mean by step? One. It will save a lot of time by.
+
+00:21:27.000 --> 00:21:36.000
+Tina Marie: Uh, you know, guessing is this, is this correct? And I will break it down and send step by step, and tell it. Is this correct?
+
+00:21:59.000 --> 00:22:06.000
+Tina Marie: We want a pivot table, because that's what we asked for. So scroll back up. And let's go to step 2.
+
+00:22:07.000 --> 00:22:11.000
+Michael Fujinaka: Menu, insert. Pivot, table.
+
+00:22:09.000 --> 00:22:16.000
+Tina Marie: Pivot to new sheet. Create.
+
+00:22:16.000 --> 00:22:22.000
+Tina Marie: Call it Cm. Report. Oh, we can name it later. Okay, now, what does it say?
+
+00:22:22.000 --> 00:22:34.000
+Tina Marie: Choose new sheet location, create rows, click, add under rows. Select. Okay. Uh, what are you doing? Cm, email was the 1st one. Did you do that already?
+
+00:22:35.000 --> 00:22:38.000
+Michael Fujinaka: No, it doesn't give you that option.
+
+00:22:36.000 --> 00:22:37.000
+Tina Marie: Okay.
+
+00:22:38.000 --> 00:22:40.000
+Michael Fujinaka: See it.
+
+00:22:38.000 --> 00:22:45.000
+Tina Marie: Well, yeah. Um hold on a second.
+
+00:22:47.000 --> 00:22:49.000
+Michael Fujinaka: It's only giving me the option for week, ending.
+
+00:22:52.000 --> 00:22:59.000
+Tina Marie: Count of week ending for week. Ending, it says, suggested, go. Clear, all.
+
+00:23:04.000 --> 00:23:10.000
+Tina Marie: Alright! Um so insert under rows, select.
+
+00:23:10.000 --> 00:23:18.000
+Tina Marie: Cm, okay, so tell it. It's not an option. Um step, 3.
+
+00:23:19.000 --> 00:23:28.000
+Tina Marie: Cm, email. One is not an option. Only week ending.
+
+00:23:42.000 --> 00:23:45.000
+Michael Fujinaka: Oh, select the whole sheet. Okay.
+
+00:23:49.000 --> 00:23:55.000
+Tina Marie: Oh a. Through S. Instead of just those individually. Okay? Got it? Yeah.
+
+00:23:56.000 --> 00:24:04.000
+Tina Marie: All right. Same step insert, pivot, table. All right. Let's go back up to step 2.
+
+00:24:06.000 --> 00:24:11.000
+Tina Marie: Where they had the whole thing, because it had the whole formula. Cm, email.
+
+00:24:28.000 --> 00:24:30.000
+Tina Marie: That was right. Count a.
+
+00:24:36.000 --> 00:24:39.000
+Michael Fujinaka: Oh, yeah, this is what I want. I want the names instead of count.
+
+00:24:39.000 --> 00:24:43.000
+Tina Marie: Right? Okay, so show as. List.
+
+00:24:44.000 --> 00:24:52.000
+Tina Marie: No, no click on the count, a summarized by. Oh!
+
+00:24:52.000 --> 00:25:00.000
+Tina Marie: If you want to use instead of you can use the name field. Uh.
+
+00:25:01.000 --> 00:25:06.000
+Tina Marie: A value as value. So summarized by.
+
+00:25:06.000 --> 00:25:08.000
+Tina Marie: Value. Okay, add.
+
+00:25:08.000 --> 00:25:11.000
+Michael Fujinaka: So push name right.
+
+00:25:09.000 --> 00:25:13.000
+Tina Marie: What? Yes, maybe.
+
+00:25:13.000 --> 00:25:20.000
+Tina Marie: I don't think so. Um one more second hold on! Just you're clicking too fast.
+
+00:25:20.000 --> 00:25:31.000
+Tina Marie: Cannot read and do that at the same time. So instead of Count A, you use the name field as a value. And then use show as.
+
+00:25:31.000 --> 00:25:39.000
+Tina Marie: Less than list. If using an add-on like pivot table summary, add-on. Um.
+
+00:25:41.000 --> 00:25:42.000
+Tina Marie: Okay, so we.
+
+00:25:41.000 --> 00:25:46.000
+Michael Fujinaka: Oh, oh, wait! Patient! Oh, patient Google sheets doesn't natively have this.
+
+00:25:47.000 --> 00:25:49.000
+Tina Marie: Oh, okay.
+
+00:25:48.000 --> 00:25:52.000
+Michael Fujinaka: Okay, that's okay. Let me just do count a, okay. I'm just gonna try this.
+
+00:25:53.000 --> 00:25:57.000
+Tina Marie: Yeah, but it still should. It still should work. I think that you'll.
+
+00:25:54.000 --> 00:25:56.000
+Michael Fujinaka: Okay.
+
+00:25:57.000 --> 00:26:00.000
+Tina Marie: We'll see, and if not, we can change it. But.
+
+00:26:02.000 --> 00:26:04.000
+Michael Fujinaka: Is, that it is, that it.
+
+00:26:04.000 --> 00:26:09.000
+Tina Marie: What does it say? Um. Okay. Then, what I do after step 3.
+
+00:26:31.000 --> 00:26:34.000
+Tina Marie: Click um just a second. Make sure.
+
+00:26:32.000 --> 00:26:33.000
+Michael Fujinaka: Okay, that's it.
+
+00:26:35.000 --> 00:26:40.000
+Tina Marie: Or not. You click.
+
+00:26:38.000 --> 00:26:43.000
+Michael Fujinaka: Oh, yeah, that's interesting. So it gives me week by week. But I need to sort this.
+
+00:26:43.000 --> 00:26:46.000
+Tina Marie: This is also still not what it's supposed to be.
+
+00:26:46.000 --> 00:26:47.000
+Michael Fujinaka: Oh, okay.
+
+00:26:46.000 --> 00:26:50.000
+Tina Marie: So let me go find an example of a pivot table.
+
+00:26:49.000 --> 00:26:54.000
+Michael Fujinaka: No, this is actually great, because, look, this has all the case. Managers.
+
+00:26:54.000 --> 00:26:56.000
+Tina Marie: Yeah.
+
+00:26:57.000 --> 00:27:03.000
+Michael Fujinaka: Oh, this is really good! Okay, I just need it. Reverse chronological order of the date.
+
+00:27:05.000 --> 00:27:07.000
+Tina Marie: Okay.
+
+00:27:07.000 --> 00:28:28.000
+Michael Fujinaka: Okay, so. Oh, my God! Is that really it?
+
+00:28:28.000 --> 00:28:31.000
+Michael Fujinaka: Oh, my God! That's incredible!
+
+00:28:34.000 --> 00:28:36.000
+Tina Marie: I accidentally muted myself.
+
+00:28:38.000 --> 00:28:48.000
+Michael Fujinaka: Okay. But it doesn't show the current week. That's okay. Oh, we probably haven't even done it. That's not. That's not its fault. This is our fault. We just don't have it in this. Uh. I don't think we even have it yet.
+
+00:28:51.000 --> 00:28:59.000
+Michael Fujinaka: Yeah, yeah, we haven't even done this week. Holy cow. That is amazing.
+
+00:29:00.000 --> 00:29:08.000
+Tina Marie: Pivot tables are great. Um. But you definitely have to have standardized data for them to work correct.
+
+00:29:07.000 --> 00:29:14.000
+Michael Fujinaka: I wonder why? I wonder what it's counting here? This is like hallucinating data here. What are these? 1, 2.
+
+00:29:14.000 --> 00:29:17.000
+Tina Marie: What is that supposed? What is it even is that column.
+
+00:29:19.000 --> 00:29:23.000
+Michael Fujinaka: Well, it's supposed to be this week, right? This is last week.
+
+00:29:25.000 --> 00:29:31.000
+Tina Marie: Do you have anything that's undefined in the headers? Like that. It could have counted.
+
+00:29:32.000 --> 00:29:34.000
+Michael Fujinaka: Hmm.
+
+00:29:33.000 --> 00:29:40.000
+Tina Marie: And I would I would screenshot that and ask Chatgp to you like, where did this come from? What's in C.
+
+00:29:40.000 --> 00:29:42.000
+Tina Marie: Raw data you have.
+
+00:29:43.000 --> 00:29:53.000
+Michael Fujinaka: Let me just let me just check if this is doing it right. So Thelma was the last one. Oh!
+
+00:29:56.000 --> 00:30:05.000
+Michael Fujinaka: So it should have showed that she did at least one last week. What's column? D.
+
+00:30:07.000 --> 00:30:16.000
+Michael Fujinaka: Yeah. So she sent 4 last week. So that's right. I can't. I can't see this. How do I add.
+
+00:30:16.000 --> 00:30:29.000
+Michael Fujinaka: Sell orders. Where's the borders? Icon.
+
+00:30:30.000 --> 00:30:36.000
+Tina Marie: Oh, it's um! You might need to expand it a little bit. There you go!
+
+00:30:35.000 --> 00:30:37.000
+Michael Fujinaka: Oh, this guy!
+
+00:30:36.000 --> 00:30:38.000
+Tina Marie: Yeah.
+
+00:30:39.000 --> 00:30:44.000
+Michael Fujinaka: Oh, wait! That's something I wanted to point out. I want the whole document. How do I highlight the whole? There it goes.
+
+00:30:44.000 --> 00:30:47.000
+Tina Marie: You? Yeah. So then no, no, no.
+
+00:30:47.000 --> 00:30:48.000
+Michael Fujinaka: Oh!
+
+00:30:47.000 --> 00:30:56.000
+Tina Marie: If you if you just wanted to go all the way around. Well, okay, yeah, if that's what you wanted. So if you had just wanted to make a box around it, then you would have done the one on the top right.
+
+00:30:59.000 --> 00:31:02.000
+Michael Fujinaka: Oh, I see. No, this is what I wanted. Wait! What is this normal.
+
+00:31:01.000 --> 00:31:02.000
+Tina Marie: Okay.
+
+00:31:04.000 --> 00:31:06.000
+Michael Fujinaka: Why is it so intense?
+
+00:31:06.000 --> 00:31:08.000
+Tina Marie: Oh, so undo it!
+
+00:31:12.000 --> 00:31:13.000
+Michael Fujinaka: Okay.
+
+00:31:13.000 --> 00:31:15.000
+Tina Marie: And then go highlight it again.
+
+00:31:16.000 --> 00:31:17.000
+Michael Fujinaka: Alright!
+
+00:31:16.000 --> 00:31:20.000
+Tina Marie: Or go to the sub board, I think. Just click on it, but don't select it yet.
+
+00:31:20.000 --> 00:31:21.000
+Michael Fujinaka: Uh-huh.
+
+00:31:20.000 --> 00:31:30.000
+Tina Marie: You see where you can. There's an edit pencil, and then there's the line color. You can change the border color, you can change the border thickness and style.
+
+00:31:31.000 --> 00:31:37.000
+Tina Marie: Um. But what you're seeing on raw data. Is.
+
+00:31:37.000 --> 00:31:46.000
+Tina Marie: That's just the way Google sheets looks normally. So that that. Those aren't even actually speakers. Yeah.
+
+00:31:44.000 --> 00:31:45.000
+Michael Fujinaka: Orders.
+
+00:31:47.000 --> 00:31:55.000
+Tina Marie: Um in pivot table 4. It's like, somehow. It created white colored borders, you see, like a white fill.
+
+00:31:56.000 --> 00:31:58.000
+Tina Marie: You see where the fill is?
+
+00:31:58.000 --> 00:32:00.000
+Michael Fujinaka: Yeah.
+
+00:31:58.000 --> 00:32:00.000
+Tina Marie: Click on that and go to none.
+
+00:32:02.000 --> 00:32:04.000
+Michael Fujinaka: Reset.
+
+00:32:03.000 --> 00:32:09.000
+Tina Marie: Yeah, you can try reset. Also. Oh, sorry the whole thing. Yeah.
+
+00:32:13.000 --> 00:32:21.000
+Tina Marie: Yeah, I don't know why it did it. It might have just been like a pivot table table setting. But you can change it to like a light gray.
+
+00:32:21.000 --> 00:32:27.000
+Tina Marie: If you prefer that. Not that in the border color.
+
+00:32:27.000 --> 00:32:33.000
+Tina Marie: And you can change the thinness. Get there!
+
+00:32:34.000 --> 00:32:35.000
+Tina Marie: The.
+
+00:32:35.000 --> 00:32:37.000
+Michael Fujinaka: This one.
+
+00:32:36.000 --> 00:32:38.000
+Tina Marie: No bottom, right.
+
+00:32:38.000 --> 00:32:39.000
+Michael Fujinaka: Uh-huh.
+
+00:32:38.000 --> 00:32:41.000
+Tina Marie: No. All the way, that one. Yeah.
+
+00:32:40.000 --> 00:32:41.000
+Michael Fujinaka: So.
+
+00:32:41.000 --> 00:32:45.000
+Tina Marie: Border style, so you can make a thinner line if you go down.
+
+00:32:46.000 --> 00:32:48.000
+Michael Fujinaka: But this is the thinnest right.
+
+00:32:49.000 --> 00:32:53.000
+Tina Marie: I don't think so. I think you can go. Or is, those are those polka dots.
+
+00:32:53.000 --> 00:32:55.000
+Michael Fujinaka: Those are polka dots.
+
+00:32:53.000 --> 00:32:59.000
+Tina Marie: Oh, yeah. Okay. Um, yeah, I think that's probably the best that you can do.
+
+00:32:59.000 --> 00:33:00.000
+Michael Fujinaka: Hey? This guy?
+
+00:33:00.000 --> 00:33:02.000
+Tina Marie: Yep.
+
+00:33:03.000 --> 00:33:04.000
+Michael Fujinaka: Hey!
+
+00:33:04.000 --> 00:33:05.000
+Tina Marie: You go.
+
+00:33:05.000 --> 00:33:07.000
+Michael Fujinaka: Doesn't look great. Still.
+
+00:33:08.000 --> 00:33:12.000
+Tina Marie: Well, it's just whatever you want it to be.
+
+00:33:12.000 --> 00:33:13.000
+Michael Fujinaka: Okay.
+
+00:33:12.000 --> 00:33:15.000
+Tina Marie: Whatever makes it easy for you to look at it.
+
+00:33:14.000 --> 00:33:16.000
+Michael Fujinaka: There it goes that looks normal again.
+
+00:33:16.000 --> 00:33:17.000
+Tina Marie: Yeah.
+
+00:33:18.000 --> 00:33:29.000
+Michael Fujinaka: Okay, so what is this hallucination that it's picking up here? It's doing like 1, 2. 0, maybe this is like a like you said, maybe it skipped a d. Okay. I wonder where that's coming from?
+
+00:33:30.000 --> 00:33:32.000
+Michael Fujinaka: 3.
+
+00:33:34.000 --> 00:33:38.000
+Tina Marie: So what you should do is check it.
+
+00:33:36.000 --> 00:33:44.000
+Michael Fujinaka: What? 3, 13. Where's this one? 20135102013. Where's that coming from?
+
+00:33:44.000 --> 00:33:48.000
+Tina Marie: Yeah, that's what I was. Just gonna say, go check all your your dates.
+
+00:33:48.000 --> 00:33:50.000
+Michael Fujinaka: Oh, here's here it is!
+
+00:33:49.000 --> 00:33:50.000
+Tina Marie: And like.
+
+00:33:52.000 --> 00:34:01.000
+Michael Fujinaka: What is this? 1? 37. Why did that get messed up. Okay, well, I need to change this in the real one. Then, right.
+
+00:34:02.000 --> 00:34:10.000
+Tina Marie: Or go see if it is in the real one. Did something happen and get messed up. In this or in the Rowan.
+
+00:34:12.000 --> 00:34:14.000
+Tina Marie: See if you can find that date.
+
+00:34:13.000 --> 00:34:16.000
+Michael Fujinaka: Oh, no, it's not showing up.
+
+00:34:16.000 --> 00:34:17.000
+Tina Marie: Okay.
+
+00:34:16.000 --> 00:34:18.000
+Michael Fujinaka: This got messed up in this one.
+
+00:34:18.000 --> 00:34:23.000
+Tina Marie: Right so something happened. You can.
+
+00:34:21.000 --> 00:34:24.000
+Michael Fujinaka: Oh, it took the. It took this date.
+
+00:34:25.000 --> 00:34:32.000
+Tina Marie: But that shouldn't have been. That's not right, either. Right. You didn't get something referred in 2013.
+
+00:34:32.000 --> 00:34:33.000
+Michael Fujinaka: No.
+
+00:34:36.000 --> 00:34:40.000
+Tina Marie: Do you remember updating that that person.
+
+00:34:40.000 --> 00:34:49.000
+Michael Fujinaka: Oh, this one! The uh. We scratched off the data referral. I wonder if that no, that's not even the right date. This is 5 12.
+
+00:34:50.000 --> 00:34:56.000
+Tina Marie: So what you should just do is several versions of undo. And watch that cell and see if it changes.
+
+00:34:57.000 --> 00:35:00.000
+Tina Marie: To see if anything you did recently.
+
+00:35:00.000 --> 00:35:01.000
+Michael Fujinaka: Oh!
+
+00:35:00.000 --> 00:35:04.000
+Tina Marie: Today. Cause you'll be able to go redo everything.
+
+00:35:06.000 --> 00:35:12.000
+Tina Marie: Yeah, you can do that, too. See may 5.th
+
+00:35:12.000 --> 00:35:14.000
+Tina Marie: Go to the.
+
+00:35:13.000 --> 00:35:15.000
+Michael Fujinaka: 1, 37, row, 1, 37.
+
+00:35:22.000 --> 00:35:26.000
+Tina Marie: Click on the are you on the May 5th version? Yeah, click on the May 5th version.
+
+00:35:22.000 --> 00:35:24.000
+Michael Fujinaka: Yeah.
+
+00:35:27.000 --> 00:35:43.000
+Tina Marie: And see if that's there. Yeah, it is there. So you didn't do it today.
+
+00:35:45.000 --> 00:35:51.000
+Michael Fujinaka: Well, this is before it was added right. We didn't add that. Row, column.
+
+00:35:52.000 --> 00:35:57.000
+Tina Marie: Well, it was before today period. It was on May 5th that 2,013 was on. There.
+
+00:35:58.000 --> 00:36:06.000
+Michael Fujinaka: No, no, but that that's correct, that that one's correct. What wasn't correct was the. The week ending.
+
+00:36:05.000 --> 00:36:09.000
+Tina Marie: Hang on a second. You weren't even in business in 2,013.
+
+00:36:08.000 --> 00:36:14.000
+Michael Fujinaka: But exactly. But that date that date was correct.
+
+00:36:11.000 --> 00:36:16.000
+Tina Marie: So? How is it. I don't understand Fuji.
+
+00:36:18.000 --> 00:36:20.000
+Michael Fujinaka: I think.
+
+00:36:19.000 --> 00:36:20.000
+Tina Marie: Yeah.
+
+00:36:20.000 --> 00:36:30.000
+Michael Fujinaka: Oh, oh, I see what you're saying. Oh, yeah, yeah. This should have been 2023. Yeah, okay, that's why it was wrong. Yep, that's right. Yeah. See? That's okay. I see what you're saying.
+
+00:36:31.000 --> 00:36:35.000
+Michael Fujinaka: Thank you. Yeah. In our master one. Here we put it as 2013.
+
+00:36:32.000 --> 00:36:32.000
+Tina Marie: Okay.
+
+00:36:36.000 --> 00:36:41.000
+Michael Fujinaka: There should have been 23. Thank you.
+
+00:36:41.000 --> 00:36:43.000
+Tina Marie: Yeah.
+
+00:36:42.000 --> 00:36:48.000
+Michael Fujinaka: I didn't understand what you're saying. I assume that date was right like, Oh, yep, there it goes! I fixed it.
+
+00:36:49.000 --> 00:36:51.000
+Tina Marie: Okay.
+
+00:36:50.000 --> 00:36:52.000
+Michael Fujinaka: I hate debugging.
+
+00:36:52.000 --> 00:36:54.000
+Tina Marie: Yeah, but.
+
+00:36:53.000 --> 00:37:04.000
+Michael Fujinaka: 5, 30, 2023. Okay, so this is another one that was incorrect. So where is this one. 5, 30, 2023, 5, dash, 30, dash, 2023.
+
+00:37:14.000 --> 00:37:16.000
+Michael Fujinaka: Huh! I don't see it here.
+
+00:37:23.000 --> 00:37:25.000
+Tina Marie: What else is there about.
+
+00:37:24.000 --> 00:37:27.000
+Michael Fujinaka: Oh, 2,003. Sorry. Wrong wrong year.
+
+00:37:26.000 --> 00:37:28.000
+Tina Marie: Oh, that's.
+
+00:37:28.000 --> 00:37:30.000
+Michael Fujinaka: 2,003.
+
+00:37:28.000 --> 00:37:29.000
+Tina Marie: Yeah.
+
+00:37:30.000 --> 00:37:40.000
+Michael Fujinaka: There it is. Okay. So something is wrong in this. Oh, yeah, here it is. Yep, that's wrong. Data referrals. Oh, 3, 6, 1. 2 should have been 2023.
+
+00:37:41.000 --> 00:37:48.000
+Michael Fujinaka: I would have never caught that. This should be 23. There it is.
+
+00:37:48.000 --> 00:37:58.000
+Michael Fujinaka: Alright, yeah, it's not Google Sheets's fault. It's the user error. Okay? And then, now, we gotta figure out what this unnamed column is. So that means.
+
+00:37:59.000 --> 00:38:07.000
+Michael Fujinaka: There's a column. That doesn't. That's.
+
+00:38:07.000 --> 00:38:17.000
+Michael Fujinaka: Unlabeled here. Oh, that that! Oh, that's probably this current week. Yeah, that's the current week. Okay. But then there's 1 that was phantoming over here.
+
+00:38:20.000 --> 00:38:26.000
+Tina Marie: So that would be the current week. That other one would be like years ago.
+
+00:38:27.000 --> 00:38:30.000
+Michael Fujinaka: Yeah, I don't know what this one is. There's like a blank one.
+
+00:38:29.000 --> 00:38:35.000
+Tina Marie: So go to Abigail at Law Brothers, and see. What you have.
+
+00:38:34.000 --> 00:38:36.000
+Michael Fujinaka: Oh, good idea!
+
+00:38:36.000 --> 00:38:45.000
+Tina Marie: You might figure out. So what you should be able to do and.
+
+00:38:45.000 --> 00:38:48.000
+Tina Marie: Um. I will tell you. I don't create.
+
+00:38:47.000 --> 00:38:50.000
+Michael Fujinaka: Oh, right here, it's blank data. Referral is blank.
+
+00:38:50.000 --> 00:38:56.000
+Tina Marie: Okay, not scheduling. Why is it? So.
+
+00:38:54.000 --> 00:38:59.000
+Michael Fujinaka: She must have not wanted it. Like she wants to cancel the.
+
+00:39:01.000 --> 00:39:07.000
+Tina Marie: Okay. So how do we want to handle that.
+
+00:39:08.000 --> 00:39:17.000
+Tina Marie: Um like you could do something like a particular date that, you know, is out of range. And every time you see that date show up it means somebody.
+
+00:39:17.000 --> 00:39:20.000
+Tina Marie: Chose not to schedule, or something like that.
+
+00:39:21.000 --> 00:39:27.000
+Michael Fujinaka: Okay, we'll we'll chat. Tpt, build it. Fix it in the pivot table.
+
+00:39:27.000 --> 00:39:29.000
+Michael Fujinaka: Or do I have to put something in my actual raw data.
+
+00:39:30.000 --> 00:39:36.000
+Tina Marie: Um? Well, you'd have to put something in your raw data. You know, otherwise.
+
+00:39:36.000 --> 00:39:42.000
+Tina Marie: The formula that it would have no way of knowing. Well, actually, you can say, Yeah, exactly.
+
+00:39:42.000 --> 00:39:47.000
+Tina Marie: How do we identify. Um.
+
+00:39:48.000 --> 00:39:57.000
+Tina Marie: But but you would want to know. If it was an error. Right? So the only way, you know that's not an error is because of the notes that said.
+
+00:39:57.000 --> 00:39:59.000
+Tina Marie: Not scheduling.
+
+00:39:59.000 --> 00:40:01.000
+Michael Fujinaka: Huh!
+
+00:40:00.000 --> 00:40:06.000
+Tina Marie: So that needs to be looked into anyway. Um. But how do we flag?
+
+00:40:07.000 --> 00:40:20.000
+Tina Marie: When data is missing a component right? So if a cell. Of the pivot table anywhere, right? If the date is out of range, like, here's our range. By the way, that's 1 of the things that we can do right. So if it's.
+
+00:40:20.000 --> 00:40:30.000
+Tina Marie: Precedes 2022, or 2023, or whatever right. Um. We want to be flagged because that shouldn't exist. That's not correct.
+
+00:40:31.000 --> 00:40:33.000
+Michael Fujinaka: In the pivot table. It'll flag it.
+
+00:40:33.000 --> 00:40:42.000
+Tina Marie: No, that's what I'm saying. We should talk to, chat, gpt, and ask like, what can we create this as a range, so that if any date. Um.
+
+00:40:43.000 --> 00:40:52.000
+Tina Marie: Shows up in this table beforehand, due to human error, it will catch it. And flag it like conditional formatting, or something.
+
+00:40:53.000 --> 00:40:55.000
+Tina Marie: Is there a way to do that?
+
+00:42:02.000 --> 00:42:07.000
+Michael Fujinaka: Oh, okay. So add another helper, column.
+
+00:42:08.000 --> 00:42:09.000
+Michael Fujinaka: Yeah.
+
+00:42:08.000 --> 00:42:14.000
+Tina Marie: But hold on a second. I want to try one more thing. Can you ask Chatgpt.
+
+00:42:14.000 --> 00:42:18.000
+Tina Marie: Um, so give it the screenshot one more time.
+
+00:42:18.000 --> 00:42:20.000
+Michael Fujinaka: Yep.
+
+00:42:19.000 --> 00:42:29.000
+Tina Marie: And say, is there a way to create a. Automatic sort table, right? So where there's a sort icon, and it'll know what we're talking about.
+
+00:42:37.000 --> 00:42:39.000
+Michael Fujinaka: Same thread, or different thread.
+
+00:42:39.000 --> 00:42:41.000
+Tina Marie: Go ahead. Same thread.
+
+00:42:41.000 --> 00:42:48.000
+Michael Fujinaka: Center. Oh, that wasn't it.
+
+00:43:04.000 --> 00:43:06.000
+Michael Fujinaka: Where is that?
+
+00:43:06.000 --> 00:43:12.000
+Tina Marie: Go. Go back to July Medical. One more time. Scroll all the way down.
+
+00:43:16.000 --> 00:43:19.000
+Michael Fujinaka: Maybe it's thinking I'll start another one.
+
+00:43:19.000 --> 00:43:20.000
+Tina Marie: Yeah, might be.
+
+00:43:19.000 --> 00:43:21.000
+Michael Fujinaka: Okay, there it goes.
+
+00:43:21.000 --> 00:43:25.000
+Tina Marie: So um. Say it somewhat like this.
+
+00:43:25.000 --> 00:43:34.000
+Tina Marie: Let's say, I want to sort this raw data. By case manager. Let's say, okay, by work. Week.
+
+00:43:36.000 --> 00:43:38.000
+Michael Fujinaka: A week, ending.
+
+00:43:38.000 --> 00:43:45.000
+Tina Marie: Yeah. Week, ending by case manager. By uh.
+
+00:43:45.000 --> 00:43:55.000
+Tina Marie: Patients referred, so that. I can easily go. Look at one case, manager, and see all the cases that they referred.
+
+00:43:55.000 --> 00:43:59.000
+Tina Marie: By patient name during a particular work week.
+
+00:44:10.000 --> 00:44:11.000
+Michael Fujinaka: Yeah.
+
+00:44:11.000 --> 00:44:31.000
+Tina Marie: Yep. Sent that. Okay, wait. Um, each within each case. Winner. Would you like to separate.
+
+00:44:31.000 --> 00:44:38.000
+Tina Marie: That also counts how many patients each manager referred per week. No. Okay, so.
+
+00:44:39.000 --> 00:44:58.000
+Tina Marie: Um. What I want to have is a perpetual sort, icon, that allows me to do this. You don't think it knows perpetual, or you just wanted to change it.
+
+00:45:01.000 --> 00:45:03.000
+Michael Fujinaka: Easier for me to remember.
+
+00:45:03.000 --> 00:45:10.000
+Tina Marie: Gotcha. There you go! That's what I was looking for.
+
+00:45:18.000 --> 00:45:20.000
+Michael Fujinaka: Oh, that's really neat.
+
+00:45:20.000 --> 00:45:27.000
+Tina Marie: Wait till you see this foods. This is what I thought we were creating, but people always do this for me. So I didn't actually know.
+
+00:45:29.000 --> 00:45:39.000
+Michael Fujinaka: Okay, let's try this. So. So select the entire table click data.
+
+00:45:40.000 --> 00:45:42.000
+Michael Fujinaka: Create, filter.
+
+00:45:42.000 --> 00:45:44.000
+Tina Marie: Yeah.
+
+00:45:43.000 --> 00:45:50.000
+Michael Fujinaka: Alright click, the filter, icon, and week ending. Okay.
+
+00:45:53.000 --> 00:46:00.000
+Michael Fujinaka: Sort z to a alright. Then click, cm, email, one.
+
+00:46:02.000 --> 00:46:07.000
+Michael Fujinaka: Sort a to Z, and then click. Name.
+
+00:46:08.000 --> 00:46:10.000
+Michael Fujinaka: Sort a to z.
+
+00:46:11.000 --> 00:46:18.000
+Tina Marie: And then click data, filter views. Let's see, to always jump back to your preferred sorting.
+
+00:46:12.000 --> 00:46:12.000
+Michael Fujinaka: Okay.
+
+00:46:18.000 --> 00:46:26.000
+Tina Marie: Create new. It's a filter view that you want, not just a filter. Okay, so you do the same thing. But this time it's a filter view.
+
+00:46:27.000 --> 00:46:33.000
+Michael Fujinaka: Oh, wait! Wait! Oh, wait! Wait! Hold on! Let me see this real quick, so. Wait. So what you just did.
+
+00:46:38.000 --> 00:46:39.000
+Michael Fujinaka: Oh, wait! So this.
+
+00:46:39.000 --> 00:46:42.000
+Tina Marie: This should do exactly what you wanted to do.
+
+00:46:41.000 --> 00:46:45.000
+Michael Fujinaka: Oh, so this shows me the names of the patient that this guy sent.
+
+00:46:45.000 --> 00:46:53.000
+Tina Marie: Yes. But let's say you just go to work. Go go to um week ending.
+
+00:46:57.000 --> 00:47:03.000
+Michael Fujinaka: Why is this different? Though a payment tells here. But then he's here too.
+
+00:47:03.000 --> 00:47:09.000
+Tina Marie: Okay, I'll bet you, if you look. It's not spelled exactly the same, or there's something different.
+
+00:47:10.000 --> 00:47:13.000
+Michael Fujinaka: A pimentel@avericklaw.com.
+
+00:47:13.000 --> 00:47:16.000
+Tina Marie: Or you're not sorting by that. Go ahead!
+
+00:47:16.000 --> 00:47:23.000
+Michael Fujinaka: Okay. Oh, no! See it did it for some, but not all.
+
+00:47:25.000 --> 00:47:27.000
+Michael Fujinaka: Can I remove this filter.
+
+00:47:25.000 --> 00:47:33.000
+Tina Marie: Separate. Um hold on a second. So what are you filtering first? st That's the thing.
+
+00:47:33.000 --> 00:47:37.000
+Michael Fujinaka: Oh, how do I reset what I just did then? Just cancel.
+
+00:47:36.000 --> 00:47:43.000
+Tina Marie: Just yeah. It would just undo all your this stuff that you just did.
+
+00:47:43.000 --> 00:47:44.000
+Michael Fujinaka: Okay.
+
+00:47:44.000 --> 00:47:46.000
+Tina Marie: Okay. So go back to chat. Gpt.
+
+00:47:46.000 --> 00:47:48.000
+Michael Fujinaka: Uh-huh.
+
+00:47:48.000 --> 00:47:51.000
+Tina Marie: Well, actually, this is what we're gonna do. Okay? So highlight, everything on the table.
+
+00:47:52.000 --> 00:47:53.000
+Michael Fujinaka: Yeah.
+
+00:47:53.000 --> 00:47:55.000
+Tina Marie: And then go to data.
+
+00:47:55.000 --> 00:47:57.000
+Michael Fujinaka: Yeah.
+
+00:47:56.000 --> 00:47:59.000
+Tina Marie: And create filter, view.
+
+00:47:59.000 --> 00:48:00.000
+Michael Fujinaka: Okay.
+
+00:48:00.000 --> 00:48:30.000
+Tina Marie: Oh, slicer! Hold on a second! Go ask chat, Gpt. What's a slicer? Sort icon, but one second.
+
+00:48:30.000 --> 00:48:39.000
+Tina Marie: Here. If you want to, data to auto sort as it updates without manual clicks.
+
+00:48:41.000 --> 00:48:52.000
+Tina Marie: Okay, this is what we want. Is a visual filter tool that lets you filter data and tables, pivot tables or pivot charts by clicking buttons. That's what I want. I want a slicer.
+
+00:48:55.000 --> 00:49:01.000
+Tina Marie: Okay, um, so. Remind it what you want to do.
+
+00:49:01.000 --> 00:49:06.000
+Tina Marie: Right how you want to view it, and then say. Help me set up a slicer that does this.
+
+00:49:34.000 --> 00:49:43.000
+Tina Marie: Can we have to. Thank you.
+
+00:49:56.000 --> 00:50:12.000
+Michael Fujinaka: Yeah, that's right. Okay, so let's try this.
+
+00:50:12.000 --> 00:50:13.000
+Tina Marie: Yes.
+
+00:50:15.000 --> 00:50:23.000
+Michael Fujinaka: Select all data alright, go to insert pivot table. Choose new sheet. Okay?
+
+00:50:25.000 --> 00:50:33.000
+Michael Fujinaka: And the pivotal editor, Row. Add name, sort by.
+
+00:50:35.000 --> 00:50:37.000
+Michael Fujinaka: A, Z, okay.
+
+00:50:38.000 --> 00:50:48.000
+Tina Marie: I didn't know pivot tables can exist without slicers. I've only ever seen them with slicers, but I didn't know. That that's what it was. You have an error.
+
+00:50:50.000 --> 00:50:51.000
+Michael Fujinaka: Oh!
+
+00:51:04.000 --> 00:51:10.000
+Tina Marie: I wonder if we could do it in a pivot table that already exists because we already made one like? Could we do this with pivot table 4.
+
+00:51:11.000 --> 00:51:28.000
+Michael Fujinaka: Yeah. And then add slicer. Go back to your pivot table sheet, click data.
+
+00:51:28.000 --> 00:51:37.000
+Michael Fujinaka: For instance, click, add slicer. And select the entire pivot area.
+
+00:51:38.000 --> 00:51:45.000
+Michael Fujinaka: And click the glaze slicer box. In the right panel. Choose.
+
+00:51:47.000 --> 00:51:52.000
+Michael Fujinaka: Oh, select column, first.st She's seeing my email.
+
+00:51:58.000 --> 00:52:03.000
+Michael Fujinaka: Oh, this one doesn't have all the columns, though. This pivot table didn't.
+
+00:52:03.000 --> 00:52:08.000
+Tina Marie: Oh! What's missing.
+
+00:52:08.000 --> 00:52:11.000
+Tina Marie: We have Cm email week ending and.
+
+00:52:10.000 --> 00:52:17.000
+Michael Fujinaka: This pivot table is uh. It was looking at each Cm's email. And then the reverse chronological order of the date.
+
+00:52:17.000 --> 00:52:19.000
+Tina Marie: Oh, okay.
+
+00:52:18.000 --> 00:52:20.000
+Michael Fujinaka: Yeah.
+
+00:52:19.000 --> 00:52:21.000
+Tina Marie: Well, you can change the pivot table.
+
+00:52:23.000 --> 00:52:29.000
+Michael Fujinaka: Why can't? Can I just make this end up. Why does it have to be a pivot table? Does it.
+
+00:52:31.000 --> 00:52:37.000
+Tina Marie: Ask, chatgpt. Like, can I just create a slicer inside of this sheet?
+
+00:53:04.000 --> 00:53:06.000
+Tina Marie: Okay. So no, that's why.
+
+00:53:04.000 --> 00:53:22.000
+Michael Fujinaka: Oh! Does the pivot table automatically add rows as we're we're. We're adding rows to the data that it comes from.
+
+00:53:23.000 --> 00:53:31.000
+Tina Marie: It should not. But you can ask that question. Also don't use projects. Get out of projects. So you can choose the model you're working with.
+
+00:53:31.000 --> 00:53:33.000
+Michael Fujinaka: Oh, I didn't know that.
+
+00:53:31.000 --> 00:53:38.000
+Tina Marie: Just yeah. It automatically uses 4. 0, but you can't change your model in projects.
+
+00:53:38.000 --> 00:53:41.000
+Michael Fujinaka: Oh, I didn't know that! That's crazy!
+
+00:53:41.000 --> 00:53:48.000
+Tina Marie: Yeah. It's because project is programmed to work one particular way. So just open a new chat message.
+
+00:53:48.000 --> 00:53:51.000
+Michael Fujinaka: Okay. Oh, hold on! Let me try to make this pivot table really quick.
+
+00:53:51.000 --> 00:53:52.000
+Tina Marie: Okay.
+
+00:53:53.000 --> 00:54:03.000
+Michael Fujinaka: System. Sheet. Oh, wait! That's gonna make a pivot table on this. Okay, now, I don't wanna do that.
+
+00:54:05.000 --> 00:54:09.000
+Michael Fujinaka: Okay, okay. So this one was just saying, you can't do it. Huh?
+
+00:54:10.000 --> 00:54:16.000
+Tina Marie: Okay, so stop. Open a new chat. Please let's use a better model of chatgpt for this.
+
+00:54:17.000 --> 00:54:17.000
+Michael Fujinaka: Okay.
+
+00:54:17.000 --> 00:54:19.000
+Tina Marie: Up there where it says 4. Oh.
+
+00:54:19.000 --> 00:54:20.000
+Michael Fujinaka: Yep.
+
+00:54:20.000 --> 00:54:28.000
+Tina Marie: More models. Oh, O, 3 use, O, 3. Okay. Now, just copy and paste your previous messages.
+
+00:54:28.000 --> 00:54:44.000
+Tina Marie: You might need to open a new message again, since we didn't actually type anything but. And then give it a screenshot. Oh, I think you can use a screenshot.
+
+00:54:44.000 --> 00:55:36.000
+Tina Marie: I don't remember if you can, but it needs to see the image. We also need to get in the habit of saying that okay, Google sheets it. Knew it was Google sheets.
+
+00:55:40.000 --> 00:55:43.000
+Michael Fujinaka: Wow! What is this model? I've never seen this model.
+
+00:55:43.000 --> 00:55:45.000
+Tina Marie: It's the smartest one I have right now.
+
+00:55:47.000 --> 00:55:49.000
+Michael Fujinaka: Oh, I would set the highest number was their smartest one.
+
+00:55:50.000 --> 00:55:51.000
+Tina Marie: No.
+
+00:55:57.000 --> 00:55:59.000
+Michael Fujinaka: So anyone.
+
+00:56:02.000 --> 00:56:04.000
+Tina Marie: You see how different the instructions are.
+
+00:56:07.000 --> 00:56:11.000
+Michael Fujinaka: Control shift end that didn't work.
+
+00:56:12.000 --> 00:56:13.000
+Tina Marie: Do you have a Mac?
+
+00:56:13.000 --> 00:56:14.000
+Michael Fujinaka: No.
+
+00:56:14.000 --> 00:56:19.000
+Tina Marie: Okay, well, that says Mac. Oh. Never mind, that was the next one on it. My bad.
+
+00:56:20.000 --> 00:56:25.000
+Tina Marie: So a. Through S. Everything is highlighted just. Is select a. Through S.
+
+00:56:26.000 --> 00:56:28.000
+Tina Marie: That's all it was trying to get you to do.
+
+00:56:30.000 --> 00:56:39.000
+Michael Fujinaka: Yeah. Insert the web slicer menu data.
+
+00:56:41.000 --> 00:56:43.000
+Tina Marie: Oh, uh.
+
+00:56:41.000 --> 00:56:46.000
+Michael Fujinaka: Fast. Huh!
+
+00:56:46.000 --> 00:56:51.000
+Tina Marie: Yeah, never mind. That's it's good. Never mind. Sorry. Menu data add a slicer, not a filter.
+
+00:56:53.000 --> 00:56:58.000
+Tina Marie: Did you do that? Yeah, okay. Inside this.
+
+00:56:57.000 --> 00:56:59.000
+Michael Fujinaka: Number one.
+
+00:56:58.000 --> 00:57:08.000
+Tina Marie: Choose date range, keep the pre-filled a 1 through S. Column. Cm, email, one drag the little gray slicer box to an empty spot.
+
+00:57:08.000 --> 00:57:14.000
+Tina Marie: To the top left of the sheet is typical. But that's not empty.
+
+00:57:24.000 --> 00:57:31.000
+Tina Marie: Um. I would ask it a question. Hold on sideboards.
+
+00:57:31.000 --> 00:57:37.000
+Tina Marie: Drag the little bracelets to an empty spot top left of the sheet. How is top left of the sheet? Typical for.
+
+00:57:50.000 --> 00:57:52.000
+Michael Fujinaka: Okay, I'll play around with this.
+
+00:57:52.000 --> 00:57:53.000
+Tina Marie: Okay.
+
+00:57:53.000 --> 00:57:55.000
+Michael Fujinaka: I am motivated now.
+
+00:57:56.000 --> 00:58:03.000
+Tina Marie: So it's either gonna be a pivot table with a filter view.
+
+00:57:56.000 --> 00:57:58.000
+Michael Fujinaka: Huh!
+
+00:58:04.000 --> 00:58:13.000
+Tina Marie: Or a pivot table with a slicer. But play with the different ones to see what you get. I wish I had an example of.
+
+00:58:14.000 --> 00:58:29.000
+Tina Marie: One that has been created for me. I probably should have asked more questions about how it was done, but it was done, and it worked, and it was great, so I didn't ask. But basically, you know that that little filter icon that you saw in the slicer the 3.
+
+00:58:29.000 --> 00:58:34.000
+Tina Marie: It looks kind of like a hamburger menu, but almost like a filter. Like a funnel.
+
+00:58:36.000 --> 00:58:38.000
+Tina Marie: Do you know what I'm talking about? Fuji?
+
+00:58:37.000 --> 00:58:41.000
+Michael Fujinaka: Yeah, that's the that's the filter we create. Okay, yeah.
+
+00:58:41.000 --> 00:58:49.000
+Tina Marie: Right. So basically, what you should be able to do is the way that I've seen it is. There are those icons next to all of the columns.
+
+00:58:49.000 --> 00:58:53.000
+Tina Marie: So if you wanted to sort by case manager, you could do that.
+
+00:58:53.000 --> 00:58:54.000
+Michael Fujinaka: Okay.
+
+00:58:53.000 --> 00:58:58.000
+Tina Marie: And then by just clicking the button. And um.
+
+00:58:58.000 --> 00:59:04.000
+Tina Marie: If you can't get this done, I'll just go. Get with the lady that always makes it for me, and say.
+
+00:59:04.000 --> 00:59:07.000
+Tina Marie: Teach me your brilliance, so then I can teach you.
+
+00:59:09.000 --> 00:59:12.000
+Michael Fujinaka: Sounds good. I'll try. I'm gonna play around a little today.
+
+00:59:10.000 --> 00:59:16.000
+Tina Marie: Alright! Yeah, so remember, though.
+
+00:59:16.000 --> 00:59:23.000
+Tina Marie: Um. When we look at this, and they think that these things are tedious. The setup.
+
+00:59:23.000 --> 00:59:29.000
+Tina Marie: Uh that we're doing. Is, we're gonna do it once, and then really never have to do it again.
+
+00:59:29.000 --> 00:59:36.000
+Tina Marie: And it's going to make understanding the data so much better, but also presenting it. To your case. Managers.
+
+00:59:36.000 --> 00:59:47.000
+Tina Marie: Um, using it for training, understanding, using it to be able to. Acquire new people. So that's the one thing I didn't ask you. And I really want to know.
+
+00:59:47.000 --> 00:59:50.000
+Tina Marie: What did you do for acquisition last week?
+
+00:59:51.000 --> 00:59:57.000
+Michael Fujinaka: Um. I I did. Just. I made a few calls to.
+
+00:59:57.000 --> 01:00:04.000
+Michael Fujinaka: Well, the 1st one I did was acquisition, like I called that marketing company, and they sent me the 1st one. Finally.
+
+01:00:02.000 --> 01:00:06.000
+Tina Marie: Mhm. Oh, good!
+
+01:00:04.000 --> 01:00:25.000
+Michael Fujinaka: Um, and I now know the person. It's not the owner. The owner has what's called a scheduler, and all the referrals get routed through the scheduler, so the owner gave me the schedulers. Text. So I texted her. And then that's how I got a referral. So every week I'm gonna start texting her. Say, thank you for that referral. I'm actually gonna do it today. I said, thank you for that referral last week.
+
+01:00:25.000 --> 01:00:31.000
+Michael Fujinaka: Are there any law firms that want to talk to the doctor directly? I'll just keep bugging her essentially.
+
+01:00:30.000 --> 01:00:34.000
+Tina Marie: Also. Can you send her some food, something.
+
+01:00:33.000 --> 01:00:35.000
+Michael Fujinaka: Oh, yeah, yeah, I'll do that right now.
+
+01:00:34.000 --> 01:00:40.000
+Tina Marie: Send the people that send you business the things and just appreciate them.
+
+01:00:35.000 --> 01:00:42.000
+Michael Fujinaka: That's a great. Okay.
+
+01:00:40.000 --> 01:00:49.000
+Tina Marie: Especially those those middle people super underappreciated. I know. What are you gonna do besides that to increase because.
+
+01:00:45.000 --> 01:00:46.000
+Michael Fujinaka: Yep.
+
+01:00:49.000 --> 01:00:53.000
+Tina Marie: If you only got 69 referrals last week, we're still trending down.
+
+01:00:53.000 --> 01:00:54.000
+Michael Fujinaka: Yeah.
+
+01:00:54.000 --> 01:01:02.000
+Tina Marie: So you really got to put some fire on that some gasoline on that. Buyer. Um. What will you do this week?
+
+01:01:04.000 --> 01:01:10.000
+Michael Fujinaka: Um, yeah, send her lunch. I like that idea. And um.
+
+01:01:15.000 --> 01:01:24.000
+Michael Fujinaka: Oh, I need to finish um. I got really good responses from the Stanley Cup orders. I sent 6 Stanley cups out to.
+
+01:01:24.000 --> 01:01:27.000
+Michael Fujinaka: Procare um.
+
+01:01:25.000 --> 01:01:27.000
+Tina Marie: Lot of other. Oh.
+
+01:01:27.000 --> 01:01:38.000
+Michael Fujinaka: It's like each of the case. Managers messaged me last week and said, Thank you. So at least I'm top of their mind. So I was. Gonna I need to finish that for my biggest referral sources. Now, the case manager at the biggest firms.
+
+01:01:38.000 --> 01:01:49.000
+Michael Fujinaka: And finish the uh finish the order. I I just I have to manually enter each order, because for some reason Paul's VPN. Isn't is still detecting that he's in a foreign country. So.
+
+01:01:50.000 --> 01:01:52.000
+Tina Marie: What VPN, are you using.
+
+01:01:51.000 --> 01:01:54.000
+Michael Fujinaka: I don't know what he's using. I should find out.
+
+01:01:53.000 --> 01:02:01.000
+Tina Marie: Hey? Yes, so. If there are issues and they don't problem, solve it immediately. Then you put your brain on it.
+
+01:02:02.000 --> 01:02:02.000
+Michael Fujinaka: Okay.
+
+01:02:03.000 --> 01:02:18.000
+Tina Marie: Okay. So Paul, Paul can solve lots of things if you can let him do it. If he can't immediately, just step in. Don't let them keep going there. So at least you know that they're. It might not be in his wheelhouse to even process those types of things.
+
+01:02:17.000 --> 01:02:19.000
+Michael Fujinaka: Yeah.
+
+01:02:18.000 --> 01:02:28.000
+Tina Marie: Or understand how important it is so, and he does have a large scope. So we don't want to bog down what he's really good at, and fluid at.
+
+01:02:28.000 --> 01:02:30.000
+Michael Fujinaka: Uh-huh.
+
+01:02:28.000 --> 01:02:33.000
+Tina Marie: With the things that he's not fluid at. Especially because you're so good and fast at that.
+
+01:02:33.000 --> 01:02:44.000
+Tina Marie: One thing the other thing I would really like you to do is use um some of your time, especially right after we. So I know you're going to get back to the reporting. And you'll be able to do that because we started a chat session.
+
+01:02:45.000 --> 01:02:58.000
+Tina Marie: What you need to do to move this needle forward is, get a list together of all the things that you can just brain dump. Fuji. To get more business coming. Who are the people you haven't talked to? What are the lead people.
+
+01:02:58.000 --> 01:03:11.000
+Tina Marie: Um. So you just discovered that there's a system to this particular one lead system. I want you to write it down. Figure out the system for each of the vendors, the lead vendors, the brokers right.
+
+01:03:10.000 --> 01:03:12.000
+Michael Fujinaka: Okay, yeah, I could do that.
+
+01:03:12.000 --> 01:03:17.000
+Tina Marie: And work, the system. You are trending down.
+
+01:03:17.000 --> 01:03:21.000
+Tina Marie: You. You have to be aggressive about this right now.
+
+01:03:20.000 --> 01:03:22.000
+Michael Fujinaka: Okay.
+
+01:03:21.000 --> 01:03:29.000
+Tina Marie: We don't know why you're trending down, but what we do know. Is that whether it would course correct on its own.
+
+01:03:29.000 --> 01:03:39.000
+Tina Marie: Or not, it will all be better with your tenacious and consistent. Effort. What we don't know is, will it course correct?
+
+01:03:36.000 --> 01:03:37.000
+Michael Fujinaka: Yeah.
+
+01:03:39.000 --> 01:03:46.000
+Tina Marie: At all or in time, so you can't assume. That this is temporary or seasonal, or anything else.
+
+01:03:46.000 --> 01:03:55.000
+Tina Marie: You really, really, really have to get at this. Okay, I think everything's gonna be fine. But my point is is that whatever it will be.
+
+01:03:51.000 --> 01:03:52.000
+Michael Fujinaka: I agree.
+
+01:03:55.000 --> 01:04:00.000
+Tina Marie: It would be exponentially better. Exponentially better, could be barely saving you.
+
+01:04:00.000 --> 01:04:08.000
+Tina Marie: Or could be putting you up another 7 figures in one year, just because you got some. Amazing traction, either way.
+
+01:04:08.000 --> 01:04:16.000
+Tina Marie: This is what you really have to focus on the systems, and everything else is coming together, really? Well, but you gotta go. Drive, that.
+
+01:04:16.000 --> 01:04:17.000
+Michael Fujinaka: Got it.
+
+01:04:17.000 --> 01:04:19.000
+Tina Marie: Okay. Any questions.
+
+01:04:18.000 --> 01:04:20.000
+Michael Fujinaka: Nope, that's all.
+
+01:04:20.000 --> 01:04:25.000
+Tina Marie: All right. I'll be looking for a very good report next week. Fuji.
+
+01:04:25.000 --> 01:04:27.000
+Michael Fujinaka: Sounds good.
+
+01:04:26.000 --> 01:04:28.000
+Tina Marie: Okay. Talk to you soon.
+

@@ -1,0 +1,21 @@
+env_file:
+  - ../secondbrain_api_keys.env
+
+integrations:
+  notion_relay:
+    type: http
+    base_url: "http://host.docker.internal:4000/relay/notion/page"
+    headers:
+      Content-Type: "application/json"
+
+steps:
+  - id: create-notion-page
+    uses: notion_relay
+    args:
+      body:
+        databaseId: "{{ env.NOTION_SECONDBRAIN_TASKS_DB_ID }}"
+        title: "{{ outputs.generatedTitle }}"
+        props:
+          Status:
+            select:
+              name: "Inbox"

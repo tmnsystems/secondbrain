@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  app-canary:
+    image: ${CANARY_IMAGE_TAG}
+    environment:
+      - NODE_ENV=production
+      - LOG_LEVEL=${LOG_LEVEL:-debug}
+      - INSTANCE_TYPE=canary
+    ports:
+      - "127.0.0.1:8083:3000"
+    healthcheck:
+      test: ["CMD", "wget", "-O-", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.app-canary.rule=Host(`${DOMAIN:-api.secondbrain.ai}`)"
+      - "traefik.http.routers.app-canary.entrypoints=web,websecure"
+      - "traefik.http.routers.app-canary.tls=true"
+      - "traefik.http.services.app-canary.loadbalancer.server.port=3000"
+      - "traefik.http.middlewares.canary-weight.canary.weight=${CANARY_WEIGHT:-10}"
+      - "traefik.http.routers.app-canary.middlewares=canary-weight"
+    env_file:
+      - .env.canary
+    networks:
+      - app_network
+      - traefik_network
+    depends_on:
+      - redis
+      - postgres
+
+networks:
+  app_network:
+  traefik_network:

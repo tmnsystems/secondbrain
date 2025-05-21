@@ -1,0 +1,152 @@
+00:00:00 - Dan Ryan (danddcompany.com)
+or emails over 10 days.
+00:00:02 - Bobby (Basis)
+So I was going to load her up. All right.
+00:00:06 - Eric
+That's awesome.
+00:00:08 - Bobby (Basis)
+And that one, do we have individual location pages for Sweet Law?
+00:00:13 - Dan Ryan (danddcompany.com)
+We do.
+00:00:14 - Bobby (Basis)
+All right.
+00:00:15 - Dan Ryan (danddcompany.com)
+talk to Mark and we're going to change the focus keyword on them so that it's brand location. Sweet Law Missouri for the Missouri page. Then he wants to add like city specific pages. So like there's like it's like a flippity block, right? So you have, he already has like Tucson, but he doesn't have an Arizona page. So we would add an Arizona page. And then similarly in like Missouri, there's a Missouri page, there's no city pages, but he wants to add city, two city pages to Missouri. So it's, but it's like a flip. up. So we're going to add city pages, others we're going to add a state page, but the idea is to cover each state from both sort of from both views. So like for California, he doesn't have a California page. So we would add a California page.
+00:01:18 - Bobby (Basis)
+Okay.
+00:01:20 - Dan Ryan (danddcompany.com)
+And then make the focus keyword brand location. So personal injury which he just wants to show up for the brand brand city brand location. Yeah, whether it's a city or state.
+00:01:39 - Bobby (Basis)
+Okay. All right. And so do we so I guess we just have to determine which ones are missing and then active core fill in the blanks and then change the focus keyword. All right. Cool. All right. Um, figure out why Lidify isn't updating correctly determine why all of the old data is no longer there for GMB leads.
+00:02:11 - Dan Ryan (danddcompany.com)
+Uh, I think Eric and I stumbled on something Friday, but then we didn't follow it all the way through, but we did find there was like a duplicative automation that was running that right at the tail end of it, like the end of the day. Right, Eric, you were like, wait, this is GMB.
+00:02:31 - Eric
+I was like, maybe that's the cause.
+00:02:35 - Dan Ryan (danddcompany.com)
+No, we haven't figured it out. Yeah, we haven't stumbled onto it.
+00:02:39 - Eric
+Yeah, I don't want to say no, but I don't think because it was, I don't know. We didn't fit. Yeah.
+00:02:45 - Dan Ryan (danddcompany.com)
+Yeah, so we might have found a breadcrumb shooting it. All right. Meanwhile, a hundred percent on the duplicative automation that we didn't know about.
+00:03:00 - Bobby (Basis)
+Oh, go ahead and check it There you go. Let me add it and then go out.
+00:03:03 - Eric
+Check it off.
+00:03:05 - Bobby (Basis)
+I have done that on my own to do list before.
+00:03:10 - Dan Ryan (danddcompany.com)
+Good job, self.
+00:03:12 - Eric
+Yep, exactly.
+00:03:14 - Bobby (Basis)
+Just seeing that right through.
+00:03:17 - Dan Ryan (danddcompany.com)
+Looks good. It's meaningful.
+00:03:20 - Bobby (Basis)
+Mirror-valiance keyword strategy.
+00:03:24 - Dan Ryan (danddcompany.com)
+I cannot get, I just have an email to Google rep this morning. There's just something wrong with the account. I don't know what's wrong. They're telling me that it's not approved. It's approved. I'm going to credit cards not good. card's good. But I've dug through my emails and I emailed this Google rep that emailed me. we're going to help you with your account. was like, great. Help me with this account. Let's see, does that work?
+00:03:50 - Bobby (Basis)
+Yeah.
+00:03:51 - Dan Ryan (danddcompany.com)
+But yeah, accounts the card. can't run cards at all. Basis or D&D. Crazy.
+00:04:00 - Eric
+And I'm paying the house.
+00:04:02 - Bobby (Basis)
+All right. Implement the strategy that we're sent to us.
+00:04:08 - Dan Ryan (danddcompany.com)
+So what's her name? forget her name. Sent me all the categories for the things. I think I just sent it to Stacey, where I'm about to. This flag might not be sent yet. Abish, I can DJ to build all the category pages based off that templates that they have. And then Eric and I, this is the new task. We need to figure out how to back-categorize accident posts, which I'm guessing is a thing, but I'm not sure.
+00:04:50 - Bobby (Basis)
+Back-categorize, which post?
+00:04:53 - Dan Ryan (danddcompany.com)
+The accident news posts.
+00:04:57 - Bobby (Basis)
+OK.
+00:04:59 - Eric
+Got it. And. How, uh, what are the categories going to be? Just like, no, yeah, it's like bike accident pedestrian accident. Okay. So, so we'll, okay. We'll need to go through them individually then to see what kind of topic it is.
+00:05:15 - Dan Ryan (danddcompany.com)
+Yeah, there's like 20,000. That's not happening. We're going to, we're going to do some sort of is keyword in title, is keyword in blog, but like we got to have to figure out a different way. Gotcha. Okay. There might be tags like I haven't dug that deeply into it, but. Yeah. So this was always the part that I was like, how are we going to do that? We can't be the first to do this.
+00:05:41 - Bobby (Basis)
+Then again, have them before. So your chat GPD says, yeah, we can be the first people to figure it out.
+00:05:54 - Dan Ryan (danddcompany.com)
+We can probably like get the post IDs and then get, like, I'm sure there's a way. to do it programmatically that it's not, you know, click, click, click, click that would take then we had to train the blog writers to use them which is identical.
+00:06:13 - Eric
+Should we make a list of categories or do we already have those?
+00:06:17 - Dan Ryan (danddcompany.com)
+No, I got those. Those guys sent them over. I've got them right here. I'm actually adding the categories to the categories of WordPress and then I'm going to send it to Stacey's to those guys. I've changed a couple of the names because they're not quite written.
+00:06:32 - Eric
+To be more, we add more SEO. Yeah, like hit run.
+00:06:37 - Dan Ryan (danddcompany.com)
+Yeah, hit and run. Yeah, hit runs not a good one.
+00:06:41 - Eric
+Okay, awesome. Awesome. Then they'll be in there.
+00:06:45 - Bobby (Basis)
+All right. Okay, so we've got those two for Sweet Law.
+00:06:50 - Dan Ryan (danddcompany.com)
+Anything else this week for Sweet Law?
+00:06:59 - Bobby (Basis)
+All right. right. I'll quiet on the western front with Empire.
+00:07:02 - Dan Ryan (danddcompany.com)
+Well, quiet, all right church, church miles.
+00:07:08 - Bobby (Basis)
+Um, strong marriage now. think it's just waiting to get built, um, and brain and new. So other than, yeah, that sequence, I might have figured out.
+00:07:21 - Dan Ryan (danddcompany.com)
+Well, yeah, so I'm going to do this sequence and then having chat GPT. I got to confirm chat GPT is right. But I asked chat GPT, I want to make a private podcast, blah, And it kicked out the name of some company I've never heard of. And it's specifically said for delivering lead magnets.
+00:07:40 - Tina Marie (profitdriversinc.com)
+I was like, what?
+00:07:43 - Dan Ryan (danddcompany.com)
+Um, so I got to go find that in my chat.
+00:07:46 - Bobby (Basis)
+You put my many chat GPTs. try to separate them. Yeah. ask chat GPT.
+00:07:52 - Dan Ryan (danddcompany.com)
+Hey, you remember I do that all the time about the thing we're talking about. Yes, matter of fact. It spit one out, and I was like, oh, I got to go.
+00:08:02 - Bobby (Basis)
+I know a bunch of people are going to say that they have this problem.
+00:08:08 - Dan Ryan (danddcompany.com)
+But then it's going to be, there's three things. This is what I wrote the email sequence around. It's got to be one of three things, software tech. How do I get it from here to there? Software, like, how do I build a playlist or hardware? don't have headphones. It's got to be one of those three things. just don't know. Is it going to be all hardware? it going to be hardware in this? Look at idea. If you can't use the thing, you're not going to buy the thing.
+00:08:40 - Eric
+That's right.
+00:08:41 - Bobby (Basis)
+All right. OK, cool. So that sequence will be loaded. So hopefully this time next week, we've got some, someone has responded to us to tell us how.
+00:08:54 - Dan Ryan (danddcompany.com)
+Yeah. Hopefully, yeah. I mean, yeah, people are and it's only going to people that say they've done. Right. So they're. It's like that's going to next year. They're all right, they're all Funnily enough, I got a testimony about Jodie's beats over the weekend.
+00:09:08 - Bobby (Basis)
+Oh, nice.
+00:09:09 - Dan Ryan (danddcompany.com)
+Someone just texted me, they're like, I used those beats you sent me, when did I send them to you?
+00:09:14 - Eric
+Like, I even remember doing that.
+00:09:16 - Dan Ryan (danddcompany.com)
+They work. Yes, they do. So we don't all get more.
+00:09:21 - Bobby (Basis)
+You got that down?
+00:09:23 - Dan Ryan (danddcompany.com)
+Oh, nice. Yeah, go to brainandnew.com.
+00:09:30 - Bobby (Basis)
+All right. Yeah, cool. Anything else for this week?
+00:09:43 - Dan Ryan (danddcompany.com)
+I got to get Eric. got the same. I need you to send the color coding thing to the dudes for the family.
+00:09:51 - Bobby (Basis)
+But I've mentioned that then, to the super point, you'll be like done.
+00:09:58 - Eric
+Yeah. Yes, sir.
+00:10:00 - Bobby (Basis)
+So is that task I'm hearing?
+00:10:02 - Dan Ryan (danddcompany.com)
+Yeah, I'm going to send them basically, what do they call it, design book?
+00:10:09 - Eric
+Yeah, yeah, it's like a style book.
+00:10:12 - Dan Ryan (danddcompany.com)
+We need like a style book for bamply.
+00:10:19 - Bobby (Basis)
+So who's that go? Is that? So would that go to Greg?
+00:10:23 - Dan Ryan (danddcompany.com)
+No, Eric's going to, it's in, I'll send him what they asked for. It goes to, I don't remember, there's a whole manager thingy.
+00:10:33 - Bobby (Basis)
+All right, cool. All right, all right, we'll get those in. I think that's it then. Hey. All right, cool. Have a good week, everyone.
+00:10:48 - Eric
+Thank you.
+00:10:48 - Bobby (Basis)
+Thank you.
+00:10:49 - Dan Ryan (danddcompany.com)
+All right. Yes. Thank you.

@@ -1,0 +1,482 @@
+00:00:00 - Tina Marie (profitdriversinc.com)
+you there? Give me a date.
+00:00:07 - mark
+Yeah, I'm here. What? I don't know why the update is not in my calendar.
+00:00:21 - Tina Marie (profitdriversinc.com)
+It is for me when I look at it. Let me see. Yeah, says A6. Oh, there's another line.
+00:00:32 - mark
+Okay.
+00:00:34 - Tina Marie (profitdriversinc.com)
+That's my fault.
+00:00:35 - mark
+I'm so sorry.
+00:00:38 - Tina Marie (profitdriversinc.com)
+That is my fault. I'm like. All right, that's an all events. Don't need to send it.
+00:00:46 - mark
+Let me switch, which is weird.
+00:00:50 - Tina Marie (profitdriversinc.com)
+Let me just text it down. There it is. I saw your numbers. How many do we have out?
+00:01:20 - mark
+Five.
+00:01:23 - Tina Marie (profitdriversinc.com)
+Alright, good morning, Dan. You have terrible audio, what did you say?
+00:01:34 - mark
+Yeah, I heard something of something.
+00:01:41 - Tina Marie (profitdriversinc.com)
+You can't blame it on me when both of us can't hear you.
+00:01:45 - Dan Ryan (danddcompany.com)
+Try to be nice.
+00:01:47 - mark
+Why is her now?
+00:01:52 - Tina Marie (profitdriversinc.com)
+Five out. Questions and killing it right now.
+00:01:59 - mark
+Yeah, little disappointing. Arizona, but I'm also not hugely shocked because of how insanely hot it is there.
+00:02:07 - Tina Marie (profitdriversinc.com)
+Oh, yeah.
+00:02:08 - mark
+Um, so just the number of people on the road is just down. Um, but with school starting, I expect that number to get back up pretty quickly.
+00:02:17 - Tina Marie (profitdriversinc.com)
+Okay. Let's see. Felipe monkey.
+00:02:21 - mark
+monkey's back should be, which is good.
+00:02:24 - Tina Marie (profitdriversinc.com)
+Yeah. Monkey's top dog so far. Yeah, and, uh, God bless Fabian.
+00:02:34 - mark
+That's good and, uh, blue steel quantifier, okay. One through pretty show.
+00:02:43 - Tina Marie (profitdriversinc.com)
+Quantifier what quantifies blue steel, so their cost occurs.
+00:02:49 - mark
+Oh, yeah.
+00:02:50 - Tina Marie (profitdriversinc.com)
+Really good. They didn't exist until what?
+00:03:04 - Dan Ryan (danddcompany.com)
+H2.
+00:03:06 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:03:07 - mark
+Yeah.
+00:03:09 - Tina Marie (profitdriversinc.com)
+Well, but this year and we started last year.
+00:03:14 - mark
+Yeah. More than last year. They were just trying to generate tough cases and that hasn't gone great. Well, there are PPCs since we've been working. Yeah. When did the PPC start? Well, their numbers started coming up so they don't know. feel like it's been four months. Maybe longer.
+00:03:47 - Tina Marie (profitdriversinc.com)
+I'd have to honestly go back and look for It's been this year that's just been a massive change. Yeah.
+00:04:01 - mark
+But Monkey's been really pushing the California, which is good, out of their 18th tenor in California, so that's, I think, a large part of the jump there.
+00:04:15 - Tina Marie (profitdriversinc.com)
+Do we have, in all of our Lidefar reports, one that shows us the cost per bead on average or a cost per retainer by source?
+00:04:30 - mark
+No, we had it at one point where it was game from the system by accounting, but count because it was taking too much time, so we don't.
+00:04:40 - Tina Marie (profitdriversinc.com)
+What's, I mean, what did they have to do for it to go into Lidefar? We only needed total numbers monthly.
+00:04:53 - mark
+So the numbers I can, they'd have to go in and put in the individual cost per, which became problematic. products for them because of the multiple cost per lead for source but with all the different states it was coming from a lot of different places I mean I would really like to have that quantified because that is a huge number that we need to have and you should have somebody who can do it yeah I mean every month we're looking at what our general cost is like based across the whole platform but yeah but that's that's not enough I mean that we've gone this wrap before we've done the math we've seen how different it is across sources and we've seen how much it can jump across sources so for it to be a conversation of it's too hard it is blowing my mind right now yeah I understand what you're saying and
+00:06:01 - Dan Ryan (danddcompany.com)
+So what the process is, there's like valiant, let's say, or monkeys in three states, they're getting three different payments from three different entities.
+00:06:12 - mark
+The monkey is the worst one to look at because we just get one for monkey. Let's talk about Walker, right? We're going do the worst one to look at for real.
+00:06:23 - Tina Marie (profitdriversinc.com)
+Okay.
+00:06:23 - mark
+So the worst monkey is we get one invoice that's just paid by California. There's also a ton of return leads on that one. So well, I could tell you for monkey overall, I couldn't tell you state by state. I couldn't easily tell you state by state because I'd have to go back through each and every single lead by what state it came through, which for whatever reason isn't necessarily getting pulled over, then go back and do that against the invoices we're getting. which are semi-accurate and go from there.
+00:07:09 - Dan Ryan (danddcompany.com)
+Right, what you need is just those, I mean, if it's in Ritify, can be done, right? So you need to get that total, the total spend for the source. You could, well, I don't know if Tina meant this, right? You're saying, hey, we actually spent $20,000 specifically in Arizona, and we spent $60,000 specifically in California. If you wanted the true cost per source per state, true, it would be that would be the division you would do, you would do 10 into 60, 5 into 20, and then you'd a blended, the blended overall cost per source of all states. Yeah, which would be even if it's not 100% accurate, it's still better than. I don't know. I don't think what if I does that because you would have to create some sources essentially you would have to create Walker the a walker a Z walker whatever because what it does I believe is source that would be that difficult to do the data it would give us no I'm just saying if there's not there it's it's more complicated implementation than you need we need to ask Josh hey can you combine sources to get to output that last variable so that you could say hey they're blended their average cost per retainer is three divided by so let me run that by Josh because yeah yeah that's built in but that's source it's not yeah yeah And ultimately, you would want to use that, so it would be like, if they just, I don't know if you want Isaac to know this, don't know why you wouldn't care.
+00:09:08 - mark
+I would prefer the fewest number of people know this, because this is as close to secret stuff as you get, quite frankly, and I would really, really prefer the fewest number.
+00:09:17 - Dan Ryan (danddcompany.com)
+I know that this is why we have code names, because Mark does not want people to be able to leave and say, is happening.
+00:09:23 - Tina Marie (profitdriversinc.com)
+Right.
+00:09:24 - Dan Ryan (danddcompany.com)
+So then, I'll ask Josh if there's a way to API that in from like a G sheet to the bookkeeping would go fill in the blanks and then it would suck it in. Now, then the other question is, they would have to enter this when, right? So they'd have to enter it up to the beginning. That's the other thing. It's not going to be totally accurate necessarily. Do you pre pay? You pre pay everyone? almost pre-paid right?
+00:10:02 - mark
+Most of this is pre-paid.
+00:10:03 - Dan Ryan (danddcompany.com)
+Okay, so it works in that respect so they could populate it.
+00:10:09 - mark
+No, it makes it worse because if you look at the end of the month, like, you're getting 200 grand.
+00:10:17 - Dan Ryan (danddcompany.com)
+Yeah, you'd have to then do another cost. You'd have to say this amount of money is for this period of time. I don't think what of us is to do that.
+00:10:30 - mark
+But working it even in other ways, you know a cost per lead for some of these. Some of these are just a monthly fee. The issue with that is you couldn't just tie it to the number of leads because of the amount of returns.
+00:10:42 - Tina Marie (profitdriversinc.com)
+So what I think that we would need to do and I'm going to restate that this is a massive metric in terms of how your business is going and it needs to be a track. So let's just figure out and agree that we're going. to figure out the best system for it and that it's going to be work, but it's going to be worth it. A combination of whatever kind of data your financial team can give you, accounting, with what kind of reports we could export and litify, dump into a spreadsheet. I'll do it. If that's what it takes, I don't care.
+00:11:23 - Dan Ryan (danddcompany.com)
+And then we can use AI to help us. What? All right. Sweet.
+00:11:29 - Tina Marie (profitdriversinc.com)
+I'm going to forget. I'm going to forget. Let me finish. Go use AI to to figure out some calculations and help us improve the process. So we can figure out some kind of data dump process whether it's using a combination of an export, which I think is what we would have to do. Export reports from accounting, export reports from solidify, potentially tweak the reports that we get from either source into a spreadsheet where we can then create some additional formulas and then, if necessary or helpful, get AI in there to help us make some calculations, but we've got to be tracking this.
+00:12:29 - mark
+I think I can give you a rough idea at the end of every month because once everything gets into the system, which takes like a week past the end of the month, right, so like obviously of all the July, August isn't done yet. I'll be able to pull that fairly easily. At least it's a flashlight in a dark alley, right? It won't show us everything that you want to see, but at least like kind of points in the right direction.
+00:13:03 - Tina Marie (profitdriversinc.com)
+All right, so I'm going to mid-month, or Monday the 14th. How do I do this? I need to set up a reminder and make sure that that happens. Actually, you know what, I'm steezy. you Okay, so what was your process be, how do we go from that's a pain in the butt and can't do it to you you could probably do it once a month because once I'm on my idea of it is what we came to but it's not exact so it's here's at least a flashlight but it's not it's not a report and litify that we can really run that's the difference yeah but to be clear that's never a prerequisite for me I know we don't like doing all the data and the work but we also have very clearly received the benefits of doing that. And including, you know, it keeping you from not cutting off Washington. Can you imagine where you'd be right now if you'd actually like quit Washington, like you were planning on?
+00:15:12 - mark
+Those are headaches.
+00:15:15 - Tina Marie (profitdriversinc.com)
+You have 26 retainers.
+00:15:16 - mark
+Is that really the answer? Maybe.
+00:15:20 - Tina Marie (profitdriversinc.com)
+Okay.
+00:15:21 - mark
+Well, it's good. It's good. Let just say it keeps her in those cases, and we're trying to make more and more providers, which should make things better up there.
+00:15:32 - Tina Marie (profitdriversinc.com)
+I think you were just stuck his head back in here today. Less headaches. This is this is the business that you have. I'm I'm. I don't know what to even do with that. Are you are you. I mean, do you want to quantify that? Was that just flipping and disregarded or.
+00:15:55 - mark
+Flipping and disregarded me just being annoyed by the bark.
+00:16:00 - Tina Marie (profitdriversinc.com)
+Okay.
+00:16:01 - mark
+So we got a response to the New Mexico one in six days, which is insanely fast. So we finally submitted on Samantha's New Mexico bar complaint.
+00:16:14 - Tina Marie (profitdriversinc.com)
+Oh.
+00:16:15 - mark
+And the New Mexico bar, like, responded within six days, which is. Stockingly quick. Um, but they, they just missed it.
+00:16:24 - Tina Marie (profitdriversinc.com)
+No worries. No, it was a first letter.
+00:16:28 - mark
+They feel like, Hey, if you missed another text message, like, where are you opening up this one? It's gonna be bad. But I think part of the reason they do that is a copy gets into the client. So it looked like they're taking it more seriously. Got it. Got it. I'm annoyed at the entire situation. I'm still waiting for the Washington one to come back. That one's stressing me out.
+00:16:53 - Tina Marie (profitdriversinc.com)
+And I don't remember hearing about these. remember the Nevada death case one, but what is the Washington.
+00:17:00 - mark
+Um, Sam screwed up on a case we got some doubt on and we didn't send them a check that we had. I mean, client wasn't harmed overall, but they had sent us one letter like November and she just missed it for whatever reason. They never called in every mail and then everything else and they had their client do a bar complaint rather than just, you know, picking up the phone and calling us or emailing us or anything else.
+00:17:24 - Tina Marie (profitdriversinc.com)
+So, um, secondly, we did something wrong, so I don't want to blame them completely because we are in the wrong, but it was really small, did something.
+00:17:35 - mark
+Alright. we changed our systems, changed our processes to make sure that doesn't happen again, which good.
+00:17:41 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:17:44 - mark
+And then we got another one to review over the weekend from a client from 2020 who asked for a couple of their file in 2022 and left the Yelp review saying that I stole their money. Wow, I think we're just going to start I'm aside a budget to start doing these people, not because I think I'm going to get any money from them, but so I can always get injunctive relief to send the Yelp or Google to try to make them take down the review. She's a large waste of money in time, but I'm getting a little pissed off.
+00:18:18 - Tina Marie (profitdriversinc.com)
+Quantify, like, how much money are you talking about needing to invest in that?
+00:18:26 - mark
+Probably five to eight grand for each time for lawsuits. I mean, it's cheaper to try to probably hire the companies to get it taken down, which may be a part this, I think, as well as I want to see what Yelp or Google's going to do because there may actually be a class action lawsuit against them. The problem is professionals, like doctors and lawyers, cannot accurately respond to these reviews. Due to either in our case, term in client privilege or patient time for doctors, and it's incredibly Pardon some and there's not a mechanism for us to dispute the validity of these reviews in a fair way of say a restaurant or a plumber So we want to actually go down that path to show that they don't have a good mechanism to do this and then go from there That's the other this question I think Yeah, okay, so now I understand your stress.
+00:19:33 - Tina Marie (profitdriversinc.com)
+You should probably just start by taking and temperature calls like When we get on the calls, I know what you can handle that day No, it's good.
+00:19:45 - mark
+mean, I'm trying to push the team to get over a hundred Incidences this month, and I think even where we've been for them. It's possible. Although I'm not Spending anything more than what I've already spent on the marketing, so It may or may not slow down. just want to make sure we stick within our budget. So yeah, but we'll leave through the air so it should happen.
+00:20:10 - Tina Marie (profitdriversinc.com)
+Yeah, that's probably possible. We're also going to Labor Day, but we're at right now. It's right there. That'd be fun.
+00:20:18 - mark
+I would not be bad. No, so we'll push that and they'll be excited for that.
+00:20:24 - Tina Marie (profitdriversinc.com)
+Where's Ronin?
+00:20:25 - mark
+Today Ronin should be in the office. Ronin got his balls chopped off, so he's not allowed to go anywhere. baby! Yeah, so hopefully he gets his cone off, but yeah.
+00:20:36 - Tina Marie (profitdriversinc.com)
+So Ronin's been heavily medicated the last week. Oh, I think you should just go like snuggle with him for a while later, not what I think.
+00:20:49 - mark
+Yeah, no, we got a lot of work we got to do here, but that's okay. Last week of the month, so teams need a little bit more work to hit their goals, but they're we were roughly on track, so.
+00:21:00 - Tina Marie (profitdriversinc.com)
+So, just a little perspective, harder you drive and the bigger you get, the more these types of things you're going to have. perspective is everything and taking a deep breath and just that's the cost of business. Just tell yourself that because you clearly stressed out, the energy is very different.
+00:21:26 - mark
+It pisses me off when people accuse me of stealing from them when I know how hard we do.
+00:21:31 - Tina Marie (profitdriversinc.com)
+I get it. Yeah. Yes.
+00:21:34 - Dan Ryan (danddcompany.com)
+So, they're stealing my jewelry right now, Mark.
+00:21:38 - mark
+How do you leave that? Your jewelry doesn't have a lot of value.
+00:21:42 - Tina Marie (profitdriversinc.com)
+That's a good point.
+00:21:43 - mark
+What does it say?
+00:21:44 - Dan Ryan (danddcompany.com)
+Boy.
+00:21:45 - mark
+That's a good point.
+00:21:46 - Dan Ryan (danddcompany.com)
+Yeah.
+00:21:47 - mark
+Keep standing in the car and then I'll be happy.
+00:21:50 - Dan Ryan (danddcompany.com)
+This is true.
+00:21:52 - mark
+This is I'm to give my good beer.
+00:21:54 - Dan Ryan (danddcompany.com)
+I'm going to get guitar in my sights.
+00:21:57 - Tina Marie (profitdriversinc.com)
+Guitar, golf cart, and beach time. and Disney movies and her kids and she'll be okay. Oh my god, I'm gonna cry right now.
+00:22:07 - mark
+Yeah. So like, I get it. I know how to, yeah, anyway.
+00:22:11 - Tina Marie (profitdriversinc.com)
+Okay, fine.
+00:22:13 - mark
+I just wasn't prepared for grumpy mark. My kind department is constantly complaining nonstop and they drive me nuts, but there is only like two and a half of that. So given the size we are, it's actually fairly impressive how much they get done for two and a half people. Okay, we're doing the lean distributions.
+00:22:37 - Tina Marie (profitdriversinc.com)
+Is there anything that you can do to help that out because burnouts are real thing and what happens if you lose somebody?
+00:22:44 - mark
+We're boning some out decently and they're not overwhelmed yet. So the issue is it's not a money making area. It's working. So I hesitate to add more resources to it when it's just had.
+00:23:01 - Tina Marie (profitdriversinc.com)
+Let's let's let's talk about this. It may not be money generating, but it's money protecting and money managing.
+00:23:08 - mark
+Yes.
+00:23:09 - Tina Marie (profitdriversinc.com)
+Which is valuable. And if you think that it's not a risk, but they're complaining all the time, I would say you.
+00:23:16 - mark
+It's the person. It's the person who leads it just complains all the time. She's just a negative person.
+00:23:22 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:23:23 - mark
+It's just who it is.
+00:23:24 - Tina Marie (profitdriversinc.com)
+I need you to be more clear with your words and saying that the planning department is complaining than eight.
+00:23:30 - mark
+My CFO is a pain in the STD with and if she wasn't so good at her actual job and I wasn't worried in any way she performed that any money was getting stolen or something was happening, she would not be here.
+00:23:41 - Tina Marie (profitdriversinc.com)
+Okay.
+00:23:42 - mark
+So that's.
+00:23:43 - Tina Marie (profitdriversinc.com)
+It's trade off that I make. Okay. Okay. Okay. Thank you for that full perspective. As long as you you know what you're doing and it's not very merry to go out of their way to with me from time to time, which is great.
+00:24:00 - mark
+Yeah, if they need doggies, um, no, I think they just make some help to do that.
+00:24:08 - Tina Marie (profitdriversinc.com)
+All right. Um, yeah. So when you get worked out and stressed out like this, do you go do anything physical, like walk or just anything to get this audio body?
+00:24:21 - mark
+Yeah, they're walking like five to eight miles a day. So that's. Yeah. Um, circles around the neighborhood or on the office. It's only like five to nine miles.
+00:24:36 - Tina Marie (profitdriversinc.com)
+It's not that bad. It's not that bad. Mark, what does our day look like? It's been a while since we've looked at that.
+00:24:45 - mark
+Just.
+00:24:47 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:24:48 - mark
+Yeah.
+00:24:48 - Dan Ryan (danddcompany.com)
+There's of steps.
+00:24:51 - mark
+Look, if I'm going to be on the phone, I might as well be out, like walking and be on the phone and just sitting there.
+00:24:55 - Tina Marie (profitdriversinc.com)
+I agree. It's so much better for you physically and mentally, but tell me about.
+00:25:00 - mark
+your day. Still get up super early, although 5'3", instead of 5 am. Get up. Usually, now I'm walking for the first hour, hour and a half, because it's nice and quiet. So I can think about whatever I need to get done for the day, do my meditation. Then, around 7", start getting ready for the day, so I'll jump on the computer, handle whatever I need to handle. I can go shower, get ready for work, be in the office before 8", generally speaking. During the day, depends on which day, but business stuff, I guess for lack of better term. lot more meetings in the evenings and on weekends, so like the next 8 weeks is straight, like there's something every weekend, so just a lot more events. But if I go really late or too hard the night before, instead of trying to force myself to wake up early, I might sleep until 7, so I'm not burning myself out as much. So it's a little more doable, and let's put myself through the gratter quite frankly.
+00:26:15 - Tina Marie (profitdriversinc.com)
+I'm actually impressed, that's good.
+00:26:22 - mark
+Try and do more things, try to spend more time with people outside of, like, law.
+00:26:28 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:26:29 - mark
+So that's good. Like, was it not this past week in the week before I went to Vegas with friends, and I learned to play bakarot. That was fun.
+00:26:38 - Tina Marie (profitdriversinc.com)
+Oh, nice.
+00:26:40 - mark
+Yeah. And I won, so, extra nice.
+00:26:43 - Tina Marie (profitdriversinc.com)
+I love that. How often do you think you see people just, like, outside of work?
+00:26:51 - mark
+I'm trying at least once a week.
+00:26:53 - Tina Marie (profitdriversinc.com)
+Awesome.
+00:26:55 - mark
+So, yeah.
+00:26:58 - Dan Ryan (danddcompany.com)
+Did you go to Foo Fighters?
+00:26:59 - mark
+Where are supposed to go to Foo Fighters? I did not go to Foo Fighters. I did not end up going to that one.
+00:27:03 - Dan Ryan (danddcompany.com)
+Um, but I'm seeing Green Day instead.
+00:27:06 - Tina Marie (profitdriversinc.com)
+Oh, that should be pretty good.
+00:27:10 - Dan Ryan (danddcompany.com)
+seeing Jelly Roll as I understand his name. Well, standing.
+00:27:22 - mark
+Country artist.
+00:27:24 - Dan Ryan (danddcompany.com)
+No, no, I understand. But he's not that great. Okay.
+00:27:29 - mark
+He's okay.
+00:27:30 - Tina Marie (profitdriversinc.com)
+He's consumed Jelly Rolls that much.
+00:27:33 - mark
+Yeah. His exercises are free to rest and kind of amazing. Do you feel like he needs some inspiration?
+00:27:42 - Dan Ryan (danddcompany.com)
+No, I know. It's hilarious. It's like, I'm this loser, that guy, alcoholic. You're like, okay, you got me.
+00:27:49 - mark
+Yeah, yeah, fair enough. Oh my gosh. He's third. Like the rear view is smaller than the front windshield for a reason. Well, it's in front of you's brother. What's behind you? some poetic about a 49 year old man who's when he rooked you the year and whatever else. So, yeah.
+00:28:07 - Tina Marie (profitdriversinc.com)
+I feel like I just got a very book cover thing from Dan.
+00:28:13 - mark
+Yeah, that's fair.
+00:28:16 - Tina Marie (profitdriversinc.com)
+All right, well, that's.
+00:28:20 - mark
+And you know the question keeps coming up of like how far are we pushing this thing?
+00:28:26 - Tina Marie (profitdriversinc.com)
+What's next?
+00:28:27 - mark
+How many more states and I don't get an answer, but by the end of next month, I'll be sworn into both Colorado and New Mexico.
+00:28:37 - Dan Ryan (danddcompany.com)
+Obviously New Mexico is going, but. Questions coming from who? You.
+00:28:43 - mark
+Uh, no, asking like we had a. Okay. I was wondering. Really event like Saturday and so it's always like what else are you adding? else are you doing? Because. Got you. More lawyers are getting out of California, not getting out, but adding other states to what they do. I think by the end of the month, New Mexico, so New Mexico doesn't change anything off basically, but yeah. And we're just waiting on some more parts of some through some of other states, so.
+00:29:14 - Tina Marie (profitdriversinc.com)
+Um, how much time do you think that you're working right now? Every day.
+00:29:21 - mark
+Physically in the office are mental times spent because those are vastly different numbers.
+00:29:25 - Tina Marie (profitdriversinc.com)
+I'd actually like them both.
+00:29:27 - mark
+Physically in the office, I'm probably. Not much more than 40 hours. Usually invite an out by five or six. Okay. Mentally, I don't even know how to be in quantifying it. My main focus, so a lot. Pretty much always.
+00:29:50 - Tina Marie (profitdriversinc.com)
+Yeah. And also time.
+00:29:51 - mark
+It's not about mine is about someone else's, but yeah.
+00:29:54 - Tina Marie (profitdriversinc.com)
+I mean, that's, that's the thing. So, um. How much of it do you think goes to other people's businesses or like the dog charity? What is that called?
+00:30:11 - mark
+The Muddy Hearts thing, the yeah the dog food idea thing. Not a lot's been spent on a dog food thing yet because they need to make money first before I can do that. So yeah, it's a long thing. Basically as a way to offset income, we can donate things so it's charitable deduction. Directing part of that charitable deduction in that charity to do what I want since I'm giving them basically items to sell so that way they make money and part of that going to a scholarship for one of the surgeons from Japan who's now going to UC Davis to study dog nutrition. So she'd be the only person in the world who's both a repair expert and dog nutritionist who then take it to the next logical step, you know, totally logical, creating custom blended dog food with Chinese herbs and obviously high quality ingredients that separates it out from say a farmer's dog or just food for dogs or all these or whatever you have, even though people are now more comfortable paying more for dog food, but this would be customized to each and every, you know, owner. So it would be, you know, four or five year plan of it.
+00:31:34 - Dan Ryan (danddcompany.com)
+A food is customized to the dog, right?
+00:31:39 - mark
+Because depending on what their medical issues are and needs that they would talk to the doctor. And there's a subscription, and if you for it, there's definitely a market for that.
+00:31:56 - Tina Marie (profitdriversinc.com)
+Yeah, for sure.
+00:31:58 - mark
+This is just not a mass market. or wouldn't be at that point and I'm fine with that, but yeah, you have any idea what the market size is? No Yeah, ginormous It's enough. mean looking at who's already doing it that there's clearly a use and a need and I mean Even looking at the number of dogs getting surgeries is Increasing the number of the amount that people are paying for their pets is to increase and there's going to be a large segment of the population that doesn't Do this, you know doesn't want to do this like dogs just an animal to them and that's fine, right?
+00:32:35 - Tina Marie (profitdriversinc.com)
+Um, that's not the target market Right I'm sorry.
+00:32:40 - Dan Ryan (danddcompany.com)
+Yeah, jenny and i just dropped a grip What? jenny and that eric dropped a grip on their dog when the dog was sick and then yeah, they're a current dog Like it's it's some sort of I don't know if the food's custom, but it is not store bought or if it is store bought it's like specialty store or bought like your mic or whatever it is. I was over there the other day, I'm like, that smells good.
+00:33:06 - mark
+Right. So I got to go, I got to go, I'm hungry.
+00:33:11 - Tina Marie (profitdriversinc.com)
+What does it mean? I dropped a grip. I have never heard that before.
+00:33:16 - mark
+Up in the cash, yeah.
+00:33:18 - Tina Marie (profitdriversinc.com)
+I mean, that's what I guess that made sense, but like never heard that before.
+00:33:24 - Dan Ryan (danddcompany.com)
+Good.
+00:33:26 - Tina Marie (profitdriversinc.com)
+I'm not a Californian, though. I mean, I was born.
+00:33:28 - Dan Ryan (danddcompany.com)
+But what's also funny is Jenny has helped blow up a dog food treat company in Australia. And they want to come to America, but they can't because they cannot get like the import blah, blah, because it's all, it's all like a kangaroo and what it's like, Australia meets like the president leftovers. But I mean, they're, she's helped them scale to like, into doing four million a year now just in Australia.
+00:34:04 - mark
+Okay, so it looks like we've experienced projects apparently in the future, right? Dan and I are going to have multiple projects in the future from that, the doctor software stuff, but yeah, this is more a passion project that, you know, obviously I wanted to try to make money, but even if we turn this into just in general non-profit, it doesn't mean you can't get paid off it, but you know, profits are necessarily the end goal, I'm okay with that as well.
+00:34:30 - Tina Marie (profitdriversinc.com)
+Well, I mean, Dan's the king of letting you know that an entire business can simply function as a tax shelter and still be really profitable that way. Correct.
+00:34:39 - mark
+So, you know, I didn't see where it's coming out, but first things first, I got to make enough to support this thing on my own and get the fuel through veterinary school and whatnot.
+00:34:49 - Tina Marie (profitdriversinc.com)
+So I got a year to figure out that. Okay. mean, and just so that I kind of understand you currently better. How much time do you think you do spend on other people's businesses that you're not, you know, directly benefiting from in terms of depends on week to week.
+00:35:14 - mark
+Like, it really just depends. Like, we went out to a dinner, I don't know, like, three weeks ago with one of nurse's friends. And he took over this company that does custom trucks, like, utilities and whatnot. Because just by basically a flatbread, you've got to build all these custom cherry pickers and everything else to go on it. And, you know, he's trying to figure out how to make the business run because he just took it over. And so he said to Darren, because he wanted to pick my brain because, yeah.
+00:35:45 - Tina Marie (profitdriversinc.com)
+I was knowing about that.
+00:35:48 - mark
+Dan has like, you know, where people are like, you're smart and you figure things out.
+00:35:51 - Dan Ryan (danddcompany.com)
+So I want to pick your brain, even though you don't know about this specific issue.
+00:35:55 - mark
+Like, business is business. so like part of discussion we had was like his general manager, like. And Bessel's from the company before he saw that, and now he's but hurt because he's getting pushed to the side and he gets he has to buy the business and whatever else. so, you know, questions that you've asked me before, like, okay, well, how much would you pay to like replace this person? And X, Y, Z, so, you know, stuff like that we spend time with, but like, it's not that I don't enjoy it. Like, that's interesting to talk about and do, but, you know, you're asking how much time some of this stuff takes.
+00:36:30 - Tina Marie (profitdriversinc.com)
+Yeah, well, I mean, really, it's also about what does that time do for you? So if that is something that's draining to you, I would know. Okay. And I wouldn't imagine that. I think that you like it. It lights up your brain, the marketing side of thing or just the problem solving, which is. puzzles, me too. Somebody presents a puzzle on like, how fast can I fix this? what can I do? Like, what kind of impact can I make that kind of thing? So just. But really, the other thing is making sure that you are purposely putting in time that is rejuvenating to you or energy increasing stress relieving that type of thing.
+00:37:15 - mark
+So the walking is good. You know, because it's the same thing, things are just not happening fast enough, which is just always going to make constant even in my life.
+00:37:26 - Tina Marie (profitdriversinc.com)
+Pace matters, you are a human being, and you know, they never did tell Dan about the dog food thing.
+00:37:36 - mark
+Yeah, anyway, I just realized that.
+00:37:41 - Tina Marie (profitdriversinc.com)
+Well, okay, hold on a second. So we were talking about setting up scheduling for the medical office.
+00:37:56 - mark
+Yeah, so it's going to take some time. She's going to figure out. what they have and what they don't, but it doesn't sound like they have a heck of a lot set up, which is fine. So we'll work it through, but I was hoping for a little more stuff from the doctor's office, but doesn't sound like want get a lot. So I just want to some time recreating the stuff, which I'm going to also use as teaching opportunities when they're in office of what's good records and bad records and how things work together. So it's not just for Jonah, it's also, you know, partially for us and training exercises. And when doctors ask, you know, hey, what are you looking for? What do you expect? Now we have semi-templist, so we can give them a look.
+00:38:43 - Tina Marie (profitdriversinc.com)
+This is what an ideal record looks like. So I know this is going to shock you, but information is incredibly valuable. And most people don't organize it, don't look at it. It's chaos. They just get in and they root force through. things, nothing is optimized, nothing is leveraged. So in terms of my number one tactic to everything is questions, obviously, right? Much of our conversation is question question question. But for you, for anywhere you want to go and anything that you want to do, that's the same thing. But what the really interesting thing is, is that I don't need to answer most of the questions. I mean, I come up with ideas and do have some answers, but a lot of it is answered by the people I'm asking the questions to. the biggest thing is they're not asking themselves that question or forcing an answer. So if I ask a question, there's an expectation that I answer, right? Sometimes we have questions in our minds and we're faced with something and we're like, push that aside, moving on, and we just allow ourselves to not follow that train of thought through. So in terms of Just knowing that really being constantly conscious of that assume most people Don't have the structure that is that they need that is benefiting them well So if there's anywhere you want to go into and let's say you've got a reason why their success matters So if you want Chona to be working and and have job stability Also, not be stressed out because chaos is stressful to everybody who works in it. Sure There's a lot that you can do to help her create an environment of success and it's just feeding her questions Ask this question by miss out and and the pace has to be because because people that don't want to answer things Definitely don't want to answer five things or ten things Right, so you just ask one question and you slowly get that answer and you Plug that into something and then you ask the next question and get that answer and plug it into something So then making sure that the questions are asked in a strategic way of you know, what's the foundational question? What's the biggest one I need to know this before I know everything else or I need to know this to inform the other questions and so on. But also bringing that back to any solution that you might want to create and present and sell to people and this would work for down with basis to is what is the biggest thing that makes an impact what's the biggest lever for them, which is going to be informed by data. And then what's the simplest lever that you can create for them that gives them that impact so if it's they don't know where most of their stuff is coming up. Okay, or if so I'll give you an example with July medical. I looked at his numbers and he was telling me that he's looking at how many follow up visits he has. And I looked at the total number of incoming visit or the total number of initials and he didn't track follow-ups but he did track total visits and because total visits was hardly any higher than initial visits is very clear that follow-ups are almost non-existent.
+00:42:18 - mark
+There's not a lot of them. Correct.
+00:42:20 - Tina Marie (profitdriversinc.com)
+Right. So then the leverage point is how do we create more of those and we brainstorm that within the five-minute session very quickly and but a lot of these types of things, these questions can be written out and created, you can build a system for them. So anyway, just something to think about in terms of wherever you're spending your time and business, the questions being around, leverage data and information, wherever you're trying to get, you'll get there the fastest by using those to kind of thoughts, processes, measurement systems, whatever. or you want to call it.
+00:43:01 - mark
+Anyway, okay, setting up the office in terms communication and one thing that we have not been consistent with and we keep stopping and starting and stopping and starting is email campaigns. know, we have insanely huge database of people at this point and we are really not mining that as hard as we could.
+00:43:29 - Tina Marie (profitdriversinc.com)
+Well, what value does that have for you? what do you anticipate you're you're missing out on it in terms of an email campaign?
+00:43:40 - mark
+So, to me, it's always just being top of mind, right? email campaigns, I mean, this is more damn thing than mine. You know, I don't know what necessary to expect in terms of outcome, but there's a lot of people who have been in car accidents, who may have taken certain drugs, so there might be mass tortures. stuff where they get hurt at work, which is worker comp, where they bought new car that doesn't work, there's lemon law, there's a lot of other areas of law other than just car collision to potentially reach out to. so trying to establish ourselves of, hey, where you're going to law firm, you have a problem you call us, and if we can't help you, we'll point you in the direction of someone who can. Okay, because I mean, we have tens of thousands of emails at this point. Traditionally, our open rates have been extremely low. So we're not doing it right.
+00:44:46 - Tina Marie (profitdriversinc.com)
+We're not doing it the right way. Well, there's a lot that goes into it. So a quick summary is, first of all, you have to have a really good email hygiene list hygiene. So I don't know how much you use of it, but I'm just going to how much you know about it, but it goes not very frankly, but so things can happen where like let's say somebody's not using the same email anymore. And let's say it's a Gmail account and they don't use it anymore. So that turns into what's called a spam trap. They don't cancel the account. What they do is they use it to know that if anybody's sending it, they're sending it to a retired account. So they clearly don't have a good relationship. You automatically get deemed. So you need to have a system where you're automatically cleaning the list for people who don't open or click during a certain time period. And then what you do is you put them into a reactivation campaign, which is basically kind of clickbaity and like trying to get them to open it up like is this goodbye blah blah blah that type of thing. And if they don't respond to your reactivation campaign, you completely delete the email. You get read of it. You never email it again because by emailing it, you could be risking your sender score. Which is the thing that decides whether not you even get to the email address and whether you get put in junk or spam Or or the inbox or whatever That's one aspect of it So you you have to have somebody who knows how that works and all the components that go into it And it has to be managed and reviewed constantly The then the other thing is what do you send out how often do you send it? Do you send it as a broadcast or do you send it as a Sequence and broadcast Dan will tell you will hurt you Sequences are are much better for you and then it's what is the content and then there's lit testing the The headlines the content whatever, but essentially what you'd want to do is come up with a campaign That's probably 90 days like a quarterly cycle where you send them different types of information and like I did you know or whatever type of thing and You'd have to play around and find out that the frequency like what impacts your unsubscribe rate because you're not giving them something that they're going to be like so excited to open or is there something where you could actually be giving them something they're excited to open so finding the timing and then basically you would end up creating a campaign for a certain amount of period that your data has told you is going to be useful for you and then you just recycle it every 90 days and so a person one particular person so it's not set by like days of the year right but it's a 90-day cycle that a person goes through and day one day two whatever you're not going to send that many emails because that I don't imagine that's going to be good for the business that you have but let's say it's once a week or you know once every few days and so then they go through the whole 90 days or maybe at 60 days and it's just this kind of information and the goal is to get them to either keep open not subscribe or tell you hey I've got a problem but we don't know the statistics of how long a person will go before there's some type of incident where they've got something to make referral to you so because of the nature of your business you would want to do some sort of infotainment right which is we're teaching you about all these different things but also maybe we're embedding some other type of information that's useful to you that's maybe not accident specific but it makes you keep engaging with us because the odds are it's probably going to be a year or two when you have some other type of accident where you're going to come here and I want you to stay on my email list for that year or two so how do I get you to keep opening it you know because you don't have a super easy like you you don't have a new set of twos that are going on today right now um so there are a lot of class actions are like hey you might be well you might be entitled to money for xyz right right so but The hook is you've got to get them to interact. They have to at least open your emails or your sender score starts dropping rapidly. So figuring out what that is, and that's, it's a big strategy game, but dipping your toe in once in a while, you might as well never do it because you could end up hitting a spam trap and just making sure that nothing you do is worth any of your effort and time, it's just waste of time and waste of money. So either be very strategic about it, don't do it at all.
+00:49:31 - mark
+Yeah. Yeah, I know. We need to go this the right way because we haven't so far. So I would definitely want to focus on what we can do to make this better.
+00:49:44 - Dan Ryan (danddcompany.com)
+Yeah. Just ask Josh. His answer is going to be don't do it in a little fine.
+00:49:52 - mark
+I'm pretty sure.
+00:49:53 - Dan Ryan (danddcompany.com)
+Oh yeah.
+00:49:57 - Tina Marie (profitdriversinc.com)
+I mean, but aren't you guys, you have stuff in high school?
+00:50:00 - Dan Ryan (danddcompany.com)
+Level for your texting stuff, so I wouldn't use high-level. I'm pro use active campaign. Yeah Yeah, well, I gotta I gotta time send a Bobby esque The dude's name who I can't even ever answers my emails, but he has I think He's got the software that does the Like it'll Acclings your list on the way in so you instantly know good bad and different and then It literally is that but he has an integration no one else has an integration so his software hooks into clean 13 and then like auto tags people in Definitely doesn't even fusion self, but I want to say it doesn't enact a campaign But I can't remember what I'm setting up on So I'm either going to confirm that or not But active campaign would be the one I would use because we have so much of that stuff built or templatized. And then you would just have to figure out, you know, you could load up the old people, run them through clean, run them through his software, do an initial list clean, and then you would come up with the strategic degree.
+00:51:23 - Tina Marie (profitdriversinc.com)
+then you would have other way around, because if you don't have a good strategy that makes sense that you think you could be opening up your emails and not unsubscribing constantly, like if you if you can't come up with something that you could send that's valuable enough to keep people engaged for a year or two until they like have an accident come up, that makes any sort of mathematical sense, I wouldn't need a lot of clean emails.
+00:51:52 - Dan Ryan (danddcompany.com)
+No, you clean them just to see what what does that even look like, right? you get a bunch of bad emails? Like it shouldn't be that so many emails die in Mark's scenario because this relationship is so different than like a list. So yeah, it would cost nothing. It would cost like a dollar bucks. But then you could, you'd have, but you'd have it all hooked up to active campaign already. So it all did all that thing, all those things. And you can make sure, okay, these automations are working and whatnot. But yeah, yeah, you don't necessarily do that until the strategic is in place. you're like, okay, we're going to do this thing. Let's clean it. Because you would. And then you'd use the current good list to start getting something. Or maybe you then he has this other thing. Again, it's part of active campaign where he has like a warm up thing where you send them. And then it does all of this. I can't do the word, like basically activity tagging, but then it starts to say, hey, this person's been not being in, hasn't opened, hadn't clicked, hasn't done whatever, and then it starts to sort of clean the list over time, so you're spending an email a month, which is probably the scenario here, you figure you'd send an email a month, and then you'd have these Rando, like Mark said, this drug, that drug, check out my dog food, and then the, but those would get factored into this sort of self-haging thing. It works really well. mean, the Stute stuff totally brought our list back to life, even though I don't think we're going to get sales from it, but statistically it looks great.
+00:53:47 - Tina Marie (profitdriversinc.com)
+I mean, look, to at least just trying to say, stop the mind, right?
+00:53:51 - mark
+Because like you're saying, it's a brand for you, yeah, and that's the biggest issue is it's just such an unknown of when you'll need it. First, you know, shoes or clothes or whatever else where it's more, maybe, maybe not.
+00:54:07 - Dan Ryan (danddcompany.com)
+Yeah.
+00:54:08 - Tina Marie (profitdriversinc.com)
+I think you should be mailing like weekly or every other week. I don't think once a month is enough to be top of mind or to get good inbox placement. You want to be able to be recognizable. So that's something if you have any like you find yourself thinking about it, then you would think about how would you come up with strategy? Would you delegate that to somebody, hire somebody for that, or would you try to come up with it yourself? But either way, you need some sort of initial framework to review and say, does this make sense? And then also you would want to see if you could find any evidence that anyone else is doing that. Just maybe they're not, maybe they are and you don't want to do things just because other people are because that's how innovation starts, Nobody else is doing it.
+00:54:56 - mark
+The ones that tend to get familiar with all of these are not great. But frankly, no, through one, that's like half decent, which is like, you may be entitled to XYZ.
+00:55:07 - Tina Marie (profitdriversinc.com)
+So I'm just saying to draw from inspiration to see if there's anything that can help kind of do the mental, have you lifting up? I could do this, I could implement this. And like, Dan, know, he was talking about dog food, it doesn't always have to be any one particular thing. I don't so. But you know, you have access to, you can monetize, well, why would Tweetlon mail me about this? I don't know, because I'm our Tweet and I love dogs. And you know, I want to tell you about my pet project because CEOs send out emails of, you know, this is a foundation I'm involved in that has this not related to the company. So that's not unheard of. Anyway, but you would need a whole plan of how do I maintain a relationship with you? What is that free? frequency look like, what is the value that I can bring to you so that I can stay top of mind. And it's possibly relative to you in your life. And it's enough that you don't want to unsubscribe so that when you do have an accident of this sort, or you feel like I'm informing you, I'm teaching about something, whatever. Anyway, and then you just recycle the content and then you go through the activation. So maybe somebody realizes, hey, I've seen this stuff before. It's the same exact thing. Most people aren't going to notice that, or if they do unsubscribe, but it's more that you'll either find a way to keep a relationship that want to keep it, and they won't care that it's recycled because everybody knows repetition keeps it in your brain and they're like, oh yeah, thanks for reminding me that kind of thing, or that I get out of my email. So either way, you want them to make a decision. Either I like Mark and I'm going keep reading it, or I don't like unsubscribe. Either way, it serves you because you're not having useless emails on your list, and the people that do want to keep listening to you, they're okay with whatever simple things you want to remind them as long as you're making sure that you bring the value. So anyway, there's stuff to think about there. Nowhere almost at time, high level, hip compliant version, any movement on just that conversation, Dan?
+00:57:23 - Dan Ryan (danddcompany.com)
+I already know that's a black.
+00:57:28 - Tina Marie (profitdriversinc.com)
+That's too big of a question for right now. What would we do with that altogether?
+00:57:43 - Dan Ryan (danddcompany.com)
+It's just required in that scenario. So it just adds some layer of privacy to the whole kicking a little.
+00:57:54 - Tina Marie (profitdriversinc.com)
+Josh, why don't you know how we are with reports? We already took up the whole call and can't get into that, but can we next week just kind of go look at everything again and think about what we need to know, can we measure it and is it accurate because that was one of the things as we look at it, like the DD matters, the actual attorney fees were not correct and I don't know if they are now, so if we can just go over the reports with a fine tooth comb next week and know it's super good question.
+00:58:33 - mark
+So Monday next week is Labor Day. I don't have a problem, but I want to make sure you guys are okay.
+00:58:40 - Dan Ryan (danddcompany.com)
+All my other meetings will probably cancel. Thanks to you bringing that up right now and me telling everyone we should cancel our meeting.
+00:58:45 - Tina Marie (profitdriversinc.com)
+So yeah, I can make this one.
+00:58:49 - mark
+Thanks, Mark.
+00:58:51 - Tina Marie (profitdriversinc.com)
+Perfect. You're welcome. I'm already meeting with Fuji and yeah, I was just expecting because you guys are you usually up for the holidays and we'll be back from our trip. Sunday, so yes. Okay, so everybody's coming here next week. We're good.
+00:59:09 - Dan Ryan (danddcompany.com)
+Yeah.
+00:59:10 - Tina Marie (profitdriversinc.com)
+All right, so then can we spend some time unless something big comes up? Can we just really dig into the reports and validate them and make sure that they're accurate and then give Josh that feedback?
+00:59:26 - Dan Ryan (danddcompany.com)
+Yeah. Yeah. And then the other thing I'm going to, so I guess Isaac's going through the literature, the Salesforce course, which is great. But like a perfect example is, yeah, he did some . He's like, we can do this. I'm like, yes, let's do that. Like the email that marks sentence, like, that shouldn't be a thing anymore. Right. That should be automated. That should just be an automated thing or it's a dashboard and say, we just look at it.
+00:59:53 - mark
+It is.
+00:59:56 - Dan Ryan (danddcompany.com)
+It's in there.
+00:59:57 - mark
+The reason I said it is because I haven't converted yet.
+00:59:59 - Tina Marie (profitdriversinc.com)
+So instead of us going. back and forth and looking.
+01:00:01 - mark
+All these things are in there. I'm just adding the sign to the image over to your C other.
+01:00:08 - Dan Ryan (danddcompany.com)
+Got it.
+01:00:13 - mark
+So, are you guys of convenience, but these reports are already there.
+01:00:17 - Dan Ryan (danddcompany.com)
+Sweet.
+01:00:19 - Tina Marie (profitdriversinc.com)
+Okay. That's all I have for now.
+01:00:24 - Dan Ryan (danddcompany.com)
+All right, cool. gonna get my haircut. I'm sure you guys wanted to know that.
+01:00:28 - Tina Marie (profitdriversinc.com)
+Bye. Take care of yourself, you guys.
+01:00:32 - mark
+I'm gonna talk to you about the other thing real close. You're able to put it.
+01:00:36 - Tina Marie (profitdriversinc.com)
+don't need them forward though. Bye then.
+01:00:39 - mark
+Get your haircut. Here you are.
+01:00:41 - Tina Marie (profitdriversinc.com)
+you want to turn off the note? Take her though. Where? Hold on one sec. Yes. How do I make it leave? I'm not about to do that before. Remove. You

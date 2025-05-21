@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Topics Explorer</title>
+  <style>
+    :root {
+      --primary-color: #1a73e8;
+      --secondary-color: #f8f9fa;
+      --text-color: #202124;
+      --light-gray: #dadce0;
+      --border-radius: 8px;
+      --shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);
+    }
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: 'Google Sans', Roboto, Arial, sans-serif;
+      color: var(--text-color);
+      background-color: #f8f9fa;
+      line-height: 1.5;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+    
+    h1 {
+      font-size: 24px;
+      font-weight: 400;
+      color: var(--text-color);
+    }
+    
+    .search-container {
+      position: relative;
+      width: 100%;
+      max-width: 720px;
+      margin: 0 auto 24px auto;
+    }
+    
+    .search-box {
+      width: 100%;
+      padding: 12px 16px;
+      padding-left: 48px;
+      font-size: 16px;
+      border: 1px solid var(--light-gray);
+      border-radius: var(--border-radius);
+      outline: none;
+      box-shadow: var(--shadow);
+    }
+    
+    .search-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #5f6368;
+    }
+    
+    .filters {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      overflow-x: auto;
+      padding-bottom: 8px;
+    }
+    
+    .filter {
+      padding: 8px 16px;
+      background-color: #fff;
+      border: 1px solid var(--light-gray);
+      border-radius: 16px;
+      font-size: 14px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background-color 0.2s;
+    }
+    
+    .filter.active {
+      background-color: var(--primary-color);
+      color: white;
+      border-color: var(--primary-color);
+    }
+    
+    .topics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    
+    .topic-card {
+      background-color: white;
+      border-radius: var(--border-radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      transition: box-shadow 0.2s;
+      cursor: pointer;
+    }
+    
+    .topic-card:hover {
+      box-shadow: 0 1px 3px 0 rgba(60, 64, 67, .3), 0 4px 8px 3px rgba(60, 64, 67, .15);
+    }
+    
+    .card-header {
+      padding: 16px;
+      border-bottom: 1px solid var(--light-gray);
+    }
+    
+    .topic-title {
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    
+    .topic-category {
+      display: inline-block;
+      padding: 4px 8px;
+      background-color: var(--secondary-color);
+      border-radius: 4px;
+      font-size: 12px;
+      color: #5f6368;
+    }
+    
+    .card-body {
+      padding: 16px;
+    }
+    
+    .approach-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+    
+    .approach-tag {
+      padding: 4px 8px;
+      background-color: #f1f3f4;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+    
+    .response-preview {
+      font-size: 14px;
+      color: #5f6368;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 16px;
+    }
+    
+    .source-indicator {
+      font-size: 12px;
+      color: #5f6368;
+    }
+    
+    .detail-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s linear 0.25s, opacity 0.25s;
+    }
+    
+    .detail-overlay.visible {
+      visibility: visible;
+      opacity: 1;
+      transition: visibility 0s linear 0s, opacity 0.25s;
+    }
+    
+    .detail-panel {
+      background-color: white;
+      border-radius: var(--border-radius);
+      box-shadow: var(--shadow);
+      width: 90%;
+      max-width: 800px;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+    
+    .detail-header {
+      padding: 20px;
+      border-bottom: 1px solid var(--light-gray);
+      position: sticky;
+      top: 0;
+      background-color: white;
+      z-index: 1;
+    }
+    
+    .detail-title {
+      font-size: 22px;
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    
+    .detail-category {
+      display: inline-block;
+      padding: 4px 8px;
+      background-color: var(--secondary-color);
+      border-radius: 4px;
+      font-size: 14px;
+      color: #5f6368;
+    }
+    
+    .close-button {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: none;
+      border: none;
+      font-size: 24px;
+      cursor: pointer;
+      color: #5f6368;
+    }
+    
+    .detail-content {
+      padding: 20px;
+    }
+    
+    .detail-section {
+      margin-bottom: 24px;
+    }
+    
+    .section-title {
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 16px;
+      color: var(--text-color);
+    }
+    
+    .approaches-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+    
+    .approach-badge {
+      padding: 6px 12px;
+      background-color: #f1f3f4;
+      border-radius: 16px;
+      font-size: 14px;
+    }
+    
+    .response-card {
+      padding: 16px;
+      background-color: #f8f9fa;
+      border-radius: var(--border-radius);
+      margin-bottom: 16px;
+      border-left: 3px solid var(--primary-color);
+    }
+    
+    .response-text {
+      font-size: 16px;
+      margin-bottom: 16px;
+    }
+    
+    .response-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-size: 14px;
+      color: #5f6368;
+    }
+    
+    .sources-list {
+      list-style-type: none;
+    }
+    
+    .source-item {
+      padding: 8px 0;
+      border-bottom: 1px solid var(--light-gray);
+      font-size: 14px;
+    }
+    
+    .source-item:last-child {
+      border-bottom: none;
+    }
+    
+    .status-panel {
+      background-color: white;
+      border-radius: var(--border-radius);
+      box-shadow: var(--shadow);
+      padding: 20px;
+      margin-bottom: 24px;
+      display: none;
+    }
+    
+    .status-title {
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 16px;
+    }
+    
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+    }
+    
+    .status-item {
+      padding: 8px 0;
+    }
+    
+    .status-label {
+      font-size: 14px;
+      color: #5f6368;
+      margin-bottom: 4px;
+    }
+    
+    .status-value {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    
+    .status-indicator {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      margin-right: 8px;
+    }
+    
+    .status-active {
+      background-color: #34a853;
+    }
+    
+    .status-inactive {
+      background-color: #ea4335;
+    }
+    
+    .actions {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+    
+    .button {
+      padding: 8px 16px;
+      border-radius: 4px;
+      border: none;
+      font-size: 14px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    
+    .primary-button {
+      background-color: var(--primary-color);
+      color: white;
+    }
+    
+    .secondary-button {
+      background-color: white;
+      color: var(--primary-color);
+      border: 1px solid var(--primary-color);
+    }
+    
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 40px;
+      font-size: 18px;
+      color: #5f6368;
+    }
+    
+    .spinner {
+      border: 4px solid rgba(0, 0, 0, 0.1);
+      border-left-color: var(--primary-color);
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      animation: spin 1s linear infinite;
+      margin-right: 12px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    @media (max-width: 768px) {
+      .topics-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .detail-panel {
+        width: 95%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Topics Explorer</h1>
+      <button id="checkStatusButton" class="button secondary-button">Check Status</button>
+    </header>
+    
+    <div class="status-panel" id="statusPanel">
+      <h2 class="status-title">Topic Analyzer Status</h2>
+      <div class="status-grid" id="statusContent">
+        <!-- Status content will be dynamically generated -->
+      </div>
+    </div>
+    
+    <div class="search-container">
+      <input type="text" class="search-box" id="searchInput" placeholder="Search topics, approaches, or contexts...">
+      <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </div>
+    
+    <div class="filters" id="filters">
+      <div class="filter active" data-filter="all">All Topics</div>
+      <!-- Category filters will be dynamically generated -->
+    </div>
+    
+    <div class="actions">
+      <div class="client-filter">
+        <select id="clientFilter" style="padding: 8px; border-radius: 4px; border: 1px solid var(--light-gray);">
+          <option value="">All Clients</option>
+          <!-- Client options will be dynamically generated -->
+        </select>
+      </div>
+      <button class="button primary-button" id="exportButton">Export to Notion</button>
+    </div>
+    
+    <div class="topics-grid" id="topicsGrid">
+      <div class="loading">
+        <div class="spinner"></div>
+        <span>Loading topics...</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="detail-overlay" id="detailOverlay">
+    <div class="detail-panel">
+      <div class="detail-header">
+        <h2 class="detail-title" id="detailTitle">Topic Title</h2>
+        <span class="detail-category" id="detailCategory">Category</span>
+        <button class="close-button" id="closeDetail">&times;</button>
+      </div>
+      <div class="detail-content">
+        <div class="detail-section">
+          <h3 class="section-title">Approaches</h3>
+          <div class="approaches-list" id="detailApproaches">
+            <!-- Approaches will be dynamically generated -->
+          </div>
+        </div>
+        
+        <div class="detail-section">
+          <h3 class="section-title">Coach Tina's Responses</h3>
+          <div id="detailResponses">
+            <!-- Responses will be dynamically generated -->
+          </div>
+        </div>
+        
+        <div class="detail-section">
+          <h3 class="section-title">Sources</h3>
+          <ul class="sources-list" id="detailSources">
+            <!-- Sources will be dynamically generated -->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    // Configuration
+    const API_BASE_URL = 'http://localhost:3030/api';
+    
+    // DOM Elements
+    const searchInput = document.getElementById('searchInput');
+    const filtersContainer = document.getElementById('filters');
+    const clientFilter = document.getElementById('clientFilter');
+    const topicsGrid = document.getElementById('topicsGrid');
+    const detailOverlay = document.getElementById('detailOverlay');
+    const detailTitle = document.getElementById('detailTitle');
+    const detailCategory = document.getElementById('detailCategory');
+    const detailApproaches = document.getElementById('detailApproaches');
+    const detailResponses = document.getElementById('detailResponses');
+    const detailSources = document.getElementById('detailSources');
+    const closeDetail = document.getElementById('closeDetail');
+    const checkStatusButton = document.getElementById('checkStatusButton');
+    const statusPanel = document.getElementById('statusPanel');
+    const statusContent = document.getElementById('statusContent');
+    const exportButton = document.getElementById('exportButton');
+    
+    // State
+    let allTopics = [];
+    let allCategories = [];
+    let allClients = {};
+    let currentFilter = 'all';
+    let currentSearch = '';
+    let currentClient = '';
+    
+    // Fetch Topics
+    async function fetchTopics() {
+      // Show loading state
+      topicsGrid.innerHTML = `
+        <div class="loading">
+          <div class="spinner"></div>
+          <span>Loading topics...</span>
+        </div>
+      `;
+      
+      try {
+        let url = `${API_BASE_URL}/topics`;
+        const params = new URLSearchParams();
+        
+        // Add search parameter if exists
+        if (currentSearch) {
+          params.append('search', currentSearch);
+        }
+        
+        // Add category filter if not "all"
+        if (currentFilter !== 'all') {
+          params.append('category', currentFilter);
+        }
+        
+        // Add client filter if exists
+        if (currentClient) {
+          params.append('client', currentClient);
+        }
+        
+        // Append parameters to URL if any exist
+        if (params.toString()) {
+          url += `?${params.toString()}`;
+        }
+        
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topics');
+        }
+        
+        // Update state
+        allTopics = data.topics || [];
+        
+        // Update UI
+        renderTopics();
+        
+        // Update filters if data is available
+        if (data.categories) {
+          allCategories = data.categories;
+          updateCategoryFilters();
+        }
+        
+        if (data.clients) {
+          allClients = data.clients;
+          updateClientFilter();
+        }
+      } catch (error) {
+        console.error('Error fetching topics:', error);
+        topicsGrid.innerHTML = `
+          <div style="text-align: center; padding: 40px; color: #5f6368;">
+            Error loading topics: ${error.message}
+          </div>
+        `;
+      }
+    }
+    
+    // Render Topics
+    function renderTopics() {
+      if (!allTopics || allTopics.length === 0) {
+        topicsGrid.innerHTML = `
+          <div style="text-align: center; padding: 40px; color: #5f6368;">
+            No topics found. Try adjusting your search or filters.
+          </div>
+        `;
+        return;
+      }
+      
+      topicsGrid.innerHTML = '';
+      
+      allTopics.forEach(topic => {
+        // Create approach tags
+        let approachesHtml = '';
+        if (topic.approaches && topic.approaches.length > 0) {
+          const approachesDisplay = topic.approaches.slice(0, 2);
+          approachesHtml = approachesDisplay.map(approach => 
+            `<span class="approach-tag">${approach}</span>`
+          ).join('');
+          
+          if (topic.approaches.length > 2) {
+            approachesHtml += `<span class="approach-tag">+${topic.approaches.length - 2} more</span>`;
+          }
+        } else {
+          approachesHtml = '<span class="approach-tag">No approaches</span>';
+        }
+        
+        // Get first response for preview (if available)
+        let responsePreview = 'No response available';
+        if (topic.responses && topic.responses.length > 0) {
+          responsePreview = topic.responses[0].text;
+        }
+        
+        // Format sources
+        let sourcesText = 'No sources';
+        if (topic.sources && topic.sources.length > 0) {
+          sourcesText = `${topic.sources.length} source${topic.sources.length !== 1 ? 's' : ''}`;
+        }
+        
+        const card = document.createElement('div');
+        card.className = 'topic-card';
+        card.innerHTML = `
+          <div class="card-header">
+            <div class="topic-title">${topic.topic}</div>
+            <span class="topic-category">${topic.category}</span>
+          </div>
+          <div class="card-body">
+            <div class="approach-tags">
+              ${approachesHtml}
+            </div>
+            <div class="response-preview">${responsePreview}</div>
+            <div class="source-indicator">${sourcesText}</div>
+          </div>
+        `;
+        
+        card.addEventListener('click', () => showTopicDetail(topic.topic));
+        
+        topicsGrid.appendChild(card);
+      });
+    }
+    
+    // Update Category Filters
+    function updateCategoryFilters() {
+      // Preserve the "All Topics" filter
+      filtersContainer.innerHTML = `
+        <div class="filter ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All Topics</div>
+      `;
+      
+      // Add category filters
+      allCategories.forEach(category => {
+        const filterElement = document.createElement('div');
+        filterElement.className = `filter ${currentFilter === category ? 'active' : ''}`;
+        filterElement.textContent = category;
+        filterElement.dataset.filter = category;
+        filterElement.addEventListener('click', () => {
+          // Update active state
+          document.querySelectorAll('.filter').forEach(el => el.classList.remove('active'));
+          filterElement.classList.add('active');
+          
+          // Update filter and fetch
+          currentFilter = category;
+          fetchTopics();
+        });
+        
+        filtersContainer.appendChild(filterElement);
+      });
+      
+      // Add event listener to "All Topics" filter
+      const allFilter = document.querySelector('.filter[data-filter="all"]');
+      allFilter.addEventListener('click', () => {
+        document.querySelectorAll('.filter').forEach(el => el.classList.remove('active'));
+        allFilter.classList.add('active');
+        currentFilter = 'all';
+        fetchTopics();
+      });
+    }
+    
+    // Update Client Filter
+    function updateClientFilter() {
+      // Preserve the "All Clients" option
+      clientFilter.innerHTML = '<option value="">All Clients</option>';
+      
+      // Add client options
+      Object.keys(allClients).forEach(client => {
+        const option = document.createElement('option');
+        option.value = client;
+        option.textContent = `${client} (${allClients[client]})`;
+        option.selected = currentClient === client;
+        clientFilter.appendChild(option);
+      });
+    }
+    
+    // Show Topic Detail
+    async function showTopicDetail(topicName) {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topics/${encodeURIComponent(topicName)}`);
+        const data = await response.json();
+        
+        if (!data.success) {
+          throw new Error(data.error || 'Failed to fetch topic details');
+        }
+        
+        const topic = data.topic;
+        
+        // Update detail view with topic data
+        detailTitle.textContent = topic.topic;
+        detailCategory.textContent = topic.category;
+        
+        // Approaches
+        detailApproaches.innerHTML = '';
+        if (topic.approaches && topic.approaches.length > 0) {
+          topic.approaches.forEach(approach => {
+            const badge = document.createElement('span');
+            badge.className = 'approach-badge';
+            badge.textContent = approach;
+            detailApproaches.appendChild(badge);
+          });
+        } else {
+          detailApproaches.innerHTML = '<p>No approaches documented</p>';
+        }
+        
+        // Responses
+        detailResponses.innerHTML = '';
+        if (topic.responses && topic.responses.length > 0) {
+          topic.responses.forEach(response => {
+            const card = document.createElement('div');
+            card.className = 'response-card';
+            card.innerHTML = `
+              <div class="response-text">${response.text}</div>
+              <div class="response-meta">
+                <div>Context: ${response.context || 'Not specified'}</div>
+                <div>Source: ${response.source || 'Unknown'}</div>
+              </div>
+            `;
+            detailResponses.appendChild(card);
+          });
+        } else {
+          detailResponses.innerHTML = '<p>No responses available</p>';
+        }
+        
+        // Sources
+        detailSources.innerHTML = '';
+        if (topic.sources && topic.sources.length > 0) {
+          topic.sources.forEach(source => {
+            const li = document.createElement('li');
+            li.className = 'source-item';
+            li.textContent = source;
+            detailSources.appendChild(li);
+          });
+        } else {
+          detailSources.innerHTML = '<li class="source-item">No sources available</li>';
+        }
+        
+        // Show the detail overlay
+        detailOverlay.classList.add('visible');
+      } catch (error) {
+        console.error('Error fetching topic details:', error);
+        alert(`Error: ${error.message}`);
+      }
+    }
+    
+    // Check Topic Analyzer Status
+    async function checkStatus() {
+      try {
+        const response = await fetch(`${API_BASE_URL}/topic-analyzer/status`);
+        const data = await response.json();
+        
+        // Create status content
+        statusContent.innerHTML = `
+          <div class="status-item">
+            <div class="status-label">Status</div>
+            <div class="status-value">
+              <span class="status-indicator ${data.status === 'active' ? 'status-active' : 'status-inactive'}"></span>
+              ${data.status}
+            </div>
+          </div>
+          
+          <div class="status-item">
+            <div class="status-label">Last Activity</div>
+            <div class="status-value">${new Date(data.last_activity).toLocaleString()}</div>
+          </div>
+          
+          <div class="status-item">
+            <div class="status-label">Minutes Since Activity</div>
+            <div class="status-value">${data.minutes_since_activity}</div>
+          </div>
+          
+          <div class="status-item">
+            <div class="status-label">Processed Files</div>
+            <div class="status-value">${data.processed_files || 0}</div>
+          </div>
+          
+          <div class="status-item">
+            <div class="status-label">Topics Count</div>
+            <div class="status-value">${data.topics_count || 0}</div>
+          </div>
+        `;
+        
+        if (data.sample_topics && data.sample_topics.length > 0) {
+          statusContent.innerHTML += `
+            <div class="status-item" style="grid-column: 1 / -1;">
+              <div class="status-label">Sample Topics</div>
+              <div class="status-value">${data.sample_topics.join(', ')}</div>
+            </div>
+          `;
+        }
+        
+        // Show the status panel
+        statusPanel.style.display = 'block';
+      } catch (error) {
+        console.error('Error checking status:', error);
+        alert(`Error checking status: ${error.message}`);
+      }
+    }
+    
+    // Event Listeners
+    
+    // Search input
+    searchInput.addEventListener('keyup', event => {
+      if (event.key === 'Enter') {
+        currentSearch = searchInput.value.trim();
+        fetchTopics();
+      }
+    });
+    
+    // Client filter
+    clientFilter.addEventListener('change', () => {
+      currentClient = clientFilter.value;
+      fetchTopics();
+    });
+    
+    // Close detail view
+    closeDetail.addEventListener('click', () => {
+      detailOverlay.classList.remove('visible');
+    });
+    
+    // Close detail when clicking outside
+    detailOverlay.addEventListener('click', event => {
+      if (event.target === detailOverlay) {
+        detailOverlay.classList.remove('visible');
+      }
+    });
+    
+    // Check status button
+    checkStatusButton.addEventListener('click', checkStatus);
+    
+    // Export button (placeholder)
+    exportButton.addEventListener('click', () => {
+      alert('Export to Notion functionality would be implemented here');
+    });
+    
+    // Initialize
+    fetchTopics();
+  </script>
+</body>
+</html>

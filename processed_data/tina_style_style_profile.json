@@ -1,0 +1,83 @@
+{
+  "source": "tina_style.md",
+  "type": "style_guide",
+  "analyzed_at": "2025-05-04T05:20:47.611Z",
+  "profile": {
+    "Voice and Tone": {
+      "Overall Tone": "Conversational yet insightful, blending directness with compassion.",
+      "Distinctive Voice Patterns": "Raw authenticity, direct but compassionate, balances professional expertise with personal warmth."
+    },
+    "Characteristic Phrases": [
+      "Future Energy Exchange",
+      "Temple Foundation Renovation",
+      "Conductor's Orchestra",
+      "Otter vs Duck"
+    ],
+    "Metaphors and Analogies": [
+      {
+        "Metaphor": "Future Energy Exchange",
+        "Levels": [
+          "Practical",
+          "Emotional",
+          "Strategic",
+          "Spiritual"
+        ]
+      },
+      {
+        "Metaphor": "Temple Foundation Renovation",
+        "Levels": [
+          "Practical",
+          "Emotional",
+          "Strategic",
+          "Spiritual"
+        ]
+      },
+      {
+        "Analogy": "Conductor's Orchestra",
+        "Purpose": "Contrasts individual effort with team leadership"
+      },
+      {
+        "Analogy": "Otter vs Duck",
+        "Purpose": "Contrasts inefficient vs efficient approaches"
+      }
+    ],
+    "Structural Patterns": {
+      "Paragraph Length": "Mix of short punchy sentences with longer flowing thoughts.",
+      "Transitions": "Natural breaks and pauses for emphasis.",
+      "Overall Organization": [
+        "Opens with a relatable hook or story",
+        "Adds emotional resonance",
+        "Introduces key principle(s)",
+        "Provides practical application",
+        "Ties back to deeper meaning",
+        "Ends with actionable inspiration"
+      ]
+    },
+    "Rhetorical Devices": [
+      "Questions for reflection",
+      "Repetition for emphasis",
+      "Lists for clarity",
+      "Emphasis through natural breaks and pauses"
+    ],
+    "Conceptual Frameworks": [
+      "Integration of multiple knowledge domains",
+      "Story-driven teaching",
+      "Precision in language"
+    ],
+    "Value Hierarchy": {
+      "Most Valued": [
+        "Transformative understanding",
+        "Holistic integration of knowledge",
+        "Precision in language",
+        "Authenticity and compassion"
+      ]
+    },
+    "Distinctive Vocabulary": [
+      "Neural pathways",
+      "Visualization",
+      "Manifestation",
+      "Optimization",
+      "Holistic understanding"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+apps/context-catalog/context-catalog.sh

@@ -1,0 +1,574 @@
+00:00:08 - Tina Marie (profitdriversinc.com)
+Hello.
+00:00:10 - mark sweet
+Hey, can you hear me?
+00:00:13 - Tina Marie (profitdriversinc.com)
+Barry, I got to turn you all the way up. Very cool. How are you? Yeah.
+00:00:27 - mark sweet
+Okay. Okay. Does Dan join us or no?
+00:00:34 - Tina Marie (profitdriversinc.com)
+I'm sure that he is. And he hasn't said he's not.
+00:00:39 - mark sweet
+So let me go text and make sure he's aware of what time it is. Okay. Yeah. know. Time change is less with everything.
+00:00:47 - Tina Marie (profitdriversinc.com)
+My text is you late. Homie. Cause that's professional.
+00:00:52 - mark sweet
+Sounds all right.
+00:00:53 - Tina Marie (profitdriversinc.com)
+but to have Okay. I'm I'm going Oh, oh, program. I think Mark wants to talk to you, not me at the moment, because he's like a then coming. Let's get started.
+00:01:23 - Dan Ryan (danddcompany.com)
+Yeah, I was on an 11 when I realized it wasn't until 12. I was like, what hell's happening?
+00:01:34 - Tina Marie (profitdriversinc.com)
+I'm on analog phones and er, clocks.
+00:01:39 - Dan Ryan (danddcompany.com)
+No, it's the invite. I just use the invite. I thought the invites and 11 and I was like, oh , it's 11. And then I'm sitting here like, Oh, what's going on?
+00:01:48 - mark sweet
+I'm gonna go on the wait. That was just a one time date.
+00:01:51 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:01:53 - Dan Ryan (danddcompany.com)
+So good. Now I'm late. So it was early before.
+00:01:56 - Tina Marie (profitdriversinc.com)
+Now I'm right. So I'll leave him tight. We can give you credit.
+00:02:00 - Dan Ryan (danddcompany.com)
+That really? Yeah, yeah, yeah.
+00:02:02 - Tina Marie (profitdriversinc.com)
+All right. What's on your mind, Mark?
+00:02:06 - mark sweet
+To just super quick housekeeping things. We need to add in Walker MO. I don't know why they don't have that. like they have every other state, but Missouri. I don't know why.
+00:02:18 - Dan Ryan (danddcompany.com)
+It's not populating into little fun.
+00:02:21 - mark sweet
+It's not one of the options now.
+00:02:24 - Dan Ryan (danddcompany.com)
+Okay.
+00:02:25 - mark sweet
+It's super weird. didn't figure out why.
+00:02:28 - Dan Ryan (danddcompany.com)
+Okay.
+00:02:29 - mark sweet
+Two, we're starting with a new lead vendor called Legal Pulse.
+00:02:34 - Dan Ryan (danddcompany.com)
+Well, I mean, got a lot of homes.
+00:02:36 - Tina Marie (profitdriversinc.com)
+I know.
+00:02:37 - mark sweet
+But we'll see. They have a pretty robust return criteria.
+00:02:45 - Dan Ryan (danddcompany.com)
+Oh, yeah?
+00:02:46 - mark sweet
+Yeah. Yeah. Not inside the area. Not a victim of a motor vehicle. Not just going to it in the statute. Doesn't have an attorney. Not at fault. That's the same. coverage has to be injured then we don't get to hold them within the first three days or we want to reject them for whatever reason the first three days we'll take it back.
+00:03:07 - Dan Ryan (danddcompany.com)
+You're kidding.
+00:03:09 - mark sweet
+Nope.
+00:03:10 - Dan Ryan (danddcompany.com)
+Okay.
+00:03:11 - mark sweet
+Wow.
+00:03:12 - Dan Ryan (danddcompany.com)
+That's interesting.
+00:03:12 - mark sweet
+We'll see how it goes. We spend more on less.
+00:03:17 - Dan Ryan (danddcompany.com)
+Are they like Walker or like monkey? Meaning phone or email?
+00:03:30 - mark sweet
+Number exactly. I want to say it's more like monkey.
+00:03:35 - Dan Ryan (danddcompany.com)
+Okay. You have their contact info?
+00:03:38 - mark sweet
+They just send their agreements. They're sending me over their CRM login stuff the next day or two.
+00:03:44 - Dan Ryan (danddcompany.com)
+Yeah. It's an API. Yeah, just forward that to verify it.
+00:03:50 - mark sweet
+But yeah, it's primarily, well, I'm sorry. They said they're going to do some live gen X, but I guess it's going to almost all be just. form clouds which yeah okay so yeah those are the two housekeeping things because again if they're going to give me that kind of return criteria it's on a credit card which they're completely and totally full of crap I can just charge back if I have to.
+00:04:19 - Dan Ryan (danddcompany.com)
+Exactly well I'm thinking you'll know pretty quick so yeah hopefully yeah that's why I like you. Yeah you can just channel based on flow and three days like okay we could just automate setting the back on day four like yep here's them.
+00:04:37 - mark sweet
+We should probably do that that's a very very very good idea.
+00:04:42 - Tina Marie (profitdriversinc.com)
+Should do what?
+00:04:43 - Dan Ryan (danddcompany.com)
+We can automate sending back or we can't. can't vote.
+00:04:56 - Tina Marie (profitdriversinc.com)
+More audio is really bad and garbled.
+00:05:00 - Dan Ryan (danddcompany.com)
+just you know Dan. Oh no I can't help you.
+00:05:05 - Tina Marie (profitdriversinc.com)
+Well that's useful thank you.
+00:05:07 - Dan Ryan (danddcompany.com)
+Sorry it's the AirPods there.
+00:05:09 - Tina Marie (profitdriversinc.com)
+You can blame Tim Cook. No you don't like this it's hard to hear. just to be that yeah we can want to make a name back for refunds specifically only for this new one yeah yeah so would you talk about that after a trial period or I was gonna say I don't know how much you want to build that out.
+00:05:35 - Dan Ryan (danddcompany.com)
+We can just make it out of it. It's for sure doable and we'll just watch it with that in mind. Okay this option might be available to us. Yeah I can already kind of see me my hands little.
+00:05:52 - mark sweet
+Okay so but again give a return criteria and everything else that figured it was worth a shot you will see. So we're starting with you know the different states please. You're like, well, if you do this one for this day, this one for the same, like, just me one price for everyone, and I don't really care where it's. And so it's 500 bucks a lead.
+00:06:13 - Dan Ryan (danddcompany.com)
+Very, that's a big difference.
+00:06:15 - mark sweet
+I know. But again, with that kind of return criteria.
+00:06:18 - Tina Marie (profitdriversinc.com)
+Yeah, right.
+00:06:20 - mark sweet
+Because our biggest issue with monkey is either we can't get a whole of them, or it doesn't meet their criteria.
+00:06:25 - Dan Ryan (danddcompany.com)
+Yeah.
+00:06:27 - mark sweet
+Oh, and we also have something about property damage in it, but yeah. So again, we'll see. As long as we get at least two cases, it'll even out.
+00:06:36 - Tina Marie (profitdriversinc.com)
+What is it that you have about property damage in there?
+00:06:39 - mark sweet
+Can you be more clear that it's got to be significant impact? I knew that's a very big term, but I hate to put a monetary figure on it because like a new car can have a scratch, but if you hit one of the cameras, it's like five grand, not anything.
+00:06:56 - Tina Marie (profitdriversinc.com)
+So they're willing to let you return anything that. Like, they won't send you anything that doesn't have that pretty much that would be amazing if they actually keep to that and can get that for you. How long have they been around?
+00:07:12 - mark sweet
+Uh, I, I really don't know. don't believe they do I read online.
+00:07:17 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:07:18 - mark sweet
+So I I hate to say it that way, but yeah.
+00:07:21 - Tina Marie (profitdriversinc.com)
+Did you not ask them or or is this only just an all online thing?
+00:07:27 - mark sweet
+It's all online thing.
+00:07:33 - Tina Marie (profitdriversinc.com)
+them through Chechi VT.
+00:07:36 - Dan Ryan (danddcompany.com)
+No, you didn't.
+00:07:38 - mark sweet
+Yep. I asked Chechi P to go look at everything.
+00:07:42 - Dan Ryan (danddcompany.com)
+I mean, I found a lot of the stuff we've already done. So yeah, no, no.
+00:07:53 - mark sweet
+I figure why not again. It's I don't want to say low risk, but it's not high risk.
+00:08:00 - Dan Ryan (danddcompany.com)
+No, it works.
+00:08:01 - mark sweet
+It works. It doesn't. doesn't. The worst case. I charge it back.
+00:08:04 - Dan Ryan (danddcompany.com)
+Like it's fine. Well, you can pay more per lead if they also convert more on the back end. don't just, it's just the math and gender.
+00:08:14 - mark sweet
+The other one that I'm meeting with, well, I met with now we're having a second meeting was the magneto thing that I sent you down.
+00:08:21 - Dan Ryan (danddcompany.com)
+Oh, yeah.
+00:08:23 - Tina Marie (profitdriversinc.com)
+What?
+00:08:24 - mark sweet
+Yeah.
+00:08:24 - Dan Ryan (danddcompany.com)
+Yeah.
+00:08:27 - mark sweet
+we're going to have a secondary meeting on Thursday, it's 10.30 a.m.
+00:08:33 - Tina Marie (profitdriversinc.com)
+What is that?
+00:08:35 - mark sweet
+So they are just getting into the PI space, mostly they've been doing mass toys. That was the paper client ad system in the minimum of five x return. A lot of what they do is. Meta, which I. Yeah. Yeah. Yeah. Yeah. only feel is better from mass towards than it is for PI, but what the hell do I do?
+00:09:05 - Dan Ryan (danddcompany.com)
+Monkey's all metal. Oh, Pratammo, remember. Absurdly was meta on TikTok, I think. Of course, many, many ones have been like that.
+00:09:23 - mark sweet
+But because they're relatively new in PI, I kind of fish them on, okay, well, if you want to kind of partner together and I will give you more data than you generally will otherwise get, let's try to figure out a deal. It was an interesting conversation on what I mean by that is it was surprised on that I want no numbers and how this stuff works. Kind of. course. Most of the lawyers they work with just don't get anything or just, you know, distract by shiny objects and we're going through specifics and because. I guess some of the higher ups in the company, not just the salespeople are going to be on this call to see, but it makes sense to give ourselves kind of a trial run where this part I'm not thrilled about is we put some of the money. They're not going to market up very much or market up at all what they say, but I never believe that part. To see what kind of results they can get for doing PI, so I'm not super thrilled the idea of bank rolling someone else learning, but yeah.
+00:10:31 - Dan Ryan (danddcompany.com)
+So, well, yeah, survey recognized that they can get some of their math for a year.
+00:10:42 - mark sweet
+Yeah, because otherwise they're never going have access to what they need to have access to pitch.
+00:10:46 - Dan Ryan (danddcompany.com)
+Yeah, yeah, like at the end of the day when I kept going back for them, it came down to like they, they really don't know the internal data from some of those phones. I'm like, I'm telling you, it looks like this, it can't but otherwise. We just didn't deal this morning about to deal with one of our competitors, one of our competitors to approach those, being the CPA team, they wanted us to do all their marketing, and I was like, yeah, that's not happening. So then they wanted to partner with us, and we were asking them stuff like, what you market share, what you average order that on a customer value, I didn't know a lot of it, which is shocking, a bunch of peeing money behind them. So we're going to do a deal with them where we have a new product coming out, like a couple of rooms, like a supplemental product. We're going to give all of their new customers of their big package a year's access to that, and then they're going to give us the full value of that for us, which and then basically we're going to be able to extrapolate their time. our business based on that. So we are, we estimate that they have like 4% market share, but if every one of their customers is getting our product, they're literally giving us every one of their customers like, are they? I thought this through like, why? Okay, sure, sounds great. Yeah, we're doing the same thing. Yeah. whatever, we'll get the mask. But that could work.
+00:12:28 - mark sweet
+Besides, I just don't want to be spending it. So someone else can learn if they don't already have some networks.
+00:12:33 - Dan Ryan (danddcompany.com)
+Yeah. Yeah. But then hopefully they would, they would be like, hey, this guy brought us out. And we'll not forget that, but you know, in the dream world.
+00:12:49 - mark sweet
+The other thing is, I knew you're still having problems with your Google AdWords.
+00:12:55 - Dan Ryan (danddcompany.com)
+You know, I've got a new person that reached out to me. I think today, It's a day from Chicago, it's an American. like, oh, get their name. But yeah, they literally hit me up this morning. They're like, we want to talk to you. said, OK, great. Not right now, but I'll talk to you. But I think I'll get that resolved.
+00:13:18 - mark sweet
+Cool. Because also, I still want to make sure that we're meeting Sweet James.
+00:13:24 - Dan Ryan (danddcompany.com)
+Well, so I did that new strategy that I sent up for you. Yeah. Good work. I just got to let some data accrue. But I mean, I'm literally, that's all the stuff. That's all you can do. Because every lever that says, I want to be number one for this no matter what. And it should work. But we'll see, if I duplicated the campaign's strategy, and then I can compare data, I wouldn't be surprised if it doesn't work, because it's for the class.
+00:13:55 - mark sweet
+I mean, I'm in Cottonillo right now, and just have been sweet lawyers and sponsors. I'm it was the turniest sweet James and that's it. Right, which is great, but yeah, as an ad, no, as in the local GMB second, like I just literally typed in sweet lowers incognito and that's what shows up.
+00:14:15 - Dan Ryan (danddcompany.com)
+Yeah, I don't think the works. No, then I'll just go to all the other thing I could do is just give it some ridiculous bit but then it's so I'll give you that. That's the, that's the, I just kept the the same, but I can, that's sort of the last time to say.
+00:14:43 - mark sweet
+Sweet James number one, we're number two.
+00:14:49 - Dan Ryan (danddcompany.com)
+No, it should be. So, and if you did, what do you do just.
+00:14:55 - Tina Marie (profitdriversinc.com)
+I could be.
+00:14:56 - mark sweet
+Sweet.
+00:14:58 - Dan Ryan (danddcompany.com)
+Yes, because it depends on what they're bidding. um dictionary okay so they're not going they're going after your terms that's why that's why i had to do lawyer yeah that's why i had to do lawyer the other day so if they're showing up for lawyer that would tell me that they're going after lawyer broad but they weren't if i do so they're number one where number two yeah so they're targeting all your terms right so if they they shut up for just sweet that would have meant that they were targeting the word sweet we don't right so then any mean iteration of sweet sweet you know sweet juice they'd be getting on it don't they're not they're not done they're for sure just targeting your terms i can work with that do you me to just search like attorney to see what's coming up yeah they're not doing it because if they do it for i mean you can let us say they've done it for they are they're number one for attorney followed by me in injury law oh really they're spending money yeah
+00:16:00 - mark sweet
+is where his sponsor is his family lawyers here once but you type in lawyer in there next turn let's see if he's typing lawyer uh may be researchers because it's not coming up with any um you don't call it thank you so that's the case then they're not targeting you they're just i'm not saying they're targeting me i'm just tired of people looking for sweet law or sweet lawyers and then coming up first yeah yeah but there's i mean okay so we can try that out yeah i mean i'll just increase but if they're hey i mean god damn dude that is such a waste of
+00:17:00 - Dan Ryan (danddcompany.com)
+I mean, that's insane. You didn't click on anything in the full time? If you didn't click through to their stuff. OK. Yeah, that means they're sitting on the word moi, or which is insomnia. OK. Choice. That's why the other day they weren't showing up. was like, it seems like, so they'll just show up for anything, for the most part.
+00:17:30 - mark sweet
+Yeah, if it puts sweet love, go to the sweet James that takes me to the lens page of all their attorneys, of their team.
+00:17:39 - Tina Marie (profitdriversinc.com)
+Well, so one tactic is if you show up in second or third place, is you use words that are more attractive. But here's the thing, right? our most people attracted by the slimy sales pitch? Like, I don't even know what their ad is, but you can out. Word them out word smith them out, you know, perform their ads If you can't beat them in the ranking in the position, then can you beat them on the persuasion?
+00:18:12 - mark sweet
+If they're seeing both the ads just because my issue is this we go client say, hey I referred you a case. just looked at the thing a lot incentive to sweet James.
+00:18:22 - Tina Marie (profitdriversinc.com)
+It's Yeah, I understand in your point That's going to keep being an issue as long as your names are so similar like there is no way around that Spend on just sweet law or sweet boys or sweet attorneys and quite frankly We're trying to improve profitability That the whole thing is you might as well stop focusing on it unless you're gonna rebrand because that's never gonna be a leveraged activity I Know you don't want to lose people and don't refer them like find a better way to improve your Rural process, but like this is not something you can win out bidding on those terms just to be for a second. Okay.
+00:19:07 - mark sweet
+Who else is searching for those terms? Besides people just looking for my love.
+00:19:14 - Tina Marie (profitdriversinc.com)
+I mean, anybody What anybody what looking for them, sweet James.
+00:19:20 - mark sweet
+Right. So do you think theoretically, maybe I pick up a couple cases that way to Okay, but at what cost is my point.
+00:19:29 - Tina Marie (profitdriversinc.com)
+Oh, that's gonna be a really good question because I don't know what's gonna cost us that That's my entire point Especially because if he's just dumping money down Because he can because operate unethically to give himself better margins, you know, like You have to be careful of who you're going to battle against You We're not fighting in the same weight class, really.
+00:20:03 - mark sweet
+I hear what you're saying.
+00:20:09 - Dan Ryan (danddcompany.com)
+The words are entering my ears. So it's still in a learning phase. So that could be part of is work.
+00:20:21 - mark sweet
+It's.
+00:20:23 - Dan Ryan (danddcompany.com)
+Yeah. So right now the cost is about a buck.-clock. Weber. The. Then the team. But a dollar more per click. It's not a lot of money. It will not be a lot of money, if you have to. No, yeah, it would not, I mean, it won't be a hundred bottles. Now, but it's lose, it's winning. It's losing on impression shared about product because it's learning, like the metric that you want kind of first and foremost is search impression share, which means, and since these are targeted, this matters. Search impression share, your number one keyword is sweet lawyer. You want your search impression shared to be 100%, meaning 100 every time someone types in that word, you show up. Believe it or not, you have to work to get that. Search impression shares has dropped, but that's probably because it's learning, but the quick-through rate is higher, a little bit higher, and apparently it's already got no phone call.
+00:21:48 - Tina Marie (profitdriversinc.com)
+So how many people, how often does this even happen that you know of? Somebody said they referred you and it went somewhere else.
+00:22:00 - mark sweet
+And there's one client who, her name starts with an M, two different people, she actually sends their, one of Mary's friends, I really call their.
+00:22:13 - Tina Marie (profitdriversinc.com)
+Okay, so first of all, it's not even a frequent thing to be trying to outbid sweet James, that is almost insanity. Second, if you're going to spend the money, why don't you spend it on a direct response campaign to all of your clients and give them a very short, memorable, specific link to refer people to that doesn't say anything about sweet or law.
+00:22:37 - mark sweet
+It could be Mark sweet, if you wanted it to be, or just something short, we could all brainstorm it and it could be winner, winner, okay, what there's stupid is the short answer, they're not going to look at all of our emails have our phone number, any email that we've sent them has our phone number, that's a link in it. They're dumb. Yeah, my lawyers, sweet lawyers, don't call them. That's literally what people are saying.
+00:23:07 - Tina Marie (profitdriversinc.com)
+Of all the levers to work on in your business, I don't think this is the biggest one to spend more time. Like, you would get a better return focusing on call control and intake and all kinds of other things. The only reason that this one is getting so much of our time and attention is because it pisses you off. But at the end of the day, do you want to be beating your competitors or beating your own profit margins?
+00:23:40 - Dan Ryan (danddcompany.com)
+Well, only one person's putting time into this. And I'm done. just did it.
+00:23:47 - Tina Marie (profitdriversinc.com)
+This time is paid for and we're spending time on it.
+00:23:50 - Dan Ryan (danddcompany.com)
+So that's not it. Let's go. I'm done. keep it posted.
+00:23:54 - mark sweet
+I'm to the next thing. And I found one new lead source and maybe another one. maybe we'll see what this magneto thing is okay I don't feel as confident about that obviously as I do it's little false thing Magneto and what? Magneto is the one that they want to like test bed with because for lack of better term and then the other one is legal polls so I don't know what animal give it but I thought you meant to other besides legal polls so I went through about six other ones and those are the two best I also sent you guys an email with ones that we've tried before so that at least it's in an email yeah go back to that So, it took longer than I would like to do, but.
+00:25:04 - Tina Marie (profitdriversinc.com)
+They'll leave members, that's right. I wanted to put this in here. I don't see no rabbit holes. That's hilarious. Let's see, where did I want to put this?
+00:25:21 - mark sweet
+We can have it right now. Both failed. We do that here.
+00:25:27 - Tina Marie (profitdriversinc.com)
+Oh, no, I have.
+00:25:37 - mark sweet
+And one was apparently Blue's deal slash, what was that? Absolutely, or whatever they're called before they became absurdly even.
+00:25:50 - Dan Ryan (danddcompany.com)
+No, absurdly was always Rolex. Blue's deal is. Well, the. This is your names. You have to make the matrix up to date.
+00:26:04 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:26:06 - Dan Ryan (danddcompany.com)
+You never know who people are.
+00:26:07 - mark sweet
+Was now springing investment, which is now blue steel quantify your quantify.
+00:26:13 - Dan Ryan (danddcompany.com)
+There we go.
+00:26:14 - Tina Marie (profitdriversinc.com)
+Blue sales quantify.
+00:26:16 - Dan Ryan (danddcompany.com)
+Yeah.
+00:26:18 - Tina Marie (profitdriversinc.com)
+Okay. Let's quantify. was not in this. We're still using quantify, right?
+00:26:24 - mark sweet
+Yes.
+00:26:25 - Tina Marie (profitdriversinc.com)
+Okay. that's not enough. Do you have the list of the lead sources and the name? Well, like nobody else has access to these. I'll accept you, me, Dan and Stacy. So is that okay? Cause I would like to have them. All right. Like do you have it in the email you can send later?
+00:26:49 - mark sweet
+Nope.
+00:26:51 - Tina Marie (profitdriversinc.com)
+Okay. I'm going to email you.
+00:26:54 - mark sweet
+Most of them, the only other ones that we're adding in are the ones that are actually working.
+00:26:58 - Tina Marie (profitdriversinc.com)
+Yes. Yes. So, um, working vendors with code names. I was shown it today, by the way, how's her throat?
+00:27:15 - mark sweet
+She still sounds sick. thought she was in the corner yesterday. Cause it seemed like she was, but they show up inside and more adjusted.
+00:27:26 - Tina Marie (profitdriversinc.com)
+Yeah, so it was with my girls. was like back and forth, almost twice. Like, but they were getting over it. It was in a sore throat. was just terrible body aches and fatigue.
+00:27:36 - mark sweet
+Nah, just sounds congested. But when you eat a whole box of ice cream. Don't do it. So.
+00:27:47 - Tina Marie (profitdriversinc.com)
+Oh my God, you're so compassionate. I'm not so sure today we'll check and see. Anyway, you never, you never placed you the game.
+00:28:00 - mark sweet
+Oh, no, I do.
+00:28:01 - Tina Marie (profitdriversinc.com)
+I went it. Okay. All right. Oh, good job on working on the leads because we know that eventually we get some winners and overall that really is probably the biggest lever that we work consistently here. Before I get into my list. Anybody else have anything that we want to talk about?
+00:28:28 - mark sweet
+Oh, Dan, how's your ad accounts? Yes, was a Chicago guy.
+00:28:34 - Dan Ryan (danddcompany.com)
+Yes. I mean, I don't like.
+00:28:38 - Tina Marie (profitdriversinc.com)
+Oh, what? That's the Chicago guy.
+00:28:41 - Dan Ryan (danddcompany.com)
+Yeah. Top of the call. I said that Google's now kicked me over to an American. Chicago, but even today.
+00:28:50 - Tina Marie (profitdriversinc.com)
+All right.
+00:28:50 - Dan Ryan (danddcompany.com)
+Well, hopefully he's the path. The other ones working. I got one to work in this. But the legal one is was noticed. The other one I got that going in twenty, forty-eight hours, they don't want to help me with the other one. It's like they ignored it too, I'm like, no, I'm still here. Hello.
+00:29:16 - Tina Marie (profitdriversinc.com)
+Okay. Sorry, I was probably writing my notes or something. It's hard for me to like, okay, I can lose things in the middle of writing. Okay, so I've got my list, let me, I want to make sure I'm bold, just real quick though. I still have a raging freakin' headache. Trying to manage my blood sugar is making me extra bitchy.
+00:29:44 - Dan Ryan (danddcompany.com)
+You're welcome. Hey, my diabetes.
+00:29:49 - Tina Marie (profitdriversinc.com)
+Okay, let's see, control, okay, call control. So, I don't like know how crazy your schedule is right now, but we're talking about you looking into it. I have a couple of links. think you found one, I don't know if these are ones you found or ones I found, but getting some training for call control I think would be huge. Not just for intake, but for everyone really, even your friendies. And I'm sure that there are some people that don't need it. Samantha probably doesn't need it. I'm sure you can identify the ones you don't, but for the most part, the strategies for redirecting a call that is off-track is going to save you throughout the year, probably hundreds of hours. These tens of hours, but that's money that you're paying out, but I would bet hundreds of hours across all the people in Sweet Law. So, anyway, we've discussed this. Are you, can we create a deadline for you choosing something and getting it implemented? I'm getting up some training. All right, what would be an acceptable deadline for you to have made decision and then, like, not make a decision, but to have, what's the word, just scope some of these companies out has some conversations chosen one, and then have made arrangements to get them get your team through it. We're coming into downtime, so this is a great time for training, right?
+00:31:36 - mark sweet
+Yeah, no, I just, the one thing and invite you here, pause, I don't know how long it's going to take this to open, go through these different companies. And the second part is once we pick one, how long it will take for them to get started.
+00:31:48 - Tina Marie (profitdriversinc.com)
+Okay, so let's start with a deadline of you going through five companies by next week, with a week after week. What's a reasonable amount of time for you to have spent a little time researching? because that's really all it's going to take.
+00:32:02 - mark sweet
+The end of the month is okay.
+00:32:05 - Tina Marie (profitdriversinc.com)
+I mean, I guess it's not very aggressive considering the impact that we'll have and how fast you want to grow and fix everything but okay. Um, deadline.
+00:32:17 - mark sweet
+I'll try to get an earlier than that but knowing what I've got coming up on the schedule.
+00:32:21 - Tina Marie (profitdriversinc.com)
+Yeah, yeah. I do want you to give a realistic timeline but also when you be all I want all this better and I want it done now. I'm going you All right, that's my list that I will carry over every week. Call control and end of November. Do you need a reminder every week? Like, do you need something in email? Like, how can I help this stay present in your mind?
+00:33:23 - mark sweet
+Oh, I'm more than sure you're going to remind me.
+00:33:27 - Tina Marie (profitdriversinc.com)
+On calls, but I mean, that's generally, like, I'm not thinking about it. Unless, well, unless I'm talking to the guys and then I'm like, oh, we really need this, that kind of thing. So, but timing matters. What would be the most useful way to remind you?
+00:33:46 - mark sweet
+You want some phone calls?
+00:33:54 - Tina Marie (profitdriversinc.com)
+Okay, so I'm going to do this and I'm going to see see myself. a couple of links in here that I found or we found out who found what I know, I looked at some. I think you found something. And then when it comes, I will set a reminder for myself and that will be my little system too. It's nagja! Okie-dokie! Where's that? Where's my list? I have more than that. Maybe that was it. Okay, so Josh. um. Yeah, that was. Oh, I moved it over here. Okay, hold on. What's the status of the Missouri office first, like getting a physical office and sign in general that?
+00:35:17 - mark sweet
+Oh, I'm getting it with me to any progress on it.
+00:35:21 - Tina Marie (profitdriversinc.com)
+And what is the priority on that?
+00:35:23 - mark sweet
+Yeah, recently hi, I think our big problem is Dan's connection is basically said you need to go and get a office, like an office built and look at storefront.
+00:35:37 - Tina Marie (profitdriversinc.com)
+Right, so who sends what we do?
+00:35:42 - Dan Ryan (danddcompany.com)
+Unless you get like a super cheap office, but you're never going to.
+00:35:46 - mark sweet
+We do like it doesn't work for us.
+00:35:51 - Tina Marie (profitdriversinc.com)
+So, well, it depends on what any retainers you get from the GMB. That's I was about to say. Yeah. eating expense than it does, if it washes out, pans out.
+00:36:04 - mark sweet
+I'll be more specific. It's going to cause other issues, like people there and no one's there get email, people driving by and it being a completely empty building.
+00:36:17 - Dan Ryan (danddcompany.com)
+Right. Well, who does that? A, but B, it would be like you get, you know, like an office and an office building, like a building. You'd get like a, you know, sweet 240, what do you have? And then you'd have to, like, task rabbit somebody, right? task rabbit, like, hey, I'll pay you at some amount of money to buy mail and stick it in, join up a little bit when I'm sending it.
+00:36:44 - Tina Marie (profitdriversinc.com)
+Or could you, like, sublet it or turn it into, like, a co-working space and, like, sweet law is part of it. But I'm going to manage that from here, though.
+00:36:53 - mark sweet
+Yeah, that's fine. These are all theoretically doable.
+00:36:55 - Tina Marie (profitdriversinc.com)
+I don't want to, like, fully. Property management.
+00:36:58 - Dan Ryan (danddcompany.com)
+I'd probably have a cheap office. for cheap offers. then I literally get someone on TaskRabbit.com would be like, I want you to go pick up this mail. Like I have someone that comes to my office for a buddy of mine, he sends all his mail to my mailbox. And this girl shows up, I don't know when she shows up, she has a door code. She shows up and she goes down and opens the mailbox and then gets all his mail and then puts my mail on my desk. So I never go to the mailbox. So it works out great for me. I doubt he's paying her very much money to do that. And then she's like, oh, this doesn't work with co-workers because Google doesn't want that. They know that's the trick. So they're like, we don't, you're not a local business attorney, if you're using that. That's better. UPS stores or co-working. That to them is a signal that you're trying to be in. system. Now, is it 100% true? Nope, but they're not interested in 100% true. But it also creates the issue for other people trying to do what you're doing, right? So there, are they going to stop at those at golf? So ask that because they don't know their math, right? So for you, it is just a math problem. It's like, all right, 600 bucks a month in rent, and I pay someone a hundred bucks to go pick up the mail and send it to me. $700 total. Done.
+00:38:35 - Tina Marie (profitdriversinc.com)
+What if they're like, would there be a way to find another law firm that's doing maybe civil law or some other type of law that wants a satellite office, something where you could be like, okay, we'll go into this. And but they actually have an attorney to be physically present. So you're in the cost, but they so they don't have to pay the full fee and they get to accomplish their goals. And you get it accomplished because there's actually somebody there.
+00:39:09 - mark sweet
+Deoretically, it's not anyone that I know, like, I don't know anyone really in Missouri, but like, theoretically, yes.
+00:39:17 - Tina Marie (profitdriversinc.com)
+But if you put those feelers out, like, how big is your network? many people do you know in Missouri? No, no, no, no, so I see that they're not in Missouri yet.
+00:39:27 - mark sweet
+But I'm talking about Missouri and most people don't do multi-state.
+00:39:31 - Tina Marie (profitdriversinc.com)
+Okay. So then what is the, how, how effective can you be in Missouri without GMB without having a Google, like, like, you can still get Google reviews, right? No, I'm asking you that we can. Okay. So how effective could you be in Missouri, even if we have other lead sources, but you're not allowed to get Google reviews? Right. No, that's a real.
+00:40:00 - mark sweet
+question.
+00:40:00 - Tina Marie (profitdriversinc.com)
+No, it's, you know, so then they're not in Missouri or you get an office in Missouri and we figure out if we can make that money that can make it work or we just don't even put any mental effort into Missouri. Is that really what it comes down to?
+00:40:18 - mark sweet
+Pretty much. Okay, because part of this, I mean, again, some of the reason we went in Missouri is we will promise all these things by the doctors there that all these referrals and what's the new tons of referrals.
+00:40:32 - Tina Marie (profitdriversinc.com)
+Right.
+00:40:32 - mark sweet
+We've got one.
+00:40:35 - Tina Marie (profitdriversinc.com)
+And how long have you been? Six.
+00:40:38 - mark sweet
+Not six months, at least four months. And we've sent 60 plus cases, I would say, at this point, I can tell you the exact amount, but this is not the same as Washington because of the GMB stuff like that.
+00:40:57 - Tina Marie (profitdriversinc.com)
+We've been working on my It is though, is that Washington was a really slow star and it almost looked like a no-go.
+00:41:05 - mark sweet
+Oh no no no. What I'm saying was I was promised something by the doctors there that hey I think someone built this out because Missouri doesn't fit everything else we do. It's difficult for us to get to it's on a very difficult time schedule the two are time change.
+00:41:20 - Tina Marie (profitdriversinc.com)
+So what will it take for you to make a decision to either redirect or go all in?
+00:41:28 - mark sweet
+We don't have enough data yet because I also need to see how some of these cases settle.
+00:41:34 - Tina Marie (profitdriversinc.com)
+Okay.
+00:41:35 - mark sweet
+And we just don't have that yet.
+00:41:37 - Tina Marie (profitdriversinc.com)
+Okay so process proceed as is for a little while. So the average time to close like to get to the point where you figure out what it's going to be up to you is about six months and then you don't actually get paid for like another year. Is that wrong?
+00:42:02 - Dan Ryan (danddcompany.com)
+Nine months is the average turnaround for a case. So yeah, be with nine months.
+00:42:08 - mark sweet
+Some of the other states when we're just learning it, definitely take longer.
+00:42:12 - Tina Marie (profitdriversinc.com)
+Yeah. So, well, the point of the question was like, what kind of timeline should we set out before trying to make an evaluation that makes any sense?
+00:42:25 - mark sweet
+So I'm probably in mid-next year. Okay. But I'm being like March.
+00:42:31 - Tina Marie (profitdriversinc.com)
+Okay.
+00:42:32 - mark sweet
+March to soonish range. March, I think it would be earliest.
+00:43:10 - Tina Marie (profitdriversinc.com)
+Oh, my little girl's birds are so loud. I heard the before, so aggressive. She's gone through so many. She had two that died and then so they were all quiet in the beginning, but then this last one that we got and the one that managed to survive all the other death, they're just super aggressive and I was like, oh, birds are not clean and their loud ones have a bit like the nice little chirping does not bother me. aggressive crop goes on from the time they wake up in the morning until late at night. And I really can't do anything about it because these kids have no mental fortitude, okay? They break down and stay down over anything. none of that soccer, that's all I'm saying. Okay.
+00:44:04 - Dan Ryan (danddcompany.com)
+And then the birds just dropped out of the blue.
+00:44:07 - mark sweet
+So there's that. Yes, out of the blue.
+00:44:11 - Tina Marie (profitdriversinc.com)
+No, I know I'm picking up, putting down.
+00:44:14 - Dan Ryan (danddcompany.com)
+No, no, they do. I'm just saying we not have no birds.
+00:44:18 - Tina Marie (profitdriversinc.com)
+both dropped in. They do, but the most of it is because of the quality, the pet stores. And so we went to a different place and I've got some healthy birds. So there's that. Anyway, okay. So next thing on my list. Oh, appointment was litified to go over and what project. But by working on, is there any kind of time frame you can get me about this?
+00:45:06 - mark sweet
+I literally don't remember the name of the project.
+00:45:12 - Dan Ryan (danddcompany.com)
+We're bird out one.
+00:45:13 - mark sweet
+I know we're still working on that one as well. It was a different one. Yeah.
+00:45:17 - Tina Marie (profitdriversinc.com)
+will say I was sending some stuff today for that.
+00:45:20 - mark sweet
+But I know he is working on that one.
+00:45:23 - Tina Marie (profitdriversinc.com)
+I'm going to I'm going to send an email with. It's okay just to say, hey, can you keep me updated on the project? So and when you think about it, I'll work it better. But what if I work for animation in the condo? Let me just do this for quick. Remind me when he's going on paternity leave.
+00:46:29 - mark sweet
+We don't know the exact date. More than likely this month, we just don't know the exact date.
+00:46:36 - Tina Marie (profitdriversinc.com)
+The ones I want to get for. Is he going to be working from home at all?
+00:46:40 - mark sweet
+Not really. We've already had him write out all his protocols and then we had the backup anyway with Paul and Bo. So we have functionality while he's gone. Obviously, it's going to slow us down to some level. I don't want to cherry coat it, but it's not we're going to be.
+00:47:03 - Tina Marie (profitdriversinc.com)
+And how long is he going again?
+00:47:07 - mark sweet
+I think he gets two months.
+00:47:11 - Tina Marie (profitdriversinc.com)
+Oh, six weeks or eight weeks, I forget. Okay.
+00:47:18 - mark sweet
+What's their first kid. He's excited.
+00:47:20 - Tina Marie (profitdriversinc.com)
+Yeah, that's awesome though. So frustrating for work. But that's awesome.
+00:47:27 - mark sweet
+Yeah. It seems to be happening lot of year. We got a bunch of people out from Missouri. Thing. There we get more. is going to keep happening.
+00:47:38 - Tina Marie (profitdriversinc.com)
+Yeah. So in terms of the next step with getting on the phone with Josh, who's driving that conversation?
+00:47:48 - Dan Ryan (danddcompany.com)
+You two work. Good thing over. I was literally expecting to hear the update on that meeting.
+00:47:58 - Tina Marie (profitdriversinc.com)
+Well, I didn't get a reply.
+00:48:00 - Dan Ryan (danddcompany.com)
+from Mark the last that I recall and check and see so it's on me okay who's the last thing on that one so I'm trying to see because from Dan we have that was like last week he answered the wrong scope then he was busy with this red job and he doesn't really take on clients like this he did he needed he wanted to talk to you basically so he hit me up and was like I need to talk about the different pricing structures or whatever and I was like oh yeah no that's not me that's Mark so I hit you up and then we were trying to be on Walker so I hit you up to try and meet with him on Thursday and Tina was like I want to get in on that and I was like okay well go ahead and set it up And then she's like, Dan, don't need to be there.
+00:49:02 - mark sweet
+And I like, oh, bye. Wait, what? Yes, that's what happened. feel like I missed a whole chain of emails.
+00:49:09 - Dan Ryan (danddcompany.com)
+I think you might have.
+00:49:12 - Tina Marie (profitdriversinc.com)
+Well, part of that was on our call we talked about it. was like, well, because you explained to me that Josh wanted to meet with Mark, so that he could ask questions to validate the data that he seen. And I was like, well, I mean, if he's asking, I want to be on there so I understand what Josh knows. I know how to use him as a resource. Well, he needs Mark so he can get the data validation. I'm like, I don't know what Dan needs to be there for in terms of like, I'm here to protect Dan's time also. So anyway, that was my reasoning and logic. Questions from Josh. Where is this? It's, I mean, I don't know. Anyway, I don't care. just want to see us get to this conversation and move this over.
+00:50:00 - Dan Ryan (danddcompany.com)
+So we just or you we whoever we just need a book time with them.
+00:50:04 - Tina Marie (profitdriversinc.com)
+I think he sent me his calendar away So I will send that to you guys Because I can I can do it if it's on a Thursday, but I you know constantly booking What mark there's a decent for me, so you know my calendar should be fine me too um Anybody know what the that subject line was for that last combo because I cannot find it So I have can I please connect with josh that was okay. Yeah, that was not it It was a not I have how we looking Uh, no It was a Dan email that he forwarded That was forward how we looking Okay How are we looking? Also, Tina. Oh, yeah, I thought I replied to that. I did. I because it says I did.
+00:51:11 - Dan Ryan (danddcompany.com)
+I swear you didn't.
+00:51:12 - Tina Marie (profitdriversinc.com)
+I have the universe.
+00:51:13 - Dan Ryan (danddcompany.com)
+The universe is like, no, you're not.
+00:51:15 - mark sweet
+None of you are going to get that email. So I don't have it either. Yeah, Tina would like to be there until we're 26. And then Dan primary delay was blah, blah, I've got on this from Monday, October 20th.
+00:51:35 - Dan Ryan (danddcompany.com)
+You literally sent an email that said Dan doesn't need to be there.
+00:51:39 - Tina Marie (profitdriversinc.com)
+I know you did.
+00:51:39 - Dan Ryan (danddcompany.com)
+Okay.
+00:51:42 - Tina Marie (profitdriversinc.com)
+Well, I know I chat to you.
+00:51:44 - mark sweet
+Said I don't know.
+00:51:47 - Tina Marie (profitdriversinc.com)
+Dan has to be there since what Josh needs is data from you, Mark, and I'm just there to poke and prod and dissect and dry. So anyway, that was the last thing, but yeah, I don't know who's driving it in that email. There is. calendar link. So let's just click on that. Um, but it can't be me though, because he doesn't know me.
+00:52:10 - Dan Ryan (danddcompany.com)
+You wouldn't recognize my just need to pick the time.
+00:52:13 - Tina Marie (profitdriversinc.com)
+Okay, let me bring her real quick and show freaking massive headache right now. She's trying to not, uh, I literally just, I didn't work like to call them here. So we go on. Um, what does that have to be this Thursday?
+00:52:30 - Dan Ryan (danddcompany.com)
+Hell, it doesn't.
+00:52:31 - Tina Marie (profitdriversinc.com)
+We're driving this thing.
+00:52:34 - Dan Ryan (danddcompany.com)
+Okay. I, when I do, I have one at 11. I want to 12.
+00:52:42 - Tina Marie (profitdriversinc.com)
+See what he's got. I can do have a call at 11.
+00:52:49 - Dan Ryan (danddcompany.com)
+I have one at 11 and I want to 12.
+00:52:51 - Tina Marie (profitdriversinc.com)
+think I have another one. swear. just booked one.
+00:52:53 - Dan Ryan (danddcompany.com)
+I want that 12. I know, but I just booked one at 10 with this. Yeah, it's a name, Mark. Oh, , that's not until the 14th. But never mind. How did I do that?
+00:53:13 - Tina Marie (profitdriversinc.com)
+Well, one o'clock slot.
+00:53:16 - Dan Ryan (danddcompany.com)
+I could do that.
+00:53:18 - Tina Marie (profitdriversinc.com)
+Mark. On the clock. Yep. OK, next.
+00:53:23 - mark sweet
+You're on the seventh, right? 14?
+00:53:26 - Dan Ryan (danddcompany.com)
+Yeah.
+00:53:26 - Tina Marie (profitdriversinc.com)
+Um, so here I am. Nice. Sweet line. Meet with you on the five dashboards. Yeah, that work. I guess. at sweetlaw.com, down at dndco.com, yeah. Is that right?
+00:54:11 - Dan Ryan (danddcompany.com)
+No, it's spelled out.
+00:54:13 - Tina Marie (profitdriversinc.com)
+Dnd company.
+00:54:15 - Dan Ryan (danddcompany.com)
+Yeah.
+00:54:17 - Tina Marie (profitdriversinc.com)
+It's like, it doesn't seem right, okay. That's correct, down at dnd company.
+00:54:22 - mark sweet
+Yeah.
+00:54:24 - Tina Marie (profitdriversinc.com)
+Uh, you guys give me clicking schedule? Yeah. Right. That was a pretty meeting we just had. was good. Um, let me see if there's...
+00:54:41 - mark sweet
+Dan, you want to jump up to 10.30 on Thursday to tell these Magneto people they're doing in Rome?
+00:54:47 - Dan Ryan (danddcompany.com)
+Uh, I literally just moved. Hold on. just, I was like, why did I put the 14th? No, we're at the 7th. no, I just moved my 14th to the 7th, but let me just see what time I picked. because it's coming, it's coming to me right now. think I just did it for 9.30, so I can do them 30.
+00:55:07 - mark sweet
+Okay.
+00:55:09 - Dan Ryan (danddcompany.com)
+Might as well stack them up. What it's there for.
+00:55:16 - Tina Marie (profitdriversinc.com)
+Okay. And Mark, do you have any conflicts with our Thursday at 6 p.m.
+00:55:22 - mark sweet
+meeting? This week. No. I will on the 14th probably because that's our anniversary and I'm taking her out to dinner.
+00:55:38 - Tina Marie (profitdriversinc.com)
+Okay.
+00:55:38 - mark sweet
+Well, we're on the topic. I'm probably going to have a conflict on the 11th because I'm going to be in Arizona all day.
+00:55:45 - Tina Marie (profitdriversinc.com)
+11. Oh, Monday?
+00:55:50 - mark sweet
+I want the pain dogs invited us. But I also mean one of the Kairos, Lorenz, and I to watch a Phoenix Suns game with him.
+00:56:00 - Tina Marie (profitdriversinc.com)
+Oh yeah, he told me about that.
+00:56:02 - mark sweet
+Flight of Phoenix, but since I'm there, and I'm going to stay overnight anyway, after Monday I'll go visit a bunch of doctors in Phoenix, because I haven't been out there for a hot minute. And take a 30 flight back, because that's the latest one they had.
+00:56:18 - Tina Marie (profitdriversinc.com)
+So, on that week, do you want to move to, can we move to Thursday?
+00:56:26 - mark sweet
+Yeah, during the day I'm totally fine. Just the 6 p.m. is probably a problem.
+00:56:32 - Tina Marie (profitdriversinc.com)
+Dan, can we move it on Thursday for you?
+00:56:35 - Dan Ryan (danddcompany.com)
+That'd be the 14th. Oh, I just got rid of a meeting on the 14th. The queen could take. Now we're heading back Yeah, that's fine.
+00:56:58 - Tina Marie (profitdriversinc.com)
+One p.m. Or we can flip-flop our meeting and make this a 12 and then Maybe literally does better to me Mark, what about you?
+00:57:08 - mark sweet
+will make whatever Okay, let's do 1 p.m.
+00:57:19 - Tina Marie (profitdriversinc.com)
+the 14th and I'm moving that event only Send so you'll need to accept it to get it updated in your calendar. I think I Okay, so that should cover everything yet Okay, well we've got the basis Okay, yeah, we got to get to another meeting Thanks, we'll see if we make it to next week.
+00:57:56 - Dan Ryan (danddcompany.com)
+I'm storming the castle
+00:58:00 - Tina Marie (profitdriversinc.com)
+Hi, take care of yourselves. Okay, bye. Bye.

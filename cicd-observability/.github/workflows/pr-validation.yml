@@ -1,0 +1,89 @@
+name: PR Validation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate:
+    name: Validate PR
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Ensure PR title follows conventional commits
+      - name: Check PR title
+        uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          types:
+            - feat
+            - fix
+            - docs
+            - style
+            - refactor
+            - perf
+            - test
+            - build
+            - ci
+            - chore
+            - revert
+
+      # Run code quality checks
+      - name: Check code quality
+        run: npm run lint:report
+
+      # Check test coverage
+      - name: Run tests with coverage
+        run: npm run test:coverage
+
+      # Check if PR is adding sufficient test coverage
+      - name: Verify test coverage
+        uses: johanvanhelden/gha-clover-test-coverage-check@v1
+        with:
+          percentage: "80"
+          filename: "coverage/clover.xml"
+
+      # Check for size of PR
+      - name: Check PR size
+        uses: "pascalgn/size-label-action@v0.4.3"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        with:
+          sizes: >
+            {
+              "0": "XS",
+              "20": "S",
+              "50": "M",
+              "100": "L",
+              "200": "XL",
+              "500": "XXL"
+            }
+
+      # Labeler based on file changes
+      - name: Labeler
+        uses: actions/labeler@v4
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          configuration-path: .github/labeler.yml
+
+      # Automated code review comments
+      - name: Code Review
+        uses: coderabbitai/ai-pr-reviewer@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          exclude: "**/*.json, **/*.md, **/*.yml, package-lock.json"

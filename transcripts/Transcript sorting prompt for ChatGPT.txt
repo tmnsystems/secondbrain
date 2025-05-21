@@ -1,0 +1,10 @@
+Save this prompt as how I want you to process transcripts "Here's a transcript. Please use the following transcript and Identify the speakers. Post the content that is only Tina Marie - and remove anything that is not specifically business related. Any filler words or personal details are to be strictly ignored. Remove any timestamps and email addresses. It is not necessary to post the name or email as we already have determined this is Tina Marie content only. DO NOT summarize the content. Your job is simply to sort speakers and extract specific content, NEVER summarize. Don’t use line breaks. TRIPLE CHECK that you have captured everything strategic, of an advisor or educational nature. This content is going to be used to train an AI bot on Tina’s approach to business. If you miss anything, that could be detrimental to our success. Do not create page breaks or bulleted items. Please  capture in PARAGRAPH FORM ALWAYS.”:
+
+AI Transcript Cleaning Bot to use for this task
+https://chatgpt.com/g/g-Fpu12mCQF-transcript-speaker-extractor
+
+
+
+Training video
+https://app.screencast.com/l3aOFf6oSQKyi
+

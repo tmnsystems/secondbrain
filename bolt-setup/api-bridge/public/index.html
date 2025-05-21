@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bolt.diy API Bridge Test</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+    pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+    button { padding: 8px 16px; background: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; }
+    input, textarea { width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 4px; }
+    .result { margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Bolt.diy API Bridge Test</h1>
+  
+  <div>
+    <h2>API Health Check</h2>
+    <button id="checkHealth">Check Health</button>
+    <div class="result" id="healthResult"></div>
+  </div>
+  
+  <div>
+    <h2>Generate Code</h2>
+    <textarea id="codePrompt" rows="4" placeholder="Enter your code generation prompt here..."></textarea>
+    <button id="generateCode">Generate Code</button>
+    <div class="result">
+      <h3>Result:</h3>
+      <pre id="codeResult">// Code will appear here</pre>
+    </div>
+  </div>
+  
+  <div>
+    <h2>Test Agent Integration</h2>
+    <input id="agentId" type="text" placeholder="Agent ID (e.g., 'code-agent', 'content-processor')">
+    <textarea id="agentInput" rows="4" placeholder="Input for the agent..."></textarea>
+    <button id="testAgent">Test Agent</button>
+    <div class="result" id="agentResult"></div>
+  </div>
+
+  <script>
+    document.getElementById('checkHealth').addEventListener('click', async () => {
+      const result = document.getElementById('healthResult');
+      result.textContent = 'Checking...';
+      
+      try {
+        const response = await fetch('/api/health');
+        const data = await response.json();
+        result.textContent = JSON.stringify(data, null, 2);
+      } catch (error) {
+        result.textContent = 'Error: ' + error.message;
+      }
+    });
+    
+    document.getElementById('generateCode').addEventListener('click', async () => {
+      const prompt = document.getElementById('codePrompt').value;
+      const result = document.getElementById('codeResult');
+      result.textContent = 'Generating...';
+      
+      try {
+        const response = await fetch('/api/generate-code', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ prompt })
+        });
+        const data = await response.json();
+        result.textContent = data.code || 'No code generated';
+      } catch (error) {
+        result.textContent = 'Error: ' + error.message;
+      }
+    });
+    
+    document.getElementById('testAgent').addEventListener('click', async () => {
+      const agentId = document.getElementById('agentId').value;
+      const input = document.getElementById('agentInput').value;
+      const result = document.getElementById('agentResult');
+      result.textContent = 'Processing...';
+      
+      try {
+        const response = await fetch('/api/agent', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ agentId, input })
+        });
+        const data = await response.json();
+        result.textContent = JSON.stringify(data, null, 2);
+      } catch (error) {
+        result.textContent = 'Error: ' + error.message;
+      }
+    });
+  </script>
+</body>
+</html>

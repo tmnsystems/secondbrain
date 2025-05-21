@@ -1,0 +1,1121 @@
+{
+  "last_process_time": 1746330052688,
+  "processed_files": {
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/tina_style.md": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/tina_style.md",
+      "type": "style_guide",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/written_content/Blog Posts .txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/written_content/Blog Posts .txt",
+      "type": "marketing",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/facebookposts2015-21725.md": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/facebookposts2015-21725.md",
+      "type": "social_media",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript sorting prompt for ChatGPT.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript sorting prompt for ChatGPT.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Warren Trust Ops.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Warren Trust Ops.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Mark Sweet + Basis + Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Mark Sweet + Basis + Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(18).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(18).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(17).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(17).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(16).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(16).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(15).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(15).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(14).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(14).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(13).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(13).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(12).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(12).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Maria & Tina🪄(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz_Patrick(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz- Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Lorenz- Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Laura + Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Laura + Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Fuji_Tina Coaching(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Chona(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis PM_Ops Meeting.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis PM_Ops Meeting.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(12).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(12).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Transcript for Basis Integration_Sweet Law(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done ranscript for Maria Gudelis.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done ranscript for Maria Gudelis.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Warren Trust Ops.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Warren Trust Ops.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Tina Maria CAll(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Thinking Big profits.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Thinking Big profits.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Seth.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Seth.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Profit Fairies(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick_Tina Consult Session.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick_Tina Consult Session.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Patrick(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Maria & Tina🪄(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz_Patrick(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Lorenz- Tina(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Laura + Tina(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(13).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(13).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(12).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(12).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Fuji_Tina Coaching(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Etsy Team Meeting.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Etsy Team Meeting.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chris Mason_Profit Drivers.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chris Mason_Profit Drivers.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Chona, Mark, Tina(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis PM_Ops Meeting.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis PM_Ops Meeting.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(9).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(9).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(8).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(8).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(7).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(7).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(6).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(6).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(5).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(5).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(4).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(4).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(3).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(3).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(2).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(2).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(14).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(14).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(13).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(13).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(12).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(12).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(11).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(11).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(10).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(10).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(1).txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Transcript for Basis Integration_Sweet Law(1).txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Patrick.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/Done Patrick.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/All Fathom Transcripts.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/transcripts/All Fathom Transcripts.txt",
+      "type": "transcript",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/Prologue.md": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/Prologue.md",
+      "type": "marketing",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/your_comment_edits.txt": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/facebook/your_comment_edits.txt",
+      "type": "social_media",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    },
+    "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/prologue.md": {
+      "path": "/Users/tinamarie/dev/SecondBrain/apps/ai-writing-system/writing_samples/prologue.md",
+      "type": "written_content",
+      "modified_time": 1746330052688,
+      "last_processed": 1746330052688
+    }
+  }
+}

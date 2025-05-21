@@ -1,0 +1,458 @@
+00:00:00 - Laura L
+Hello hi Tina sorry I'm earlier no problem I also even asked you if you could do earlier because I got done from the gym earlier but and I had things to do so it's fine it worked out totally fine how are you doing well yourself tired but good so we figured anything out this week how's going yeah I already and added funnel kit into the WordPress they will with Elementor so I imported the lead magnet funnel sample panel and the sales funnel as well you want to show me okay sure yeah sharing my screen
+00:01:01 - Tina Marie (profitdriversinc.com)
+Yeah, it says you have, but it hasn't come through yet.
+00:01:04 - Laura L
+Oh, sorry, it's kind of probably slow. Yeah, because I open it out of windows and tabs.
+00:01:16 - Tina Marie (profitdriversinc.com)
+Turning off the video probably helps.
+00:01:19 - Laura L
+Okay.
+00:01:24 - Tina Marie (profitdriversinc.com)
+Oh, there's a screen. I can see it.
+00:01:28 - Laura L
+Okay. Can you see my screen now?
+00:01:32 - Tina Marie (profitdriversinc.com)
+Yep. Let's see your calendar.
+00:01:34 - Laura L
+Okay. Sorry. So this is the. Inside the wordpress and the funnel kit here. Okay. And these are the sample. One else that I imported for the sales page. There's two. So just maybe you could check. Which one would you like? I can we could just customize and this is the opt-in final.
+00:02:06 - Tina Marie (profitdriversinc.com)
+Yeah, can you show me, but also this was supposed to be on ProphetDrivers.io, not Tina Marie.io.
+00:02:13 - Laura L
+Okay, because I check with the WordPress for Prophet Driver, but it doesn't have Elementor.
+00:02:22 - Tina Marie (profitdriversinc.com)
+No, that's why we need to add it.
+00:02:26 - Laura L
+Okay, we need to install Elementor in there with Prophet Drivers.
+00:02:32 - Tina Marie (profitdriversinc.com)
+And you need to be really clear because I have two Prophet Drivers domains. one is ProphetDrivers Inc. dot com and we're not touching that. The other one is ProphetDrivers dot IO, and that's the one that we're gonna put it on.
+00:02:46 - Laura L
+Okay, let me check.
+00:02:48 - Tina Marie (profitdriversinc.com)
+should be in Trello correctly.
+00:02:52 - Laura L
+Because I don't have the access, I think, to ProphetDrivers IO, WordPress.
+00:03:00 - Tina Marie (profitdriversinc.com)
+You could actually remove whatever's there and just do a fresh install at Presidium. Yeah, you can just click on profit drivers ink there and it that's my account, but it'll show you all the things. So profit DIO that one. Okay. Um, you can do a manage website probably And Um, I don't know if it'll let you remove it. Can you scroll up? You And scroll down. All the way. All right, let me see. It might be easier just to go ahead and update it. me go. See if I have it saved. Nope. Nothing even loads for that profit drivers.io. Let me go to Namecheap and see what the name servers are. So annoying. I've got that reset my username and password.
+00:05:48 - Laura L
+It says the domain is active but the page doesn't load up.
+00:05:53 - Tina Marie (profitdriversinc.com)
+Yeah. might be that only members of profit drivers IO is um active and not actually anything on profit drivers you know that says 4042 so that right there just pause, pause, resolve, pause please um you keep scrolling can you pause like not scroll okay sorry um yeah resolves to the wrong thing so that's probably um that it's not got the right name servers um so let me see did it go to junk mail name cheat there we go you Oh, and now I got locked out, that's awesome, okay, so yeah, so I can't change it. Um, I need to probably resolve the name servers, so go ahead and show me what you did on the other ones and then you can replicate it on the right domain once I can get into there and change the name server so it's pointed at per city.
+00:07:41 - Laura L
+Yeah, I think I could just export them and import to the right WordPress account.
+00:07:48 - Tina Marie (profitdriversinc.com)
+Yeah, that would be nice.
+00:07:50 - Laura L
+Can we hit preview? Okay, sure. I just got it from the available templates that is compatible with Elementor. So yeah, we could actually just customize this.
+00:08:20 - Tina Marie (profitdriversinc.com)
+And what do they have for animations for creating that movement that we were talking about?
+00:08:26 - Laura L
+Yeah, Elementor has this animator that we could use. just need to create like an image to be used or to be animated. I've checked out in Elementor funnel builder or the funnel kit. It has this animation that we could use.
+00:08:48 - Tina Marie (profitdriversinc.com)
+So they had headlines and text move and images. can use placeholders. I just want to know that we have something that will make acceptable movement. So I just need a it doesn't have to be the right stuff.
+00:09:05 - Laura L
+I just need to see what it can do. Okay, so you want just like a placeholder to I'll do that.
+00:09:15 - Tina Marie (profitdriversinc.com)
+What are the other pages you made and can I see this all the way down? Nice. Okay, and the other one.
+00:09:54 - Laura L
+Okay, this is the other one. It's for the course sales page.
+00:10:00 - Tina Marie (profitdriversinc.com)
+Nice. So what I would love to see a scroll up piece to the green area right there, like if, um, if that could move. So when you scroll down, something happens.
+00:10:23 - Laura L
+Okay. So it would be, it would be unmated.
+00:10:27 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. And what are the, if, if it can be animated, what are the animation options?
+00:10:34 - Laura L
+Okay. Yep. Maybe an arrow down pointing here, something like that.
+00:10:40 - Tina Marie (profitdriversinc.com)
+No. Um, can you edit that section and see if there's like, um, animations available. Like if you go to edit with Elementor. Theme builder, maybe. don't know. Okay, so that section here, okay, so that, just click on the what if you stopped, just so we can see, um, style or advanced, maybe, oh motion and effects, down, no, on vertical scroll, horizontal scroll, okay, click on vertical scroll. Okay. it.
+00:12:07 - Laura L
+Okay. The direction of the speed and the view for it.
+00:12:13 - Tina Marie (profitdriversinc.com)
+Okay. Got it.
+00:12:16 - Laura L
+Could we try this?
+00:12:19 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:12:22 - Laura L
+One hundred percent or the report.
+00:12:25 - Tina Marie (profitdriversinc.com)
+Yeah, just click. Just click. Got it. Unclick the edit. Yeah. Scrolling effects. Uh. so that's good. Let's see what it looks like if we can preview that. Yeah, and then I think that eyeball was probably previewed.
+00:13:16 - Laura L
+Okay, just to make that.
+00:13:19 - Tina Marie (profitdriversinc.com)
+Yeah, so we want to do different things, but that's good. So it can do that. So we can go back and play around with the different types. Can you go back to the editing page? Wasn't that your tab to the left? Isn't it the editor here? No, the tab to the left of this tab immediately to the left.
+00:13:56 - Laura L
+Yeah.
+00:13:59 - Tina Marie (profitdriversinc.com)
+Okay, so we just have a little bit. Okay, slow down, we'll go to the advanced, and motion effects, oh, whoa, those scroll. I'm going to click edit for the vertical, yeah, speed, let's slow that down.
+00:14:30 - Laura L
+Two, yeah, let's try one, see what happens.
+00:14:39 - Tina Marie (profitdriversinc.com)
+And direction, let's see what direction is. Okay, let's do up. And then don't save it, just click preview. See what happens. Okay, Okay, let's go back to the editor, which you have opened twice now, because this opened in a new browser window.
+00:15:22 - Laura L
+Let's try three, and just Okay, so that's not very interesting, let's try one of the other trends.
+00:16:00 - Tina Marie (profitdriversinc.com)
+it's the animations and do horizontal swirl. don't know if that will do anything. Oh, yeah, it looks like it will.
+00:16:15 - Laura L
+Okay. Yes, pretty little level.
+00:16:17 - Tina Marie (profitdriversinc.com)
+And then I don't know what the viewport does, but let's see that as is and then let's change the viewport. So let's just go preview. Yeah, okay. And then let's go to the viewport part. Yeah, I don't know what that'll do, but just move it over to the middle. Move it over more.
+00:17:15 - Laura L
+Okay, it's like centering or something.
+00:17:19 - Tina Marie (profitdriversinc.com)
+Yeah. Okay. now preview and see what happens. Yeah, that's not a big movement, is it? I mean, I can't tell because I'm sharing the screen and I don't know how fast.
+00:17:50 - Laura L
+Nice, just like jumping or bouncing. Maybe we could just maybe do like a gift for this instead of.
+00:17:58 - Tina Marie (profitdriversinc.com)
+No, because I wanted to be on squirrel. Okay, um, and it'll look different on the, on the page. Okay, so let's, let's go back to the editor. Um, let's see what scale does. Scale up. Wait, wait, what was the other one?
+00:18:28 - Laura L
+Scale up, down, down, up, up, down.
+00:18:31 - Tina Marie (profitdriversinc.com)
+Let's do up, down. Okay, and preview.
+00:18:48 - Laura L
+Okay, it's like popping up, popping or zooming.
+00:18:54 - Tina Marie (profitdriversinc.com)
+Yeah, but I thought it would go up and down, like, basically out in kind of thing.
+00:19:00 - Laura L
+Or maybe we have to take them off.
+00:19:05 - Tina Marie (profitdriversinc.com)
+Yeah, let's see what happens there. Back to default. Yeah.
+00:19:12 - Laura L
+And just leave the up down scale.
+00:19:16 - Tina Marie (profitdriversinc.com)
+Yeah, but let's edit it one more time.
+00:19:23 - Laura L
+Right down the viewport.
+00:19:25 - Tina Marie (profitdriversinc.com)
+Put the viewport all the way to the left and all the way to the right. And then preview again.
+00:19:56 - Laura L
+Okay.
+00:19:57 - Tina Marie (profitdriversinc.com)
+so maybe we need to move them in. more. This may be like 30, 70.
+00:20:18 - Laura L
+There, 30, 30, and 70.
+00:20:24 - Tina Marie (profitdriversinc.com)
+70. No, 70. Yeah, keep going. Okay, see, preview. Let's scroll up. There go.
+00:20:51 - Laura L
+Yeah, just a very minimal movement.
+00:20:54 - Tina Marie (profitdriversinc.com)
+Yeah, that's better though. Let's go back to it and just do up. down. Let's just do down. Let's do down.
+00:21:08 - Laura L
+We're the same speed.
+00:21:11 - Tina Marie (profitdriversinc.com)
+Yeah, we can try a little bit faster and see what happens. I don't know how much I can see because of the speed that looks like size. Yeah, it's just this size. Yeah, okay. Let's just try preview. Start at the top.
+00:21:43 - Laura L
+Okay, it's like going.
+00:21:45 - Tina Marie (profitdriversinc.com)
+Oh, as you scroll, let's go.
+00:21:47 - Laura L
+Okay. Yeah. So because we automate, I mean animate this crawling or do this crawling.
+00:21:53 - Tina Marie (profitdriversinc.com)
+Yeah. Okay, scroll down more. I like that, actually. So that's good. and so when you go down it becomes smaller and when you go up it becomes bigger which is good as long but we needed it to be contained it's not contained so it cuts off and you can't see it so that's a problem so we'd want to fix that but that's good that's a good animation that's similar to something I think that James I remember we want to use that just kind of model only because they're animations that I like and it's an example of things that work so let's scroll down a little bit and okay if you click on the 45 it's not like it's not an edible block piece scroll up a little well too much too much too much there the whole section basically Is that section not editable? Oh, go back into the editor, sorry. We're not in the editor. OK, now there we go. Hey, click on that and advanced and motion effects, OK? So we can make those, like if I wanted to make numbers pop out or have some sort of animation, we could do that.
+00:23:28 - Laura L
+So that's good to know.
+00:23:30 - Tina Marie (profitdriversinc.com)
+Yeah, maybe it's transformable. Rotate, and then have our effect is good, too. OK. So that's good. So that lets me know that we can do some stuff with Elementor. Let's go back to what is the, you had one other page, one other sample page.
+00:23:59 - Laura L
+Yeah. Let me cross this out first. All right, it's in the left. Is that okay if I'm going to close this off so we can get it right?
+00:24:12 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:24:22 - Laura L
+So the other one is the off in. Like this one here. It is a very short off in page.
+00:24:50 - Tina Marie (profitdriversinc.com)
+Okay, and can you go back to the funnel kit one where it says create a new funnel? I'm interested to see what that looks like.
+00:25:01 - Laura L
+So, these are the available templates that are, I mean, good with Alan Nenter.
+00:25:11 - Tina Marie (profitdriversinc.com)
+Can you click on sales funnels? I want to just go ahead and yeah, okay, hold on. Is there a row above them though that I missed? Or is that the top row?
+00:25:31 - Laura L
+This is the second row and this is just the checkout pages.
+00:25:35 - Tina Marie (profitdriversinc.com)
+Okay, then scroll down a little. Can you move the up work thing out, okay, and scroll down some more?
+00:25:48 - Laura L
+Okay, scroll down.
+00:25:50 - Tina Marie (profitdriversinc.com)
+Yeah. And more, scroll down more. Okay.
+00:26:07 - Laura L
+What's the stunner. Do you want to preview this?
+00:26:13 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. Just nice. It's good to check the page. Click the sales slash check out. One click up cell. Keep scrolling. Okay. And then click on the one click up cell for me, please. Okay. Over. Okay, and then the other one. Thank you page. Nice. Okay. So what are all the tasks that we had for this week?
+00:27:17 - Laura L
+For also in Thinkific. I'm about to create two communities for one free and one paid, but there's only one communities for the plan. Go back. I mean one community allowed for the for this plan that we are on.
+00:27:40 - Tina Marie (profitdriversinc.com)
+Okay.
+00:27:43 - Laura L
+And we could add the product page once. We already connected with Stripe and PayPal.
+00:27:51 - Tina Marie (profitdriversinc.com)
+Okay.
+00:27:52 - Laura L
+So this is the trap of the community. in preview, it looks like this, but I could, yeah.
+00:28:15 - Tina Marie (profitdriversinc.com)
+Okay, so how I my brain is fried. I don't even have anything else to say for assignments right now. What I'm doing, I just finished mapping out the whole framework for the course, the nine chapters, and then the lessons and the tasks, the action items, and more each of those chapters. my goal is to do one or two chapters a week of writing it, but I don't know how long it'll take me to record it and get it in here. So what I would like you to do for any time that you want to spend on is be get proficient at knowing element or in and out and set out knowing where the animations are what they look like and kind of compare to the James Wedmore site so that you can see like focus on what the animations are doing. Like let's go back to his page for a minute. Steve got it right open right there. It's next to the element or with that pink W.
+00:29:31 - Laura L
+Oh yeah, I already have.
+00:29:33 - Tina Marie (profitdriversinc.com)
+Yep. I'm not that one. I don't think. Hold on a second. Maybe it was. Work with me. Okay. Yeah. know the first one was right. Okay. So he's got that moving Jeff. He's got that.
+00:29:51 - Laura L
+See how it does that?
+00:29:52 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. So you grow down like it's really an obvious eye catching thing. That's what I'm trying to get. It's not about it moving in the same way, but it's being significant movement. So maybe you can reach out to the element or help and say and use this as an example and say, do you have any templates that can make movement like this and how would I do it?
+00:30:24 - Laura L
+Yeah, I could play around and also reach out to the element or help.
+00:30:32 - Tina Marie (profitdriversinc.com)
+And if you could do some research on making like GIFs that can move like that, and maybe we can create a Canva template where we can customize it, not necessarily that looks wave like that, but some kind of movement. It could be arrows, could be squares, could be lines, it could be anything, but the whole point is that, well, we don't want it to be too busy. So it's like that is not painful to look at.
+00:31:05 - Laura L
+It's kind of calming and soothing, right? Yeah. But it's really achievable in Canva because I tried one, like having downloaded as a gift. And for this here, I also noticed that he's using script for this movement.
+00:31:25 - Tina Marie (profitdriversinc.com)
+Okay. Okay. What script, what kind of script.
+00:31:31 - Laura L
+It's in the week three's. Css.
+00:31:42 - Tina Marie (profitdriversinc.com)
+Okay.
+00:31:45 - Laura L
+This one.
+00:31:51 - Tina Marie (profitdriversinc.com)
+Oh. Oh, there the enemy. A saw dash initial. AOS, Animate, on a tutorial link. And something else that you could do, like I don't know if there's a developer form or something that you can go and ask some questions like, hey, how do I replicate this type of movement? And could you, is there any way to look at the image, like, or if there are several images, so we could figure out how that's done?
+00:32:40 - Laura L
+Yeah, I hope this is the call it actually means in the art.
+00:32:51 - Tina Marie (profitdriversinc.com)
+Oh, I've never seen that before.
+00:32:59 - Laura L
+Yeah.
+00:33:04 - Tina Marie (profitdriversinc.com)
+So this would be the assignment. I would love for you to figure out how to create movement on a website, on a page like this. So not necessarily identical, but you see the concept that I'm talking about, right? Like it really catches your eye constantly, but it's not sharp and jerky. It's, you know what I mean? The whole point is that it's attention grabbing without being overwhelming. So if you can obtain that skill, first of all, it'll be something that's useful to other people as well, and you can use it again and again, but that's what I really want to have. And it isn't about it being pretty, or I like how it looks. It is about the function of catching the eye. are brains are so busy. are constantly scrolling. We lose attention. We have to do a lot of different things to try to get attention. Some of it is the colors. some of it is the words that are used. Some of it is the disruption of the way that page is left broken up, like left to right, left to right, left to right. So like the pink button is on the right, then it's on the left, then it's on the right, then it's on the left. When it's shrunk down like this, when it's bigger, it's probably not like that. But that's also why parallax works, because we're breaking up the colors. So that's why this is important, if we could be good at figuring out how to make the movement on the page, and it also needs to be fully responsive on any device, that would be good. reaching out to elements or support, using this as an example, and then maybe some developer forums and see what you could find, that'd be really great. would be a successful week to me if we can figure out how to create beautiful movement.
+00:34:58 - Laura L
+Okay.
+00:35:00 - Tina Marie (profitdriversinc.com)
+And if we can find something in Canva, and maybe a Canva Forum or something where somebody has done that there, or it's a combination, obviously it's going to be a combination of an image with the script. But maybe a YouTuber who can explain how to do that, if you're good at search, you might even give the URL to chat GPT, and say, hey, there's a moving line on this, how would I replicate that? In fact, let's just go do that right now, I'm going to do that, copy that, chat GPT. I'm I'm going to share my screen with you.
+00:36:23 - Laura L
+Okay. Okay, I'm going stop sharing now. Okay.
+00:36:32 - Tina Marie (profitdriversinc.com)
+So this is what I did.
+00:36:35 - Laura L
+Yeah. leaves it cold.
+00:36:38 - Tina Marie (profitdriversinc.com)
+Yeah. SVG wave and applies continuous left to right movement. Adjust the path. Green stock animation. So does that mean there's. actual. Okay. Okay. Thank you. Wow, I did not know that. Did you?
+00:37:43 - Laura L
+I actually did it. No, I thought that it's a combination of the image and the animation for the movement.
+00:37:54 - Tina Marie (profitdriversinc.com)
+So that's the color, right?
+00:37:58 - Laura L
+Yeah. Um, added the link to chat GPT.
+00:38:04 - Tina Marie (profitdriversinc.com)
+Uh, what?
+00:38:06 - Laura L
+I mean, you added the, I mean, include the link.
+00:38:09 - Tina Marie (profitdriversinc.com)
+To James, one more.
+00:38:11 - Laura L
+Yep. Oh, okay. Cause you're at chat GPT for.
+00:38:18 - Tina Marie (profitdriversinc.com)
+Yeah, because it is so much better than every other version. So. That's fascinating. I did not know that could happen.
+00:38:33 - Laura L
+Um, would you mind sharing the problem? So I'll be able to copy the code.
+00:38:40 - Tina Marie (profitdriversinc.com)
+Yes, actually, I should be able to just share this with you. Ah, hold on. I'm going to have to go to a browser window to do it. I think. Well, that's not what I want. I need to go to a different.
+00:38:58 - Laura L
+I think I might subscribe to chat GPT for. for. Because the three is just the break. I mean, the free subscription and it won't allow to base the link.
+00:39:09 - Tina Marie (profitdriversinc.com)
+Yeah, if you ever want some training on it, to see how it can at least be worth your investment, I'd be happy to show you. I use it all the time. Create my new line. Share this. Create the link. I'm going to drop it in slack slack for you so that you have access to it. Like outside of And then let me know what you're able to see when when you look at it.
+00:40:05 - Laura L
+Okay, got it.
+00:40:06 - Tina Marie (profitdriversinc.com)
+And see, I mean, maybe you can replicate that with another GPT version, but GPT for Oh, I don't even know how to explain how much better it is, but it's logic. It's yeah, it's it's there's no comparison to any other version in a way that even makes sense. That's how different it is.
+00:40:38 - Laura L
+So I know with the three is that it has limitation, like a free, I mean, required limit for a day.
+00:40:48 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:40:50 - Laura L
+Yeah, we see the prompt. I mean, the code. With a bumpy shade.
+00:40:57 - Tina Marie (profitdriversinc.com)
+Yeah, I'd be interested to see what version. You have, but I mean, what version you have, if you can get this out of a lower version, actually, you know what, I'll just, I'll just try this out of a lower version. New prompts, no use, GPT, which one do you have access to, only three five or four?
+00:41:17 - Laura L
+Yeah, only three five.
+00:41:19 - Tina Marie (profitdriversinc.com)
+I don't even have that anymore.
+00:41:23 - Laura L
+Yeah, I'm thinking, I think it's worth the investment to subscribe to four O then, because you can do a lot of things.
+00:41:31 - Tina Marie (profitdriversinc.com)
+I wonder if it's cheaper for you, like it's 20 US dollars for me.
+00:41:36 - Laura L
+Oh, 20, me convert that.
+00:41:42 - Tina Marie (profitdriversinc.com)
+But I wonder if they make it proportionate to your country, so it's not as much.
+00:41:53 - Laura L
+It's worth $1,144 for me.
+00:41:59 - Tina Marie (profitdriversinc.com)
+And if you You look, can you like go look at the pricing in your for you if you go sign in?
+00:42:06 - Laura L
+Okay, yeah, let me try that. So I, you know, or I could actually ask my husband to be a reporter.
+00:42:12 - Tina Marie (profitdriversinc.com)
+So we could, what does he do? Is there anything he could use it for?
+00:42:18 - Laura L
+Yeah, it's also into marketing as well. And oh my gosh, real states.
+00:42:23 - Tina Marie (profitdriversinc.com)
+I use it for calculations. I use it for formulas. I use it for writing. It's so much better at writing. And you can feed it huge files to train it. And it has a huge amount of memory now. So you can say, remember this. Don't ever forget this. And you can train it like you could not train it before.
+00:42:47 - Laura L
+Oh, just like before you need to sometimes let GPT remind of what you are asking like the person.
+00:42:58 - Tina Marie (profitdriversinc.com)
+not only that, you it remembers across chats. like you would used to have the conversation and you'd that have like this huge giant bio which would get really slow because that would be the only way it could remember everything. Now I could open up a new chat and I would say okay do you remember who I am? Yes your Tina you teach this you do this you do this and then okay do you remember what I taught you about how I want you to write yes this is your style blah blah blah it always remembers because it stores it and it's memory so the memory is limited but you have access to see what it is and like if you want to be like okay you don't actually need to remember this but it's still there is so much so I use it also for because I use a lot of homeopathic medicines and supplements rather than drugs for the things yeah but I have allergies and I have issues like with kidney pain so if I want to know something that helps with anxiety and depression but I need to make sure that it's safe for kidneys doesn't cause asthma issues, preferably is even better for kidneys and asthma, then it'll give me a list and then I can say, okay, but these are the other things that I take, so make sure it doesn't counteract with us. You can use it for medicine, therapy, so many different things to make it worth your money if you use it every day, because it's not like Google, it's conditional logic, and then you can go, like if it's something important, you can go verify it, but it's so fast, it's got the memory, it remembers across the chats, and you can use the one account for both of you for all of your stuff, and it, like you saw this, it created the code.
+00:44:44 - Laura L
+Yeah, immediately, it also shocked that you don't have to do second prompt asking this to get the perfect code for it, right, and so being able to ask the question, wait, I'm confused, do I have to create an image?
+00:45:00 - Tina Marie (profitdriversinc.com)
+It was able to answer that. No, you don't have to create one SVG. is what SVG means. This is what this is. Isn't it created? Like, you know what I mean? It's so much smarter than any person.
+00:45:11 - Laura L
+Yeah, because compared before, you need to keep going back and forth just to really get the perfect code that you really wanted.
+00:45:20 - Tina Marie (profitdriversinc.com)
+The other thing is one of the values of staying on top of it is that when the new versions come out, you're going to be that much more ahead of everybody else. And a lot of people are like, oh, it's going to do all my work for you. It's not. It doesn't have a human brain like that, but you can use it to do the legwork for you. So, the original thinking, like the framework for the code, so many, so many different things. It should be worth your time, and especially him if he does marketing. The market research, if you haven't...
+00:46:00 - Laura L
+um look for specific experts like I want you to do research according to Eugene Schwartz which is a direct response marketer and he's like the godfather of marketing uh it will give you theories according to him and it will be accurate and so then you can say all right well here's my product here's everything about it here's the issues I'm having um according to jean Schwartz what should I do just spin sit out so fast yeah I think I'm loving it and yeah I just check out the pricing still the same in your uh but it's maybe it's worth the money yeah it's literally worth the money I can ask one to pay half of it yes yes just feel like we we just we just have to make sure we use to make it work yeah it's really helpful though like like this time when we have to ask for a code and immediately get to the code.
+00:47:03 - Tina Marie (profitdriversinc.com)
+Oh, so let's ask it also. I. I always say thank you. I'm looking to create motion on my skills pages and using element for. I don't know which themes or functions. I need to make movements similar to the animations. Text. Right. For example, you're getting larger than small. where on scroll, or if I can just code these movements directly into the WordPress into to Elementor with custom scripts. And you advise me on how to make similar movements to James one more. What is it? training.com. Given the tools and text that I just described minimizing complications. as much as possible. My problems are long and I have always been able to get really good results out of it because I think of it as a person who can't get offended who's really good at what they do and so like sometimes it makes a mistake. I'll just say that is so nothing like I wanted or that's just stupid or you could do better than that but things like that and then it will literally try harder so anyway we'll see what it says. Select the widget and it's motion under motion and it was rolling effects turn on horizontal scroll and adjust the speed.
+00:49:45 - Laura L
+That's what we did.
+00:49:46 - Tina Marie (profitdriversinc.com)
+Right but it knows that's what I'm pointing out like if we didn't know it could just point that out or you could do customs CSS slide in translate 100 percent a scale. Fill up two seconds, infinite, alternate, element settings, okay, funnel, and pop-ups. Funnel kill allows for customizations and animations for funnels, pop-ups, screens, compatible themes. Can you tell me what parts of the code affect the size, the color of the text? Break each one down so I am crystal clear on how to get it just the way I want it.
+00:50:49 - Laura L
+Three seconds forward.
+00:50:52 - Tina Marie (profitdriversinc.com)
+Mm-hmm. Change the color of the text, we know that. Change this value size, we know that. Three seconds. Speed, slide in, okay, I want, um, what, um, oh, your animated text here, text, slide in, text, color. So, hold on, animation, sliding in, slide in, um, what about the translate x, uh, x, dash 100%, what is that, which moves an element horizontally across the x axis, so y axis, if we wanted to go up down, um,% moves the element to the left by 100% of its own width, if the element is 200 pixels wide, it will move 200 pixels to the left, effectively positioning it. Um, what if I only want to move is a specified amount of pixels, regardless of its size? See, this is worth the money.
+00:52:23 - Laura L
+Yeah.
+00:52:25 - Tina Marie (profitdriversinc.com)
+It will solve so many problems for you. And the fact that it new elements are an exactly how to go do it. So like if I ask you to go do something, you could go to chat GPT first and get really laser targeted directions. So you don't even have to go look stuff up first. It should save you. If it saved you one and a half hours a week. Well, let's say, okay, let's say it saves you 20 minutes a week. 30 minutes, I have to do math. minutes roughly a week, which is roughly two hours. And if you're getting paid $15 an hour. It's paid for itself.
+00:53:01 - Laura L
+Yeah. It's 30 minutes a week is all it has to do.
+00:53:05 - Tina Marie (profitdriversinc.com)
+And then if you're adding how much time has saved your husband and you double that, then it's actually making you money.
+00:53:12 - Laura L
+Yeah, it's really worth the investment. I really go and have to tell my husband to get this.
+00:53:17 - Tina Marie (profitdriversinc.com)
+Yes, you do. And because it's just going to keep getting better.
+00:53:24 - Laura L
+I mean, look how fast it got to here. Yeah, you need to just keep going back forth.
+00:53:31 - Tina Marie (profitdriversinc.com)
+Yeah. And this is the Mac chat GPT. I can just go like this. I can leave it on all the time and it'll just listen to me. And I need you to stop listening to me, but just go ahead and tell me what the weather's going to be Tomorrow and boys in Virginia, you can expect cloudy skies with a high near 84 green spares. There will be a chance of showers and thunderstorms throughout the day, especially in the afternoon. Yeah. So it's, I have a Mac, so it's built into this. If I don't turn it off, it'll listen constantly. But let's say I wanted to walk around the room, and I didn't want to be at my computer, but I wanted to do some research. You can do that.
+00:54:22 - Laura L
+Whoa.
+00:54:23 - Tina Marie (profitdriversinc.com)
+Pretty. You can do other stuff like multitasking. Yeah. Yep. Depending on, especially if you're using multiple devices, like talking to it on one device and then doing something on another one. So while it while it's figuring things out, because there's that lag time, but yeah, all of that to say Laura, Laura, because it's the Laura L.
+00:54:47 - Laura L
+So I always want to go to the world.
+00:54:52 - Tina Marie (profitdriversinc.com)
+Yes, it would, it would definitely be cost effective for you, especially because it's going to keep getting better. So and You're doing coding and developing. Let's, let's do this. Okay. Have you, has anybody asked you to create an automation recently?
+00:55:08 - Laura L
+Yeah. um, I have project that asks me to, uh, the, I mean, get the video views percentage. And then if it's available in go high level. Yes. Right. I think it's available if you use with, uh, the, um, current or their, uh, video builder, but not with other, uh, sharing the link or embedding the link.
+00:56:00 - Tina Marie (profitdriversinc.com)
+embed in the link where?
+00:56:03 - Laura L
+Inside the go high level funnel builder.
+00:56:17 - Tina Marie (profitdriversinc.com)
+So like inside of a snapshot?
+00:56:21 - Laura L
+I'm just sharing the link from embedded from a different video builder like VISTIA or Vimeo.
+00:56:32 - Tina Marie (profitdriversinc.com)
+Okay. I think I'm missing something. So where are their customers? can you just describe it a little bit more in a linear process like point A to point Z? Okay.
+00:56:52 - Laura L
+What does that look like? the customer will going to take an assessment and then after that there will be directed to a page where there's a video that they could watch before clicking a button to consult. So, but the video is for consulting. Yeah, to go for a consultation.
+00:57:21 - Tina Marie (profitdriversinc.com)
+Okay.
+00:57:24 - Laura L
+Yeah, the objective would be to check how much video percentage that the customer is. I mean, yeah, watching the video, how much the percentage and then so we could segment the amount of the video that they're watching and send them to the right automation. You Uh, so we're not doing reviews, right? Yeah.
+00:58:40 - Tina Marie (profitdriversinc.com)
+Okay, so let me let me. It's views. Okay, got it. Um, so I'm going to start a new chat because sometimes it does a bad job when you don't.
+00:58:59 - Laura L
+Okay, so you need to. to warm. I mean, start from fresh.
+00:59:35 - Tina Marie (profitdriversinc.com)
+Those are really great questions.
+00:59:37 - Laura L
+Yeah. So if you had, let me share this with you. Thank you.
+00:59:51 - Tina Marie (profitdriversinc.com)
+Also, any time, like, if you have a question and you want help with a prompt or something, after a few times you'll figure it out, you'll basically just be like, what's everything? I'm trying to accomplish. So that's what you want to do. You want to be as thorough as possible. Tell it what you're trying to accomplish and then ask it Do you need to know anything from me before you advise me? It will always ask you questions, and so You can say I don't have an answer for this. I don't have an answer for this, but here's an answer for that And then basically continue so just because it asks you something doesn't mean you have to answer it So you can say given what I've told you How how can we proceed?
+01:00:36 - Laura L
+Yeah, just leading them to What you wanted to get?
+01:00:41 - Tina Marie (profitdriversinc.com)
+Yeah, okay Like as thoroughly as possible here's everything that I could possibly tell you about the project Here's what we're using. Here's all the pieces involved. Here is the goal Here are the assets. Here's what we already have. Here's what we already know you want to be as thorough as possible, then ask it, is there something I've left out that you need to know? And then, okay, now that you know all of this, what would you say? And then so by its answer, it's almost immediately going to give you insight that you're going to be like, Oh, yeah, I need to do this, I need to do that, or I need to ask these questions. And then, so again, it may not tell you everything, but it will shave time off of what you're doing, Gary, like, just right now, probably.
+01:01:32 - Laura L
+Yeah, it already has high pump ideas.
+01:01:35 - Tina Marie (profitdriversinc.com)
+Well, not only that, but think about it this way, Laura, you could just send these questions to your clients. Yeah, I'm in and you're like, Okay, I don't know everything I need to know, chat GPT just told you everything you need to know. And you now have a very clear like format that you're going to send it to them. Like, okay, this is what I need to know. And they're going to be like, whoa, she is so organized. me That's for this for you. And then you copy and paste their answer back into here. There is no way it's not going to save you time.
+01:02:11 - Laura L
+Yeah, definitely. Yeah, I'm kind of excited to really try this now.
+01:02:17 - Tina Marie (profitdriversinc.com)
+And so that. So the only thing that I would ask though, because we didn't stop time. So I am totally, I will always donate my time to you. But I want to make sure that we separate that time stop the billing when I'm helping you with your stuff.
+01:02:33 - Laura L
+Yeah, yeah, definitely.
+01:02:36 - Tina Marie (profitdriversinc.com)
+But yeah, so if you have questions or anything, shoot it over.
+01:02:42 - Laura L
+I'm very happy to help you. And because I like being a nerd, so there.
+01:02:50 - Tina Marie (profitdriversinc.com)
+The automation to make your brain light up, all of this stuff makes my brain light up.
+01:02:54 - Laura L
+Like, oh, my god.
+01:02:56 - Tina Marie (profitdriversinc.com)
+There you go. But I'm okay being weird. I don't mind.
+01:03:03 - Laura L
+Yeah, I wish I could also have a brain like you, like it's kind of working all the time, even the way you're tired.
+01:03:11 - Tina Marie (profitdriversinc.com)
+It's exhausting. yeah. Um, okay, so I need to make myself wind down. I only got five hours of sleep. I just, it's fun. I told you how tired. Yeah, that's not how much I like this stuff because it just goes and yeah, anyway, I'm weird.
+01:03:34 - Laura L
+Yeah, I think we need to sort out the, uh, domain stuff for the profit driver. I owe then I could migrate all the, um, funnels that I imported in the 18 memory.
+01:03:48 - Tina Marie (profitdriversinc.com)
+Yes. Can you remind me tomorrow, um, because it's going to have to wait 24 hours to, um, remove the gate. Yeah, because I have to reset the password again, and then get the right name servers. And Presidium, you were logged into Presidium, but it tells you what name servers they should be. And if you're not positive what they are, you can ask a customer store, but it's in there because I need you to tell me what the name servers need to be so I can plug them in.
+01:04:24 - Laura L
+Yeah, all right, and do I have to have access to the wordpress port for the profit driver I owe where I can embed that.
+01:04:35 - Tina Marie (profitdriversinc.com)
+Great. I mean, if you have access to it, you should be able to just delete it because I don't think I even have login, but when I reset everything, I will check. And if I do, I'll send you the username and password and you can work with us there. Otherwise, we can just delete what's there, which you should be able to do from Presidium because that is the host and just write it because it doesn't have anything in place.
+01:05:00 - Laura L
+Okay, because right now the access that I have for Wordpress is the Tina Marie and the profit drivers, right?
+01:05:09 - Tina Marie (profitdriversinc.com)
+But it gets installed from Presidium, and it can be deleted. It should be able to be deleted from Presidium, so you basically should be able to wipe the domain and start fresh. Okay. I can't point it there, but we'll figure that out tomorrow. The first step is the name servers, or I don't know if it does name servers or the cname records and the ww records.
+01:05:40 - Laura L
+Yeah, I think you need to register the name record.
+01:05:45 - Tina Marie (profitdriversinc.com)
+Yeah, so if you could, because I don't want to have to think about it, if you could just tell me what the settings are, me a screenshot, whatever, so that I can just own a name cheap and set it. I know exactly where to go to set it. I just don't want to have to look up what settings need to be for Presidium.
+01:06:00 - Laura L
+to them. Okay, yeah, I'll send the information tomorrow then in slack.
+01:06:06 - Tina Marie (profitdriversinc.com)
+Perfect.
+01:06:08 - Laura L
+Okay, yeah, I'll do that tomorrow.
+01:06:10 - Tina Marie (profitdriversinc.com)
+Perfect. And good luck talking your husband into getting it.
+01:06:14 - Laura L
+Whether he likes it or not, I was still gonna go and proceed.
+01:06:18 - Tina Marie (profitdriversinc.com)
+really helps. mean, all you have to do is show him the math. Be like, there's no way this doesn't make us more money because I'll get this work done faster, but they're still gonna pay me.
+01:06:33 - Laura L
+So yeah, I'm gonna talk to him, but if he still not, if he doesn't want to, but I could still proceed, because yeah, I know that it would really help me. Because right now, when I had a maze of the things that it's really fast.
+01:06:47 - Tina Marie (profitdriversinc.com)
+Yeah, well, it might be my computer because I do have a really fast computer with really fast internet. But it is still so much faster than every other version.
+01:06:59 - Laura L
+Yeah. Because I'm using 3.5 and it's really slow sometimes and you need to keep going back and forth to really get what you wanted.
+01:07:08 - Tina Marie (profitdriversinc.com)
+Yeah, and there's going to be way more users on that model because more people not paying for it, you know?
+01:07:15 - Laura L
+Yeah, I agree.
+01:07:17 - Tina Marie (profitdriversinc.com)
+Yeah. Anyway, all right, let me know if you have any questions and send it over on Slack and then I will talk to you the same time next week, but we'll have some back and forth through Slack.
+01:07:30 - Laura L
+Okay, sure. And I prioritized this week the playing around with Elementor and put all the, I mean, review all the codes and try that one.
+01:07:41 - Tina Marie (profitdriversinc.com)
+Yeah, and basically try to mimic that type of movement as close as we can because that kind of movement specifically is it's appealing, it catches the eye, but it's not too busy and it's not too small.
+01:07:56 - Laura L
+Yeah, it's like a smooth flowing.
+01:07:59 - Tina Marie (profitdriversinc.com)
+Yes. Yeah, yep, that's I was wondering if we could also check like the speed if I mean in Google's speed test. Yes Yeah elements are supposed to be fast and if we if we use scripts for it, it'll probably be even faster Rather than some of the built-in functions. So that is also a focus. We we want to be able to have the Animations, oh you you mean like run a speed test on his site. yeah Yes, yes, you see if the score that he is getting in Google Page score yeah Yeah With the ranking of the search in Google But there's two things about it and one of them is is You know the bounce rate But of people that stay do they convert and we don't really have that information So we would test the pages and we could have a simpler, faster design, split test with the movement and then we'd have our own data and we would know does this really make a difference and that would be the smart thing to do. And that would definitely, I mean really that is what we should do, but if we can get the movement within, you know, half a second. Page load, second page load, no more than two second page load, then then it's acceptable to me. And if we can't, then Lynn, let's do a split test. If if we can get it, you know, if it takes longer than five seconds, no way.
+01:09:41 - Laura L
+Yeah. Anyway, we could always, yeah, do sleep test and the numbers won't lie and see which one would convert.
+01:09:49 - Tina Marie (profitdriversinc.com)
+Yep. Yep. That's what we want to do because we're going to, we're going to get the data that tells us we're not going to make assumptions about what we think is going to work and we'll measure everything. I want. Yeah, and I didn't even have caffeine. So that's just weird, but anyway, it's always nice talking to you I look forward to talking to you next week and keeping up with you throughout the week.
+01:11:11 - Laura L
+I'm excited about this Yeah, me too. really learned a lot of even though for just short time But I got a lot of learning from you.
+01:11:20 - Tina Marie (profitdriversinc.com)
+Yeah, makes me very happy because that's that's my job That's what I do. So I want to do that Yeah, thank you very much Tina. Thank you, Laura.
+01:11:30 - Laura L
+Have a good night or a good day You too. Have a great night. See you next week. Okay. All right

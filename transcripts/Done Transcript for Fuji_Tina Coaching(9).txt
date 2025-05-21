@@ -1,0 +1,324 @@
+00:00:12 - Tina Marie (profitdriversinc.com)
+That's weird, it's like grey, hi, hello, how are you, good and well, yeah, deep breath.
+00:00:26 - Fujinaka, M.D.
+Yeah, today is, this is our, my work week, so it's every day, every day, lots of meetings for me today, but I just came from a saw, so I'm trying to wake back up because she put me out.
+00:00:41 - Tina Marie (profitdriversinc.com)
+awesome. Yes, my lady, she's a Russian and she's been taking care of me for years and I just go like, like, I get baby like little girl taking care of and I'm like, oh, it's the best so. And then I was like, Booty paid for this today. Hey, glad to, glad to accountability. I like felt bad about it for a minute. I'm like, well, you use the one that wants accountability and you needed this. So we just get you to do your stuff without punishment. Then I'll pay for my own. Just happily. And you will have learned the thing.
+00:01:22 - Fujinaka, M.D.
+I don't feel bad at all. I didn't get it.
+00:01:26 - Tina Marie (profitdriversinc.com)
+So what are you ready to work on this today?
+00:01:30 - Fujinaka, M.D.
+looks like you are. Yeah, so this is from July. I'm like, you know, like we talked about two weeks ago, we hired the manager. been really good. I've been giving him, you know, little by little bit, giving him some of the tasks that I do, of which, you know, tracking the numbers is one of them. So we expanded this based on what we talked about, I think, two weeks ago. then last week we completed it. And so these are pretty much all of our data as far as we can go back and track. So we opened in April of 2023 and you can see we got 87 people that first month, we didn't really keep track of it then so we just started it the next month but essentially after that we started tracking how many new visits we completed and these are the follow-ups and you can kind of actually see that we were actually doing okay in some of the months like you know some of the ones last month we got 94 so this month we're we're act you know like we talked about we're actively trying to seek out second visits and third visits from from case managers. Awesome.
+00:02:41 - Tina Marie (profitdriversinc.com)
+I want to process the data but also I have some immediate thoughts. A couple of things are number one I would like to put a formula after column B which is basically the current month divided by the previous month. or, you know, and going up and down so that we're looking at a percentage of change, increase or decrease month to month, just kind of eyeballing the fluctuation on a percentage level. The raw numbers are helpful, but just that other perspective just kind of helps take a look at things. And it also is a faster way of triggering an appropriate level of alarm or yay, you know, celebration when you see those percentages. So we can do that pretty easily. And then I know that we don't know what you get paid per visit. I know that that's a unique thing. But what I would like to do is, and we were starting to calculate just kind of average fee per visit. I know how not accurate that number is. I am aware of that. But it gives us something to look at that does have a real corollary value, you know, to kind of look at how things are going. So as long as we keep that in perspective and don't, you know, and I know you won't, but just, you know, I'm not going to go. That's a real number. That would be something that would be good for us to do as well. Sorry about that. Let's see. It's all of us. It's okay. we're tracking Washington, Arizona, Mexico, familiar state to me. I'm meeting with Jonah and Margaret too. this is, this is my sweet love, oogee day. Good people. I like good people. All of us is completed. I love that that number went up. up even though number of referrals went down. So, let's see, actually, never mind. Okay, so total NP is completed. That's what I actually want to look at. And how many of those were referrals? NPV. What does NPV stand for? It's the first one.
+00:05:18 - Fujinaka, M.D.
+It's initial new patient visits.
+00:05:23 - Tina Marie (profitdriversinc.com)
+Yeah, a new patient visits. Okay. I was like, I know, think that that's initial, but I don't know of course. I think she massaged my brain just late. Okay, so that didn't go down that went up. That's awesome. That number had a couple of dips out of curiosity. Do you happen to have any idea what happened in November and December that your numbers went down? could you pinpoint that to anything? Or is that just? July is referrals and so this isn't like Q and me is the one that has a lot of you, right? Yeah, this is July. Okay. Um any idea what that dip was about?
+00:06:11 - Fujinaka, M.D.
+Yeah, you know, this is actually up in so up in these first six months I did all the marketing myself, meaning I'm calling, you know, was calling case managers like Mark's team and I was just begging them to send me a client and in October I actually stopped and I I bought three different marketing companies. So I put each of them charged me $1500 a month to market for me and I I said, Hey, let's try it. So I I tried three different companies. Only one of them actually did anything and I cut the other two off. But that's what happened in October and November is I stopped doing it myself. And I think you could see like by January like the three marketing companies, they started getting a little traction help me out a little bit. But the first few months that I stopped doing anything on my own, this is what happened.
+00:07:06 - Tina Marie (profitdriversinc.com)
+So are you still doing it?
+00:07:08 - Fujinaka, M.D.
+No, I'm just using one marketing company and yeah.
+00:07:13 - Tina Marie (profitdriversinc.com)
+Okay.
+00:07:14 - Fujinaka, M.D.
+And again, like this, you know, this value for a number of referrals is where I always wanted to be was about 400 a month. I thought just 400 referrals a month was good. know, 400 total visits would also be about right. So, you know, if we can get this every month combined with this number of total visits. That's actually kind of where I want to sit.
+00:07:37 - Tina Marie (profitdriversinc.com)
+But let's highlight those.
+00:07:39 - Fujinaka, M.D.
+Yeah. But you know, the other thing that Mark was saying is that, you know, we're worried about the insurance is tracking me and trying to become too big. But I, you know, I hadn't really talked to Mark about what, hey, what if I go after just other states, right? know, and obviously they're tracking me in California, but what if I really try to. higher or do the marketing myself in Arizona and in Mexico, Washington, and really try to grow the volume there. But I haven't really explored that.
+00:08:10 - Tina Marie (profitdriversinc.com)
+Well, can we make that a task? I didn't mean you make it a point of talking to him before we meet next week.
+00:08:15 - Fujinaka, M.D.
+Yeah, that'd be fun. Because it's really tough to end.
+00:08:20 - Tina Marie (profitdriversinc.com)
+Yeah. And the sooner we know, the better. I heard that you guys might be having the most epic 24 hours ever.
+00:08:30 - Fujinaka, M.D.
+Well, I just bought a car like I told you. And then last next week, we're buying a $4 million house. yeah, yeah, I will not be participating this year unless it becomes a little bit.
+00:08:45 - Tina Marie (profitdriversinc.com)
+I think he had quoted like 50,000 a person.
+00:08:48 - Fujinaka, M.D.
+Yeah, it's like, I don't know about that one.
+00:08:52 - Tina Marie (profitdriversinc.com)
+And you just had a brownie baby. And that's a little bit on the dangerous side. If I was us or I'd be like, oh, no, no, no, no, no, no, But that's just probably way cooler than me.
+00:09:03 - Fujinaka, M.D.
+Yeah, she's actually letting me go to my friends for you for a big, it's next month.
+00:09:07 - Tina Marie (profitdriversinc.com)
+yeah, it's different than like drifting, okay? And just like, oh, that's crazy. I saw that like my heart.
+00:09:16 - Fujinaka, M.D.
+Yeah.
+00:09:18 - Tina Marie (profitdriversinc.com)
+It looked really cool to do.
+00:09:21 - Fujinaka, M.D.
+Father updates on July front to help us meet this volume I actually brought on a fifth provider. It's a physician assistant network like all the four physician assistants and nurse practitioners that are working for me, all like they like working for me. So they're all like, hey, can my friend get a job with you? So I finally picked one that looked good. And so we brought her on. She's actually starting right now. She took a shift from 3 p.m. to 6 p.m. So she's seeing patients like right as we speak, this is her first day. So yeah, excited to do that. It'll increase our nighttime. And she's going to help in the evenings. weekends, particularly.
+00:10:01 - Tina Marie (profitdriversinc.com)
+So that'll help our capacity at those times to accommodate this volume. And what do you pay for that?
+00:10:08 - Fujinaka, M.D.
+I pay $75 a visit, whether it's a new or whether it's a return. And I increase their salary or I increase their pay to $30 after like six weeks.
+00:10:22 - Tina Marie (profitdriversinc.com)
+Okay, so it's still a good margin for you and let you increase capacity without burning out?
+00:10:28 - Fujinaka, M.D.
+Oh, yeah, I mean, I mean, yeah, on average, we make about what 300 per visit blended between using returns, right? So I'm paying them $30 and then my staffing costs about probably about $30 on the back end for each visit, so.
+00:10:47 - Tina Marie (profitdriversinc.com)
+Okay, so yeah, that's good. And they're per visit, not per hour.
+00:10:55 - Fujinaka, M.D.
+Okay. Yeah, totally per visit. I also pay them to if some patients want like a doctor's out to be excused off work. So I pee smell everything. charge, we charge for that. I charge for that to the lawyers. And then I subsequently pay them $12 if they write a work note for someone. And what do you charge for it? I charge $300 and I generally get paid about 50 on that.
+00:11:19 - Tina Marie (profitdriversinc.com)
+But $300 for the doctor's note?
+00:11:21 - Fujinaka, M.D.
+For the doctor's.
+00:11:22 - Tina Marie (profitdriversinc.com)
+Okay, okay. But you only get 50 out of it because of the way that, okay, got it, got it.
+00:11:28 - Fujinaka, M.D.
+Yeah, I mean, I've been about 25%. So yeah, so maybe 60.
+00:11:35 - Tina Marie (profitdriversinc.com)
+Awesome. So another formula that I want to have is the percentage of our PVs to NPVs. So that we're looking at.
+00:11:50 - Fujinaka, M.D.
+You know, I feel like we, I was supposed to do this. Do you think you could find the notes from last week? I was just looking real quick. I think we actually talked about. doing these things I just never did them.
+00:12:03 - Tina Marie (profitdriversinc.com)
+Yes, and I didn't send a follow-up to actually make it an official task, but we did for sure.
+00:12:11 - Fujinaka, M.D.
+Yeah, I wasn't so familiar. So I'll work on those and get them done.
+00:12:18 - Tina Marie (profitdriversinc.com)
+Yeah, and I mean, ultimately, and the faster we do this, the better your results are, right? And my goal is to make sure that you see the value in showing up and doing this work every week. This could be as possible because I want you to keep coming back. was like working with the same people. It's really nice for me. We do, we do. go. And the notes, that tasks.
+00:12:49 - Fujinaka, M.D.
+So I wanted to show you this one. This is something that you had kind of brought up about how we can track our workers remotely. so I want to the metrics that the manager and I came up with, it was just we look at their call logs like literally how many patients did you call a day right because if we know how many new visits or how many new referrals we got you know so if we got 300 in August that means there should have been there's 20 working days or there's 22 working days so there should have been like what 10, 15 calls a day and so and then obviously if you don't get someone the first day we call them at the second day so like if you can't look at any two days generally about right like they're calling you know most work days they're calling about not so many they're calling 20, 30 people a day something like that now Ollie Ollie actually works part-time she only works four hours and Eric and Carolina were eight hours so it is actually kind of interesting like most of the times it's almost double but there's some days where you see like she does almost as many as my full-timers so it's something the manager and I are going to look at, and this is the blended average so far that we created here.
+00:14:06 - Tina Marie (profitdriversinc.com)
+So what I would do additionally is actually put in the hours just so you again, there's something that is really powerful, and this is why we use the visuals, and also why we do specific types of formula and put data in a particular kind of way. Because what we want to do is make our brains be able to rapid-fire, get to the most powerful conclusion. So if you were to do that, put hours for each one of them, and then create a formula that were average calls per hour. Okay, we did that. Yeah, so oh there it is. I'm just focused. have tons of I thought it was. and I thought it would be the other way around. Wait, okay. So, when you say Eric slash Carol, how do I say that?
+00:15:06 - Fujinaka, M.D.
+Yeah, he has wife split a full shift. So he does the morning and she knows you does four hours in the afternoon.
+00:15:12 - Tina Marie (profitdriversinc.com)
+So, is that column H hours or calls?
+00:15:23 - Fujinaka, M.D.
+This is this column is how many total on average they did for day.
+00:15:29 - Tina Marie (profitdriversinc.com)
+Okay, so where are you getting the formula for calls for hours? where are you getting hours in your formula?
+00:15:35 - Fujinaka, M.D.
+Or did you just plug it in? Oh, we first we looked at just the total number of months or total number of calls they made in a month right here. And then we divided it by how many hours they work, hundreds in general.
+00:15:52 - Tina Marie (profitdriversinc.com)
+Okay, I was wondering where the hours came into the equation. Okay, so, because I thought you said that I like got more calls done.
+00:16:05 - Fujinaka, M.D.
+Oh, yeah, this is actually wrong. Yeah. She only worked 80. Yeah. that is right. Yeah. that's right. Yeah. That was wrong.
+00:16:13 - Tina Marie (profitdriversinc.com)
+Ally is actually working like double speed. Yeah. that is significant. And let's, I mean, if we were gonna have to do even math. mean, that's roughly like 50% more.
+00:16:30 - Fujinaka, M.D.
+I don't know how to use percentages.
+00:16:33 - Tina Marie (profitdriversinc.com)
+What do you do? in this case, you would divide 1.52 by 2.46 times about 100. No, just divide. You'll get the same thing.
+00:16:50 - Fujinaka, M.D.
+We just move the decimal point. That's all. Yeah, she's doing 61% more. I don't know it.
+00:16:58 - Tina Marie (profitdriversinc.com)
+No, that doesn't make sense.
+00:16:59 - Fujinaka, M.D.
+She's. Yes, she's doing 61% more. Yeah.
+00:17:05 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah, because if she was doing 200 percent, we'll see.
+00:17:10 - Fujinaka, M.D.
+she's doing 100 more than that would be 3.
+00:17:13 - Tina Marie (profitdriversinc.com)
+Right.
+00:17:14 - Fujinaka, M.D.
+Okay. Yeah. So she's doing 60% more.
+00:17:21 - Tina Marie (profitdriversinc.com)
+Then two people. So either one of them is very slow or both of them are slow. Or maybe she's just super fast and we do have we do get lucky sometimes and get because like Mark Scott, this girl Samantha and she kills everybody. She smokes everybody. She is a massively driven. You can't just go get us a man but you can't. So that might be what but it's worth looking into. It's worth considering. Do we share team numbers? Do we drive internal competition and incentive by saying here's the targets and here's the and maybe we don't want to because like the other issue Mark has is way too much incentive in his program and he's paying too much in payroll for it so we have to do the math before you offer any kind of incentive program but for sure at the very least this is something we need to be contemplating and not just look at and take it and go like okay that's dinner and not do anything we're there to be such a big disparity either you've got a rock star or you've got slackers and if it's a slacker situation then that's something that can potentially be trained potentially be incentivized or potentially you replace them but either way it's something to be thinking about
+00:19:00 - Fujinaka, M.D.
+Oh, you want to look at China?
+00:19:02 - Tina Marie (profitdriversinc.com)
+Let's see her say hi. Oh, my gosh.
+00:19:07 - Fujinaka, M.D.
+Hi. Hello. Yeah, we were just going to go take a nap and say we're going to say hi to daddy and then go take a nap.
+00:19:15 - Tina Marie (profitdriversinc.com)
+Oh, my gosh. I missed the little one so bad.
+00:19:19 - Fujinaka, M.D.
+Oh, so beautiful and perfect.
+00:19:22 - Tina Marie (profitdriversinc.com)
+She's just a perfect blend of the two of you.
+00:19:26 - Fujinaka, M.D.
+Hi. It's hard to tell her right now. I know they're so young. Yeah. Just trying to get to sleep in her own crib so she's not like contact napping all the time. Oh, just like you can't give anything done during the day.
+00:19:45 - Tina Marie (profitdriversinc.com)
+I remember that battle and I wish I had leaned into it way more than I did because that goes so fast.
+00:19:53 - Fujinaka, M.D.
+You cannot believe how fast it goes.
+00:19:55 - Tina Marie (profitdriversinc.com)
+Okay, so I shouldn't try to train her out of it too quickly. So here's the thing. you sleep very well with that Puji?
+00:20:02 - Fujinaka, M.D.
+I sleep better without him.
+00:20:07 - Tina Marie (profitdriversinc.com)
+We both agree that we sleep better like separately. Everybody is different but it's been interesting you know because I've got two that are all the way grown. I've got two grandkids and two that are mostly grown plus sisters and siblings and just working with people along that. There's this huge, I don't know, we all listen to different things and feel different things but trying to get kids to sleep alone and and parents get frustrated that they won't do it and those people, most of them don't want to sleep alone can't sleep alone and it's funny that they want really tiny children just to be able to be alone and be comfortable when it's not the natural thing. are cultures that are never away from their children. They pack them onto their backs. They don't mean you see that a lot and co-sleeping is just a lot more common and other cultures around the world. Yeah, so but you know when you're a driven mama and you have an active brain and you want to use your brain That's an important thing to and taking care of you is an important thing, and so it's difficult But the one thing I would say is whatever your heart calls you to do Lean into your heart more than your brain Your brain will get outlets later, but if you hurt your heart that damage can be So long-lasting and that's where the regrets come from not helping your brain I promise you Okay, that's good advice.
+00:21:38 - Fujinaka, M.D.
+I want to take out more of your precious hour with Tina, so Thank you wanted to show you something else that I am working on You want to So, okay, so this is where I really Can you coach to step in over the board? Yes, but yeah, I'll just show you what I am done.
+00:22:10 - Tina Marie (profitdriversinc.com)
+Oh, yes, the Bing.
+00:22:14 - Fujinaka, M.D.
+Bing background. Okay. Okay. Okay. Okay, so I have an online clinic and I have a company. We haven't like we just sort of started, but we market this thing. You get a brain MRI.
+00:22:49 - Tina Marie (profitdriversinc.com)
+Can you see my screen? I can and you told me a little bit about that.
+00:22:54 - Fujinaka, M.D.
+So, yeah, so anyway, I just, just kind of, we're just starting. this. And again, the payment structures are fluctuated, but essentially my cost for this brain scan is $1,000 of my cost, and I'm reselling it for $2,500. So each sale makes me roughly $1,500. And yeah, anyway, so that's that. I am just starting it with the founder of this technology. So anyway, I spent all yesterday night making this payment platform and this website and getting the bank account set up. So finally, everything's ready to go. have the business registered, I have the bank now, I have the website. last piece I need to do is just structure the clinic side a little bit better because I'm serving all 50 states.
+00:23:53 - Tina Marie (profitdriversinc.com)
+Okay, and where do your customers come from?
+00:23:56 - Fujinaka, M.D.
+Right now, they come from the company itself. So this company BrainKey out of Germany, people email them from the United States and it's like, I want to get your brain scan and since they don't have a US presence, they are sending them to me.
+00:24:14 - Tina Marie (profitdriversinc.com)
+And they say, hey, you have the machine that can do it, basically?
+00:24:18 - Fujinaka, M.D.
+Well, we have contracts with the imaging centers. A lot of the same ones Mark uses for his PI cases, actually. I just go to them and get a contract with me. Okay. So that's why it's the $1000. So the $1000 is about 800 of it goes to the MRI center where I send them and then about 200 I send it to BrainKey to analyze the results.
+00:24:43 - Tina Marie (profitdriversinc.com)
+Okay. So the value is in BrainKey's evaluation and reporting or, okay, you give me a little bit more about the USP, which is the unique selling point of why, why then?
+00:25:00 - Fujinaka, M.D.
+Yeah, they're the only brain analysis software on the market that can do these volumetric measurements. So if you look on this little screen, they're sectioning out the brain based on what structure it is, and they actually measure how big it is. So we could track over time pretty clearly, like if you're developing Alzheimer's, you're going to see this really specific area of your brain, unfortunately, strength, They show that that part of your brain, the amygdala for alcohol actually shrinks, shrinks, shrinks. And we could see it get bigger when you get better sleep, when you stop drinking alcohol, et cetera.
+00:25:42 - Tina Marie (profitdriversinc.com)
+Okay. And who's your target market for this?
+00:25:46 - Fujinaka, M.D.
+Do you have an avatar or multiple avatars? Yes. it's usually it's Asian males that make over 150,000 a year, they're single or not single. But it's Asian males over 100, making over 150,000 a year that would be. between the ages of 40 and 50 and, like, 58 to 65-ish.
+00:26:10 - Tina Marie (profitdriversinc.com)
+How much of that demographic is within your realm physically?
+00:26:16 - Fujinaka, M.D.
+A lot, because most of them tend to live around the major city centers, where I have the contracts with the centers.
+00:26:23 - Tina Marie (profitdriversinc.com)
+And why Asian specifically?
+00:26:25 - Fujinaka, M.D.
+I don't know. I think, I don't know. not sure why it's Asian. I mean, obviously, I think the majority is like, they're like, it's 50-50 Asian white male. I'm not sure why. I personally think it's like the midlife crises that these people are dealing with in general. Like, why it's a lot of males and not as many females.
+00:26:47 - Tina Marie (profitdriversinc.com)
+I could give you lots of reasons why it's probably more males and higher earning males, just because what got them to the higher earning was very stressful on their bodies. They overworked.
+00:27:00 - Fujinaka, M.D.
+probably during too much did all the network too much.
+00:27:03 - Tina Marie (profitdriversinc.com)
+They did a lot of things that they probably shouldn't do and have gotten to the point where, especially now in this world, we're very aware of the clock ticking but as well the opportunity and the medical technology that can buy us another decade or two. Whereas women, not as competitive, do a lot of things that are better for their hearts, they talk to each other, they've got a network, they're more aware of health in general and probably haven't neglected it to the extent and are also less likely to go and pay and spend this amount of money on themselves for their health or rather they'd go get, you know, breast and butt lifts so they look good for the man because that's not really for them, that's for somebody else kind of thing but the psychology behind it makes perfect sense to me to say it's part does not necessarily make sense to me and it's not really necessary because You don't have to, in the marketing, target anything that would be Asian specific, but the reason I ask about the avatars is because you do want the marketing to speak to them wherever they're at, whatever their values are, and for sure there's a, there's a huge difference, I think, between Asians period because of the collectivist culture with just the standard American, which is the individualistic culture, the values, the reasons, the logic for doing things is different. And so, like if you were going to, and I don't really know how much that applies to Asians living in America as much, but anyway, just the language, right? So are you doing this for yourself versus doing this for your family? And you would probably want to split test some of the messages. We would probably want to have a few different landing pages and keywords research campaigns. based off of what's happening. What I would be interested to know is what they know about marketing that works in other areas and what they would be willing to share with you.
+00:29:11 - Fujinaka, M.D.
+Yeah, and the only one that does this here. Yeah, so that's what's interesting about this opportunity to me is because brain key right now is only sold through brick and mortar concierge clinics. So the only way they're getting customers is they go to a concierge doctor and says, hey, give this to your clients and those are their salesmen. I'm like the first mass market clinic for them. But yeah, but because of that, you don't really have a good sense of like who they're, you know, who's buying it or why they're buying it because all there's, they see the data, right? They see how old the person is male or female, just from the scan data, but they're not actually talking to their clients, which is really interesting. It's like, yeah.
+00:30:01 - Tina Marie (profitdriversinc.com)
+Do you have any idea what percentage of doctors are Asian in your area or in any of the metro areas? Just wondering because culturalistically, more, let's say any other nationality to Asians, you're going have Asians and like Filipinos, which is a mix between Mexican and Asian, right? There's a huge drive to be doctors. So, I was wondering if the correlation just happens to be that there are more Asian doctors and they're pitching it to Asians because they're like, hey, I think you might like this more than some of these other people that don't, I don't know, like I'm trying to figure out what could that possibly, or could they have got that demographic from? anyway, my brain, I'm always trying to analyze because if you understand the demographic and the true data, then it makes marketing that much easier.
+00:31:00 - Fujinaka, M.D.
+So yeah, I just, yeah, the company, even like the owner, I, and I'm friends with the founder, he's just like, sorry, man, I like, I literally don't know because we don't sell this. It's only the upstairs doctors that sell it to their own clients. And yeah, like, I was like, well, do you have numbers? And he's like, well, not really.
+00:31:21 - Tina Marie (profitdriversinc.com)
+What is your, when you first thought about this, and up until now, what was your plan of attack for marketing?
+00:31:31 - Fujinaka, M.D.
+Well, I actually talked to Mark a lot about this, and it was really just to run Google ads. our thought was as long as I could make, you know, as long as I can make $100 more than my ad spend, it's very straightforward business, right? Yeah, I'm just, essentially, just reselling this product. I'm like selling online.
+00:31:56 - Tina Marie (profitdriversinc.com)
+Has, has Mark ever mentioned Dan to you?
+00:31:59 - Fujinaka, M.D.
+No.
+00:32:00 - Tina Marie (profitdriversinc.com)
+So Dan is a client that referred Mark to me that we do work together and Dan's very good at Google Ads and also Google Analytics. So especially because this is a new market, we're going to need to make sure that you've got analytics and that we're watching it closely. We're going to want to have a heat map on here. Do you know what a heat map is?
+00:32:26 - Fujinaka, M.D.
+Kind of like where they're looking and clicking.
+00:32:28 - Tina Marie (profitdriversinc.com)
+Yes. And we're also going to want to watch the behavior to find out what they're coming from. I think that some YouTube ads would probably be the most leverageable thing and the great thing of course is that combination between YouTube and Google is that you've got all of this data and they do, they're just really good at targeting by the algorithms, know, who might be interested in that. So if they're doing something that's relative like looking up a particular issue whose solution is you need an MRI. Guess who's at they're probably going to start up. Who's running ads for MRIs? Like nobody probably. I don't know. Anyway so creating some YouTube ads would probably be a good idea and a lot of that could probably be done with AI videos now. You know of course we could actually hire some people but most of it could be some either stock videos or a few like videos of the machine of the reports things like that with a voiceover which also could be AI. It could be a voice actor which we could pay very inexpensively off of Upwork something like that. You have a good voice. I think that's so weird but you're not anywhere near the first person to say that. I hated my voice until I was like mid 30s and Now I won't do video because I feel so gross and ugly. mean, I spent all Saturday. I spent my time doing videos for marketing. Can't do it. Anyway, this is life. We've all got our weird things.
+00:34:11 - Fujinaka, M.D.
+Anyway. But I was so excited, you know, I feel your excitement in this. And I think the same thing as your keen in on is what makes me excited is because it's really something that if I can get the marketing right, this can make a good, good, like another stream of income for my family, you know, if I could just make, you know, 10 sales a month, , that's, that's an extra, you know, 120,000 a year.
+00:34:42 - Tina Marie (profitdriversinc.com)
+And I'm really happy with that. You then have a massively targeted list of potential other things that you could offer them. So now you're not going to know what their test results or whatever.
+00:34:54 - Fujinaka, M.D.
+What is that? No, is one of the things that, yeah, I wanted to sell because the one of the. The big things, if people take a test step six months and nine months, if they sleep better, you can easily see their skin improves.
+00:35:08 - Tina Marie (profitdriversinc.com)
+So that was one of the things I was going to key in on, was like, um, what are we talking about when we first started talking and talked about naps and Steve and all that stuff.
+00:35:17 - Fujinaka, M.D.
+What?
+00:35:20 - Tina Marie (profitdriversinc.com)
+So, yeah, having like a list of people willing to, willing to pay money to improve their brain. mean, yeah, I think well, a significant amount of money and also there's, there's more to it than that. So you might have people who are willing to pay money and invest in their health, but this avatar is scientifically minded. This avatar is not just about health improvement, but this guaranteed is going to be about life quality and longevity. And that's a whole new level up here. Okay, right? That's not the person who's like maybe trying to cut sugar. out of their diet or be on a diet or whatever. This is the person that is like this is serious, this is important and so I don't know how much you studied marketing but if you were to study direct response there's a guy named Eugene Schwartz and he what's it called breakthrough advertising. You would do really well to study it that book is dense it's owned by one of my clients actually so Jean is referenced so many times. He talks about levels of awareness so you've got the I know nothing about whatever you're selling market all the way up to I know everything I'm just looking for the thing to buy. There's like seven levels of awareness and if you get to the point where somebody has bought this their level of awareness of brain health of what is needed. How do you avoid amyloid plaque and not get Alzheimer's? How do you, like, could you as an affiliate offer have some sort of brain training program and software that you create by yourself that helps prevent Alzheimer's? Like, there's so many different things, and if we're looking at you being in this business and having the compounding effect of additional revenue streams where you're, it's scalable and you're not doing it for your time. This has long tentacles out into the future that, and you can build it, and then somebody would probably go buy it from you for, like, $20, $30 million if you were smart about it because you're disrupting right now, nobody's doing this.
+00:37:45 - Fujinaka, M.D.
+That's fair. Alzheimer's is a great thing. This is actually one of the first campaigns that I wanted to run was actually run a campaign for Alzheimer's.
+00:37:54 - Tina Marie (profitdriversinc.com)
+Like, what if you, so have you heard that ultrasound waves are now able to... to break up amyloid plaque and that is the first thing that they've ever found that can reverse Alzheimer's. Yeah, there's been no way to get rid of amyloid plaque until now ultrasound, which makes sense that that could do that, but that it could safely do it.
+00:38:23 - Fujinaka, M.D.
+Interesting.
+00:38:25 - Tina Marie (profitdriversinc.com)
+So I'm also a medical nerd. study a lot. Health and longevity is a huge thing to me, so I like working with you.
+00:38:34 - Fujinaka, M.D.
+It's good.
+00:38:36 - Tina Marie (profitdriversinc.com)
+You can't tell I'm excited in my brain lights up about this, but anyway, if you found a service like that that you could also offer as concierge or make referrals or something like that, you already have the market. Oh, your scan came back with. And so because of HIPAA, you're not going to know anything, but what you can do is say, hey, you know, if you get results like this, here's what you can do. If you get results like this, here's what you can do. Now, HIPAA doesn't allow you to like ask questions per se or whatever or know the information, but they can self-select and I'm interested in this. So you have cause and effect. They select this, therefore, you know, probably assume the correlation and now you start marketing to them this type of thing. And then we get into email hygiene and how much better that makes your inbox, placement and all kinds of other things because you're super segmented and.
+00:39:35 - Fujinaka, M.D.
+And I guess that's why like I and that's the tough thing right now and I wanted to kind of get into too about like, you know, my time balance because, you know, we have we have something good going in July. And, you know, that's why like, you know, much how much my time should I be putting in July to kind of really pump, you know, pump my July business. We have the Q and is, you know, that we're making some changes to be more efficient on, you know, I guess, is this now a, you know, is this a good thing to really go after the delta, you know, I call it delta.
+00:40:13 - Tina Marie (profitdriversinc.com)
+So I'll tell you my overall strategy for everybody. And first of all, business 101, the verification. Your best bet at success is multiple types of things going on. So the first thought that I just had when you went back to July medical is, you know what, that's probably the way to build the funds to, you know, make sure that you've got everything that you need over here to invest in some marketing, to invest in some good advertising. Because if you're not, if you're going to do this, do it, do it right. Yeah.
+00:40:49 - Fujinaka, M.D.
+And it's not a, you mean delta?
+00:40:52 - Tina Marie (profitdriversinc.com)
+Yes. Okay. Yeah. But the other thing was I was like, well, maybe that just takes off the bumpers off of July medical, and you grow as big as you want to. And then somebody gets attention. and then and pulls you down. You're like, okay, bye done. But the insurance take care of its job of the liabilities and whatever happened to you and be like, okay, pull the plug on that. Moving on, thank you for the signal universe.
+00:41:11 - Fujinaka, M.D.
+Goodbye. Yeah. Yeah, and it's kind of just and you said that too, because we're, you know, I'm looking at the total amount of AR that we have and we just passed $5 million in AR, which is about one point, you know, if we get a 25% return, that's close to that's close to 1.5 million. So I think if we keep even just at this level, we're accumulating AR at about about three million, four million a year, just at this current level. So yeah, it's a good point that, you know, even in five years, if I get pulled down by insurance, I'm going to have accumulated, you know, close to 30 million in AR probably by then.
+00:41:55 - Tina Marie (profitdriversinc.com)
+Well, not only that, you now have some assets, you have doctor referrals, you could pretend actually sell something, have some sort of asset that is sellable, so maybe it's not the entity, but maybe it's the contacts, maybe it's the business relationship, and if you go and tell all these people that are referring to you and you go really vet the person, so somebody buys your business from you, which isn't really a business anymore, right? Because they have to do their own name, whatever. But what they're buying is the insertion into your network, and this person will be so vetted by you that you go make a personal recommendation to all of these people, hey, this person's gonna take care of you, I'm trying them on this, this, this, this, and this, but you actually don't really even need the reputation anymore out of integrity, you would do a good job, but let's say they didn't, let's say you vetted them wrong, if that bridge is burned, you've got all these other things going on anyway. That's a good question.
+00:42:55 - Fujinaka, M.D.
+What?
+00:42:56 - Tina Marie (profitdriversinc.com)
+That's good point. Yeah. Yeah. and that's the thing that You want, it's not invincibility, but it's, you want to be shielded from whatever can go wrong or if you're making the risk, it's a educated and it's an educated risk where you're, you've got everything coming. So you've got Delta when you've got QME and, well, no, I know, but I'm at July goes.
+00:43:29 - Fujinaka, M.D.
+Oh, yeah.
+00:43:31 - Tina Marie (profitdriversinc.com)
+Um, yeah. So, and I'm sure that other things are going to present themselves, um, as you, as you, as you go.
+00:43:42 - Fujinaka, M.D.
+I like that.
+00:43:44 - Tina Marie (profitdriversinc.com)
+Sorry, especially with whatever related to, like, if you get into the ultrasound stuff for, for Alzheimer's, first of all, that information needs to be so much more widely spread because it's such a big deal, like we lose people. Um, New, but the knowledge and the science behind it for the most part isn't new. It's just we found the missing piece and nobody knows about it yet. And it needs traction. And the other thing that we know is that government, health care, pharmaceuticals, whatever, we're going to do their best to keep that down because drugs are big money, sick people are big money. So you've got these two different competing markets. You have a great way to to to to I don't serve and leverage in there.
+00:45:35 - Fujinaka, M.D.
+Yeah, we actually hope that this, you know, this price point, we can actually lower it in the coming years. We think that the MRI bills will be lower next year, you know, just because every year the price seems to come down a little. So hopefully this, you know, we'll start to be able to offer this at like $2,000, for instance, every year. So like you're saying, hopefully this diagnostic piece will get cheaper every year. And then, you know, you pair that with the technology like treatment, like all just sound, that'd be really cool.
+00:46:05 - Tina Marie (profitdriversinc.com)
+And can they use like a health savings account for this?
+00:46:09 - Fujinaka, M.D.
+I have to apply through government, but yes, you have to get a tag.
+00:46:15 - Tina Marie (profitdriversinc.com)
+So the two things I would try to do would be to get that as quickly as possible. Because you want to remove friction from anybody who wants it as much as possible. So they can use, especially because entrepreneurial type people, if they don't have the insurance, we'll have HSA's because this probably wouldn't cover it in most insurance anyway, depending on what kind of diagnosis they had to begin with. And then the other thing is a payment plan. So there are lots of different services that you could sign up for that would give you a payment plan. And those two things right there are going to help remove some friction points right away. And then the other thing about a higher price point is that it allows you to offer like referral discounts. So refer a friend and you know, they say $500 or you say $500 on your next one or that type of thing. And you still preserve solid margins, but you know, that's the whole thing about marketing. They have the feeling that they've saved money. And the fact that they can't go get it anywhere else serves you a very good purpose right there.
+00:47:21 - Fujinaka, M.D.
+Okay. I like that. Yeah, I just asked Chat TPT to show me how to register my business to accept HSA after spending, like for Christmas time, that might be a good thing.
+00:47:34 - Tina Marie (profitdriversinc.com)
+of year. Yeah, I love that. And do you have targets? So you should talk to Mark and see if he thinks that you and Dan might be a good match. Dan doesn't just take everybody really what he does is he builds the websites. And the reason for that is because the speed, he needs to control the assets so that we can get really clean data. And that's, he built this whole thing for that purpose because it's really hard to get accurate tracking, but ads don't work very well if you don't have accurate tracking. So, he does that and he just likes puzzles and he, but he's very good at running Google ads in a way that almost nobody does. It's very low cost. So, anyway, it's interesting like when I first told Mark about this business, I actually, because you see how much I can afford to spend on this.
+00:48:33 - Fujinaka, M.D.
+I was actually, I actually went to Mark and said, know, should I hire someone to do my website, hire someone to do my marketing. And I thought Mark was going to say like, yes, yes, and he actually made me think about it a little differently that like, what is your business really? And so this business to me was like, it's really just a marketing play, right? I'm not, I don't own the brain scanner. don't own the game. the report maker, the brain key report maker, I'm just the reseller. And Mark was saying, you know, you should have at least a beginning understanding of how to create a website, create a payment processor, and also how to, you know, run a base Google ads because he's like, he was telling me like, he can't tell me how many millions he's freelessly spent on. That's exactly why right there. And he said, like, once you, you know, once I figure it out, when I run a couple campaigns, then I can go out and hire, you know, really cool people. But he's like, you need to understand the core of your business. And I was like, okay, so yeah, that was actually that was my plan is to actually run, you know, one campaign, maybe put $10,000 in it and run it on Alzheimer's.
+00:49:48 - Tina Marie (profitdriversinc.com)
+so I understand. You know, want to tell that was funny.
+00:49:51 - Fujinaka, M.D.
+No, so that's not even that.
+00:49:55 - Tina Marie (profitdriversinc.com)
+So that's why I wouldn't recommend anybody but Dan. And he is not the best. at creating the campaigns. He is the smartest when it comes to conserving money. The thing about all advertising agencies are they are, you will bleed out the jugular.
+00:50:13 - Fujinaka, M.D.
+That's how bad they are.
+00:50:14 - Tina Marie (profitdriversinc.com)
+So Mark is right because when you understand the technicality of what's involved and they want to give you a $10,000 a month fee, you're going like for what? For why? No. Now if you want $10,000 and you got me a million dollars. Okay. Right. Or you know what I mean? Or even $100,000. 10% marketing fee is totally accessible. But most of them are just ridiculously priced and you have no concept of it. Most people have no concept of it because they've never done it. So now you have, and Mark would tell you if he thinks it's, I would be curious to know what he thinks.
+00:50:52 - Fujinaka, M.D.
+I haven't run the campaign yet. I'm probably going to try to do that next week.
+00:50:58 - Tina Marie (profitdriversinc.com)
+But yes, you should. that everybody that does business for themselves should know a little bit about all the things really should. And the reason I have the business I have is because I did all the things. I've done graphics, I've done web design, I've done programming, I've done building the products, I've taught, I've done all the things. And so when I go with somebody, what's that?
+00:51:23 - Fujinaka, M.D.
+Oh, hold on. I was saying, yeah, I think that's a great idea to talk to some of Mark's contacts. Once I run my first campaign to try it, I like it.
+00:51:33 - Tina Marie (profitdriversinc.com)
+Yeah, we keep kidding.
+00:51:36 - Fujinaka, M.D.
+Like, it keeps coming out and I don't know if it's my internet or yours. Oh, I think I need to stop the share here. There we go.
+00:51:47 - Tina Marie (profitdriversinc.com)
+Yeah, so, I mean, okay, we're almost out of time. I want to make sure that we use whatever and cover whatever you want. But what I, you have other businesses, let me go to my notes, because I would, wanted numbers on everything, even Esther's businesses, if you want. would love to look, because here was the main goal, right? How do we double your revenue without really increasing your time and your workload? So that answer is always leverage and optimization. And the more things that you have that we could leverage and optimize, the easier it is to double without increasing your workload too much. So you have multiple things that could be leveraged. I would love to see the stats in a spreadsheet that I can look at with you on everything. So what we had talked about last week is anything that you could consider a KPI, right? So any revenue coming in, any expenses, where the revenue comes from, any kind of delineation that you can make between the numbers in terms of hours work to fulfill it, staff to fulfill it, at marketing sources and revenues, different price points, whatever it is between all the things we want to document the historical data, then analyze it together and formulate a plan for a small increase across the board with each of those things. then I'm pretty sure that if and then probably like I said take a few weeks because first you've got to get all the data, then we've got to analyze it, then we have to come up with a plan and then we have to see how the plan works. So it's not an immediate thing. So the sooner you sit down and capture this stuff, so that's the penalty for you is you don't have to worry about sending me money, you're not going to be making what you could be making probably pretty easily if I can't see those numbers and we don't go through this exercise. So I'll just let you sit with your losing money by wasting money, leaving it on the table. If I'm not doing the work, that's really all I have. don't have anything, any other questions other than when you get that data. So the other thing that I will tell you is once I see it all, I'm going to ask you to show me where you got it from and kind of prove that those are the real numbers and that's the accountability part. So you told me that you will answer things sometimes incorrectly according to what you think wants to be heard and I'm going to hold you to proving it. So I'm just letting you know I had a time. But the other thing is then I get to see how organized the data is, how necessarily reliable it is, what the potential is for managing it, what for growth and just kind of look over your systems because if they're efficient then they're If they're okay again not doing well, then we'll talk about that the Francis like July will you say me what you want because like I Collected the app like the P&L's and the profit and losses um, is that something that we that I should we because I can ask my bookkeepers for any kind of numbers and they can give me reports on them If if I know what to ask them So those are kind of things that you want me to start getting or like, uh, what kind of KPIs Let's start with P&L's for any business that you have and I would like them for the year and like total but then quarter by quarter. We won't go month to month and that will give us some starting things So just bring the raw data To our meeting we will dig through it on the meeting. It will be slow and it will be tedious These next few weeks are probably just kind of not be as fun as an exciting And I just want you to focus on the delayed gratification for a bit while we gather this because the planning that comes from this is really exciting.
+00:56:11 - Fujinaka, M.D.
+Okay, so maybe I'll just target July. So because now for July, I have quarter one and quarter two. I actually wait, are we done with quarter? So two quarters of data. So we can look at that.
+00:56:27 - Tina Marie (profitdriversinc.com)
+Yeah, we'll be almost done.
+00:56:29 - Fujinaka, M.D.
+Yeah, so I can get the monthly P&Ls and then you wanted quarterly P&Ls. Yes. Okay, maybe we'll start.
+00:56:36 - Tina Marie (profitdriversinc.com)
+I want the whole year and then I want quarterly. Well, July, I would like monthly.
+00:56:43 - Fujinaka, M.D.
+Yeah, so I'll get it since January and then we can go over those next call.
+00:56:49 - Tina Marie (profitdriversinc.com)
+That sounds good. So, physician, physician, oh my God. Physician recruitment, why my tongue does not want to work. Um. I want to know, um, let me see how much you've given me already. I want to understand. Entry the exit for your money, like how do you earn the money? You've told me some about it, but I want to know what that if there's any leverage point, if there's anything that you can do to increase that, let me, let me start with that. Do you think that there's anything that you can do to increase that?
+00:57:32 - Fujinaka, M.D.
+Okay.
+00:57:37 - Tina Marie (profitdriversinc.com)
+We can talk about ester stuff if you want to medical director. I want to understand deeply like, explain what that is and how the money comes to you. And then also we talked about your training. Um, Q and D like test prep, I think is what it was. And, um, we started getting data on that. And what I. I had asked for was, I wanted one spreadsheet that had the overall snapshot kind of data for each of those businesses, which is the revenue month over month, as long as you've been doing that particular business, and that would incite questions for me that I can start asking you, but I really need to be able to see that revenue and know a little bit in terms of like where it comes from. So the assignment and I would like to install the there's a repercussions for not doing it next week, because it would be a waste of our time if you don't have this we're we shouldn't it should have already been done. Is that I want that and I need to make sure that you're clear because I did ask for it before. And you can tell me if you get too busy or something like that, but I want revenue for every type of the business, so you gave me I'll just list them one more time. All right. right. All right. right. All right. All Physician Recruitment, Medical Director, and the licensing exam test prep. I want to know the revenue month over month from each of those, a description in the same spreadsheet of how you make that money. What do you have to do to get it and any kind of information that you can think of as to what you might be able to do to increase it? All of those before we meet next week and I want it, we're meeting Monday. I want to Friday. It's Friday. Wait, wait. It's Thursday. Okay. That's not fair. You're lucky. All right, you can have it by Monday morning and we'll just go into by then because I wanted to go over it, but I'm not going to work on the weekends. I got the girls this weekend, so we'll just do it Monday. So if you're prepared with all of that, then we will have a good day.
+01:00:00 - Fujinaka, M.D.
+call. Oh, sounds great.
+01:00:02 - Tina Marie (profitdriversinc.com)
+Okay.
+01:00:03 - Fujinaka, M.D.
+Should I keep putting time into this delta thing? Or do I need to put that on the back word?
+01:00:09 - Tina Marie (profitdriversinc.com)
+Does it light you up?
+01:00:11 - Fujinaka, M.D.
+I really like doing it. But you know, I see the money that I can make with July like we talked about and refinements to the QME. I could be better at that.
+01:00:20 - Tina Marie (profitdriversinc.com)
+So here's the thing about creators and visionaries. We don't usually stay on one thing really well for long without feeling frustrated, annoyed, irritated. You have to have some freedom to go other places. These are existing businesses that you've already defined and chosen. Now, if you want to say you want to go chase something else that isn't even on your plate when you've got all these things going on, like what are you doing? Stop. Focus. But it's already here that you're already doing it. nurturing it would be good. once we get to the activity, that I'm talking about and we have evaluated all of your income strains and then chosen which ones have the most leverage and then made a plan for it. Then you need to try to stay within the bounds that we've created but those boundaries don't exist right now so you know and we don't have any reason or logical placement to put boundaries in so if you've got time and you're not neglecting other duties then then explore it but you should be mindful of you know sleep routine and hygiene and family that's the only thing I would always say no matter what we're talking about. That's fair all right that's good and dirty all right it was awesome talking to you foodie hello Esther I know it's your time but I really like that and makes me happy so thanks for letting us say hi. Yes you're great all right thank you.
+01:01:59 - Fujinaka, M.D.
+Okay bye have a great night.

@@ -1,0 +1,374 @@
+00:00:04 - Fujinaka, M.D.
+Hello.
+00:00:05 - Tina Marie (profitdriversinc.com)
+Hey, how are you?
+00:00:07 - Fujinaka, M.D.
+You're Oh, what happened here?
+00:00:11 - Tina Marie (profitdriversinc.com)
+That is the weirdest-looking screen I've seen. I just see your hands and it's blurred in the background. It's like thing from the Adam's family.
+00:00:25 - Fujinaka, M.D.
+Let's try that. There it goes.
+00:00:30 - Tina Marie (profitdriversinc.com)
+There you are. How are you doing today?
+00:00:34 - Fujinaka, M.D.
+Happy holiday.
+00:00:35 - Tina Marie (profitdriversinc.com)
+Happy holiday, yeah. A holiday that doesn't even get fully recognized. I was looking at my parenting plan and it doesn't show up on the parenting plan as an acknowledged holiday.
+00:00:48 - Fujinaka, M.D.
+That's Labor Day and Memorial Day are, but not Veterans Day. That is fair.
+00:00:54 - Tina Marie (profitdriversinc.com)
+Anyway, so did we work on anything this week?
+00:01:00 - Fujinaka, M.D.
+I did I we did the door that are we door that hasn't been working. So we switched to uber eats and we successfully sent some meals. Let me see where I have my updates. Well, all wasn't able to get an account in Dordash because he was in Guatemala apparently. So we figured out that we could use uber eats and make it happen in Alright, let's make it happen that way so that's what we're doing okay did you end up sending anything out this week yeah we have it we sent out three different law firm yields so one will be tomorrow or two actually we'll be going out tomorrow and then one two went out last week and then I it was pretty much the people that I was calling so I was looking at our case manager outreach sheet and then I was just I was calling them to thank them so I picked out I picked out the people that had sent me a decent amount and then I we essentially were uh so we did like Beverly law and uh AMD so it did about three four law firms and we're looking at the and deciding who descendants you are you looking at the Antea, Steeda's law firms. Oh, the uh, we did the one called Case Manager outreach.
+00:03:06 - Tina Marie (profitdriversinc.com)
+Case Manager outreach. Um, you share that with me? It's not in my open ones and I keep everything open. Everybody's staying healthy?
+00:03:33 - Fujinaka, M.D.
+Uh, I'm getting over it. I'm almost, I think I'm almost back to full strength. I just got back from Jiu Jitsu. So I feel, I feel pretty good. That's just starting to get a little coffee. So hopefully that, and hopefully it's okay.
+00:03:50 - Tina Marie (profitdriversinc.com)
+I spent some like, nah, it's, it's amazing to me, the geographical span of protection. particular illnesses and there has to be some similarity because of the way that they behave across states like with people that I know and have conversations with to the extent of like illness over every year and just the the parallels of the symptoms and anyway it just it shouldn't fascinate me but it does how like within a matter of two months from the bottom of the country to the top of the country and across over seeing exact things yeah and and the what do you call the like delineator I guess or the like unique variables is that these are people that don't normally get sick or these types of symptoms like my sister has been taken out with something she's got pneumonia now she refuses to test for covid because she's a nurse and she doesn't want to have to get forced to stay at home because she's awesome like that. We're little bit different. Anyway, she's got like pneumonia and crackling lungs and she never gets that and this whole respiratory thing and it just wiped her out. Anyway, it's just illness and disease fascinates me, pathogen fascinates me on just whatever.
+00:05:20 - Fujinaka, M.D.
+I hear that.
+00:05:21 - Tina Marie (profitdriversinc.com)
+Same here. Everything fascinates me. I'm a nerd. I can't help it. Okay, so did you share that with me and email me? me go here.
+00:05:36 - Fujinaka, M.D.
+Things figure out how to merge the two. They're just lists. So I was pulling in the, finally, we were able to get the formula, right? So now for like September and October, I can pull the lists, but I still can't. I still can't figure out how to merge them and call them H. I spent like 30 minutes on it last week. And I just wanted, like, if the email addresses are the same, then that should count the numbers. But it couldn't make that happen. But anyway, these are all the different case manager emails that we had for October. But anyway, yes, I was essentially, we went, Paul and I went through these, and we picked out the people that were giving us five or above. So that's like Beverly Law solution now. Traumala, obviously Mark's firm, and then we bought them lunch or order and then lunch tomorrow when they're around.
+00:06:37 - Tina Marie (profitdriversinc.com)
+Nice. Wait, where are you at?
+00:06:43 - Fujinaka, M.D.
+Where's he at? You're on the right time. October, Cm2024.
+00:06:50 - Tina Marie (profitdriversinc.com)
+No, did you just say you were having lunch with Mark?
+00:06:53 - Fujinaka, M.D.
+I bought his staff lunch.
+00:06:55 - Tina Marie (profitdriversinc.com)
+Oh, got it. was, like, distracted. I'm trying to look at the formula for this real quick.
+00:07:02 - Fujinaka, M.D.
+Oh, it's in column D1 and A1. A1 and D1 have the formula.
+00:07:09 - Tina Marie (profitdriversinc.com)
+No, I meant to merge the columns.
+00:07:11 - Fujinaka, M.D.
+Oh, yeah. Yeah, was beating my head about that.
+00:07:15 - Tina Marie (profitdriversinc.com)
+I wonder if the reason you can't do it is because those are formulas. So then wait, that's not a formula. October is not a formula. Hold on. And then that was a formula, as well. OK. This is function. So this data, how is it getting into this spreadsheet?
+00:07:43 - Fujinaka, M.D.
+Yeah, so it's actually pulling. That was the other thing we worked on last week is we actually figured out how to pull it straight from the master data. So this is actually coming. There isn't like a step between.
+00:07:55 - Tina Marie (profitdriversinc.com)
+It's just actually coming from the master spreadsheet. That's what I thought.
+00:08:00 - Fujinaka, M.D.
+I don't I think last time when I was on the call with you, I was pulling it from a mirror like I copied the date All the data and then from that I took it so then I cut out that middle step and now I just come straight from the master lanes Oh, there's the query.
+00:08:14 - Tina Marie (profitdriversinc.com)
+Okay. Okay, so it's in the top cell All right, so, and the reason we want to merge. Okay, well, since you spent half an hour you want to, would you be okay?
+00:08:47 - Fujinaka, M.D.
+We're spending just five minutes on our real quick. See if can do it. Yeah, I had another thought. I'm gonna actually ask JPT if they can essentially find email addresses that are the same and call them A and call them D.
+00:09:05 - Tina Marie (profitdriversinc.com)
+Yeah, yeah, it can do that. Okay, so I'll wait and let you work on it then so we can use our time better. And if you get stuck though, let me know. But really, I do want to hear from you in between calls and get an update on what's been worked on so that I can come and make a plan for where we're at with this call better than just, you know, it's up to you, but we better use out of the time that way.
+00:09:41 - Fujinaka, M.D.
+I think I was just, I've been at my wits in the last couple weeks just trying to like tread water with the sickness and the move that makes perfect sense. Just kind of cut out everything in my life like I haven't. There's a lot of work that's kind of piled up in my other companies that I need to get on with today. That's good, you know, that's totally okay.
+00:10:02 - Tina Marie (profitdriversinc.com)
+when I say stuff like that, you know, it's, it's a reminder that that's the best use of it. But you got it. You, the pacing, remember I talk about pacing. There are just sometimes where the pace slows down. And that's just how it is. So using a phrase like treading water says a lot in terms of like what it's been like just to get things done. So that's good to know. Let's see. Let's see. Okay. Um, so I'm going to go back to this new. So where are you tracking the meals being sent and the communication with these people?
+00:10:49 - Fujinaka, M.D.
+Don't have anything yet.
+00:10:52 - Tina Marie (profitdriversinc.com)
+Yes. Okay.
+00:10:56 - Fujinaka, M.D.
+So we definitely go. What I'm calling in HubSpot. In my HubSpot, I can kind of, I see where's my HubSpot. So I kept track of like who I called last week. And so I called these people, set them lunches, but I don't have any work like I'm tracking lunches.
+00:11:20 - Tina Marie (profitdriversinc.com)
+Yeah, we gotta do that. So we need to track any communication that you have with them, especially I mean, I would assume the only communication you're gonna have is either you have a question about case or we're nurturing. So we want to have nurture type communication tracked whether it's text messages, emails, calls, lunches, whatever. And so we wanna track the type of communication it was and the date of it. And you. So, there's multiple things that will help us do and why we need to get this done right away. Number one, it's making sure we're not overlooking anything. And two, it will help us over time be able to measure the response and go, this is how we communicated with this person over time and this was the kind of response that we got. So, this more frequent help, does more quality of the message, help, is it the food that really just gets the most response, like you'll learn patterns and the patterns were probably going to be people specific just because that's the nature of it. But you may find that there are patterns that evolve with just style overall that is, you really contact people once a week, we get better results, even though we might feel like we're being annoying or if we contact every a couple of weeks we get better results because maybe what every once a week is annoying, you know, we don't know. So we don't want to make assumptions because the one thing that we do know is out of sight, out of mind, you want to be top of mind. And so that also has some financing that you can do in the way that you communicate. Don't waste their time with things that are useful. Gratitude always is a good thing. So anyway, just kind of formulating the outreach plan with the meals but also the conversations is just a quick text just like, hey, I just wanted to thank you for this particular case that you sent me or whatever. So do you think that it would be better to do this in HubSpot or in the spreadsheets where you're already removed. viewing people.
+00:14:01 - Fujinaka, M.D.
+I feel like it's better in HubSpot. just don't know. I just don't know well enough.
+00:14:08 - Tina Marie (profitdriversinc.com)
+So, let's ask chat GBT. Say, hey, I'm following up with lead vendors. Basically, we could call it. And I am looking to track different types of communication. And I say, for example, text, email, phone call, or sending meals or gift cards. Is that all you're looking to track or you're not looking to track all the other communications?
+00:14:51 - Fujinaka, M.D.
+Well, I have the other communications on this one. But I don't know. kind of thinking that if you Nice to have like, maybe a column that said like food or something.
+00:15:07 - Tina Marie (profitdriversinc.com)
+Well, yeah, that way. That way you thinking? Yep, you're jumping around too much for me to even look at it. So if you have last contacted, yeah, did that already exist as a field?
+00:15:22 - Fujinaka, M.D.
+Right here, yeah.
+00:15:24 - Tina Marie (profitdriversinc.com)
+Okay, yeah. So is there a custom column that you could add?
+00:15:30 - Fujinaka, M.D.
+So I wonder if I could do like last.
+00:15:33 - Tina Marie (profitdriversinc.com)
+So create a property?
+00:15:37 - Fujinaka, M.D.
+I see.
+00:15:42 - Tina Marie (profitdriversinc.com)
+Neil sent or you can have another one in addition to like gift card if you Oh, yeah.
+00:15:49 - Fujinaka, M.D.
+Object type. I guess it's a contact of an idea.
+00:15:57 - Tina Marie (profitdriversinc.com)
+Contact activity.
+00:15:58 - Fujinaka, M.D.
+Yeah. That sounds about right. Okay, field type with this single line text, single check box. So that's good. Yeah. How about a date? Is there a date? Nope. Should I do it in date?
+00:16:24 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:16:27 - Fujinaka, M.D.
+Okay. Okay. Date relative time.
+00:16:29 - Tina Marie (profitdriversinc.com)
+That's cool.
+00:16:31 - Fujinaka, M.D.
+Show in property. Yes. Any date. Cool. Oh, no. don't want to do that. There we go. Nice. That's cool. Okay. Now, let's see. Here we go. Yeah. Oh, there it is. Okay. Now, how do I get it on this guy?
+00:17:00 - Tina Marie (profitdriversinc.com)
+see. So go back where you were.
+00:17:05 - Fujinaka, M.D.
+And I gotta add a column. Yeah.
+00:17:10 - Tina Marie (profitdriversinc.com)
+There you go.
+00:17:12 - Fujinaka, M.D.
+Nice. Okay. Very good. Now let's do one. Okay. Linda, I wonder if I sent it to her. Oh, yeah. They're getting it tomorrow. Yeah. They're getting it tomorrow because today's holiday.
+00:17:49 - Tina Marie (profitdriversinc.com)
+Oh, yeah.
+00:17:50 - Fujinaka, M.D.
+There we go. And then let's see. Who else do we send it to? Oh, we sent it to Nicole. Nicole. Eduardo Is it Do you actually talk on the phone with him? Yeah, well I called, uh, for instance, this guy. Herard, or, uh, Herardo is Nicole's assistant.
+00:18:41 - Tina Marie (profitdriversinc.com)
+That's what I was asking, you cause he said a Gerardo, I'm like, please tell me you didn't say Gerardo.
+00:18:46 - Fujinaka, M.D.
+But you just said Gerardo. So, Head out of though.
+00:18:50 - Tina Marie (profitdriversinc.com)
+Head out Yeah, thank you. Can you not track that in, like, Uber to count quickly?
+00:19:11 - Fujinaka, M.D.
+I'm trying to look at it. I just, I'm getting confused to I sent this to. is, oh, here it is here. Okay. So I sent this on Friday. So that went to them. I'm right. Cool. Okay. And then route was next. I'm looking at my receipts. Okay. Well, the CS. That was on. was this. Number six. I'm next But.
+00:20:00 - Tina Marie (profitdriversinc.com)
+Do we want to track how much you spent?
+00:20:05 - Fujinaka, M.D.
+Oh, interesting. I've been getting a coin food, so I haven't tracked it yet.
+00:20:13 - Tina Marie (profitdriversinc.com)
+I think that over time we're going to want to be able to track how much we spent versus how much has returned.
+00:20:22 - Fujinaka, M.D.
+Oh, interesting.
+00:20:24 - Tina Marie (profitdriversinc.com)
+But as soon as we start tracking the better.
+00:20:26 - Fujinaka, M.D.
+I wonder if I could do a meal set.
+00:20:34 - Tina Marie (profitdriversinc.com)
+You could probably do the same thing that we did for mail sent and just a new column cost a meal. For each one, and then I don't know, like we might go to do PT for that. Or maybe expense and somehow be able to tie their expense to a contact.
+00:20:56 - Fujinaka, M.D.
+The expense about cost. So, one a, no. see. oh, Revenue. You're revenue. Marketing.
+00:21:23 - Tina Marie (profitdriversinc.com)
+Maybe it's an, an expense on how they're.
+00:21:37 - Fujinaka, M.D.
+Yeah. Yeah. right. Well, can do revenue. Let's see. I wonder if I could choose this.
+00:21:45 - Tina Marie (profitdriversinc.com)
+Can't really. Well, let's not use a button case.
+00:21:48 - Fujinaka, M.D.
+We want to use it for.
+00:21:52 - Tina Marie (profitdriversinc.com)
+Yeah. I mean, because ultimately we'd like to get out of spreadsheets and into a database like this, like that was the original. thought I had when we started which let me remind you we're actually almost at six months already is that crazy yeah that's crazy to me yeah yeah except for the bill is coming so I'm just letting you know okay and I'll go ahead and and split it up again probably between between three so if there's any issues just let me know okay use stripe instead of PayPal this time but it should be easy and you can use multiple different payment methods okay so yeah I think I mean first of all if this is all we accomplish today is learning how to use HubSpot better and put this in the kind of reports that we should get and again also if you better at. running business yourself with applications to other things. This is a really good use of time. Now let's do this. Can we do a search by meal sense? So we see all the context in the last 30 days, if we wanted to say, who did we send meals to in the last 30 days?
+00:23:22 - Fujinaka, M.D.
+I guess I would do like filter. Let's see.
+00:23:33 - Tina Marie (profitdriversinc.com)
+There it is, meal sense.
+00:23:36 - Fujinaka, M.D.
+The meal sense is today.
+00:23:39 - Tina Marie (profitdriversinc.com)
+Click on that. Look at that. It's wrong, though, because you sent send this month.
+00:23:56 - Fujinaka, M.D.
+Right? Yeah.
+00:24:09 - Tina Marie (profitdriversinc.com)
+Let's just play with a few of those and see, is before today, maybe, I wonder if it takes a while, when you make those assignments. It's like there's like a refresh or something of your database.
+00:24:44 - Fujinaka, M.D.
+They're kind of a purple color huh? Oh, this is an interesting to have not contacted. I guess I have. And I put in a contact for those. Oh, I see, because I haven't tried to call them, but I did try to call them. I wonder if you could put in a contact the way I contacted them. Oh, here you go. Contact.
+00:25:18 - Tina Marie (profitdriversinc.com)
+Oh, that's interesting.
+00:25:23 - Fujinaka, M.D.
+Let's see if it'll show me. Aha, I did. We'll do this. Oh, that's nice. Okay. So if I move this call over here, can I move this call? Yeah.
+00:25:34 - Tina Marie (profitdriversinc.com)
+Oh.
+00:25:35 - Fujinaka, M.D.
+There you go. Okay. Contact email. So this is where I have to be better at putting in the data. look at that. is a call. But how do I know if it's a voicemail?
+00:25:50 - Tina Marie (profitdriversinc.com)
+Maybe I just won't log a voicemail. Well, so let's go back and see what the options Well, let's just scroll through here a little bit.
+00:26:07 - Fujinaka, M.D.
+Yeah, I can show you what I did for like this call. Let's see how I can get into this. So Linda. So I know I spoke to her on the phone and I logged a call. Here's the notes of the call. I see.
+00:26:27 - Tina Marie (profitdriversinc.com)
+You bounce around a lot and we're definitely processing it differently, but I would like to see what the options are in the list.
+00:26:35 - Fujinaka, M.D.
+So. Well, the list is based on what I can log here. So I could log a call, log a text, log a more. Host or mail. Create a task. Create an email. Log a login message. Log a WhatsApp. Make a phone call.
+00:27:00 - Tina Marie (profitdriversinc.com)
+like left the voicemail.
+00:27:01 - Fujinaka, M.D.
+That might create an email. That's kind of cool. Connect your email account to HubSpot to begin sending emails. Ooh, I wonder if I should do that.
+00:27:15 - Tina Marie (profitdriversinc.com)
+I mean it would track your emails to the case. But there's also a zap if it ends up being too hard where the viewer can watch your email and update HubSpot.
+00:27:34 - Fujinaka, M.D.
+Oh, looks like I could do it. Okay. Requires paid sales hub. Okay. Available. or free users. Okay. I wonder if I should do it. I don't want to send my email though.
+00:28:13 - Tina Marie (profitdriversinc.com)
+Yeah, so that's why I was talking about Zapier because then it doesn't take over. You don't have to change your mail settings, which could be an issue. I would ask questions. This is the kind of thing. I'll go ahead and make a list of questions and reach out to support and get an answer. Do you have a paid account or free account?
+00:28:32 - Fujinaka, M.D.
+It's just for you right now.
+00:28:35 - Tina Marie (profitdriversinc.com)
+Yeah. So depending on what quality of support you get, you might want to upgrade to pay. I would imagine it's not so expensive. Yeah, $15 customer platform. More dash for us.
+00:29:13 - Fujinaka, M.D.
+We have HubSpot branding. I'm going to add types of the 10 automated actions landing page.
+00:29:27 - Tina Marie (profitdriversinc.com)
+Like an email opt-in page.
+00:29:33 - Fujinaka, M.D.
+Lists.
+00:29:37 - Tina Marie (profitdriversinc.com)
+And that stuff that would be really useful for you for your. Don't go. Yes.
+00:29:44 - Fujinaka, M.D.
+Thank you. No.
+00:29:45 - Tina Marie (profitdriversinc.com)
+To get integration. Yeah, so I would ask them like there's a way that you can delineate the difference between a call. We spoke to somebody and a call where you were only able to leave a voice message because that's a quality difference in the contact.
+00:30:25 - Fujinaka, M.D.
+I'm going to try this as log call and then because I did this on a and then my outcome was a voicemail so I guess that's perfect. So let me see if that, I don't know if this, let's see what it does here, okay, there is log call. I'll go back to my contacts. Okay, let's see, but now it says it contacted but it doesn't say that it was a mistake. voicemail, so I don't know.
+00:31:02 - Tina Marie (profitdriversinc.com)
+Advanced filter. Or lead activity. Let's look at that. Advanced filter up there. No. Right.
+00:31:09 - Fujinaka, M.D.
+Yeah. I always hear the mail sent. It's still not working, huh? Okay, that one worked. Last contact. Yeah, I wonder if the meal thing is just because it's our own coding or something.
+00:32:11 - Tina Marie (profitdriversinc.com)
+Just maybe it has enough data. would definitely ask them about that or check it tomorrow and you'll know. But I would still ask them about it so that you know, you know, how does the search function work? it need time to update the database? And then if we're going to look like if we want a little look at somebody like who have we not contacted in the last 30 days or I'm trying to figure out like the search that we would use to to figure out if we actually spoke to somebody or had a voice message.
+00:32:57 - Fujinaka, M.D.
+Yeah, I would really like that here. There's an option for voicemail, but where is the option to search for that? Yeah, because essentially I want to recall people that left a voicemail with it.
+00:33:16 - Tina Marie (profitdriversinc.com)
+Yeah, so I would write that down as a, I'm going to put it in your nose. So we want to. Assignments.
+00:33:29 - Fujinaka, M.D.
+There's another way to see the log call left voicemail. Outcome, maybe I can search for that outcome. Outcome. Oh. What? Oh. Oh.
+00:34:02 - Tina Marie (profitdriversinc.com)
+Okay, um, she's got theater for, okay, okay, okay. you. Um, see, did you get all of the meals that you were sent or scheduled in already? Yes. Okay, good. that, and I'll have to update that. And did you? Do you two hours worth of calls last week?
+00:35:05 - Fujinaka, M.D.
+Yes. Awesome. Well, okay. So that was interesting. When I was calling, when I would get through and I would log the call, I would then try to send the meal and that took forever.
+00:35:17 - Tina Marie (profitdriversinc.com)
+Oh, no. thing got lost. What got lost?
+00:35:22 - Fujinaka, M.D.
+Like, well, then remember I quit the meal. For some reason the meal got deleted.
+00:35:38 - Tina Marie (profitdriversinc.com)
+Safe. Maybe you didn't click Save.
+00:35:42 - Fujinaka, M.D.
+Oh, where's the save button? Oh. Oh, that's it. Okay. Nice. Oh, dang it. When did I do this in the call? This is like on this on the sick. Hey. Oh, yes, that's right. Thank you. Save. Okay. Now that would work. Let's see now if it works now with the filters. You'll set this left.
+00:36:19 - Tina Marie (profitdriversinc.com)
+There it goes.
+00:36:20 - Fujinaka, M.D.
+Now you can take that off the assignment, then. Yes. Okay, but now how do I. How do we do something where we're just looking at. I want to just look at. I want to look at. What was the outcome of the call? Okay. like a button. Okay, communications. Okay, first conversation, engagement, medium, next activity date.
+00:37:21 - Tina Marie (profitdriversinc.com)
+like a number of contacts did that would be good.
+00:37:30 - Fujinaka, M.D.
+That's cool.
+00:37:34 - Tina Marie (profitdriversinc.com)
+What if we click on message? it just message and you can use that for voicemail?
+00:37:40 - Fujinaka, M.D.
+Let me see. Yeah, I think that's perfect.
+00:37:49 - Tina Marie (profitdriversinc.com)
+Yeah, I don't know if I put anything in message. I would definitely use support and I would just make a list of questions. I can go through and ask yourself. of what's here, what can you off the top of your head think, OK, I would like to see this, how the conversation with them, you may need to upgrade to the whole $15 or whatever to get some of the features that we want, including reporting. But this will be a much better way of managing everyone. And then, so you can agree or disagree on the due date or change the due date. But I would like you to determine, you can't see great email, and maybe use a specific email with how a spot that just forwards to your regular email or something, as a peer, ask their support. have this conversation with their support so that you get their insight. won't be the first one to ask it and see, you know, pros and cons of integrating your own or changing it and then having like an auto forward so that it also shows up in your inbox but HubSpot's processing it or you don't integrate and you use Zapier and Zapier watches for a specific type of thing and updates HubSpot and so on.
+00:39:24 - Fujinaka, M.D.
+Yeah, okay.
+00:39:26 - Tina Marie (profitdriversinc.com)
+But I really think that this is the evolution that needs to be happening is using a good database and there's a lot of features here. So I think that this will be good. So how many people do you think you contacted last week?
+00:39:45 - Fujinaka, M.D.
+Do you know for sure? It took me further to order the food. Like if I use what I do, put talks and I'm texting them. I'm like, what, when do you want the food? What's your address. I think all that took forever.
+00:40:03 - Tina Marie (profitdriversinc.com)
+Well, and once you have that per contact, you will have to theoretically do that again. So we do want to track, you know, how much of the time is spent doing that. And again, basically, what is the cost financially? What is the cost time wise so that we can measure what the results are. So to date, how many appointments have you had in November?
+00:40:39 - Fujinaka, M.D.
+Visit, sir.
+00:40:40 - Tina Marie (profitdriversinc.com)
+was girls.
+00:40:41 - Fujinaka, M.D.
+I don't know. I'd have to look at the schedule.
+00:40:46 - Tina Marie (profitdriversinc.com)
+So I would like that to be something that's getting it.
+00:40:49 - Fujinaka, M.D.
+Is it not automatically happening in your any other spreadsheets? All the one that Paul generated, he went through this calendar and he's like going one, two, four,
+00:41:02 - Tina Marie (profitdriversinc.com)
+If HubSpot is HIPAA compliance because you could be doing this in HubSpot. The calendar? Yes, and also getting all the reports that we want out of it as well.
+00:41:15 - Fujinaka, M.D.
+You think HubSpot can count on the calendars?
+00:41:19 - Tina Marie (profitdriversinc.com)
+I think you can do all of this that you're doing here through HubSpot. You called them and you said, look, this is the system that I'm using, this is everything. Ask them. Can I tell you what I'm doing to track everything? Can you tell me what HubSpot can take over in my system because I'm just about guaranteeing everything that you're doing there. You can do in HubSpot with reports and analytics tracking what you're doing. You may even actually, through Zapier or some other type of API extraction, be able to download historical data. from your calendar and Google account, and import it into that spot. I'm just about guarantee you could do that.
+00:42:12 - Fujinaka, M.D.
+The problem with pulling the data is it's not going to know if there is a no show.
+00:42:18 - Tina Marie (profitdriversinc.com)
+Well, if you needed to go manually update that, you could do that. But we want to start with the foundation of what data do we have and get it into our proper house.
+00:42:29 - Fujinaka, M.D.
+Yeah, that's fair.
+00:42:31 - Tina Marie (profitdriversinc.com)
+And then clean up from there. I do have a hard stop at 2.30. want to be kind of sit on the time. This, Fuji, whatever the difficulties are, so people will be able to schedule with you, HubSpot will have a calendar. could integrate with your Google calendar. However, people, whether team or whatever. I'm just about guaranteed everything that you're doing in Google, you could do in Hubs.
+00:43:07 - Fujinaka, M.D.
+But I don't want to, I don't want to change how we're doing this because this is the most efficient way I've found to do the other things. What are the other things? calendaring actually we could separate from Google Calendar, but my permissioning no because the calendar allows the clinicians right now to put in the dates they want to work. So like each clinician is assigned a calendar for their name that they share with the other clinicians. they can take times like tomorrow Elizabeth's working at 11, Sherby's working at 2, Diana's working at 5.
+00:43:56 - Tina Marie (profitdriversinc.com)
+So each person has them because I think that that might be.
+00:44:00 - Fujinaka, M.D.
+to a team schedule staffing basically is what you're talking about but the permissioning then I give so then the patients here like you can see this um all it's good today like at five o'clock there's two patients so only the clinician that can get that yeah the other question you can only see that the other question is available but they don't know how many patients they saw all i'm asking you do is ask if it's a possibility i don't want to do that okay because the calendar is it's also we also use the same because we we try to do this with calendly, vimcal, parry there's no comparison in calendly to have spot hub spot is a crm calendly is just But the calendar rain doesn't have any data except the patients chosen, like I don't need the calendar to be anything more than a placeholder. Like there's no data associated with anything on the calendar except the date and time the clinicians chose. That's why I don't want to put this in anything like CRM. But I get for counting purposes like just the sheer number how many we do.
+00:45:31 - Tina Marie (profitdriversinc.com)
+There could probably be a zap for that that can just say how many events were on the calendar for this day.
+00:45:36 - Fujinaka, M.D.
+So that that's something that I would look at is like if you could count the number of events I guess. But honestly like I don't really care to do that because it's just my manager. It takes him like an hour to do it. And like he just counts it. But yeah to have real and data you have to have something else like that was counting. I just don't want to put effort into doing like I don't think it's too important for me to know like this month's number.
+00:46:10 - Tina Marie (profitdriversinc.com)
+Do you think it's important? Yeah I wouldn't ask that.
+00:46:13 - Fujinaka, M.D.
+Of course I think it's important.
+00:46:15 - Tina Marie (profitdriversinc.com)
+Why do you think it's important? Because you want to look at your trajectory.
+00:46:18 - Fujinaka, M.D.
+How are your results going in real time? But every month like in the car collisions it's just because what we're doing right now is we're looking at the previous month.
+00:46:30 - Tina Marie (profitdriversinc.com)
+Yeah.
+00:46:32 - Fujinaka, M.D.
+When like I don't know I mean I guess we can look at it every two weeks or something or every week.
+00:46:38 - Tina Marie (profitdriversinc.com)
+Yeah I think it should be weekly. Okay. don't know what you don't know until you start looking at the data you don't have different thoughts. So if you're not looking at it regularly and if you're not updating it regularly you're not having the thoughts that we might do it and go okay well that was a waste of time which has never ever happened in the history of the 22 years. that I've been doing this once and like that was a waste of time.
+00:47:04 - Fujinaka, M.D.
+So yeah I get a call on like Friday like after Friday's visits essentially count I mean it'd be quicker for him right he just counts just the week and then puts it into his this whatever one of our trackers here. Okay so we can do that so I could break up the second break of the date of the week essentially. The hard part about that is then what do you do when the new month starts would I be using the three days counting as one month or are we looking at like a week because at the end of the month we would still want the monthly data I imagine.
+00:48:00 - Tina Marie (profitdriversinc.com)
+arc weeks or you can do months, just make a decision and be consistent with it. It really just matters that you're looking at it consistently and looking at it the same way consistently.
+00:48:15 - Fujinaka, M.D.
+Yeah, I everything's month right now.
+00:48:17 - Tina Marie (profitdriversinc.com)
+Yeah, so just two months and so let's see, this is where we could have a poll update the count per week.
+00:48:33 - Fujinaka, M.D.
+But the caveat is is that, you know, two times a month we're going to have like a split week where like Monday is a different month and I don't want that to count for a different month.
+00:48:45 - Tina Marie (profitdriversinc.com)
+Okay, so just on the week month end, he does a report at the end of the month instead of the end of the week. And then we'll just have the first week be longer, shorter, whatever And I'm wearing falls, right?
+00:49:02 - Fujinaka, M.D.
+But then it's going to be incensed. Well, but then when we're looking at what are we using?
+00:49:07 - Tina Marie (profitdriversinc.com)
+We don't know that. We'll know it's a short week. And we'll just look at that. All we're doing is getting an habit of looking at the data consistently. not going to skew anything. So when we do a tally in a summary, it'll be for the month. But when we're just getting an update for the week, we'll just take into account that was a short week.
+00:49:27 - Fujinaka, M.D.
+OK, so kind of like a Friday. See how we did the week before. OK, well, I could do that. We could do that with a formula.
+00:49:35 - Tina Marie (profitdriversinc.com)
+could pull a master's of liens and just look at how many number of referrals we got in the previous week.
+00:49:40 - Fujinaka, M.D.
+Yeah, because like last Friday Paul did tell me, oh, yeah, we got like 100 referrals in a week.
+00:49:46 - Tina Marie (profitdriversinc.com)
+So this is the thing. look at the trends you're taking. So you're doing outreach. You're going to be having an impact sooner than a month over a month. And you need to see are we on track? Am I at risk? Exceeding, are we having a dip? this a slow month? Do I need to increase outreach?
+00:50:05 - Fujinaka, M.D.
+So, okay, okay, that's that's simple then. So what I'll do is I'll have Paul at the end of the week after our last visit on Friday, essentially send me how many new referrals we got that week. That's easy, we could do that. And then every week on Monday where our calls will go to see how many referrals we got the prior week.
+00:50:26 - Tina Marie (profitdriversinc.com)
+We do also want to see that follow-up appointments because we want to see are we improving our percentage there or not?
+00:50:32 - Fujinaka, M.D.
+That's true.
+00:50:35 - Tina Marie (profitdriversinc.com)
+Okay. And I'll remind you what you said last week that the lifeblood of the business is leads.
+00:50:40 - Fujinaka, M.D.
+And so you don't want to be checking on the lifeblood once a month. That's the point. Okay. So we'll look at the number of new referrals that come in the previous week. How many and then how many visits we got in the previous weeks? many? Yeah. Okay. So let's just do the in the prior week. Okay, that's fine. I'll do that. So it's like having to do this. It's like, it's actually having to do this sheet for the prior week. And then at the end of the month, do this sheet for the month.
+00:51:13 - Tina Marie (profitdriversinc.com)
+Okay. So if you run into any issues, let me know. so let me go to the, you've got the food, know, I can eat a screen share or you can take a look at it.
+00:51:27 - Fujinaka, M.D.
+Oh, yeah, I got it. Let me put it on.
+00:51:29 - Tina Marie (profitdriversinc.com)
+I don't know where I'm going have it.
+00:51:32 - Fujinaka, M.D.
+Oh, no, it's on my other email.
+00:51:34 - Tina Marie (profitdriversinc.com)
+That's why. I can share it with something else.
+00:51:41 - Fujinaka, M.D.
+I'm going to put it on my bookmark tab. Yeah, it's good. It's called Gina, right?
+00:51:47 - Tina Marie (profitdriversinc.com)
+Would you go slash coaching?
+00:51:53 - Fujinaka, M.D.
+Can share it with Michael? Would you not get a email account? Oh, here it is. got it. It is. This is shared. Okay.
+00:52:02 - Tina Marie (profitdriversinc.com)
+All right. Thank you. Let's make sure we're on the same page real quick.
+00:52:09 - Fujinaka, M.D.
+So the assignments that I have for 11 and 11.
+00:52:13 - Tina Marie (profitdriversinc.com)
+First of all, you have to go through it and look at this. I don't think we got that done. So how much would July be earning if we had 450 to 500 visits per month? That was supposed to be due this week? Oh, yeah. Anything was scheduled with that expectation of calls per hour.
+00:52:37 - Fujinaka, M.D.
+Oh, yeah. We did that.
+00:52:39 - Tina Marie (profitdriversinc.com)
+Yep. Yeah. So I had that talk. So I don't, I need you to update me in here because I got to go. But please, please do do that. And yeah, there's a lot of things that dig it out. And it's okay. I know you're moving everybody's sake. So update what you can update. And when you're back on track. we can get back to deadlines and you know whether you do or don't hit the thing and then I'm gonna have to reach out to you. I might need to reschedule a call the week of Thanksgiving because I think I'll be flying home on that Monday but that's actually what I got to go get worked out right now. about my dog barking and going nuts? Anyway, keep getting healthier, and after gets well and I hope the babies don't get sick and if you can't update me and if not, you know, I'll get over myself.
+00:53:35 - Fujinaka, M.D.
+I'll work on it.
+00:53:37 - Tina Marie (profitdriversinc.com)
+I like the updates because I want to see you getting where you want to go but also you are definitely you've got a lot going on right now so we got to take that into account. Take care for you.
+00:53:47 - Fujinaka, M.D.
+It's good talking to you. I'll talk to you soon. Thank you. Bye.

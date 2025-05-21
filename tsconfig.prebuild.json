@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "outDir": "temp_build",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "libs/common/**/*.ts",
+    "libs/agents/reviewer/**/*.ts",
+    "libs/agents/executor/**/*.ts"
+  ]
+}

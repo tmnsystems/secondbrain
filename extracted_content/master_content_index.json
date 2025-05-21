@@ -1,0 +1,2057 @@
+{
+  "processed_files": [
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript (5).txt",
+      "filename": "Esther's Journey's transcript (5).txt",
+      "processed_time": "2025-05-13T16:50:37.770623",
+      "metaphor_count": 263,
+      "value_count": 137,
+      "framework_count": 2,
+      "pattern_count": 19
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript (4).txt",
+      "filename": "Esther's Journey's transcript (4).txt",
+      "processed_time": "2025-05-13T16:50:37.798281",
+      "metaphor_count": 232,
+      "value_count": 135,
+      "framework_count": 11,
+      "pattern_count": 23
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fast Pain Doc 's transcript (1).txt",
+      "filename": "Fast Pain Doc 's transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:37.798807",
+      "metaphor_count": 0,
+      "value_count": 1,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fast Pain Doc 's transcript.txt",
+      "filename": "Fast Pain Doc 's transcript.txt",
+      "processed_time": "2025-05-13T16:50:37.816827",
+      "metaphor_count": 125,
+      "value_count": 79,
+      "framework_count": 4,
+      "pattern_count": 17
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis's transcript (1).txt",
+      "filename": "Basis's transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:37.840349",
+      "metaphor_count": 145,
+      "value_count": 76,
+      "framework_count": 4,
+      "pattern_count": 9
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (10).txt",
+      "filename": "Fuji coaching Call's transcript (10).txt",
+      "processed_time": "2025-05-13T16:50:37.861830",
+      "metaphor_count": 119,
+      "value_count": 118,
+      "framework_count": 13,
+      "pattern_count": 30
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (15).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (15).txt",
+      "processed_time": "2025-05-13T16:50:37.884213",
+      "metaphor_count": 172,
+      "value_count": 99,
+      "framework_count": 28,
+      "pattern_count": 32
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (14).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (14).txt",
+      "processed_time": "2025-05-13T16:50:37.885072",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (13).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (13).txt",
+      "processed_time": "2025-05-13T16:50:37.910996",
+      "metaphor_count": 155,
+      "value_count": 96,
+      "framework_count": 8,
+      "pattern_count": 9
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (12).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (12).txt",
+      "processed_time": "2025-05-13T16:50:37.930560",
+      "metaphor_count": 134,
+      "value_count": 69,
+      "framework_count": 6,
+      "pattern_count": 7
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (11).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (11).txt",
+      "processed_time": "2025-05-13T16:50:37.951493",
+      "metaphor_count": 157,
+      "value_count": 78,
+      "framework_count": 7,
+      "pattern_count": 14
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript (3).txt",
+      "filename": "Esther's Journey's transcript (3).txt",
+      "processed_time": "2025-05-13T16:50:37.978351",
+      "metaphor_count": 232,
+      "value_count": 135,
+      "framework_count": 11,
+      "pattern_count": 23
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Profitdriversinc/2025-05-01_Basis_493386533.txt",
+      "filename": "2025-05-01_Basis_493386533.txt",
+      "processed_time": "2025-05-13T16:50:38.002352",
+      "metaphor_count": 257,
+      "value_count": 134,
+      "framework_count": 15,
+      "pattern_count": 22
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Profitdriversinc/2025-05-01_Basis.txt",
+      "filename": "2025-05-01_Basis.txt",
+      "processed_time": "2025-05-13T16:50:38.026325",
+      "metaphor_count": 257,
+      "value_count": 134,
+      "framework_count": 15,
+      "pattern_count": 22
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/sweet_basis_tina_transcript.txt",
+      "filename": "sweet_basis_tina_transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.041446",
+      "metaphor_count": 97,
+      "value_count": 72,
+      "framework_count": 1,
+      "pattern_count": 3
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Doc Steve + Profit Drivers (Tina)'s transcript.txt",
+      "filename": "Doc Steve + Profit Drivers (Tina)'s transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.070250",
+      "metaphor_count": 173,
+      "value_count": 145,
+      "framework_count": 10,
+      "pattern_count": 29
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (9).txt",
+      "filename": "Fuji coaching Call's transcript (9).txt",
+      "processed_time": "2025-05-13T16:50:38.092770",
+      "metaphor_count": 173,
+      "value_count": 107,
+      "framework_count": 7,
+      "pattern_count": 15
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (8).txt",
+      "filename": "Fuji coaching Call's transcript (8).txt",
+      "processed_time": "2025-05-13T16:50:38.118523",
+      "metaphor_count": 202,
+      "value_count": 144,
+      "framework_count": 7,
+      "pattern_count": 14
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (10).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (10).txt",
+      "processed_time": "2025-05-13T16:50:38.132136",
+      "metaphor_count": 98,
+      "value_count": 72,
+      "framework_count": 2,
+      "pattern_count": 1
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (9).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (9).txt",
+      "processed_time": "2025-05-13T16:50:38.133919",
+      "metaphor_count": 7,
+      "value_count": 3,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (8).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (8).txt",
+      "processed_time": "2025-05-13T16:50:38.157462",
+      "metaphor_count": 167,
+      "value_count": 159,
+      "framework_count": 11,
+      "pattern_count": 6
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (7).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (7).txt",
+      "processed_time": "2025-05-13T16:50:38.172546",
+      "metaphor_count": 77,
+      "value_count": 74,
+      "framework_count": 3,
+      "pattern_count": 5
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (6).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (6).txt",
+      "processed_time": "2025-05-13T16:50:38.173116",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (5).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (5).txt",
+      "processed_time": "2025-05-13T16:50:38.197880",
+      "metaphor_count": 155,
+      "value_count": 96,
+      "framework_count": 8,
+      "pattern_count": 9
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript (2).txt",
+      "filename": "Esther's Journey's transcript (2).txt",
+      "processed_time": "2025-05-13T16:50:38.221908",
+      "metaphor_count": 172,
+      "value_count": 114,
+      "framework_count": 7,
+      "pattern_count": 14
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (7).txt",
+      "filename": "Fuji coaching Call's transcript (7).txt",
+      "processed_time": "2025-05-13T16:50:38.245494",
+      "metaphor_count": 193,
+      "value_count": 131,
+      "framework_count": 7,
+      "pattern_count": 14
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (6).txt",
+      "filename": "Fuji coaching Call's transcript (6).txt",
+      "processed_time": "2025-05-13T16:50:38.266415",
+      "metaphor_count": 133,
+      "value_count": 120,
+      "framework_count": 7,
+      "pattern_count": 15
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (5).txt",
+      "filename": "Fuji coaching Call's transcript (5).txt",
+      "processed_time": "2025-05-13T16:50:38.287177",
+      "metaphor_count": 133,
+      "value_count": 120,
+      "framework_count": 7,
+      "pattern_count": 15
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript (1).txt",
+      "filename": "Esther's Journey's transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:38.315534",
+      "metaphor_count": 201,
+      "value_count": 116,
+      "framework_count": 2,
+      "pattern_count": 12
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (4).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (4).txt",
+      "processed_time": "2025-05-13T16:50:38.338734",
+      "metaphor_count": 137,
+      "value_count": 152,
+      "framework_count": 21,
+      "pattern_count": 21
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Esther's Journey's transcript.txt",
+      "filename": "Esther's Journey's transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.362932",
+      "metaphor_count": 172,
+      "value_count": 114,
+      "framework_count": 7,
+      "pattern_count": 14
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis_s transcript (4).txt",
+      "filename": "Basis_s transcript (4).txt",
+      "processed_time": "2025-05-13T16:50:38.375034",
+      "metaphor_count": 107,
+      "value_count": 56,
+      "framework_count": 2,
+      "pattern_count": 2
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis_s transcript (3).txt",
+      "filename": "Basis_s transcript (3).txt",
+      "processed_time": "2025-05-13T16:50:38.391671",
+      "metaphor_count": 144,
+      "value_count": 84,
+      "framework_count": 14,
+      "pattern_count": 15
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis_s transcript (1).txt",
+      "filename": "Basis_s transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:38.403185",
+      "metaphor_count": 102,
+      "value_count": 49,
+      "framework_count": 3,
+      "pattern_count": 5
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis_s transcript.txt",
+      "filename": "Basis_s transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.414756",
+      "metaphor_count": 102,
+      "value_count": 49,
+      "framework_count": 3,
+      "pattern_count": 5
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (3).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (3).txt",
+      "processed_time": "2025-05-13T16:50:38.438594",
+      "metaphor_count": 167,
+      "value_count": 159,
+      "framework_count": 11,
+      "pattern_count": 6
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (4).txt",
+      "filename": "Fuji coaching Call's transcript (4).txt",
+      "processed_time": "2025-05-13T16:50:38.465526",
+      "metaphor_count": 161,
+      "value_count": 184,
+      "framework_count": 6,
+      "pattern_count": 21
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Basis's transcript.txt",
+      "filename": "Basis's transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.466009",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (2).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (2).txt",
+      "processed_time": "2025-05-13T16:50:38.496715",
+      "metaphor_count": 173,
+      "value_count": 147,
+      "framework_count": 8,
+      "pattern_count": 17
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript (1).txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:38.511731",
+      "metaphor_count": 98,
+      "value_count": 72,
+      "framework_count": 2,
+      "pattern_count": 1
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (3).txt",
+      "filename": "Fuji coaching Call's transcript (3).txt",
+      "processed_time": "2025-05-13T16:50:38.535440",
+      "metaphor_count": 173,
+      "value_count": 124,
+      "framework_count": 3,
+      "pattern_count": 9
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Mark Sweet + Basis + Tina's transcript.txt",
+      "filename": "Mark Sweet + Basis + Tina's transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.551453",
+      "metaphor_count": 80,
+      "value_count": 61,
+      "framework_count": 0,
+      "pattern_count": 3
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (2).txt",
+      "filename": "Fuji coaching Call's transcript (2).txt",
+      "processed_time": "2025-05-13T16:50:38.573204",
+      "metaphor_count": 159,
+      "value_count": 109,
+      "framework_count": 7,
+      "pattern_count": 17
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript (1).txt",
+      "filename": "Fuji coaching Call's transcript (1).txt",
+      "processed_time": "2025-05-13T16:50:38.598283",
+      "metaphor_count": 163,
+      "value_count": 170,
+      "framework_count": 15,
+      "pattern_count": 30
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Jane Transcript 3_11_25 (1).txt",
+      "filename": "Jane Transcript 3_11_25 (1).txt",
+      "processed_time": "2025-05-13T16:50:38.622936",
+      "metaphor_count": 163,
+      "value_count": 170,
+      "framework_count": 15,
+      "pattern_count": 30
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Jane Transcript 3_11_25.txt",
+      "filename": "Jane Transcript 3_11_25.txt",
+      "processed_time": "2025-05-13T16:50:38.647990",
+      "metaphor_count": 163,
+      "value_count": 170,
+      "framework_count": 15,
+      "pattern_count": 30
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Fuji coaching Call's transcript.txt",
+      "filename": "Fuji coaching Call's transcript.txt",
+      "processed_time": "2025-05-13T16:50:38.673127",
+      "metaphor_count": 163,
+      "value_count": 170,
+      "framework_count": 15,
+      "pattern_count": 30
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript sorting prompt for ChatGPT.txt",
+      "filename": "Transcript sorting prompt for ChatGPT.txt",
+      "processed_time": "2025-05-13T16:50:38.673488",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Warren Trust Ops.txt",
+      "filename": "Transcript for Warren Trust Ops.txt",
+      "processed_time": "2025-05-13T16:50:38.673953",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Mark Sweet + Basis + Tina.txt",
+      "filename": "Transcript for Mark Sweet + Basis + Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.674416",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria.txt",
+      "filename": "Transcript for Maria.txt",
+      "processed_time": "2025-05-13T16:50:38.674758",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84.txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84.txt",
+      "processed_time": "2025-05-13T16:50:38.675033",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(9).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(9).txt",
+      "processed_time": "2025-05-13T16:50:38.675358",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(8).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(8).txt",
+      "processed_time": "2025-05-13T16:50:38.675695",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(7).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(7).txt",
+      "processed_time": "2025-05-13T16:50:38.676034",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(6).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(6).txt",
+      "processed_time": "2025-05-13T16:50:38.676359",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(5).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(5).txt",
+      "processed_time": "2025-05-13T16:50:38.676716",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(4).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(4).txt",
+      "processed_time": "2025-05-13T16:50:38.677019",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(3).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(3).txt",
+      "processed_time": "2025-05-13T16:50:38.677528",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(2).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(2).txt",
+      "processed_time": "2025-05-13T16:50:38.677860",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(18).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(18).txt",
+      "processed_time": "2025-05-13T16:50:38.678169",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(17).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(17).txt",
+      "processed_time": "2025-05-13T16:50:38.678548",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(16).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(16).txt",
+      "processed_time": "2025-05-13T16:50:38.679210",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(15).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(15).txt",
+      "processed_time": "2025-05-13T16:50:38.679585",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(14).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(14).txt",
+      "processed_time": "2025-05-13T16:50:38.680030",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(13).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(13).txt",
+      "processed_time": "2025-05-13T16:50:38.680365",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(12).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(12).txt",
+      "processed_time": "2025-05-13T16:50:38.680688",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(11).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(11).txt",
+      "processed_time": "2025-05-13T16:50:38.680982",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(10).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(10).txt",
+      "processed_time": "2025-05-13T16:50:38.681212",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Maria & Tina\ud83e\ude84(1).txt",
+      "filename": "Transcript for Maria & Tina\ud83e\ude84(1).txt",
+      "processed_time": "2025-05-13T16:50:38.681561",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick.txt",
+      "filename": "Transcript for Lorenz_Patrick.txt",
+      "processed_time": "2025-05-13T16:50:38.681882",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(9).txt",
+      "filename": "Transcript for Lorenz_Patrick(9).txt",
+      "processed_time": "2025-05-13T16:50:38.682223",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(8).txt",
+      "filename": "Transcript for Lorenz_Patrick(8).txt",
+      "processed_time": "2025-05-13T16:50:38.682548",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(7).txt",
+      "filename": "Transcript for Lorenz_Patrick(7).txt",
+      "processed_time": "2025-05-13T16:50:38.682849",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(6).txt",
+      "filename": "Transcript for Lorenz_Patrick(6).txt",
+      "processed_time": "2025-05-13T16:50:38.683088",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(5).txt",
+      "filename": "Transcript for Lorenz_Patrick(5).txt",
+      "processed_time": "2025-05-13T16:50:38.683398",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(4).txt",
+      "filename": "Transcript for Lorenz_Patrick(4).txt",
+      "processed_time": "2025-05-13T16:50:38.683689",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(3).txt",
+      "filename": "Transcript for Lorenz_Patrick(3).txt",
+      "processed_time": "2025-05-13T16:50:38.684015",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(2).txt",
+      "filename": "Transcript for Lorenz_Patrick(2).txt",
+      "processed_time": "2025-05-13T16:50:38.684317",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz_Patrick(1).txt",
+      "filename": "Transcript for Lorenz_Patrick(1).txt",
+      "processed_time": "2025-05-13T16:50:38.684657",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Lorenz- Tina.txt",
+      "filename": "Transcript for Lorenz- Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.684945",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Laura + Tina.txt",
+      "filename": "Transcript for Laura + Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.685179",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching.txt",
+      "filename": "Transcript for Fuji_Tina Coaching.txt",
+      "processed_time": "2025-05-13T16:50:38.685463",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(9).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(9).txt",
+      "processed_time": "2025-05-13T16:50:38.685784",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(8).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(8).txt",
+      "processed_time": "2025-05-13T16:50:38.686119",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(7).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(7).txt",
+      "processed_time": "2025-05-13T16:50:38.686433",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(6).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(6).txt",
+      "processed_time": "2025-05-13T16:50:38.686705",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(5).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(5).txt",
+      "processed_time": "2025-05-13T16:50:38.687016",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(4).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(4).txt",
+      "processed_time": "2025-05-13T16:50:38.687379",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(3).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(3).txt",
+      "processed_time": "2025-05-13T16:50:38.687726",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(2).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(2).txt",
+      "processed_time": "2025-05-13T16:50:38.688037",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(11).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(11).txt",
+      "processed_time": "2025-05-13T16:50:38.688388",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(10).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(10).txt",
+      "processed_time": "2025-05-13T16:50:38.688745",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Fuji_Tina Coaching(1).txt",
+      "filename": "Transcript for Fuji_Tina Coaching(1).txt",
+      "processed_time": "2025-05-13T16:50:38.689123",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "processed_time": "2025-05-13T16:50:38.689481",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "processed_time": "2025-05-13T16:50:38.689777",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "processed_time": "2025-05-13T16:50:38.690064",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "processed_time": "2025-05-13T16:50:38.690370",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "processed_time": "2025-05-13T16:50:38.690657",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "processed_time": "2025-05-13T16:50:38.690909",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "processed_time": "2025-05-13T16:50:38.691232",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "processed_time": "2025-05-13T16:50:38.691520",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "processed_time": "2025-05-13T16:50:38.691900",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "filename": "Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "processed_time": "2025-05-13T16:50:38.692190",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona.txt",
+      "filename": "Transcript for Chona.txt",
+      "processed_time": "2025-05-13T16:50:38.692495",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(8).txt",
+      "filename": "Transcript for Chona(8).txt",
+      "processed_time": "2025-05-13T16:50:38.692814",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(7).txt",
+      "filename": "Transcript for Chona(7).txt",
+      "processed_time": "2025-05-13T16:50:38.693236",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(6).txt",
+      "filename": "Transcript for Chona(6).txt",
+      "processed_time": "2025-05-13T16:50:38.693648",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(5).txt",
+      "filename": "Transcript for Chona(5).txt",
+      "processed_time": "2025-05-13T16:50:38.694120",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(4).txt",
+      "filename": "Transcript for Chona(4).txt",
+      "processed_time": "2025-05-13T16:50:38.694490",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(3).txt",
+      "filename": "Transcript for Chona(3).txt",
+      "processed_time": "2025-05-13T16:50:38.694788",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(2).txt",
+      "filename": "Transcript for Chona(2).txt",
+      "processed_time": "2025-05-13T16:50:38.695115",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Chona(1).txt",
+      "filename": "Transcript for Chona(1).txt",
+      "processed_time": "2025-05-13T16:50:38.695524",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis.txt",
+      "filename": "Transcript for Basis.txt",
+      "processed_time": "2025-05-13T16:50:38.695873",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis(1).txt",
+      "filename": "Transcript for Basis(1).txt",
+      "processed_time": "2025-05-13T16:50:38.696212",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis PM_Ops Meeting.txt",
+      "filename": "Transcript for Basis PM_Ops Meeting.txt",
+      "processed_time": "2025-05-13T16:50:38.696393",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law.txt",
+      "filename": "Transcript for Basis Integration_Sweet Law.txt",
+      "processed_time": "2025-05-13T16:50:38.696775",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(9).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(9).txt",
+      "processed_time": "2025-05-13T16:50:38.697129",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(8).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(8).txt",
+      "processed_time": "2025-05-13T16:50:38.697565",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(7).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(7).txt",
+      "processed_time": "2025-05-13T16:50:38.697903",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(6).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(6).txt",
+      "processed_time": "2025-05-13T16:50:38.698353",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(5).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(5).txt",
+      "processed_time": "2025-05-13T16:50:38.698725",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(4).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(4).txt",
+      "processed_time": "2025-05-13T16:50:38.699066",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(3).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(3).txt",
+      "processed_time": "2025-05-13T16:50:38.699412",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(2).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(2).txt",
+      "processed_time": "2025-05-13T16:50:38.699787",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(12).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(12).txt",
+      "processed_time": "2025-05-13T16:50:38.700022",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(11).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(11).txt",
+      "processed_time": "2025-05-13T16:50:38.700382",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(10).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(10).txt",
+      "processed_time": "2025-05-13T16:50:38.700795",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Transcript for Basis Integration_Sweet Law(1).txt",
+      "filename": "Transcript for Basis Integration_Sweet Law(1).txt",
+      "processed_time": "2025-05-13T16:50:38.701160",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "filename": "Done transcript for D&D Co & Profit Drivers - Weekly Review(9).txt",
+      "processed_time": "2025-05-13T16:50:38.701538",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done ranscript for Maria Gudelis.txt",
+      "filename": "Done ranscript for Maria Gudelis.txt",
+      "processed_time": "2025-05-13T16:50:38.701954",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult.txt",
+      "filename": "Done Transcript for chris mason - Profit Drivers Systems Consult.txt",
+      "processed_time": "2025-05-13T16:50:38.702569",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt",
+      "filename": "Done Transcript for chris mason - Profit Drivers Systems Consult(4).txt",
+      "processed_time": "2025-05-13T16:50:38.702932",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt",
+      "filename": "Done Transcript for chris mason - Profit Drivers Systems Consult(3).txt",
+      "processed_time": "2025-05-13T16:50:38.703288",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt",
+      "filename": "Done Transcript for chris mason - Profit Drivers Systems Consult(2).txt",
+      "processed_time": "2025-05-13T16:50:38.703595",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt",
+      "filename": "Done Transcript for chris mason - Profit Drivers Systems Consult(1).txt",
+      "processed_time": "2025-05-13T16:50:38.703871",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Warren Trust Ops.txt",
+      "filename": "Done Transcript for Warren Trust Ops.txt",
+      "processed_time": "2025-05-13T16:50:38.704225",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Tina Maria CAll.txt",
+      "filename": "Done Transcript for Tina Maria CAll.txt",
+      "processed_time": "2025-05-13T16:50:38.704421",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Tina Maria CAll(1).txt",
+      "filename": "Done Transcript for Tina Maria CAll(1).txt",
+      "processed_time": "2025-05-13T16:50:38.704695",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Thinking Big profits.txt",
+      "filename": "Done Transcript for Thinking Big profits.txt",
+      "processed_time": "2025-05-13T16:50:38.705009",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Seth.txt",
+      "filename": "Done Transcript for Seth.txt",
+      "processed_time": "2025-05-13T16:50:38.705314",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Profit Fairies.txt",
+      "filename": "Done Transcript for Profit Fairies.txt",
+      "processed_time": "2025-05-13T16:50:38.705482",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Profit Fairies(3).txt",
+      "filename": "Done Transcript for Profit Fairies(3).txt",
+      "processed_time": "2025-05-13T16:50:38.705612",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Profit Fairies(2).txt",
+      "filename": "Done Transcript for Profit Fairies(2).txt",
+      "processed_time": "2025-05-13T16:50:38.705805",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Profit Fairies(1).txt",
+      "filename": "Done Transcript for Profit Fairies(1).txt",
+      "processed_time": "2025-05-13T16:50:38.706018",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Patrick_Tina Consult Session.txt",
+      "filename": "Done Transcript for Patrick_Tina Consult Session.txt",
+      "processed_time": "2025-05-13T16:50:38.706358",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Patrick.txt",
+      "filename": "Done Transcript for Patrick.txt",
+      "processed_time": "2025-05-13T16:50:38.706644",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Patrick(2).txt",
+      "filename": "Done Transcript for Patrick(2).txt",
+      "processed_time": "2025-05-13T16:50:38.706888",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Patrick(1).txt",
+      "filename": "Done Transcript for Patrick(1).txt",
+      "processed_time": "2025-05-13T16:50:38.707237",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84.txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84.txt",
+      "processed_time": "2025-05-13T16:50:38.707549",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(7).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(7).txt",
+      "processed_time": "2025-05-13T16:50:38.707854",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(6).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(6).txt",
+      "processed_time": "2025-05-13T16:50:38.708269",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(5).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(5).txt",
+      "processed_time": "2025-05-13T16:50:38.708514",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(4).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(4).txt",
+      "processed_time": "2025-05-13T16:50:38.708838",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(3).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(3).txt",
+      "processed_time": "2025-05-13T16:50:38.709045",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(2).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(2).txt",
+      "processed_time": "2025-05-13T16:50:38.709467",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Maria & Tina\ud83e\ude84(1).txt",
+      "filename": "Done Transcript for Maria & Tina\ud83e\ude84(1).txt",
+      "processed_time": "2025-05-13T16:50:38.709707",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick.txt",
+      "filename": "Done Transcript for Lorenz_Patrick.txt",
+      "processed_time": "2025-05-13T16:50:38.710034",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(6).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(6).txt",
+      "processed_time": "2025-05-13T16:50:38.710369",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(5).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(5).txt",
+      "processed_time": "2025-05-13T16:50:38.710750",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(4).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(4).txt",
+      "processed_time": "2025-05-13T16:50:38.711080",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(3).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(3).txt",
+      "processed_time": "2025-05-13T16:50:38.711409",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(2).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(2).txt",
+      "processed_time": "2025-05-13T16:50:38.711772",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz_Patrick(1).txt",
+      "filename": "Done Transcript for Lorenz_Patrick(1).txt",
+      "processed_time": "2025-05-13T16:50:38.712112",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz.txt",
+      "filename": "Done Transcript for Lorenz.txt",
+      "processed_time": "2025-05-13T16:50:38.712416",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz- Tina.txt",
+      "filename": "Done Transcript for Lorenz- Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.712736",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Lorenz- Tina(1).txt",
+      "filename": "Done Transcript for Lorenz- Tina(1).txt",
+      "processed_time": "2025-05-13T16:50:38.713089",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina.txt",
+      "filename": "Done Transcript for Laura + Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.713299",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(6).txt",
+      "filename": "Done Transcript for Laura + Tina(6).txt",
+      "processed_time": "2025-05-13T16:50:38.713565",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(5).txt",
+      "filename": "Done Transcript for Laura + Tina(5).txt",
+      "processed_time": "2025-05-13T16:50:38.713876",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(4).txt",
+      "filename": "Done Transcript for Laura + Tina(4).txt",
+      "processed_time": "2025-05-13T16:50:38.714120",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(3).txt",
+      "filename": "Done Transcript for Laura + Tina(3).txt",
+      "processed_time": "2025-05-13T16:50:38.714357",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(2).txt",
+      "filename": "Done Transcript for Laura + Tina(2).txt",
+      "processed_time": "2025-05-13T16:50:38.714708",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Laura + Tina(1).txt",
+      "filename": "Done Transcript for Laura + Tina(1).txt",
+      "processed_time": "2025-05-13T16:50:38.715022",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching.txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching.txt",
+      "processed_time": "2025-05-13T16:50:38.715323",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(9).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(9).txt",
+      "processed_time": "2025-05-13T16:50:38.715704",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(8).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(8).txt",
+      "processed_time": "2025-05-13T16:50:38.719075",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(7).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(7).txt",
+      "processed_time": "2025-05-13T16:50:38.719425",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(6).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(6).txt",
+      "processed_time": "2025-05-13T16:50:38.719741",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(5).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(5).txt",
+      "processed_time": "2025-05-13T16:50:38.720077",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(4).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(4).txt",
+      "processed_time": "2025-05-13T16:50:38.720381",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(3).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(3).txt",
+      "processed_time": "2025-05-13T16:50:38.720698",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(2).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(2).txt",
+      "processed_time": "2025-05-13T16:50:38.721077",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(13).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(13).txt",
+      "processed_time": "2025-05-13T16:50:38.721408",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(12).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(12).txt",
+      "processed_time": "2025-05-13T16:50:38.721736",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(11).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(11).txt",
+      "processed_time": "2025-05-13T16:50:38.721925",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(10).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(10).txt",
+      "processed_time": "2025-05-13T16:50:38.722306",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Fuji_Tina Coaching(1).txt",
+      "filename": "Done Transcript for Fuji_Tina Coaching(1).txt",
+      "processed_time": "2025-05-13T16:50:38.722615",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Etsy Team Meeting.txt",
+      "filename": "Done Transcript for Etsy Team Meeting.txt",
+      "processed_time": "2025-05-13T16:50:38.722863",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review.txt",
+      "processed_time": "2025-05-13T16:50:38.723159",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(8).txt",
+      "processed_time": "2025-05-13T16:50:38.723432",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(7).txt",
+      "processed_time": "2025-05-13T16:50:38.723773",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(6).txt",
+      "processed_time": "2025-05-13T16:50:38.724057",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(5).txt",
+      "processed_time": "2025-05-13T16:50:38.724334",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(4).txt",
+      "processed_time": "2025-05-13T16:50:38.724638",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(3).txt",
+      "processed_time": "2025-05-13T16:50:38.724941",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(2).txt",
+      "processed_time": "2025-05-13T16:50:38.725238",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(17).txt",
+      "processed_time": "2025-05-13T16:50:38.725547",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(16).txt",
+      "processed_time": "2025-05-13T16:50:38.725850",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(15).txt",
+      "processed_time": "2025-05-13T16:50:38.726120",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(14).txt",
+      "processed_time": "2025-05-13T16:50:38.726453",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(13).txt",
+      "processed_time": "2025-05-13T16:50:38.726763",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(12).txt",
+      "processed_time": "2025-05-13T16:50:38.726962",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(11).txt",
+      "processed_time": "2025-05-13T16:50:38.727323",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(10).txt",
+      "processed_time": "2025-05-13T16:50:38.727689",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "filename": "Done Transcript for D&D Co & Profit Drivers - Weekly Review(1).txt",
+      "processed_time": "2025-05-13T16:50:38.727924",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Chris Mason_Profit Drivers.txt",
+      "filename": "Done Transcript for Chris Mason_Profit Drivers.txt",
+      "processed_time": "2025-05-13T16:50:38.728218",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Chona, Mark, Tina.txt",
+      "filename": "Done Transcript for Chona, Mark, Tina.txt",
+      "processed_time": "2025-05-13T16:50:38.728573",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Chona, Mark, Tina(1).txt",
+      "filename": "Done Transcript for Chona, Mark, Tina(1).txt",
+      "processed_time": "2025-05-13T16:50:38.728898",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis PM_Ops Meeting.txt",
+      "filename": "Done Transcript for Basis PM_Ops Meeting.txt",
+      "processed_time": "2025-05-13T16:50:38.729041",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law.txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law.txt",
+      "processed_time": "2025-05-13T16:50:38.729306",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(9).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(9).txt",
+      "processed_time": "2025-05-13T16:50:38.729624",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(8).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(8).txt",
+      "processed_time": "2025-05-13T16:50:38.729991",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(7).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(7).txt",
+      "processed_time": "2025-05-13T16:50:38.730295",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(6).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(6).txt",
+      "processed_time": "2025-05-13T16:50:38.730676",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(5).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(5).txt",
+      "processed_time": "2025-05-13T16:50:38.730963",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(4).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(4).txt",
+      "processed_time": "2025-05-13T16:50:38.731325",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(3).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(3).txt",
+      "processed_time": "2025-05-13T16:50:38.731619",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(2).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(2).txt",
+      "processed_time": "2025-05-13T16:50:38.731914",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(14).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(14).txt",
+      "processed_time": "2025-05-13T16:50:38.732253",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(13).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(13).txt",
+      "processed_time": "2025-05-13T16:50:38.732571",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(12).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(12).txt",
+      "processed_time": "2025-05-13T16:50:38.732844",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(11).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(11).txt",
+      "processed_time": "2025-05-13T16:50:38.733195",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(10).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(10).txt",
+      "processed_time": "2025-05-13T16:50:38.733630",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Transcript for Basis Integration_Sweet Law(1).txt",
+      "filename": "Done Transcript for Basis Integration_Sweet Law(1).txt",
+      "processed_time": "2025-05-13T16:50:38.733925",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/Done Patrick.txt",
+      "filename": "Done Patrick.txt",
+      "processed_time": "2025-05-13T16:50:38.734280",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    },
+    {
+      "path": "/Volumes/Envoy/SecondBrain/transcripts/All Fathom Transcripts.txt",
+      "filename": "All Fathom Transcripts.txt",
+      "processed_time": "2025-05-13T16:50:38.738268",
+      "metaphor_count": 0,
+      "value_count": 0,
+      "framework_count": 0,
+      "pattern_count": 0
+    }
+  ],
+  "failed_files": [],
+  "start_time": "2025-05-13T16:50:37.696992",
+  "end_time": "2025-05-13T16:50:38.835243",
+  "total_files": 227,
+  "processed_count": 227,
+  "failed_count": 0,
+  "total_metaphors": 6656,
+  "total_values": 4804,
+  "total_frameworks": 350,
+  "total_patterns": 635
+}

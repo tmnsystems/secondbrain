@@ -1,0 +1,52 @@
+{
+  "source": "your_comment_edits.txt",
+  "type": "social_media",
+  "analyzed_at": "2025-05-04T04:39:58.841Z",
+  "profile": {
+    "Voice and Tone": {
+      "Overall Tone": "Conversational and personal, often with a warm and supportive undertone.",
+      "Distinctive Voice Patterns": "The author frequently uses direct address, often speaking to individuals by name, and employs a friendly, encouraging tone. There is a mix of humor and sincerity, often using emojis to convey emotion."
+    },
+    "Characteristic Phrases": [
+      "Love you so much!",
+      "Thank you Miss",
+      "I adore you",
+      "Keep up the good work",
+      "Dance with that fire",
+      "Girl. Love is magic. End of story."
+    ],
+    "Metaphors and Analogies": [
+      "It is a machine built to feed the machine.",
+      "Dance with that fire because most won’t.",
+      "Energy sandwiches.",
+      "The whirlwind of emotions and thoughts."
+    ],
+    "Structural Patterns": {
+      "Paragraph Length": "Varies from short, single-sentence paragraphs to longer, more detailed narratives.",
+      "Transitions": "Often uses direct address and personal anecdotes to transition between ideas.",
+      "Overall Organization": "Content is organized around personal reflections, direct responses to others, and thematic explorations of concepts like love, community, and personal growth."
+    },
+    "Rhetorical Devices": {
+      "Questions": "Frequently uses rhetorical questions to provoke thought or emphasize a point.",
+      "Repetition": "Repetition of key phrases for emphasis, such as 'Love, not judgment.'",
+      "Lists": "Uses lists to organize thoughts, often in a bullet-point style within paragraphs.",
+      "Emphasis": "Emphasizes points with capitalization and punctuation, e.g., 'HERE 👏🏼 FOR 👏🏼 IT! 👏🏼'"
+    },
+    "Conceptual Frameworks": [
+      "The idea of 'energy sandwiches' as a method for maintaining momentum.",
+      "The concept of attachment and detachment as a means of personal empowerment."
+    ],
+    "Value Hierarchy": {
+      "Most Valued": "Community, love, personal growth, authenticity, and integrity.",
+      "Emphasis and Repetition": "Frequent emphasis on the importance of love, community, and personal development."
+    },
+    "Distinctive Vocabulary": [
+      "bonkers",
+      "pacifiers",
+      "dopamine",
+      "attachment",
+      "detachment",
+      "oxytocin boosters"
+    ]
+  }
+}

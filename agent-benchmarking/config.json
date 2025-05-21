@@ -1,0 +1,87 @@
+{
+  "use_notion": true,
+  "notion_database_id": "",
+  "github_repo": "tinamarie-ai/SecondBrain",
+  "agents": [
+    {
+      "name": "Jules",
+      "provider": "Google",
+      "description": "Google's asynchronous, autonomous coding agent",
+      "interface": "github",
+      "enabled": true
+    },
+    {
+      "name": "Codex",
+      "provider": "OpenAI",
+      "description": "OpenAI Codex via existing SecondBrain relay",
+      "interface": "relay",
+      "enabled": true
+    },
+    {
+      "name": "Claude",
+      "provider": "Anthropic",
+      "description": "Claude's inline code generation capabilities",
+      "interface": "inline",
+      "enabled": true
+    }
+  ],
+  "metrics": [
+    {
+      "name": "execution_time",
+      "display_name": "Execution Time",
+      "description": "Time taken to complete the task",
+      "unit": "seconds",
+      "lower_is_better": true
+    },
+    {
+      "name": "test_pass_rate",
+      "display_name": "Test Pass Rate",
+      "description": "Percentage of tests that pass after code changes",
+      "unit": "percent",
+      "lower_is_better": false
+    },
+    {
+      "name": "quality_score",
+      "display_name": "Quality Score",
+      "description": "Subjective assessment of code quality (0-10)",
+      "unit": "score",
+      "lower_is_better": false
+    },
+    {
+      "name": "file_safety",
+      "display_name": "File Safety",
+      "description": "Prevention of unintended file operations",
+      "unit": "boolean",
+      "lower_is_better": false
+    },
+    {
+      "name": "error_handling",
+      "display_name": "Error Handling",
+      "description": "Robustness in handling edge cases",
+      "unit": "boolean",
+      "lower_is_better": false
+    }
+  ],
+  "tasks": [
+    "legacy_refactor",
+    "multi_file_update",
+    "security_enhancement"
+  ],
+  "smart_router_enabled": true,
+  "github_settings": {
+    "jules_label": "assign-to-jules",
+    "polling_interval": 60,
+    "timeout_minutes": 30
+  },
+  "logging": {
+    "level": "info",
+    "file": "benchmark.log",
+    "console": true
+  },
+  "reports": {
+    "format": "markdown",
+    "directory": "reports",
+    "include_diffs": true,
+    "truncate_large_outputs": true
+  }
+}

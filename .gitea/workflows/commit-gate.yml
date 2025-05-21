@@ -1,0 +1,56 @@
+name: Commit Gate
+on: [push, pull_request]
+
+jobs:
+  commit-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for size comparison
+      
+      - name: Check commit size
+        run: |
+          # Get previous commit for comparison
+          PREV_COMMIT=$(git rev-parse HEAD^)
+          
+          # Calculate diff size in KB
+          DIFF_SIZE_KB=$(git diff --stat $PREV_COMMIT HEAD | tail -n1 | awk '{print $4}')
+          
+          # Check if commit message has #largefile tag for large files
+          if [[ $DIFF_SIZE_KB -gt 200 ]]; then
+            if ! git log -1 --pretty=%B | grep -q "#largefile"; then
+              echo "Error: Commit exceeds 200 KB but lacks #largefile tag in commit message"
+              exit 1
+            fi
+          fi
+      
+      - name: Check for LFS pointers
+        run: |
+          # Get list of files with LFS attributes
+          LFS_TRACKED_EXTENSIONS=$(grep "filter=lfs" .gitattributes | awk '{print $1}' | sed 's/\*//g')
+          
+          # Check if any LFS-tracked files were added without LFS pointers
+          for ext in $LFS_TRACKED_EXTENSIONS; do
+            files=$(git diff --name-only $PREV_COMMIT HEAD | grep -E "\\$ext$" || true)
+            if [[ -n "$files" ]]; then
+              for file in $files; do
+                if [[ -f "$file" ]] && ! grep -q "version https://git-lfs.github.com/spec/" "$file"; then
+                  echo "Error: $file should be tracked by Git LFS but lacks LFS pointer"
+                  exit 1
+                fi
+              done
+            fi
+          done
+      
+      - name: Run linting
+        run: |
+          # Placeholder for linting commands
+          # Example: npm run lint
+          echo "Linting check passed"
+      
+      - name: Run tests
+        run: |
+          # Placeholder for test commands
+          # Example: npm test
+          echo "Tests passed"

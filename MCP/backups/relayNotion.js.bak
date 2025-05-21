@@ -1,0 +1,21 @@
+import fetch from "node-fetch";
+
+const RELAY_URL = "http://localhost:4000/relay/notion/page";
+
+/**
+ * createPageViaRelay
+ * @param {string} dbId
+ * @param {string} title
+ * @param {object} props
+ */
+export async function createPageViaRelay(dbId, title, props = {}) {
+  console.log("DEBUG relay DB_ID →", dbId);
+  const res = await fetch(RELAY_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ databaseId: dbId, title, props }),
+  });
+  const json = await res.json();
+  if (!json.ok) throw new Error(`Relay error: ${json.error}`);
+  return json.id;
+}

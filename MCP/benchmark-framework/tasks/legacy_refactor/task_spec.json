@@ -1,0 +1,27 @@
+{
+  "title": "Refactor deprecated API call",
+  "file": "tasks/legacy_refactor/deprecated_handler.py",
+  "target_file": "tasks/legacy_refactor/refactored_handler.py",
+  "description": "Replace legacy `requests` logic with `httpx` async client",
+  "criteria": [
+    "Compiles cleanly with no syntax errors",
+    "Passes all existing tests",
+    "Uses httpx async client instead of requests",
+    "Implements proper async/await patterns",
+    "Maintains all existing functionality",
+    "Handles errors and retries correctly",
+    "Preserves API signatures where possible",
+    "Includes appropriate type hints"
+  ],
+  "reference_docs": [
+    "https://www.python-httpx.org/async/",
+    "https://docs.python.org/3/library/asyncio.html"
+  ],
+  "difficulty": "medium",
+  "expected_changes": [
+    "Replace requests.Session with httpx.AsyncClient",
+    "Convert methods to use async/await",
+    "Update error handling for httpx exceptions",
+    "Modify file upload logic to use httpx patterns"
+  ]
+}

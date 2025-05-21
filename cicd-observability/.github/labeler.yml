@@ -1,0 +1,52 @@
+# Add 'frontend' label to any changes in frontend directories
+frontend:
+  - src/ui/**/*
+  - src/components/**/*
+  - src/pages/**/*
+  - src/styles/**/*
+
+# Add 'backend' label to any changes in backend directories
+backend:
+  - src/api/**/*
+  - src/services/**/*
+  - src/models/**/*
+  - src/controllers/**/*
+
+# Add 'test' label to any changes to test files
+test:
+  - tests/**/*
+  - '**/*.test.js'
+  - '**/*.test.ts'
+  - '**/*.spec.js'
+  - '**/*.spec.ts'
+
+# Add 'documentation' label to changes to documentation files
+documentation:
+  - '**/*.md'
+  - docs/**/*
+
+# Add 'ci' label to any changes in CI/CD configuration
+ci:
+  - .github/workflows/**/*
+  - cicd-observability/**/*
+  - '**/*.yml'
+  - '**/*.yaml'
+
+# Add 'configuration' label to any changes to configuration files
+configuration:
+  - '**/*.json'
+  - '**/*.config.js'
+  - '**/*.config.ts'
+  - config/**/*
+
+# Add 'dependencies' label to changes to package files
+dependencies:
+  - package.json
+  - package-lock.json
+  - yarn.lock
+
+# Add 'security' label to changes to security-related files
+security:
+  - security/**/*
+  - '**/*security*/**/*'
+  - '**/*.security.*'

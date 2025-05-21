@@ -1,0 +1,206 @@
+00:00:00 - Laura L
+Hi, Tina.
+00:00:01 - Tina Marie (profitdriversinc.com)
+I'm sorry. I'm late. No problem. I wasn't sure because I changed the meeting and I didn't see if you accepted.
+00:00:08 - Laura L
+So I was like, well, we'll see if she comes or not. Yeah, I forget to accept it. And I just noticed, I think yesterday and we got to accept the invitation.
+00:00:19 - Tina Marie (profitdriversinc.com)
+Oh, good. Well, I mean, you know what I mean, but I'm glad it worked out.
+00:00:23 - Laura L
+Thank you.
+00:00:25 - Tina Marie (profitdriversinc.com)
+Yeah. How are you doing?
+00:00:28 - Laura L
+Doing well.
+00:00:29 - Tina Marie (profitdriversinc.com)
+How about yourself? Good. So try to think really there. don't think there was much of an assignment other than just to keep figuring out is like refining the theme and the template. Oh, actually, let me go look in trouble. No, we didn't have something.
+00:00:50 - Laura L
+Yeah, I think I changed it back. mean, for the WordPress. Yeah, I'm sorry.
+00:01:00 - Tina Marie (profitdriversinc.com)
+Oh my god, I didn't know what to have. Animation.
+00:01:03 - Laura L
+Yeah, animation. I changed it back.
+00:01:07 - Tina Marie (profitdriversinc.com)
+Yeah, it looks good. It looks different than the first time, though. It's like, I think there was a different color in there before, also, or something.
+00:01:18 - Laura L
+Yeah, I think I have to maybe the width. I make it, like, where is that?
+00:01:26 - Tina Marie (profitdriversinc.com)
+I like it, though. I like it, and it doesn't seem like it looks quite as much as James, which is what the point was.
+00:01:32 - Laura L
+Yeah, and on mobile, also, it doesn't look so wider.
+00:01:40 - Tina Marie (profitdriversinc.com)
+Oh, good. Yeah, he has three colors in his. So, too, let me look at it on mobile.
+00:01:53 - Laura L
+You could actually put another color if you want, like, the orange, or. I mean the yellow one, or the Bruffet Triber's color, brand color.
+00:02:07 - Tina Marie (profitdriversinc.com)
+Yeah, um, hold on a second, I'm trying to get to this shot. I want to see it on mobile and my brain can't do. Ooh, that does look cool. That looks a lot better on mobile. Well, I mean, it almost looks like an ocean. Like ocean waves. Yeah, um, which now makes me want to see about it being two blues instead. Oh, we'll figure out the colors later. I just know we can do that. It's good. Okay, let me go. hold on. Can't, where's the workspaces? that's weird it says Laura and Tina but it also says Cindy and Laura oh yeah it's really what happened to me yeah I'm gonna sort this out I'm not sure what's happening it's maybe because if I'm on free workspace but I could yeah look at it and change like went to the wrong way yeah I just want to make sure like if you have another project that you're working on that your your stuff is I know it's even a lot you chose a domain oh okay so one thing I did do was change the name servers from profit drivers oh I might need you for this but hold on um profit drivers IO to what it needs to be for postidium, but I was having an issue with the subdomain, so hang on, let me log into the last pass.
+00:04:15 - Laura L
+So you could actually just add domain in the tnomerii.io, so we could have the domain for profit drivers, and would be needing to import the files?
+00:04:32 - Tina Marie (profitdriversinc.com)
+No, I don't want to use tnomerii for any of this. Okay, I don't really know that I want to do any kind of brand, any kind of work around my name yet, but I do want to do it around the brand name, so it'll be profit drivers. So, let's see. So the issue is, we have member dot, members dot, profit drivers. I was getting a sight can't be reached and let me just change, so we can be on the same thing, okay. So I don't remember how I set up this subdomain.
+00:05:46 - Laura L
+I think need to go to domain tab and then add domain or configure at the bottom.
+00:05:56 - Tina Marie (profitdriversinc.com)
+Oh yeah, okay, configure just. Okay, let's just remove it. And then we'll create a new one. The other thing that I need to do is it's the SSL wasn't working redirects to members. Okay. All right. add domain members. It's being provisioned. so I don't know how long it'll take. Mm hmm. Um. Yeah, I saw. don't know. Let's see. shouldn't need to do that. So these are pointed at. Presidium, but names that I could see didn't allow me to create the subdomain there. I'll log in there in case, because I was the one who did it. So I figured it out at one point, but my brain was like, no, every time, man.
+00:07:20 - Laura L
+I think it is also annoying because when I can't see that you already disabled the two F8, but it still won't allow me to log in without the OTP.
+00:07:39 - Tina Marie (profitdriversinc.com)
+Yeah. Do you know? Go. Let's see. I just changed his password. See when it was added. I don't know. Oh, okay, copy. Yep, that was the problem I had last time. So this is so annoying. Let's see. I can't see when it was last updated. I don't want to deal with resetting it again. It's really been annoying. Um, mm, Let's do learn dot. I'll put drivers dot IO. See, we can do that. And to your domain name. I'll put drivers dot. Wait, I need to do that. Okay. This up domain, right? I don't want to add additional options, okay, so those should already be there. Let's get it right to turn on the website, enable htts, yes, force redirect to htts, it's encrypt, okay, oop, all right, mh, I don't know if that's new. No CBN. No redirects come bigger. And then we'll see the end. And then we'll see the end. See if we've got to know. Yeah, that's because it's the, um, what do you call it? I can't get this stinking zoom window to move. But anyway, um, um, See, it says SSL is force reader. correct? So I don't know. Maybe you can reach out to their support because that's how I got SSL fixed last time. And if we can't figure out how, I really would like it to be, I don't know, don't know. anyway, use their support if you can to make sure that we figure out how to set up the name servers with namecheap. So, because I tried to figure it out, set up some
+00:12:00 - Laura L
+I think it wouldn't ask you to add like a name and C name for a subtle name. Yeah.
+00:12:12 - Tina Marie (profitdriversinc.com)
+Oh, yeah. That might make sense. It used to be. You just do it in C panel. Look at this. You can even find that. Yeah. Any point of something that used to be created inside. As far as I'm put into the names first. About. New record, I think you're right. Parking dot name sheet and then. But it's. You have to point them. What you're saying to me. Well, that goes. Okay. English record. No. A record. Enter host. Oh, that's where you put it. Yeah. then how do I point it? Or will it just go to where the main domain is? Okay. Okay. Oh, because it already knows that that's the domain. Oh, right. Well, that makes sense because at NWWW, okay. The last time I created this domain, it was just like a CPanel thing or something else where you just, it was basically software done and not new. I mean, a few years ago, nobody touched these records except for certain types of hosting analysis. Yeah. Yeah. Yeah. Yeah. like everybody's got to have MX records and DKIM and everything else like yeah the controls have changed so much yeah all right let me I know my user name user names from my 1996 reset password um mmm cheap reset okay that's just generator copy boy boy change password okay and you didn't try to save it for me okay account I'm going to get to my authenticator. Let me see. Right. Okay. Um, um, um, don't me. Driver style image. That's DNS. Okay. I knew record a record. Um, dot. Uh, oh, wait. Okay. Not dot. So we need that. Automatic. And. record. I clicked too fast, um, one, type name, um, that's all I want to know. Okay.
+00:16:15 - Laura L
+Um, sometimes the propagate is really fast, so we'll see, well, yeah, what it meant me the C name record only the A record, no more C name. Um, what, and I mean, the C name or just only the A record, that's what we did.
+00:16:40 - Tina Marie (profitdriversinc.com)
+I'm still confused.
+00:16:41 - Laura L
+Try again. The, uh, usually it would have a, a record and then C name like, uh, so I need to add a C name, is that what you're telling me? Yeah, I'm just trying to confirm if, if that would be needed.
+00:16:56 - Tina Marie (profitdriversinc.com)
+Oh, well, let's see, let's see, um, I don't know if it's. provisioned. Hey, that should be, oh, it redirected to profitdrivers.io. So, that shouldn't have happened though, because I don't have a redirect unless, yeah, not connected. You can figure any more issues for me to do that also. I don't know what that means. So, was there? Hey, record. I'll just go ahead and keep, we'll just play the rest of it. like one minute. Just a record blog, actually I think how is that, a name, see name, and URL records. Do you think it would hurt to create the CNAME record, like get in a way, like cause it to not work?
+00:18:44 - Laura L
+Yeah, I just thought maybe we could have to, but I think it won't mess up if there's anything there going on.
+00:18:53 - Tina Marie (profitdriversinc.com)
+Everything that I've looked up for CNAME servers has just been a record and a record at. host a record ww host, but there were no synoms records at all. So for the sub domain, I don't know though, but the sub domain has to be different anyways, so because the host is the sub domain. I don't know.
+00:19:19 - Laura L
+Maybe you can figure out that later and let's just have to, I mean, maybe need to research.
+00:19:27 - Tina Marie (profitdriversinc.com)
+Yeah. Well, if you figured out and let me know, then I can do that. But name chief with a 2FA, I'll have to be the one to log into it anyway. So yeah, and it just takes a minute. So I can do that. But what I would like is to make sure that, oh, look, yeah, it's now connected. Oh, maybe it's not yet propagated when we did that. I'm going to try a Cockney and Cockney window, which is not being shared. Oops, that's not right. Mine's not perfect. It's still redirecting. Let me proceed. I don't know why it's redirecting, though, so that allowed rid of it. No, so this isn't set up to redirect, so I feel like either it's because it hasn't finished being provisioned. And so by default, it's redirecting, or we don't have the name server set, right? We have to have another record, maybe the C name record or the alias or something. No, it wouldn't be alias. Yeah, I don't know. I don't get any warnings on proper drivers, right? It should be okay. Yeah, so I just want to make sure that the SSL is configured properly. So if you could make a note to check that, okay, and then make sure that these are working and then you could install WordPress on this and this is where we would install Thinkific.
+00:21:32 - Laura L
+Okay. funnel?
+00:21:40 - Tina Marie (profitdriversinc.com)
+No, um, Thinkific will be where we put the membership site is on learn.profitrivers.io. Uh, the sales page for funnel kit will be on proper drivers.io. Okay, gotcha. So the subdomain is only for member access and core stuff. and the sale step is on the home page and I think that's really it for right now. It's not a lot. It won't be a lot. I'm trying to. It's the end of the summer so there's so many things going on before the girls start school.
+00:22:23 - Laura L
+I see.
+00:22:25 - Tina Marie (profitdriversinc.com)
+Yeah, so they don't start school for until the first week of September so we've got trips and activities and things planned and then I so I'm just working on my the course I've got an 82 page outline so it's it's there it's starting but I just have to sit down and get some some sort of finished level product and that I can't put a due date on I'm I keep trying but it's It's really hard because I prioritized girls and also the mission work that I'm doing, so. But yeah, anyway, but if we can get a simple site going and I know that there's a framework, then when Thinkific is there, I'll have a place to start putting some content and it's just kind of the way that my brain works. It's almost like, oh, there's a home, I can start filling it up, you know? Yeah, and that's what I'm looking forward to. That's what I've been telling myself, so we're going to see if it just lies to make myself a better, but I don't think so.
+00:23:44 - Laura L
+Yeah, I think if we can configure the domain, I could also start my group like import the funnel in there. Yeah, and press and then also for Thinkific, I was thinking if maybe worthy.
+00:24:00 - Tina Marie (profitdriversinc.com)
+Tp issue if we can I mean for your email, maybe we could set up like a forward or for That like forward the OTP to my email if that would be okay So I want bothering bothering you if I would ask well It would be only so I checked into that and the only way I could do it is to forward all my email So okay, so there's no specific just only for the thing can be OTP right now Okay But when we get to the point of being able to sell it then I'll upgrade it to the higher level So we can have more access Yeah, but really it's not that big of a deal. I just need to be able to see the notifications and So like if you know you're gonna be online in like 15 minutes or in an hour or a few hours say Hey, will you be on at this time because I'm gonna need the password instead of because it's just been kind of hit or miss I'm around most of the time and if you send it through Slack and Upwork, sometimes I might miss one or they don't come through. Slack sometimes just doesn't come through. You have to do at Tina or I won't get notified. Yeah. if you send it through Upwork, because I get nothing through Upwork, otherwise, for the most part, it really stands out. But I need a little bit of time because sometimes I'm cleaning or doing one or like no longer than half an hour really. So if you know that you're going to work on that to say, hey, I'll be working in about half an hour and they just send a request. Okay. I'll do that. Okay. Because I don't check email very often. So the only time I even know that there's a request is if I saw it in my email unless you message first.
+00:25:51 - Laura L
+Okay. Yeah. Okay.
+00:25:53 - Tina Marie (profitdriversinc.com)
+Is there anything you want to do in that now?
+00:25:56 - Laura L
+you want me to do you need to code down? Yeah, I can do that now. Also, if one. Okay, let me like in 4D. Thank you. Oh, nice profit. Okay, but TP has been sent.
+00:26:28 - Tina Marie (profitdriversinc.com)
+Okay. It's 579501.
+00:26:42 - Laura L
+All right, I'm in.
+00:26:45 - Tina Marie (profitdriversinc.com)
+Great. Okay. Um, well, we're just trying to close up. Oh, no, here it is.
+00:26:57 - Laura L
+I hope think you think we'd also have like the option. to remember the browser for 30 days.
+00:27:04 - Tina Marie (profitdriversinc.com)
+Yeah. Um. Does it only think that does that? It's not your browser settings clearing cache.
+00:27:18 - Laura L
+Yeah. Really weird because you already disable the to F.A.
+00:27:27 - Tina Marie (profitdriversinc.com)
+But still working. Yeah, that's what's so weird about it. It's doing that to me too. So. Let me see.
+00:28:16 - Laura L
+I think I saw it in account and then profile. Oh, they are multi-factor authentication.
+00:28:40 - Tina Marie (profitdriversinc.com)
+Deactivated. These are roles. Just one thing. Oh, Okay. Okay. Thanks for watching! Okay, that's not working, so if you can save recovery codes, maybe if I turn it on and give you the recovery codes. What do you think? Yeah, okay. We can do that. In terms of like anything else that you want to work on, what do you think? What is it? Is there anything that you need for me in my brain as well?
+00:30:48 - Laura L
+Do you want me to like to research more like of the layout of the page, then I can just import or create or maybe import another one that we can choose from?
+00:31:01 - Tina Marie (profitdriversinc.com)
+I think that one looks really good.
+00:31:04 - Laura L
+Are you like it?
+00:31:05 - Tina Marie (profitdriversinc.com)
+Oh, yeah. lot. much. Go back here. Yeah. I mean, we may not need all of the functions. Let's see. So one thing. That I wanted to see that I think I don't see is a price menu, like where there's options between three prices. I don't know that I would have options between three prices. It may just be two, but I would like to be able to see that.
+00:31:50 - Laura L
+You know what I'm talking about? Yeah. the three columns. Uh-huh.
+00:31:57 - Tina Marie (profitdriversinc.com)
+Yeah. Yeah. Yeah, and this, okay, and that's the background, yes, this is for a single page. And then I like the way there. don't want to use it too much. And here, but it probably go away from most other places. We don't need to add every section. But what we do want, we do want some movement and every section. like that has movement that doesn't need to be there. That's the biggest thing. But the parallax also helps with that.
+00:33:09 - Laura L
+Maybe for the white white background.
+00:33:15 - Tina Marie (profitdriversinc.com)
+I like it at the top because it immediately grabs attention and that's what needs to happen when a person first lands on a website is you need to grab their attention and everything that you can do to grab their attention is important. So I do want to have it at the top.
+00:33:41 - Laura L
+Maybe we can just alternate the wave movement from the white thing or background column.
+00:33:49 - Tina Marie (profitdriversinc.com)
+Well like here this just is a problem.
+00:33:51 - Laura L
+Yeah it's an awful one. Maybe what I tried address that I didn't say.
+00:34:03 - Tina Marie (profitdriversinc.com)
+That's a good place to you, because it's above the testimonials, but they can also pop. don't know if that has animation options, so yeah, but it's a really good. It covers everything that I would want it to do. I don't need that. Stuff questions, you've got answers. So like a features block, like comparing packages, that kind of thing or prices, well, really both of them. So anything that you can find that helps, that maybe just really highlights the
+00:35:00 - Laura L
+the features of a particular offer.
+00:35:02 - Tina Marie (profitdriversinc.com)
+Okay, so you can compare like this is but most of it will probably be in a in one of those price three column prices because they go here's what you get with this and here's the price right? And then yeah so I think that that's really all that's missing.
+00:35:22 - Laura L
+Yeah the picture thing.
+00:35:25 - Tina Marie (profitdriversinc.com)
+And then we need a good checkout page. That's good. Yeah that's good.
+00:35:37 - Laura L
+Like it's not too busy, they would easily see how what they will be getting from the purchase.
+00:35:45 - Tina Marie (profitdriversinc.com)
+Yeah and actually split testing for the most part has shown that the more stuff that's on the page the the less conversions there are. really just want to get that through it.
+00:35:56 - Laura L
+Yeah it's too overwhelming right?
+00:35:59 - Tina Marie (profitdriversinc.com)
+you go to itch. I got in. There's so many things going on. Yep. Yep. Especially on mobile, like, you don't want them to have to scroll too far. You don't want them to read something to take them away from it. Just very clearly support what they already know and let them check out.
+00:36:18 - Laura L
+Yeah. They might think for a second and then would leave the cart.
+00:36:23 - Tina Marie (profitdriversinc.com)
+Yeah. Exactly. Um, and I do want to get Google Analytics going on it.
+00:36:32 - Laura L
+Yeah.
+00:36:40 - Tina Marie (profitdriversinc.com)
+It didn't say. Okay, so. We've got to have. A different. that's the primary domain. It's not giving an error saying it's not pointing at the right thing, which it was doing before. Total number of veins three. I wonder if it has to be set up all by itself. So here, here, new website completely. Oh yeah, because I think it does. So let's do this. I don't know. I think you just asked our support and we'll find out. Yeah, whatever they need to do. So if that's what they say, then we need to figure out what the what the host records are that we need to put in there, the DNS records, and then if it needs to be We created it as a whole new website here. Then we can do that. This is out of a four. We get rid of this one, because I don't use it for anything. How are you? I don't know about the actual unique visits. Yeah, there's nothing that can be deleted, so. What do you call it? Why do not? I said, manage website. All right, well, ignore it unless you have to do something. Okay, so think if it you're logged in, I will go and get the codes. But if it doesn't work for anything, just if you have, if you can have a little bit of time to let me know, I will watch for it. It just has to be send the message first so that I'm like, okay, I'm ready when you're ready.
+00:39:00 - Laura L
+Okay, sure.
+00:39:00 - Tina Marie (profitdriversinc.com)
+I'll do that. Okay. All right. Are there other questions?
+00:39:05 - Laura L
+I think I'm all good. And, um, for the analytics, maybe we could figure that out when we already configured the domain, right?
+00:39:14 - Tina Marie (profitdriversinc.com)
+Mm hmm. Did I invite you to my analytics account?
+00:39:19 - Laura L
+Oh, not yet.
+00:39:21 - Tina Marie (profitdriversinc.com)
+Huh?
+00:39:23 - Laura L
+I think not yet.
+00:39:25 - Tina Marie (profitdriversinc.com)
+Okay. Um, I don't know if I need to create a new one or.
+00:39:40 - Laura L
+Yeah, for the profit tripers.
+00:39:42 - Tina Marie (profitdriversinc.com)
+want to create a property or an account. I want a property, right? It's not industrial, okay. Web stream. Oh, okay. You I don't want to do all this. I want to be able to add you so that you can do this. let me go back. I don't want to go home and then you can't access management. Oh yeah, I did add you.
+00:41:18 - Laura L
+Yeah, I think that's for the profit drivers.
+00:41:21 - Tina Marie (profitdriversinc.com)
+Um, this is for it should give you access to everything.
+00:41:28 - Laura L
+Property access. I'm invited in the account level.
+00:41:33 - Tina Marie (profitdriversinc.com)
+Yeah, I've been a straight up.
+00:41:35 - Laura L
+Okay.
+00:41:43 - Tina Marie (profitdriversinc.com)
+So maybe you take a peek at that and see if it works for you.
+00:41:46 - Laura L
+Yeah.
+00:41:57 - Tina Marie (profitdriversinc.com)
+Yeah, because this is under all accounts.
+00:42:44 - Laura L
+Yeah, I'm in, I can also access profit drivers I own.
+00:42:52 - Tina Marie (profitdriversinc.com)
+Okay, good. So you should be able to even create properties though. With the access level. Yep. Okay so that's good and then yeah because those are my main goals is to be able to have a good theme and template for sales pages and checkouts and then a good theme and system membership stuff which we have and chose the domain and then get analytics on everything so that we can see what's happening and I want the goal always to be measuring engagement not conversions because Google games the system and they if they know you're measuring for conversion they'll just keep making it more and more expensive yeah is there anything for conversion yeah I've been one of my clients just has been doing this for so long and he's like if I change what the goal is If the goal is not a sale, then his costs drop and it's crazy. But once they know it's the goal, then it's like, oh, well, we're going to change this and you're going to have to work harder and, yeah, so I want the goal to be engagement or specific types of things, but we won't call it sales, even though technically that's what it'll be. We'll just find a different way around it. Yeah, the first step is just getting it on there and checking out what happens, okay, any other questions? I'm good so far, oh, good, yeah, okay, well, same time next week.
+00:44:44 - Laura L
+All right, yeah, we'll see you next week.
+00:44:47 - Tina Marie (profitdriversinc.com)
+Okay, and of course, if you have any questions in the meantime, I'm around.
+00:44:51 - Laura L
+Okay, thank you very much, Tina.
+00:44:54 - Tina Marie (profitdriversinc.com)
+You're welcome.
+00:44:54 - Laura L
+I'll talk to you soon. All right, have a great day.
+00:44:58 - Tina Marie (profitdriversinc.com)
+Good night.
+00:44:59 - Laura L
+Thank you.

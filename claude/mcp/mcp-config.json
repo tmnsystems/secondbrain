@@ -1,0 +1,12 @@
+{
+  "mcp": {
+    "browser": {
+      "server_url": "http://localhost:5030",
+      "description": "MCP Browser Use Agent"
+    },
+    "applescript": {
+      "server_url": "http://localhost:5040",
+      "description": "AppleScript Local Agent"
+    }
+  }
+}
